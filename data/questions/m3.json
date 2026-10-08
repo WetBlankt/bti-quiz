@@ -1,0 +1,1704 @@
+{
+ "module": "m3",
+ "questions": [
+  {
+   "id": "m3-t1-q001",
+   "topic": "m3-t1",
+   "difficulty": "easy",
+   "type": "tf",
+   "question": "The session says India occupied a strategic location between East and West.",
+   "explanation": "True. Ancient India sat between East and West, which made it a major trading civilization.",
+   "answer": true
+  },
+  {
+   "id": "m3-t1-q002",
+   "topic": "m3-t1",
+   "difficulty": "medium",
+   "type": "multi",
+   "question": "Which strengths of ancient India does the session list? (Select all that apply)",
+   "explanation": "The list includes strategic location, a long coastline, fertile land, mineral resources, skilled artisans, shipbuilding, market towns and maritime knowledge. India lacked major gold deposits.",
+   "options": [
+    "Skilled artisans and craftsmen",
+    "Large gold deposits",
+    "Strong maritime knowledge",
+    "A state monopoly on all mines",
+    "Organised market towns",
+    "Advanced shipbuilding"
+   ],
+   "answer": [
+    0,
+    2,
+    4,
+    5
+   ]
+  },
+  {
+   "id": "m3-t1-q003",
+   "topic": "m3-t1",
+   "difficulty": "easy",
+   "type": "mcq",
+   "question": "Which set names regions connected to India by land and maritime trade?",
+   "explanation": "The session lists Mesopotamia, Egypt, Persia, Rome, Southeast Asia and China.",
+   "options": [
+    "Mesopotamia, Peru, Mexico, Japan, Brazil and Canada",
+    "Egypt, Greenland, Iceland, Japan, Peru and Chile",
+    "Mesopotamia, Egypt, Persia, Rome, Southeast Asia and China",
+    "Rome, Australia, Canada, Brazil, Mexico and Norway"
+   ],
+   "answer": 2
+  },
+  {
+   "id": "m3-t1-q004",
+   "topic": "m3-t1",
+   "difficulty": "medium",
+   "type": "mcq",
+   "question": "Which of these is listed among the key features of ancient India's trade?",
+   "explanation": "Key features included flourishing ports, road networks, merchant guilds and monsoon wind navigation.",
+   "options": [
+    "Monsoon wind navigation",
+    "A single imperial customs union with Rome",
+    "State-owned fleets carrying all private cargo",
+    "Fixed prices set by foreign governments"
+   ],
+   "answer": 0
+  },
+  {
+   "id": "m3-t1-q005",
+   "topic": "m3-t1",
+   "difficulty": "medium",
+   "type": "not",
+   "question": "Which of these is NOT listed as a strength of ancient India?",
+   "explanation": "Strengths listed include rich mineral resources, skilled artisans and advanced shipbuilding. The session says India lacked major gold deposits.",
+   "options": [
+    "Skilled artisans and craftsmen",
+    "Rich mineral resources",
+    "Advanced shipbuilding",
+    "Large gold deposits"
+   ],
+   "answer": 3
+  },
+  {
+   "id": "m3-t1-q006",
+   "topic": "m3-t1",
+   "difficulty": "easy",
+   "type": "fill",
+   "question": "Ancient India's strategic location lay between East and ______.",
+   "explanation": "The session stresses India's position between East and West.",
+   "accept": [
+    "West"
+   ]
+  },
+  {
+   "id": "m3-t1-q007",
+   "topic": "m3-t1",
+   "difficulty": "hard",
+   "type": "scenario",
+   "question": "A region has fertile land, skilled weavers, sheltered ports, sailors who know the monsoon winds and active merchant guilds. Which conclusion fits the session?",
+   "explanation": "The session presents these strengths together as the basis of India's role as a major trading civilization.",
+   "options": [
+    "It will trade only locally, because skills and ports alone are not enough",
+    "It has the combination of strengths that made ancient India a major trading civilization",
+    "It must first import all of its textiles from Rome before it can trade",
+    "It can trade only if it also has large gold deposits of its own"
+   ],
+   "answer": 1
+  },
+  {
+   "id": "m3-t1-q008",
+   "topic": "m3-t1",
+   "difficulty": "hard",
+   "type": "ar",
+   "question": "Assertion (A): Merchant guilds and road networks were key features of India's ancient trade.\nReason (R): Trade connected India with Mesopotamia, Egypt, Persia, Rome, Southeast Asia and China.",
+   "explanation": "Both statements are true, but the second does not explain why guilds and roads were key features.",
+   "options": [
+    "Both A and R are true, and R explains A",
+    "Both A and R are true, but R does not explain A",
+    "A is true but R is false",
+    "A is false but R is true"
+   ],
+   "answer": 1
+  },
+  {
+   "id": "m3-t2-q009",
+   "topic": "m3-t2",
+   "difficulty": "easy",
+   "type": "fill",
+   "question": "Trade and crafts grew from surplus agriculture after the rise of urban centres in the ______ Valley Civilization.",
+   "explanation": "The session links surplus agriculture and urban centres of the Indus Valley Civilization (2600-1900 BCE) to trade and crafts.",
+   "accept": [
+    "Indus"
+   ]
+  },
+  {
+   "id": "m3-t2-q010",
+   "topic": "m3-t2",
+   "difficulty": "medium",
+   "type": "mcq",
+   "question": "What is cited as evidence that the Harappans were accomplished seafarers?",
+   "explanation": "The session notes boats depicted on seals, tablets or amulets.",
+   "options": [
+    "Roman coins buried at Harappan ports",
+    "Boats depicted on seals, tablets or amulets",
+    "Chinese silk found at Lothal",
+    "Greek ships named in Harappan hymns"
+   ],
+   "answer": 1
+  },
+  {
+   "id": "m3-t2-q011",
+   "topic": "m3-t2",
+   "difficulty": "medium",
+   "type": "mcq",
+   "question": "Panini's Uttarapatha, the Oxus-Ganges road, was connected with the road network of which empire?",
+   "explanation": "Panini refers to the Uttarapatha connected with the Achaemenid road network.",
+   "options": [
+    "The Roman empire",
+    "The Han empire",
+    "The Kushana empire",
+    "The Achaemenid empire"
+   ],
+   "answer": 3
+  },
+  {
+   "id": "m3-t2-q012",
+   "topic": "m3-t2",
+   "difficulty": "medium",
+   "type": "mcq",
+   "question": "Early commerce between India and Babylon was largely carried by way of the:",
+   "explanation": "The session says early India-Babylon commerce was largely via the Persian Gulf.",
+   "options": [
+    "Persian Gulf",
+    "Red Sea",
+    "Bay of Bengal",
+    "Caspian Sea"
+   ],
+   "answer": 0
+  },
+  {
+   "id": "m3-t2-q013",
+   "topic": "m3-t2",
+   "difficulty": "medium",
+   "type": "mcq",
+   "question": "Who attests the use of the sea route in the 5th century BC, according to the session?",
+   "explanation": "The use of the sea route is attested by Herodotus (5th century BC).",
+   "options": [
+    "Megasthenes",
+    "Xuanzang",
+    "Herodotus",
+    "Arrian"
+   ],
+   "answer": 2
+  },
+  {
+   "id": "m3-t2-q014",
+   "topic": "m3-t2",
+   "difficulty": "easy",
+   "type": "mcq",
+   "question": "In the Baberu Jataka, Indian merchants took which bird by sea to Babylon?",
+   "explanation": "The Baberu Jataka speaks of merchants taking a peacock by sea to Babylon.",
+   "options": [
+    "The parrot",
+    "The swan",
+    "The peacock",
+    "The eagle"
+   ],
+   "answer": 2
+  },
+  {
+   "id": "m3-t2-q015",
+   "topic": "m3-t2",
+   "difficulty": "medium",
+   "type": "concept",
+   "question": "The Baberu Jataka, which tells of Indian merchants at Babylon, belongs to which period?",
+   "explanation": "The session places the Baberu Jataka in the Achaemenid period.",
+   "options": [
+    "The Achaemenid period",
+    "The Gupta period",
+    "The Chola period",
+    "The Mauryan period"
+   ],
+   "answer": 0
+  },
+  {
+   "id": "m3-t2-q016",
+   "topic": "m3-t2",
+   "difficulty": "easy",
+   "type": "tf",
+   "question": "Alexander intended to explore the south Arabian coast to connect India with China.",
+   "explanation": "False. According to the session, Alexander intended to explore the south Arabian coast to connect India with Egypt.",
+   "answer": false
+  },
+  {
+   "id": "m3-t2-q017",
+   "topic": "m3-t2",
+   "difficulty": "medium",
+   "type": "not",
+   "question": "Which statement is NOT supported by the session's account of early trade?",
+   "explanation": "The session says Alexander intended to explore the south Arabian coast; it does not say he completed the link.",
+   "options": [
+    "Harappans were seafarers",
+    "The Uttarapatha joined the Achaemenid network",
+    "Herodotus attests the sea route",
+    "Alexander completed a sea link between India and Egypt"
+   ],
+   "answer": 3
+  },
+  {
+   "id": "m3-t2-q018",
+   "topic": "m3-t2",
+   "difficulty": "hard",
+   "type": "compare",
+   "question": "How does the session's evidence for the land link differ from the evidence for the sea link?",
+   "explanation": "The land link is evidenced by Panini's Uttarapatha; the sea link by Herodotus and the Baberu Jataka.",
+   "options": [
+    "Land: Herodotus; sea: Panini and the Achaemenid roads",
+    "Land: Panini's Uttarapatha joined the Achaemenid roads; sea: Herodotus and the Baberu Jataka",
+    "Both rest only on boats shown on Harappan seals",
+    "Land: the Baberu Jataka; sea: Alexander's conquest of Egypt"
+   ],
+   "answer": 1
+  },
+  {
+   "id": "m3-t2-q019",
+   "topic": "m3-t2",
+   "difficulty": "hard",
+   "type": "ar",
+   "question": "Assertion (A): The urban centres of the Indus Valley Civilization promoted trade and crafts.\nReason (R): Surplus agricultural production supported urban centres and craft specialisation.",
+   "explanation": "Both are true and the second explains the first.",
+   "options": [
+    "Both A and R are true, and R explains A",
+    "Both A and R are true, but R does not explain A",
+    "A is true but R is false",
+    "A is false but R is true"
+   ],
+   "answer": 0
+  },
+  {
+   "id": "m3-t3-q020",
+   "topic": "m3-t3",
+   "difficulty": "easy",
+   "type": "mcq",
+   "question": "What nickname does the session give India's export portfolio in antiquity?",
+   "explanation": "The slide is titled India's Export Portfolio, the Luxury Brand of Antiquity.",
+   "options": [
+    "The 'Bulk Supplier' of Antiquity",
+    "The 'Luxury Brand' of Antiquity",
+    "The 'Raw Material Quarry' of Antiquity",
+    "The 'Cheap Factory' of Antiquity"
+   ],
+   "answer": 1
+  },
+  {
+   "id": "m3-t3-q021",
+   "topic": "m3-t3",
+   "difficulty": "medium",
+   "type": "multi",
+   "question": "Which items does the session list under spices? (Select all that apply)",
+   "explanation": "The spices listed are pepper, cardamom, cinnamon and turmeric.",
+   "options": [
+    "Cinnamon",
+    "Sugar",
+    "Turmeric",
+    "Indigo",
+    "Pepper",
+    "Cardamom"
+   ],
+   "answer": [
+    0,
+    2,
+    4,
+    5
+   ]
+  },
+  {
+   "id": "m3-t3-q022",
+   "topic": "m3-t3",
+   "difficulty": "hard",
+   "type": "match",
+   "question": "According to the session, match each export category with the value claim given for it.",
+   "explanation": "These are the value claims on the session's export-portfolio slide.",
+   "pairs": [
+    [
+     "Spices",
+     "Valued weight-for-weight with silver"
+    ],
+    [
+     "Textiles",
+     "Egyptian mummies were wrapped in Indian cotton"
+    ],
+    [
+     "Gems",
+     "Golconda diamonds were the global benchmark"
+    ],
+    [
+     "Manufactured goods",
+     "Found in 3000 BCE Mesopotamian graves"
+    ],
+    [
+     "Luxury goods",
+     "Prestige material for thrones and ornaments"
+    ]
+   ]
+  },
+  {
+   "id": "m3-t3-q023",
+   "topic": "m3-t3",
+   "difficulty": "easy",
+   "type": "fill",
+   "question": "Muslin is described as '______ air' in the session.",
+   "explanation": "The session calls muslin 'woven air'.",
+   "accept": [
+    "woven"
+   ]
+  },
+  {
+   "id": "m3-t3-q024",
+   "topic": "m3-t3",
+   "difficulty": "medium",
+   "type": "mcq",
+   "question": "Manufactured goods such as steel, iron tools and conch shells were sent to:",
+   "explanation": "The destinations given for manufactured goods are Mesopotamia, Africa and Southeast Asia.",
+   "options": [
+    "Rome, Arabia and China",
+    "Persia, Rome and Central Asia",
+    "Egypt, Sri Lanka and Japan",
+    "Mesopotamia, Africa and Southeast Asia"
+   ],
+   "answer": 3
+  },
+  {
+   "id": "m3-t3-q025",
+   "topic": "m3-t3",
+   "difficulty": "easy",
+   "type": "tf",
+   "question": "The session says India introduced sugar-making techniques.",
+   "explanation": "True. The export table notes that India introduced sugar-making techniques.",
+   "answer": true
+  },
+  {
+   "id": "m3-t3-q026",
+   "topic": "m3-t3",
+   "difficulty": "medium",
+   "type": "mcq",
+   "question": "For what purpose was indigo exported, according to the export table?",
+   "explanation": "Indigo is listed as a dye used for textile colouring.",
+   "options": [
+    "As a dye for colouring textiles",
+    "As a fuel for ship lamps",
+    "As a perfume for rituals",
+    "As a metal for coinage"
+   ],
+   "answer": 0
+  },
+  {
+   "id": "m3-t3-q027",
+   "topic": "m3-t3",
+   "difficulty": "medium",
+   "type": "not",
+   "question": "Which of these is NOT listed among India's luxury-goods exports?",
+   "explanation": "Luxury goods listed are sandalwood, indigo dye, perfumes and incense. Wine is an import from Rome.",
+   "options": [
+    "Sandalwood",
+    "Perfumes",
+    "Wine",
+    "Incense"
+   ],
+   "answer": 2
+  },
+  {
+   "id": "m3-t3-q028",
+   "topic": "m3-t3",
+   "difficulty": "hard",
+   "type": "scenario",
+   "question": "A Roman buyer wants fragrant, prestigious materials for thrones and ornaments. Which Indian export category does the session point to?",
+   "explanation": "Luxury goods are described as prestige material for thrones and ornaments.",
+   "options": [
+    "Manufactured goods such as steel, iron tools and conch shells",
+    "Gems such as diamonds, rubies, sapphires and pearls",
+    "Luxury goods such as sandalwood, indigo, perfumes and incense",
+    "Textiles such as plain cotton, muslin and silk cloth"
+   ],
+   "answer": 2
+  },
+  {
+   "id": "m3-t3-q029",
+   "topic": "m3-t3",
+   "difficulty": "hard",
+   "type": "compare",
+   "question": "How do the value claims for spices and for gems differ in the session?",
+   "explanation": "Spices: weight-for-weight with silver. Gems: Golconda diamonds as the global benchmark.",
+   "options": [
+    "Spices were valued weight-for-weight with silver; Golconda diamonds were the global benchmark",
+    "Spices were the global benchmark; gems were valued with silver",
+    "Both were valued only inside India",
+    "Spices were found in Mesopotamian graves; gems were wrapped in cotton"
+   ],
+   "answer": 0
+  },
+  {
+   "id": "m3-t3-q030",
+   "topic": "m3-t3",
+   "difficulty": "hard",
+   "type": "ar",
+   "question": "Assertion (A): The session calls India's export portfolio the luxury brand of antiquity.\nReason (R): Its main exports were bulky, low-value raw timber and stone.",
+   "explanation": "A is true. R is false: the portfolio was made of spices, textiles, gems, manufactured and luxury goods.",
+   "options": [
+    "Both A and R are true, and R explains A",
+    "Both A and R are true, but R does not explain A",
+    "A is true but R is false",
+    "A is false but R is true"
+   ],
+   "answer": 2
+  },
+  {
+   "id": "m3-t3-q031",
+   "topic": "m3-t3",
+   "difficulty": "hard",
+   "type": "tf",
+   "question": "According to the session, Egyptian mummies were wrapped in Indian silk.",
+   "explanation": "False. The session says Egyptian mummies were wrapped in Indian cotton.",
+   "answer": false
+  },
+  {
+   "id": "m3-t4-q032",
+   "topic": "m3-t4",
+   "difficulty": "medium",
+   "type": "multi",
+   "question": "Why were spices so valuable, according to the session? (Select all that apply)",
+   "explanation": "The session gives food preservation, medicinal use, ritual use, status symbol and currency substitute.",
+   "options": [
+    "They were used only as animal feed",
+    "Medicinal use",
+    "They were too cheap to trade",
+    "Ritual and religious use",
+    "Status symbol for the wealthy",
+    "Food preservation before refrigeration"
+   ],
+   "answer": [
+    1,
+    3,
+    4,
+    5
+   ]
+  },
+  {
+   "id": "m3-t4-q033",
+   "topic": "m3-t4",
+   "difficulty": "medium",
+   "type": "mcq",
+   "question": "In the spice route diagram, which region is the stage of production?",
+   "explanation": "The chain starts with Kerala and the Malabar Coast as the production stage.",
+   "options": [
+    "Alexandria / Constantinople",
+    "Rome / Venice",
+    "Arabia / Hormuz",
+    "Kerala / Malabar Coast"
+   ],
+   "answer": 3
+  },
+  {
+   "id": "m3-t4-q034",
+   "topic": "m3-t4",
+   "difficulty": "medium",
+   "type": "mcq",
+   "question": "In the spice route diagram, which stage acts as the middleman hub?",
+   "explanation": "Arabia and Hormuz are the middleman hub between the Indian ports and Europe's gateway.",
+   "options": [
+    "Calicut / Quilon",
+    "Arabia / Hormuz",
+    "Rome / Venice",
+    "Kerala / Malabar Coast"
+   ],
+   "answer": 1
+  },
+  {
+   "id": "m3-t4-q035",
+   "topic": "m3-t4",
+   "difficulty": "hard",
+   "type": "match",
+   "question": "Match each stage of the spice route diagram with its role.",
+   "explanation": "The diagram runs from production through ports and middlemen to the end consumer.",
+   "pairs": [
+    [
+     "Kerala / Malabar Coast",
+     "Production"
+    ],
+    [
+     "Calicut / Quilon",
+     "Port of export"
+    ],
+    [
+     "Arabia / Hormuz",
+     "Middleman hub"
+    ],
+    [
+     "Alexandria / Constantinople",
+     "Gateway to Europe"
+    ],
+    [
+     "Rome / Venice",
+     "End consumer"
+    ]
+   ]
+  },
+  {
+   "id": "m3-t4-q036",
+   "topic": "m3-t4",
+   "difficulty": "easy",
+   "type": "tf",
+   "question": "According to the session, pepper served as a currency substitute: it paid Roman soldiers.",
+   "explanation": "True as the session states it, listing pepper as a currency substitute.",
+   "answer": true
+  },
+  {
+   "id": "m3-t4-q037",
+   "topic": "m3-t4",
+   "difficulty": "medium",
+   "type": "mcq",
+   "question": "According to the session, Vasco da Gama's 1498 voyage was driven by the desire to:",
+   "explanation": "The session calls it the original supply chain disruption: avoiding the Arab middlemen.",
+   "options": [
+    "Convert Indian merchants to Buddhism",
+    "Cut out the Arab spice middlemen",
+    "Open a Silk Road branch to Leh",
+    "Find a source of Golconda diamonds"
+   ],
+   "answer": 1
+  },
+  {
+   "id": "m3-t4-q038",
+   "topic": "m3-t4",
+   "difficulty": "medium",
+   "type": "scenario",
+   "question": "Before refrigeration, a household rubs meat with pepper and cinnamon to keep it from spoiling. Which reason for the value of spices is this?",
+   "explanation": "Food preservation before refrigeration is the first reason given for the value of spices.",
+   "options": [
+    "Status symbol",
+    "Currency substitute",
+    "Ritual use",
+    "Food preservation"
+   ],
+   "answer": 3
+  },
+  {
+   "id": "m3-t4-q039",
+   "topic": "m3-t4",
+   "difficulty": "medium",
+   "type": "concept",
+   "question": "Which reason for the value of spices does the phrase 'Ayurveda exported as knowledge' illustrate?",
+   "explanation": "The session ties Ayurveda to the medicinal use of spices.",
+   "options": [
+    "Medicinal use",
+    "Ritual and religious use",
+    "Currency substitute",
+    "Status symbol"
+   ],
+   "answer": 0
+  },
+  {
+   "id": "m3-t4-q040",
+   "topic": "m3-t4",
+   "difficulty": "easy",
+   "type": "fill",
+   "question": "Spices were a status symbol because only the ______ could afford them.",
+   "explanation": "The session notes that only the wealthy could afford spices.",
+   "accept": [
+    "wealthy"
+   ]
+  },
+  {
+   "id": "m3-t4-q041",
+   "topic": "m3-t4",
+   "difficulty": "hard",
+   "type": "compare",
+   "question": "How do the roles of the Kerala/Malabar Coast and Arabia/Hormuz differ in the spice route?",
+   "explanation": "Kerala and the Malabar Coast produced the spices; Arabia and Hormuz sat in between as middlemen.",
+   "options": [
+    "Kerala/Malabar: the middleman hub; Arabia/Hormuz: where spices were produced",
+    "Both were the end consumers of spices, like Rome and Venice",
+    "Kerala/Malabar: where spices were produced; Arabia/Hormuz: the middleman hub",
+    "Both were the gateways to Europe, like Alexandria and Constantinople"
+   ],
+   "answer": 2
+  },
+  {
+   "id": "m3-t5-q042",
+   "topic": "m3-t5",
+   "difficulty": "easy",
+   "type": "mcq",
+   "question": "Dhaka muslin was so fine that it was called:",
+   "explanation": "The session says it was called 'woven air' or woven breeze.",
+   "options": [
+    "Woven stone",
+    "Spun gold",
+    "Woven air",
+    "Woven iron"
+   ],
+   "answer": 2
+  },
+  {
+   "id": "m3-t5-q043",
+   "topic": "m3-t5",
+   "difficulty": "medium",
+   "type": "mcq",
+   "question": "Which Greek geographer, according to the session, described muslin as transparent?",
+   "explanation": "The session says Arrian described Dhaka muslin as transparent.",
+   "options": [
+    "Arrian",
+    "Herodotus",
+    "Hippalus",
+    "Ptolemy"
+   ],
+   "answer": 0
+  },
+  {
+   "id": "m3-t5-q044",
+   "topic": "m3-t5",
+   "difficulty": "medium",
+   "type": "concept",
+   "question": "Calico and chintz are named after which Indian port?",
+   "explanation": "The session says the cotton cloths were named after Calicut.",
+   "options": [
+    "Quilon",
+    "Barygaza",
+    "Tamralipti",
+    "Calicut"
+   ],
+   "answer": 3
+  },
+  {
+   "id": "m3-t5-q045",
+   "topic": "m3-t5",
+   "difficulty": "medium",
+   "type": "tf",
+   "question": "According to the session, England passed a law in 1701 banning Indian cotton to protect local weavers.",
+   "explanation": "True as the session states it.",
+   "answer": true
+  },
+  {
+   "id": "m3-t5-q046",
+   "topic": "m3-t5",
+   "difficulty": "hard",
+   "type": "scenario",
+   "question": "An Indian workshop buys raw silk from China, finishes it, and sells the luxury cloth to Rome and Persia. Which activity does the session describe?",
+   "explanation": "India imported raw silk from China, value-added it and re-exported finished luxury silk.",
+   "options": [
+    "Gift diplomacy: sending luxury goods to foreign rulers",
+    "Silk route exchange: value-adding and re-exporting",
+    "Caravan escort service: guarding merchants on the roads",
+    "Customs evasion: moving goods without paying any duty"
+   ],
+   "answer": 1
+  },
+  {
+   "id": "m3-t5-q047",
+   "topic": "m3-t5",
+   "difficulty": "medium",
+   "type": "mcq",
+   "question": "According to the session, until Brazil (1725) the world's only known diamond source was:",
+   "explanation": "The session says Golconda was the only known diamond source until Brazil in 1725.",
+   "options": [
+    "Muziris on the Malabar Coast",
+    "Golconda in India",
+    "The Gulf of Mannar",
+    "The Kerala hills"
+   ],
+   "answer": 1
+  },
+  {
+   "id": "m3-t5-q048",
+   "topic": "m3-t5",
+   "difficulty": "medium",
+   "type": "mcq",
+   "question": "Which pair of famous diamonds does the session say came from Golconda?",
+   "explanation": "The session names the Koh-i-Noor and the Hope Diamond.",
+   "options": [
+    "Carnelian beads and Mannar pearls",
+    "Muslin and chintz",
+    "Wootz steel and ivory",
+    "The Koh-i-Noor and the Hope Diamond"
+   ],
+   "answer": 3
+  },
+  {
+   "id": "m3-t5-q049",
+   "topic": "m3-t5",
+   "difficulty": "medium",
+   "type": "fill",
+   "question": "Carnelian beads from ______ were found in Mesopotamian royal tombs.",
+   "explanation": "The beads were traded from Gujarat and found in royal tombs dated 2600 BCE.",
+   "accept": [
+    "Gujarat"
+   ]
+  },
+  {
+   "id": "m3-t5-q050",
+   "topic": "m3-t5",
+   "difficulty": "medium",
+   "type": "mcq",
+   "question": "Gulf of Mannar pearls were the top luxury of which region?",
+   "explanation": "The session says Mannar pearls were the Arabian Gulf's top luxury and that Rome imported pearl necklaces.",
+   "options": [
+    "The Arabian Gulf",
+    "The Red Sea only",
+    "Central Asia",
+    "The Bay of Bengal coast"
+   ],
+   "answer": 0
+  },
+  {
+   "id": "m3-t5-q051",
+   "topic": "m3-t5",
+   "difficulty": "hard",
+   "type": "compare",
+   "question": "How does the session's use of carnelian beads differ from its use of Golconda diamonds?",
+   "explanation": "Beads in royal tombs (2600 BCE) are archaeological proof of trade with Mesopotamia; diamonds show India's monopoly for 2000 years, according to the session.",
+   "options": [
+    "Carnelian beads: proof of a Roman monopoly; Golconda diamonds: Gujarat's pearl trade",
+    "Both are proof only of Silk Road trade across Central Asia",
+    "Carnelian beads: proof of early India-Mesopotamia trade; Golconda diamonds: India's long monopoly of the diamond trade",
+    "Carnelian beads were imported into India; Golconda diamonds were imported into India"
+   ],
+   "answer": 2
+  },
+  {
+   "id": "m3-t5-q052",
+   "topic": "m3-t5",
+   "difficulty": "medium",
+   "type": "not",
+   "question": "Which statement about silk is NOT supported by the session?",
+   "explanation": "The session says India imported raw silk and re-exported finished luxury silk.",
+   "options": [
+    "India imported raw silk from China",
+    "India value-added the silk",
+    "India exported raw silk to Rome unchanged",
+    "India re-exported finished silk to Rome and Persia"
+   ],
+   "answer": 2
+  },
+  {
+   "id": "m3-t5-q053",
+   "topic": "m3-t5",
+   "difficulty": "hard",
+   "type": "ar",
+   "question": "Assertion (A): Carnelian beads found in Mesopotamian royal tombs are archaeological proof of early India-Mesopotamia trade.\nReason (R): The beads were traded from Gujarat and are dated to 2600 BCE.",
+   "explanation": "Both are true and the second explains why the beads count as proof.",
+   "options": [
+    "Both A and R are true, and R explains A",
+    "Both A and R are true, but R does not explain A",
+    "A is true but R is false",
+    "A is false but R is true"
+   ],
+   "answer": 0
+  },
+  {
+   "id": "m3-t6-q054",
+   "topic": "m3-t6",
+   "difficulty": "easy",
+   "type": "mcq",
+   "question": "Why did Romans, Arabs and Southeast Asians pay India in gold and silver?",
+   "explanation": "The session says India lacked major gold deposits and received gold and silver for luxury goods.",
+   "options": [
+    "India lacked major gold deposits and sold luxury goods",
+    "India banned barter completely",
+    "India refused to trade goods for goods",
+    "India imported no silver at all"
+   ],
+   "answer": 0
+  },
+  {
+   "id": "m3-t6-q055",
+   "topic": "m3-t6",
+   "difficulty": "medium",
+   "type": "mcq",
+   "question": "Roman gold aureus coins have been found across which Indian region's ports?",
+   "explanation": "The session says Roman gold coins found across Tamil Nadu ports show India was a gold sink.",
+   "options": [
+    "Gujarat only",
+    "Bengal only",
+    "Kashmir",
+    "Tamil Nadu"
+   ],
+   "answer": 3
+  },
+  {
+   "id": "m3-t6-q056",
+   "topic": "m3-t6",
+   "difficulty": "medium",
+   "type": "concept",
+   "question": "What does the session mean by India being a 'gold sink' for the Roman Empire?",
+   "explanation": "Gold flowed to India as payment for Indian luxury goods.",
+   "options": [
+    "Roman gold was lost in Indian rivers",
+    "Roman gold flowed into India in return for goods",
+    "India sold gold to Rome",
+    "India melted gold into ships"
+   ],
+   "answer": 1
+  },
+  {
+   "id": "m3-t6-q057",
+   "topic": "m3-t6",
+   "difficulty": "medium",
+   "type": "mcq",
+   "question": "Imported gold built the foundation of India's own currency, which the session names as the:",
+   "explanation": "The session links gold imports to the gold Karshapana.",
+   "options": [
+    "Gold Dinara",
+    "Gold Karshapana",
+    "Aureus",
+    "Gold Pagoda"
+   ],
+   "answer": 1
+  },
+  {
+   "id": "m3-t6-q058",
+   "topic": "m3-t6",
+   "difficulty": "medium",
+   "type": "mcq",
+   "question": "Why did India import horses, according to the session?",
+   "explanation": "Arabian and Central Asian horses were essential for military power.",
+   "options": [
+    "Horses were used only as gifts",
+    "Horses were not needed in war",
+    "Indian horses were too large for armies",
+    "The subcontinent could not breed war-quality horses"
+   ],
+   "answer": 3
+  },
+  {
+   "id": "m3-t6-q059",
+   "topic": "m3-t6",
+   "difficulty": "medium",
+   "type": "tf",
+   "question": "According to the session, the Vijayanagara Empire spent 15,000 gold pagodas a year importing horses from China via Oman traders.",
+   "explanation": "False. The session says the horses came from Arabia via Oman traders.",
+   "answer": false
+  },
+  {
+   "id": "m3-t6-q060",
+   "topic": "m3-t6",
+   "difficulty": "medium",
+   "type": "compare",
+   "question": "The session compares India's dependence on imported horses to:",
+   "explanation": "Horses were a strategic resource dependency like modern oil imports.",
+   "options": [
+    "Modern dependence on oil imports",
+    "Modern dependence on tourist trade",
+    "Modern dependence on sports imports",
+    "Modern dependence on school books"
+   ],
+   "answer": 0
+  },
+  {
+   "id": "m3-t6-q061",
+   "topic": "m3-t6",
+   "difficulty": "hard",
+   "type": "match",
+   "question": "Match each import with the source named in the session.",
+   "explanation": "The session lists these imports and their sources.",
+   "pairs": [
+    [
+     "Glass, wine and olive oil",
+     "Rome"
+    ],
+    [
+     "Silk",
+     "China"
+    ],
+    [
+     "Tin and camphor",
+     "Southeast Asia"
+    ],
+    [
+     "Copper",
+     "Arabia"
+    ]
+   ]
+  },
+  {
+   "id": "m3-t6-q062",
+   "topic": "m3-t6",
+   "difficulty": "medium",
+   "type": "mcq",
+   "question": "Roman amphorae excavated at Arikamedu (Pondicherry) point to a:",
+   "explanation": "Roman wine jars at Arikamedu show a Roman trading post in India.",
+   "options": [
+    "Chinese silk workshop",
+    "Persian horse market",
+    "Roman trading post in India",
+    "Greek temple"
+   ],
+   "answer": 2
+  },
+  {
+   "id": "m3-t6-q063",
+   "topic": "m3-t6",
+   "difficulty": "hard",
+   "type": "scenario",
+   "question": "A kingdom cannot breed horses for its cavalry and must buy them abroad. Which lesson does the session draw?",
+   "explanation": "The session treats horse imports as a strategic dependency.",
+   "options": [
+    "Self-sufficiency is always possible, so imports never matter to a state",
+    "Imports never affect politics; only conquest changes who rules",
+    "Strategic resource dependency: states controlling the horse supply controlled politics",
+    "Only gold imports matter; all other imports are of no strategic value"
+   ],
+   "answer": 2
+  },
+  {
+   "id": "m3-t6-q064",
+   "topic": "m3-t6",
+   "difficulty": "medium",
+   "type": "not",
+   "question": "Which of these is NOT listed as an import in the session?",
+   "explanation": "Cardamom is an Indian export. Wine, copper and camphor are listed imports.",
+   "options": [
+    "Cardamom",
+    "Wine",
+    "Copper",
+    "Camphor"
+   ],
+   "answer": 0
+  },
+  {
+   "id": "m3-t6-q065",
+   "topic": "m3-t6",
+   "difficulty": "hard",
+   "type": "ar",
+   "question": "Assertion (A): India had large gold mines that supplied the Roman Empire.\nReason (R): Roman gold aureus coins are found across Tamil Nadu ports.",
+   "explanation": "A is false: India lacked major gold deposits. R is true: Roman gold flowed into India.",
+   "options": [
+    "Both A and R are true, and R explains A",
+    "Both A and R are true, but R does not explain A",
+    "A is true but R is false",
+    "A is false but R is true"
+   ],
+   "answer": 3
+  },
+  {
+   "id": "m3-t6-q066",
+   "topic": "m3-t6",
+   "difficulty": "easy",
+   "type": "fill",
+   "question": "India lacked major ______ deposits, so Romans, Arabs and Southeast Asians paid for goods in it.",
+   "explanation": "The session says India lacked major gold deposits.",
+   "accept": [
+    "gold"
+   ]
+  },
+  {
+   "id": "m3-t7-q067",
+   "topic": "m3-t7",
+   "difficulty": "medium",
+   "type": "mcq",
+   "question": "The Periplus of the Erythraean Sea is described as:",
+   "explanation": "The session describes it as a Greek merchant's sailing guide, dated to the 1st century CE.",
+   "options": [
+    "An Indian royal edict",
+    "A Chinese court chronicle",
+    "A Roman tax law",
+    "A Greek merchant's sailing guide"
+   ],
+   "answer": 3
+  },
+  {
+   "id": "m3-t7-q068",
+   "topic": "m3-t7",
+   "difficulty": "medium",
+   "type": "mcq",
+   "question": "What did the Periplus list for Indian ports, according to the session?",
+   "explanation": "It listed 40+ Indian ports with goods, seasons to sail and local rulers.",
+   "options": [
+    "Only the names of the gods worshipped in each port city",
+    "Goods available, seasons to sail and local rulers to negotiate with",
+    "Only the distances from each port to the city of Rome",
+    "Only the prices of horses bought at Indian harbours"
+   ],
+   "answer": 1
+  },
+  {
+   "id": "m3-t7-q069",
+   "topic": "m3-t7",
+   "difficulty": "hard",
+   "type": "multi",
+   "question": "Which stops does the session name on the overland Silk Road? (Select all that apply)",
+   "explanation": "The overland stops are Taxila, Bactria, Parthia, Antioch and Rome.",
+   "options": [
+    "Barygaza",
+    "Aden",
+    "Taxila",
+    "Bactria",
+    "Antioch",
+    "Parthia"
+   ],
+   "answer": [
+    2,
+    3,
+    4,
+    5
+   ]
+  },
+  {
+   "id": "m3-t7-q070",
+   "topic": "m3-t7",
+   "difficulty": "medium",
+   "type": "multi",
+   "question": "Which ports are named on the Indian Ocean sea route? (Select all that apply)",
+   "explanation": "The sea-route ports named are Calicut, Muscat, Aden and Zanzibar.",
+   "options": [
+    "Taxila",
+    "Antioch",
+    "Calicut",
+    "Muscat",
+    "Zanzibar",
+    "Aden"
+   ],
+   "answer": [
+    2,
+    3,
+    4,
+    5
+   ]
+  },
+  {
+   "id": "m3-t7-q071",
+   "topic": "m3-t7",
+   "difficulty": "medium",
+   "type": "mcq",
+   "question": "Which route does the session call the world's first 'Blue Economy'?",
+   "explanation": "The Indian Ocean sea route is called the first Blue Economy.",
+   "options": [
+    "The overland Silk Road",
+    "The Indian Ocean sea route",
+    "The Periplus route on land",
+    "The Uttarapatha"
+   ],
+   "answer": 1
+  },
+  {
+   "id": "m3-t7-q072",
+   "topic": "m3-t7",
+   "difficulty": "easy",
+   "type": "tf",
+   "question": "According to the session, the monsoon winds were 'discovered' by Hippalus in the 1st century BCE.",
+   "explanation": "False. The session dates the discovery by Hippalus to the 1st century CE.",
+   "answer": false
+  },
+  {
+   "id": "m3-t7-q073",
+   "topic": "m3-t7",
+   "difficulty": "hard",
+   "type": "compare",
+   "question": "How do the Indian Ocean sea route and the overland Silk Road differ in the session?",
+   "explanation": "The sea route linked India with Arabia, East Africa and Southeast Asia; the overland route linked India with Central Asia, China, Persia and Rome.",
+   "options": [
+    "Sea: India, Central Asia and China; overland: India and Arabia only",
+    "Both ran only between India and Egypt, with no other regions linked",
+    "Sea: Rome and Venice only; overland: Kerala and the Malabar Coast only",
+    "Sea: India, Arabia, East Africa and Southeast Asia; overland: India, Central Asia, China, Persia and Rome"
+   ],
+   "answer": 3
+  },
+  {
+   "id": "m3-t7-q074",
+   "topic": "m3-t7",
+   "difficulty": "easy",
+   "type": "concept",
+   "question": "Caravans of 1,000 or more camels are associated with which route?",
+   "explanation": "The overland Silk Road is described as a network with caravans of 1000+ camels.",
+   "options": [
+    "The overland Silk Road",
+    "The Indian Ocean sea route",
+    "The Periplus sea route",
+    "The Harappan coastal route"
+   ],
+   "answer": 0
+  },
+  {
+   "id": "m3-t7-q075",
+   "topic": "m3-t7",
+   "difficulty": "hard",
+   "type": "scenario",
+   "question": "A Greek merchant planning a voyage to India wants ports, sailing seasons and local rulers in one guide. Which source does the session point to?",
+   "explanation": "The Periplus was a merchant's sailing guide for exactly this purpose.",
+   "options": [
+    "The Arthashastra",
+    "The Baberu Jataka",
+    "The Periplus of the Erythraean Sea",
+    "The Manusmriti"
+   ],
+   "answer": 2
+  },
+  {
+   "id": "m3-t7-q076",
+   "topic": "m3-t7",
+   "difficulty": "medium",
+   "type": "not",
+   "question": "Which of these is NOT among the key stops listed for the Periplus route?",
+   "explanation": "The Periplus stops are Barygaza, Kalliena, Musikanos, Patala and Barbarikon. Antioch is an overland Silk Road stop.",
+   "options": [
+    "Barygaza",
+    "Kalliena",
+    "Antioch",
+    "Barbarikon"
+   ],
+   "answer": 2
+  },
+  {
+   "id": "m3-t7-q077",
+   "topic": "m3-t7",
+   "difficulty": "hard",
+   "type": "ar",
+   "question": "Assertion (A): The Periplus is a Greek merchant's sailing guide.\nReason (R): It was written by a Chola king to guide Indian sailors.",
+   "explanation": "A is true. R is false: the guide is Greek, not Chola.",
+   "options": [
+    "Both A and R are true, and R explains A",
+    "Both A and R are true, but R does not explain A",
+    "A is true but R is false",
+    "A is false but R is true"
+   ],
+   "answer": 2
+  },
+  {
+   "id": "m3-t8-q078",
+   "topic": "m3-t8",
+   "difficulty": "easy",
+   "type": "concept",
+   "question": "The core idea of the cultural-exchange section is that when goods travel:",
+   "explanation": "The session's core idea is that goods carry ideas, beliefs, languages, technologies and art forms with them.",
+   "options": [
+    "Ideas, beliefs, languages, technologies and art travel with them",
+    "Only the prices of the goods change, while ideas stay where they are",
+    "Only people change their religion, while languages and art stay fixed",
+    "Only coins move between regions, with nothing else crossing borders"
+   ],
+   "answer": 0
+  },
+  {
+   "id": "m3-t8-q079",
+   "topic": "m3-t8",
+   "difficulty": "hard",
+   "type": "match",
+   "question": "Match each step of the cultural-spread mechanism with its meaning.",
+   "explanation": "These are the five steps of the session's mechanism.",
+   "pairs": [
+    [
+     "Contact",
+     "Traders from different cultures meet at a port or market"
+    ],
+    [
+     "Curiosity",
+     "Both sides observe and imitate unfamiliar practices or goods"
+    ],
+    [
+     "Adoption",
+     "Useful or prestigious elements are borrowed"
+    ],
+    [
+     "Adaptation",
+     "Borrowed elements are modified to fit local context"
+    ],
+    [
+     "Integration",
+     "The new element becomes part of local culture permanently"
+    ]
+   ]
+  },
+  {
+   "id": "m3-t8-q080",
+   "topic": "m3-t8",
+   "difficulty": "medium",
+   "type": "mcq",
+   "question": "Which Chinese monk followed trade routes to India in 399 CE to collect Buddhist texts?",
+   "explanation": "The session gives Fa Xian as the example.",
+   "options": [
+    "Xuanzang",
+    "Chiang Kien",
+    "Arrian",
+    "Fa Xian"
+   ],
+   "answer": 3
+  },
+  {
+   "id": "m3-t8-q081",
+   "topic": "m3-t8",
+   "difficulty": "medium",
+   "type": "mcq",
+   "question": "Which scripts does the session say derive from Indian scripts?",
+   "explanation": "The session says Khmer, Javanese and Thai scripts derive from Indian scripts.",
+   "options": [
+    "Chinese, Japanese and Korean",
+    "Khmer, Javanese and Thai",
+    "Arabic, Persian and Hebrew",
+    "Greek, Latin and Cyrillic"
+   ],
+   "answer": 1
+  },
+  {
+   "id": "m3-t8-q082",
+   "topic": "m3-t8",
+   "difficulty": "easy",
+   "type": "tf",
+   "question": "According to the session, Borobudur in Indonesia was funded by Indian traders.",
+   "explanation": "True as the session states it.",
+   "answer": true
+  },
+  {
+   "id": "m3-t8-q083",
+   "topic": "m3-t8",
+   "difficulty": "medium",
+   "type": "mcq",
+   "question": "The word 'shampoo' (champi) entered English from Hindi through:",
+   "explanation": "The session gives shampoo as an example of linguistic exchange.",
+   "options": [
+    "Roman merchants in Egypt",
+    "British merchants in 18th-century India",
+    "Chinese monks in Gandhara",
+    "Arab sailors in Zanzibar"
+   ],
+   "answer": 1
+  },
+  {
+   "id": "m3-t8-q084",
+   "topic": "m3-t8",
+   "difficulty": "hard",
+   "type": "concept",
+   "question": "In the Buddhism case study, 'Theravada took local flavour in Sri Lanka and Thailand; Mahayana fused with Taoism in China' is which step?",
+   "explanation": "Modifying the borrowed element to fit local context is adaptation.",
+   "options": [
+    "Contact",
+    "Curiosity",
+    "Integration",
+    "Adaptation"
+   ],
+   "answer": 3
+  },
+  {
+   "id": "m3-t8-q085",
+   "topic": "m3-t8",
+   "difficulty": "medium",
+   "type": "mcq",
+   "question": "In the Buddhism case study, 'Ashoka sent missionaries and local kings converted' is which step?",
+   "explanation": "Useful or prestigious elements being borrowed is adoption.",
+   "options": [
+    "Adoption",
+    "Contact",
+    "Adaptation",
+    "Curiosity"
+   ],
+   "answer": 0
+  },
+  {
+   "id": "m3-t8-q086",
+   "topic": "m3-t8",
+   "difficulty": "medium",
+   "type": "not",
+   "question": "Which statement is NOT supported by the session's examples of cultural spread?",
+   "explanation": "The session says Khmer, Javanese and Thai scripts derive from Indian scripts, not Chinese.",
+   "options": [
+    "Sanskrit spread through Brahmin traders",
+    "Angkor Wat reflects Indian temple culture",
+    "Chinese script spread to Southeast Asia through Indian merchants",
+    "Black pepper reached Rome from India"
+   ],
+   "answer": 2
+  },
+  {
+   "id": "m3-t8-q087",
+   "topic": "m3-t8",
+   "difficulty": "easy",
+   "type": "fill",
+   "question": "Hindu temple architecture spread to Cambodia, where ______ Wat was built by Khmer kings.",
+   "explanation": "The session cites Angkor Wat as an example of art and architecture spread.",
+   "accept": [
+    "Angkor"
+   ]
+  },
+  {
+   "id": "m3-t8-q088",
+   "topic": "m3-t8",
+   "difficulty": "hard",
+   "type": "compare",
+   "question": "How do Gandharan art and Angkor Wat differ as examples of cultural exchange?",
+   "explanation": "Gandharan art blended Greek and Indian styles after Alexander; Angkor Wat reflects Indian culture adopted by Khmer kings.",
+   "options": [
+    "Gandharan art is purely Roman; Angkor Wat is purely Greek in style",
+    "Both are Chinese styles that spread westward along the Silk Road",
+    "Gandharan art fused Greek and Indian styles; Angkor Wat shows Indian temple culture adopted in Cambodia",
+    "Gandharan art is Khmer in origin; Angkor Wat is Greek in origin"
+   ],
+   "answer": 2
+  },
+  {
+   "id": "m3-t8-q089",
+   "topic": "m3-t8",
+   "difficulty": "hard",
+   "type": "ar",
+   "question": "Assertion (A): Buddhism spread widely along trade routes.\nReason (R): Merchants funded monasteries as waypoints and monks travelled with caravans.",
+   "explanation": "Both are true and the second explains how the spread happened.",
+   "options": [
+    "Both A and R are true, and R explains A",
+    "Both A and R are true, but R does not explain A",
+    "A is true but R is false",
+    "A is false but R is true"
+   ],
+   "answer": 0
+  },
+  {
+   "id": "m3-t9-q090",
+   "topic": "m3-t9",
+   "difficulty": "easy",
+   "type": "concept",
+   "question": "The session calls trade the original 'soft power' because:",
+   "explanation": "Trade built relationships where force could not.",
+   "options": [
+    "Goods opened doors that armies could not",
+    "Armies always followed merchants",
+    "Only kings could trade",
+    "Trade needed no rules"
+   ],
+   "answer": 0
+  },
+  {
+   "id": "m3-t9-q091",
+   "topic": "m3-t9",
+   "difficulty": "medium",
+   "type": "mcq",
+   "question": "What did Indian kings send as gifts in gift diplomacy, according to the session?",
+   "explanation": "Gift diplomacy used luxury gifts such as elephants, spices and textiles.",
+   "options": [
+    "Horses and wine",
+    "Gold and glass",
+    "Tin and copper",
+    "Elephants, spices and textiles"
+   ],
+   "answer": 3
+  },
+  {
+   "id": "m3-t9-q092",
+   "topic": "m3-t9",
+   "difficulty": "medium",
+   "type": "mcq",
+   "question": "Which guild is said to have had its own flags and armies and to have negotiated trade treaties?",
+   "explanation": "The session says guilds like the Ayyavole 500 acted as unofficial ambassadors.",
+   "options": [
+    "The Manigramam only",
+    "The Ayyavole 500",
+    "The Periplus guild",
+    "The Shreni of weavers only"
+   ],
+   "answer": 1
+  },
+  {
+   "id": "m3-t9-q093",
+   "topic": "m3-t9",
+   "difficulty": "easy",
+   "type": "tf",
+   "question": "Ashoka sent diplomatic missions to three Greek kingdoms, according to the session.",
+   "explanation": "False. The session says Ashoka sent missions to five Greek kingdoms.",
+   "answer": false
+  },
+  {
+   "id": "m3-t9-q094",
+   "topic": "m3-t9",
+   "difficulty": "medium",
+   "type": "mcq",
+   "question": "The session says Gupta kings maintained envoys in:",
+   "explanation": "Gupta kings maintained envoys in China and Ceylon.",
+   "options": [
+    "Rome and Egypt",
+    "China and Ceylon",
+    "Persia and Arabia",
+    "Greece and Sicily"
+   ],
+   "answer": 1
+  },
+  {
+   "id": "m3-t9-q095",
+   "topic": "m3-t9",
+   "difficulty": "hard",
+   "type": "scenario",
+   "question": "A merchant guild with its own flag and army negotiates a trade treaty with a foreign ruler. How does the session describe this?",
+   "explanation": "The session uses this description for guilds like the Ayyavole 500.",
+   "options": [
+    "A royal tax office that collects duties for the king",
+    "A religious council that settles disputes between monks",
+    "A military mutiny against the ruler of a foreign kingdom",
+    "A private corporation with a foreign policy"
+   ],
+   "answer": 3
+  },
+  {
+   "id": "m3-t9-q096",
+   "topic": "m3-t9",
+   "difficulty": "hard",
+   "type": "compare",
+   "question": "How do gift diplomacy and merchant embassies differ in the session?",
+   "explanation": "Kings sent gifts such as elephants and spices; wealthy guilds negotiated as unofficial ambassadors.",
+   "options": [
+    "Gift diplomacy: kings sending luxury goods; merchant embassies: guilds acting as unofficial ambassadors",
+    "Gift diplomacy: guilds negotiating; merchant embassies: kings sending gifts",
+    "Both were carried out only by armies",
+    "Gift diplomacy was banned; merchant embassies were required by law"
+   ],
+   "answer": 0
+  },
+  {
+   "id": "m3-t9-q097",
+   "topic": "m3-t9",
+   "difficulty": "medium",
+   "type": "mcq",
+   "question": "The Arthashastra is described in the session as India's first:",
+   "explanation": "It gave rules for foreign trade, customs duties and diplomatic protocol.",
+   "options": [
+    "Sailing guide",
+    "Book of hymns",
+    "International Business Manual",
+    "Dictionary of scripts"
+   ],
+   "answer": 2
+  },
+  {
+   "id": "m3-t9-q098",
+   "topic": "m3-t9",
+   "difficulty": "hard",
+   "type": "not",
+   "question": "Which statement about shared legal frameworks is NOT supported by the session?",
+   "explanation": "The session mentions identical standardised weights, not identical coin designs.",
+   "options": [
+    "Standardised weights were found identical in Indus cities and Mesopotamia",
+    "The Arthashastra gave rules for customs duties",
+    "Identical coin designs were found in Indus cities and Mesopotamia",
+    "Merchant codes crossed borders"
+   ],
+   "answer": 2
+  },
+  {
+   "id": "m3-t10-q099",
+   "topic": "m3-t10",
+   "difficulty": "hard",
+   "type": "match",
+   "question": "Match each ancient example with the modern parallel the session gives.",
+   "explanation": "These are rows of the session's then-versus-now table.",
+   "pairs": [
+    [
+     "Periplus guide to Indian ports",
+     "World Bank's Ease of Doing Business index"
+    ],
+    [
+     "Ayyavole 500 negotiating treaties",
+     "Multinational corporations influencing policy"
+    ],
+    [
+     "Buddhist monks spreading ideas",
+     "Netflix and YouTube spreading culture"
+    ],
+    [
+     "Gift diplomacy",
+     "China's Belt and Road Initiative"
+    ],
+    [
+     "Ayurveda adapted for Arab markets",
+     "McAloo Tikki in India (glocalisation)"
+    ]
+   ]
+  },
+  {
+   "id": "m3-t10-q100",
+   "topic": "m3-t10",
+   "difficulty": "medium",
+   "type": "mcq",
+   "question": "Which modern examples does the session pair with the spice trade monopoly?",
+   "explanation": "The spice monopoly is paired with De Beers and OPEC.",
+   "options": [
+    "De Beers diamonds and the Arabian oil cartel (OPEC)",
+    "Netflix and YouTube spreading culture around the world",
+    "The WTO and SWIFT setting rules for global trade",
+    "McDonald's and Amazon adapting to local customers"
+   ],
+   "answer": 0
+  },
+  {
+   "id": "m3-t10-q101",
+   "topic": "m3-t10",
+   "difficulty": "medium",
+   "type": "mcq",
+   "question": "Which framework does the session cite for the lesson on cultural intelligence?",
+   "explanation": "The lesson says managers need cross-cultural competence (Hofstede's dimensions).",
+   "options": [
+    "Porter's five forces",
+    "SWOT analysis",
+    "Maslow's hierarchy",
+    "Hofstede's dimensions"
+   ],
+   "answer": 3
+  },
+  {
+   "id": "m3-t10-q102",
+   "topic": "m3-t10",
+   "difficulty": "medium",
+   "type": "mcq",
+   "question": "According to the lesson on brands, pricing power comes from:",
+   "explanation": "The session says consistent quality plus perceived scarcity equals pricing power.",
+   "options": [
+    "Lowest possible cost",
+    "Consistent quality plus perceived scarcity",
+    "Mass advertising alone",
+    "Government price fixing"
+   ],
+   "answer": 1
+  },
+  {
+   "id": "m3-t10-q103",
+   "topic": "m3-t10",
+   "difficulty": "easy",
+   "type": "mcq",
+   "question": "What advice does the lesson on intermediaries give?",
+   "explanation": "The lesson is: intermediaries extract value, disrupt them.",
+   "options": [
+    "Add more middlemen so each layer can take a share of the profit",
+    "Intermediaries extract value, so disrupt them and eliminate layers",
+    "Never deal directly with buyers, and always trade through agents",
+    "Trade only through guilds, because they alone can be trusted"
+   ],
+   "answer": 1
+  },
+  {
+   "id": "m3-t10-q104",
+   "topic": "m3-t10",
+   "difficulty": "medium",
+   "type": "tf",
+   "question": "According to the session, Arab middlemen multiplied spice prices 10 times between India and Europe.",
+   "explanation": "False. The session says they multiplied prices 100 times, which is why Vasco da Gama risked his voyage.",
+   "answer": false
+  },
+  {
+   "id": "m3-t10-q105",
+   "topic": "m3-t10",
+   "difficulty": "medium",
+   "type": "mcq",
+   "question": "Which cultural exports does the lesson on soft power name as surviving every conquest?",
+   "explanation": "The session lists Buddhism, mathematics, Ayurveda and yoga.",
+   "options": [
+    "Gold, silver, tin and copper",
+    "Horses, wine, glass and oil",
+    "Silk, jade, tea and paper",
+    "Buddhism, mathematics, Ayurveda and yoga"
+   ],
+   "answer": 3
+  },
+  {
+   "id": "m3-t10-q106",
+   "topic": "m3-t10",
+   "difficulty": "medium",
+   "type": "multi",
+   "question": "Which modern institutions does the session give as equivalents of ancient trust-building institutions? (Select all that apply)",
+   "explanation": "The lesson on trust names the WTO, SWIFT and ICC Arbitration.",
+   "options": [
+    "Ease of Doing Business index",
+    "SWIFT",
+    "Belt and Road Initiative",
+    "ICC Arbitration",
+    "WTO"
+   ],
+   "answer": [
+    1,
+    3,
+    4
+   ]
+  },
+  {
+   "id": "m3-t10-q107",
+   "topic": "m3-t10",
+   "difficulty": "hard",
+   "type": "scenario",
+   "question": "A global fast-food chain sells an aloo-tikki burger in India. Which concept does the session use for this?",
+   "explanation": "McAloo Tikki is the session's glocalisation example.",
+   "options": [
+    "Glocalisation",
+    "Gift diplomacy",
+    "Value stripping",
+    "Soft power"
+   ],
+   "answer": 0
+  },
+  {
+   "id": "m3-t10-q108",
+   "topic": "m3-t10",
+   "difficulty": "hard",
+   "type": "scenario",
+   "question": "An online platform removes layers between producers and customers. Which lesson in the session does this match?",
+   "explanation": "The session cites Amazon's disruption of retail beside Vasco da Gama's disruption of the spice middlemen.",
+   "options": [
+    "Soft power outlasts hard power",
+    "Brands need scarcity",
+    "Intermediaries extract value, so disrupt them",
+    "Cultural intelligence matters"
+   ],
+   "answer": 2
+  },
+  {
+   "id": "m3-t10-q109",
+   "topic": "m3-t10",
+   "difficulty": "hard",
+   "type": "compare",
+   "question": "How does the session contrast soft power with hard power?",
+   "explanation": "The session says soft power outlasts hard power.",
+   "options": [
+    "Hard power is more durable than culture, which fades after conquest",
+    "Soft power needs armies to survive and cannot last without them",
+    "Culture is the most durable export and builds goodwill that trade alone cannot",
+    "They are the same thing, so the session draws no contrast"
+   ],
+   "answer": 2
+  },
+  {
+   "id": "m3-t10-q110",
+   "topic": "m3-t10",
+   "difficulty": "hard",
+   "type": "ar",
+   "question": "Assertion (A): The session pairs the Periplus guide with the Ease of Doing Business index.\nReason (R): According to the session, Arab middlemen multiplied spice prices 100 times between India and Europe.",
+   "explanation": "Both statements are true, but the second does not explain the first.",
+   "options": [
+    "Both A and R are true, and R explains A",
+    "Both A and R are true, but R does not explain A",
+    "A is true but R is false",
+    "A is false but R is true"
+   ],
+   "answer": 1
+  }
+ ],
+ "cards": [
+  {
+   "id": "m3-c001",
+   "topic": "m3-t4",
+   "front": "Spice route chain",
+   "back": "Kerala/Malabar (production) -> Calicut/Quilon (port of export) -> Arabia/Hormuz (middleman hub) -> Alexandria/Constantinople (gateway to Europe) -> Rome/Venice (end consumer)."
+  },
+  {
+   "id": "m3-c002",
+   "topic": "m3-t3",
+   "front": "India's export portfolio",
+   "back": "Spices, textiles, gems, manufactured goods and luxury goods: the 'luxury brand' of antiquity."
+  },
+  {
+   "id": "m3-c003",
+   "topic": "m3-t6",
+   "front": "India's imports",
+   "back": "Gold and silver, horses, glass, wine and olive oil from Rome, silk from China, tin and camphor from Southeast Asia, copper from Arabia."
+  },
+  {
+   "id": "m3-c004",
+   "topic": "m3-t8",
+   "front": "Cultural-spread mechanism",
+   "back": "Contact, Curiosity, Adoption, Adaptation, Integration."
+  },
+  {
+   "id": "m3-c005",
+   "topic": "m3-t10",
+   "front": "Five lessons for business leaders",
+   "back": "Cultural intelligence; quality and scarcity build brands; disrupt intermediaries; soft power outlasts hard power; trade requires trust and institutions."
+  }
+ ]
+}

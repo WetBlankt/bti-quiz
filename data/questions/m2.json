@@ -1,0 +1,1701 @@
+{
+ "module": "m2",
+ "questions": [
+  {
+   "id": "m2-t1-q001",
+   "topic": "m2-t1",
+   "difficulty": "easy",
+   "type": "tf",
+   "question": "Trade routes are the pathways connecting settlements, territories and landscapes.",
+   "explanation": "True. At the macro level, trade routes are the pathways that connect settlements, territories and landscapes.",
+   "answer": true
+  },
+  {
+   "id": "m2-t1-q002",
+   "topic": "m2-t1",
+   "difficulty": "easy",
+   "type": "fill",
+   "question": "The Silk Route and the ______ route were among the earliest and most extensive trade networks, linking Africa, Asia and Europe.",
+   "explanation": "The session pairs the overland Silk Route with the Indian Ocean spice route as the earliest, most extensive networks.",
+   "accept": [
+    "spice"
+   ]
+  },
+  {
+   "id": "m2-t1-q003",
+   "topic": "m2-t1",
+   "difficulty": "medium",
+   "type": "mcq",
+   "question": "Which description fits the spice route in the session?",
+   "explanation": "The silk route is the overland route across Asia; the spice route is the Indian Ocean route through India.",
+   "options": [
+    "The overland route across Central Asia to Rome",
+    "The coastal route of the Harappans to Oman",
+    "The Indian Ocean route through India",
+    "The route along the Ganga to Tamralipti"
+   ],
+   "answer": 2
+  },
+  {
+   "id": "m2-t1-q004",
+   "topic": "m2-t1",
+   "difficulty": "easy",
+   "type": "concept",
+   "question": "The overland route across Asia that carried goods between China and the West is called the:",
+   "explanation": "The session calls the overland route across Asia the silk route.",
+   "options": [
+    "Silk route",
+    "Spice route",
+    "Uttarapatha",
+    "Dakshinapatha"
+   ],
+   "answer": 0
+  },
+  {
+   "id": "m2-t1-q005",
+   "topic": "m2-t1",
+   "difficulty": "medium",
+   "type": "mcq",
+   "question": "Why were states keen on developing and controlling trade routes, according to the session?",
+   "explanation": "Routes were important landscape features in cultural interactions, and states wanted to improve connectivity and gain advantage.",
+   "options": [
+    "To stop all foreign merchants entering",
+    "To avoid building any rest houses",
+    "To make caravans travel only at night",
+    "To improve connectivity and gain advantage from interactions"
+   ],
+   "answer": 3
+  },
+  {
+   "id": "m2-t1-q006",
+   "topic": "m2-t1",
+   "difficulty": "hard",
+   "type": "compare",
+   "question": "How do the silk route and the spice route differ in the session?",
+   "explanation": "The silk route is overland across Asia; the spice route crosses the Indian Ocean through India.",
+   "options": [
+    "Silk route: sea route to Africa; spice route: land route to China",
+    "Silk route: overland across Asia; spice route: Indian Ocean route through India",
+    "Silk route: Indian rivers only; spice route: Himalayan passes only",
+    "They are two names for the same overland road"
+   ],
+   "answer": 1
+  },
+  {
+   "id": "m2-t1-q007",
+   "topic": "m2-t1",
+   "difficulty": "hard",
+   "type": "scenario",
+   "question": "A kingdom builds roads, secures mountain passes and develops harbours so that merchants can travel easily and its own revenue grows. Which idea from the session does this show?",
+   "explanation": "The session says states were keen on developing and controlling routes or highways for connectivity and advantage.",
+   "options": [
+    "Trade routes were only natural paths that no state influenced",
+    "States developed and controlled trade routes to improve connectivity and gain advantage",
+    "Only caravans, never states, benefited from routes",
+    "Routes mattered only for religious journeys"
+   ],
+   "answer": 1
+  },
+  {
+   "id": "m2-t1-q008",
+   "topic": "m2-t1",
+   "difficulty": "hard",
+   "type": "ar",
+   "question": "Assertion (A): The silk route and the spice route connected Africa, Asia and Europe.\nReason (R): The Silk Road spanned almost 7,000 miles.",
+   "explanation": "Both statements are true, but the length of the Silk Road does not explain how the two networks connected the three continents.",
+   "options": [
+    "Both A and R are true, and R explains A",
+    "Both A and R are true, but R does not explain A",
+    "A is true but R is false",
+    "A is false but R is true"
+   ],
+   "answer": 1
+  },
+  {
+   "id": "m2-t2-q009",
+   "topic": "m2-t2",
+   "difficulty": "easy",
+   "type": "mcq",
+   "question": "India's strategic position, according to the session, lies on routes of communication between:",
+   "explanation": "India occupies a strategic position along routes of communication between East and West.",
+   "options": [
+    "North and South Poles only",
+    "Africa and Australia only",
+    "Japan and Korea",
+    "East and West"
+   ],
+   "answer": 3
+  },
+  {
+   "id": "m2-t2-q010",
+   "topic": "m2-t2",
+   "difficulty": "easy",
+   "type": "tf",
+   "question": "According to the session, the Himalayas lie only to the north-west of India.",
+   "explanation": "False. The session places the Himalayas to the north-west, north and north-east, with gaps and passes that served as routes of communication.",
+   "answer": false
+  },
+  {
+   "id": "m2-t2-q011",
+   "topic": "m2-t2",
+   "difficulty": "medium",
+   "type": "multi",
+   "question": "Which passes in the north-west are named in the session? (Select all that apply)",
+   "explanation": "The north-west passes named are Karakoram, Burzil, Lanak La and Zoji La. Thang La and Tulung La are in the north-east.",
+   "options": [
+    "Karakoram",
+    "Lanak La",
+    "Tulung La",
+    "Zoji La",
+    "Thang La",
+    "Burzil"
+   ],
+   "answer": [
+    0,
+    1,
+    3,
+    5
+   ]
+  },
+  {
+   "id": "m2-t2-q012",
+   "topic": "m2-t2",
+   "difficulty": "medium",
+   "type": "not",
+   "question": "Which of these passes is NOT among the north-eastern passes named in the session?",
+   "explanation": "The north-eastern passes named are Thang La, Tulung La, Dom La and Andra La. Zoji La is listed among the north-western passes.",
+   "options": [
+    "Zoji La",
+    "Thang La",
+    "Tulung La",
+    "Andra La"
+   ],
+   "answer": 0
+  },
+  {
+   "id": "m2-t2-q013",
+   "topic": "m2-t2",
+   "difficulty": "medium",
+   "type": "mcq",
+   "question": "The passes in the Himalayas served as a means of communication between India and:",
+   "explanation": "The gaps and passes connected India with Central Asia, Tibet and China.",
+   "options": [
+    "Egypt and Rome only",
+    "Sri Lanka and Java",
+    "Central Asia, Tibet and China",
+    "Arabia and East Africa"
+   ],
+   "answer": 2
+  },
+  {
+   "id": "m2-t2-q014",
+   "topic": "m2-t2",
+   "difficulty": "hard",
+   "type": "match",
+   "question": "Match each route or movement with its description.",
+   "explanation": "These come from the session's account of India's importance in the ancient trade network.",
+   "pairs": [
+    [
+     "Uttarapatha",
+     "Tamralipti on the eastern seacoast to the Oxus region"
+    ],
+    [
+     "Central plateau route",
+     "Kausambi and Mathura with Ujjayini and Bharukachha"
+    ],
+    [
+     "Harappan sea route",
+     "Gujarat and Makran coast to Oman, Bahrain and West Asia"
+    ]
+   ]
+  },
+  {
+   "id": "m2-t2-q015",
+   "topic": "m2-t2",
+   "difficulty": "easy",
+   "type": "fill",
+   "question": "The Uttarapatha extended from Tamralipti (Tamluk) on the eastern seacoast up to the ______ region.",
+   "explanation": "The great northern route ran from Tamralipti up to the Oxus region.",
+   "accept": [
+    "Oxus"
+   ]
+  },
+  {
+   "id": "m2-t2-q016",
+   "topic": "m2-t2",
+   "difficulty": "medium",
+   "type": "mcq",
+   "question": "Tamralipti (Tamluk), the starting point of the Uttarapatha, lay on the:",
+   "explanation": "The session places Tamralipti on the eastern seacoast.",
+   "options": [
+    "Western seacoast",
+    "Makran coast",
+    "Eastern seacoast",
+    "Shore of the Red Sea"
+   ],
+   "answer": 2
+  },
+  {
+   "id": "m2-t2-q017",
+   "topic": "m2-t2",
+   "difficulty": "medium",
+   "type": "not",
+   "question": "Which of these is NOT named in the session as a city linked by the Uttarapatha?",
+   "explanation": "The Uttarapatha linked Champa, Pataliputra, Kasi, Kausambi, Mathura, Sakala, Taxila, Prushupura, Kapisa and Balkh. Muziris is a port-trade centre listed elsewhere.",
+   "options": [
+    "Muziris",
+    "Pataliputra",
+    "Taxila",
+    "Balkh"
+   ],
+   "answer": 0
+  },
+  {
+   "id": "m2-t2-q018",
+   "topic": "m2-t2",
+   "difficulty": "medium",
+   "type": "mcq",
+   "question": "Another important route across the central Indian plateau linked Kausambi and Mathura with Ujjayini and:",
+   "explanation": "The central plateau route led to Bharukachha (Barygaza) on the west coast.",
+   "options": [
+    "Tamralipti on the east coast",
+    "Balkh on the Oxus",
+    "Taxila in the north-west",
+    "Bharukachha (Barygaza) on the west coast"
+   ],
+   "answer": 3
+  },
+  {
+   "id": "m2-t2-q019",
+   "topic": "m2-t2",
+   "difficulty": "medium",
+   "type": "mcq",
+   "question": "The session says the Indian Ocean is at the centre of global maritime networks because it is encircled by:",
+   "explanation": "The Indian Ocean is encircled by the continents of Africa, Europe and Asia.",
+   "options": [
+    "Africa, Australia and Antarctica",
+    "Africa, Europe and Asia",
+    "Europe and the Americas",
+    "Only Asia and Australia"
+   ],
+   "answer": 1
+  },
+  {
+   "id": "m2-t2-q020",
+   "topic": "m2-t2",
+   "difficulty": "hard",
+   "type": "mcq",
+   "question": "Why did many ports and sheltered anchorages develop along the Indian coast, according to the session?",
+   "explanation": "Lagoons, lakes and other sheltered water bodies along the coast favoured the development of ports and sheltered anchorages.",
+   "options": [
+    "Open, surf-battered beaches that attracted merchant fleets and ships",
+    "Lagoons, lakes and sheltered water bodies favoured ports and the plying of boats",
+    "Mountain passes that forced all trade to leave by sea",
+    "Royal orders that required every caravan to end at the coast"
+   ],
+   "answer": 1
+  },
+  {
+   "id": "m2-t2-q021",
+   "topic": "m2-t2",
+   "difficulty": "easy",
+   "type": "fill",
+   "question": "The ______ were the earliest mariners, helped by the monsoon winds.",
+   "explanation": "The session says the Harappans were the earliest mariners, facilitated by the monsoon winds.",
+   "accept": [
+    "Harappans"
+   ]
+  },
+  {
+   "id": "m2-t2-q022",
+   "topic": "m2-t2",
+   "difficulty": "hard",
+   "type": "ar",
+   "question": "Assertion (A): The Himalayan passes served as a means of communication between India and Central Asia, Tibet and China.\nReason (R): The Himalayas formed a complete barrier with no gaps or passes.",
+   "explanation": "A is true. R is false: the session notes a number of gaps and passes in the Himalayas that carried communication.",
+   "options": [
+    "Both A and R are true, and R explains A",
+    "Both A and R are true, but R does not explain A",
+    "A is true but R is false",
+    "A is false but R is true"
+   ],
+   "answer": 2
+  },
+  {
+   "id": "m2-t2-q023",
+   "topic": "m2-t2",
+   "difficulty": "hard",
+   "type": "compare",
+   "question": "How does the Uttarapatha differ from the central plateau route?",
+   "explanation": "The Uttarapatha crossed the north from east coast to the Oxus; the central plateau route linked the Gangetic towns with the west-coast port.",
+   "options": [
+    "Uttarapatha: Kausambi to Ujjayini; central route: Tamralipti to the Oxus region",
+    "Both routes ran only along the Makran coast, from Sutkagendor to Oman",
+    "Uttarapatha was a sea route to Barygaza; the central route a river route to Taxila",
+    "Uttarapatha: Tamralipti to the Oxus region; central route: Kausambi and Mathura to Ujjayini and Bharukachha"
+   ],
+   "answer": 3
+  },
+  {
+   "id": "m2-t2-q024",
+   "topic": "m2-t2",
+   "difficulty": "hard",
+   "type": "scenario",
+   "question": "A merchant at Kausambi wants to send goods to the west coast. Which route does the session describe for this?",
+   "explanation": "The central plateau route linked Kausambi and Mathura with Ujjayini and the west-coast port of Bharukachha.",
+   "options": [
+    "The central plateau route via Ujjayini to Bharukachha",
+    "The Uttarapatha to Tamralipti",
+    "The Harappan route to Sutkagendor",
+    "The Silk Road branch to Leh"
+   ],
+   "answer": 0
+  },
+  {
+   "id": "m2-t3-q025",
+   "topic": "m2-t3",
+   "difficulty": "easy",
+   "type": "fill",
+   "question": "The Harappan coastal route linked Gujarat (Lothal and Dholavira) to the Makran coast at ______.",
+   "explanation": "The coastal route ran from the Gujarat sites of Lothal and Dholavira to Sutkagendor on the Makran coast.",
+   "accept": [
+    "Sutkagendor"
+   ]
+  },
+  {
+   "id": "m2-t3-q026",
+   "topic": "m2-t3",
+   "difficulty": "easy",
+   "type": "mcq",
+   "question": "Which two Gujarat sites were joined to the Makran coast by the Harappan coastal route?",
+   "explanation": "Lothal and Dholavira were the Gujarat ends of the coastal route.",
+   "options": [
+    "Taxila and Mathura",
+    "Pataliputra and Rajgir",
+    "Lothal and Dholavira",
+    "Muziris and Arikamedu"
+   ],
+   "answer": 2
+  },
+  {
+   "id": "m2-t3-q027",
+   "topic": "m2-t3",
+   "difficulty": "medium",
+   "type": "mcq",
+   "question": "The Harappan route between Sindh and South Baluchistan passed through the:",
+   "explanation": "Sindh and South Baluchistan were linked via the Kirthar mountains.",
+   "options": [
+    "Karakoram pass",
+    "Zoji La",
+    "Kirthar mountains",
+    "Khyber Pass"
+   ],
+   "answer": 2
+  },
+  {
+   "id": "m2-t3-q028",
+   "topic": "m2-t3",
+   "difficulty": "medium",
+   "type": "mcq",
+   "question": "Which regions did the Harappan route through the Cholistan tract connect?",
+   "explanation": "The Cholistan tract route linked Punjab, East Punjab and Rajasthan.",
+   "options": [
+    "Punjab, East Punjab and Rajasthan",
+    "Sindh and Oman",
+    "Gujarat and Makran",
+    "Kashmir and Tibet"
+   ],
+   "answer": 0
+  },
+  {
+   "id": "m2-t3-q029",
+   "topic": "m2-t3",
+   "difficulty": "hard",
+   "type": "multi",
+   "question": "Which raw materials were traded by the Harappans, according to the session? (Select all that apply)",
+   "explanation": "Raw materials included shell, copper, gold, lead, zinc, alabaster, limestone, steatite and semi-precious stones. Wine and silk belong to later trade.",
+   "options": [
+    "Shell",
+    "Silk",
+    "Wine",
+    "Copper",
+    "Lead",
+    "Steatite"
+   ],
+   "answer": [
+    0,
+    3,
+    4,
+    5
+   ]
+  },
+  {
+   "id": "m2-t3-q030",
+   "topic": "m2-t3",
+   "difficulty": "easy",
+   "type": "mcq",
+   "question": "Which of these are semi-precious stones named in the session's Harappan trade list?",
+   "explanation": "The session names carnelian, agate and jasper as semi-precious stones.",
+   "options": [
+    "Diamonds, rubies and sapphires",
+    "Pearls, coral and amber",
+    "Jade, ivory and ebony",
+    "Carnelian, agate and jasper"
+   ],
+   "answer": 3
+  },
+  {
+   "id": "m2-t3-q031",
+   "topic": "m2-t3",
+   "difficulty": "easy",
+   "type": "tf",
+   "question": "The Harappan external trade route went via Iran and Afghanistan into West Asia and Central Asia.",
+   "explanation": "True. The external route ran through Iran and Afghanistan to West and Central Asia.",
+   "answer": true
+  },
+  {
+   "id": "m2-t3-q032",
+   "topic": "m2-t3",
+   "difficulty": "medium",
+   "type": "not",
+   "question": "Which of these is NOT described as an internal Harappan route?",
+   "explanation": "Pataliputra to Tamralipti is not a Harappan route; the Harappan internal routes included Sindh-Gujarat and Sindh-Baluchistan via Kachchh and Kathiawar.",
+   "options": [
+    "Sindh and Gujarat",
+    "Pataliputra to Tamralipti",
+    "Sindh and Baluchistan via Kachchh and Kathiawar",
+    "Coastal Sindh, Upper Sindh and the Central Indus plains"
+   ],
+   "answer": 1
+  },
+  {
+   "id": "m2-t3-q033",
+   "topic": "m2-t3",
+   "difficulty": "hard",
+   "type": "match",
+   "question": "Match each Harappan route with the regions it connected.",
+   "explanation": "These are four of the Harappan routes described in the session.",
+   "pairs": [
+    [
+     "Via the Kirthar mountains",
+     "Sindh and South Baluchistan"
+    ],
+    [
+     "Via the Cholistan tract",
+     "Punjab, East Punjab and Rajasthan"
+    ],
+    [
+     "Via Kachchh and Kathiawar",
+     "Sindh and Baluchistan"
+    ],
+    [
+     "Coastal route",
+     "Lothal and Dholavira to the Makran coast"
+    ]
+   ]
+  },
+  {
+   "id": "m2-t3-q034",
+   "topic": "m2-t3",
+   "difficulty": "hard",
+   "type": "scenario",
+   "question": "A Harappan merchant has processed carnelian and wants to reach buyers in West Asia. Which route in the session fits?",
+   "explanation": "The Harappan external route went via Iran and Afghanistan into West and Central Asia.",
+   "options": [
+    "The Uttarapatha to Tamralipti",
+    "The external route via Iran and Afghanistan",
+    "The Silk Road branch to Leh",
+    "The central plateau route to Bharukachha"
+   ],
+   "answer": 1
+  },
+  {
+   "id": "m2-t3-q035",
+   "topic": "m2-t3",
+   "difficulty": "hard",
+   "type": "compare",
+   "question": "How do the Harappan internal routes differ from the external route?",
+   "explanation": "Internal routes connected Sindh, Baluchistan, Punjab, Rajasthan and Gujarat; the external route reached West and Central Asia.",
+   "options": [
+    "Internal routes led onward to Rome; the external route stayed inside Sindh and Baluchistan",
+    "Both kinds of route linked only Gujarat and the Makran coast in the same way",
+    "Internal routes were sea routes; the external route was only a river route in Punjab",
+    "Internal routes linked regions of the Indus world; the external route led via Iran and Afghanistan to West and Central Asia"
+   ],
+   "answer": 3
+  },
+  {
+   "id": "m2-t3-q036",
+   "topic": "m2-t3",
+   "difficulty": "medium",
+   "type": "concept",
+   "question": "The session says Harappan raw materials were obtained and then manufactured at:",
+   "explanation": "Raw materials such as shell, copper and steatite were obtained and manufactured at processing centres.",
+   "options": [
+    "Various processing centres",
+    "The royal mint",
+    "Mauryan toll posts",
+    "Buddhist monasteries"
+   ],
+   "answer": 0
+  },
+  {
+   "id": "m2-t4-q037",
+   "topic": "m2-t4",
+   "difficulty": "medium",
+   "type": "mcq",
+   "question": "What does the Anuradhapura excavation show, according to the session?",
+   "explanation": "Stratigraphical evidence at Anuradhapura shows Brahmi script came to Sri Lanka with Indian traders, probably in the 5th-4th century BC.",
+   "options": [
+    "Roman coins reached Sri Lanka through Indian ports, probably in the 5th century AD",
+    "Sri Lankan traders founded the port of Tamralipti in the 4th century BC",
+    "Brahmi script was introduced in Sri Lanka by Indian traders, probably in the 5th-4th century BC",
+    "Kharoshti script was invented there and carried to India by Sri Lankan traders"
+   ],
+   "answer": 2
+  },
+  {
+   "id": "m2-t4-q038",
+   "topic": "m2-t4",
+   "difficulty": "medium",
+   "type": "mcq",
+   "question": "Brahmi and Kharoshti inscriptions (1st-5th century AD) found at Tamralipti and in West Bengal suggest that Bengal had trade contacts with:",
+   "explanation": "The inscriptions on pots, seals and plaques indicate trade contacts between Bengal and north-west India.",
+   "options": [
+    "Rome",
+    "Madagascar",
+    "North-west India",
+    "Japan"
+   ],
+   "answer": 2
+  },
+  {
+   "id": "m2-t4-q039",
+   "topic": "m2-t4",
+   "difficulty": "easy",
+   "type": "tf",
+   "question": "Traders from the Gandhara and Oxus regions reached Mathura and the Gangetic valley by sea and then travelled overland to Southeast Asia.",
+   "explanation": "False. They came to Mathura and the Gangetic valley by the inland route and then voyaged to Southeast Asian countries.",
+   "answer": false
+  },
+  {
+   "id": "m2-t4-q040",
+   "topic": "m2-t4",
+   "difficulty": "hard",
+   "type": "multi",
+   "question": "Where have Kharoshti-Brahmi or Kharoshti inscriptions been found, suggesting that script and language migrated with trade? (Select all that apply)",
+   "explanation": "Inscriptions are reported from Bengal, Odisha, Thailand, Vietnam, Bali and Funan.",
+   "options": [
+    "Egypt",
+    "Bengal",
+    "Thailand",
+    "Sicily",
+    "Odisha",
+    "Bali"
+   ],
+   "answer": [
+    1,
+    2,
+    4,
+    5
+   ]
+  },
+  {
+   "id": "m2-t4-q041",
+   "topic": "m2-t4",
+   "difficulty": "medium",
+   "type": "mcq",
+   "question": "What kind of evidence is called the best example for outlining contacts and routes between India, Southeast Asia and West Asia?",
+   "explanation": "Ceramic evidence, especially Indian-origin Rouletted ware, is found across the subcontinent, Southeast Asia and West Asia.",
+   "options": [
+    "Ceramic evidence such as Rouletted ware",
+    "Coins alone",
+    "Temple paintings alone",
+    "Oral songs"
+   ],
+   "answer": 0
+  },
+  {
+   "id": "m2-t4-q042",
+   "topic": "m2-t4",
+   "difficulty": "easy",
+   "type": "fill",
+   "question": "Indian-origin ceramics called ______ ware are found across the subcontinent, Southeast Asia and West Asia.",
+   "explanation": "Rouletted ware is the ceramic evidence of contacts and routes.",
+   "accept": [
+    "Rouletted"
+   ]
+  },
+  {
+   "id": "m2-t4-q043",
+   "topic": "m2-t4",
+   "difficulty": "medium",
+   "type": "mcq",
+   "question": "The excavations at Ban Don Ta Phet in Thailand suggest that India-Southeast Asia maritime contact is datable to the:",
+   "explanation": "Ban Don Ta Phet suggests contact as early as the 4th century BCE.",
+   "options": [
+    "1st century CE",
+    "10th century CE",
+    "3rd millennium BCE",
+    "4th century BCE"
+   ],
+   "answer": 3
+  },
+  {
+   "id": "m2-t4-q044",
+   "topic": "m2-t4",
+   "difficulty": "medium",
+   "type": "mcq",
+   "question": "According to the session, from which country did India mainly import high-bronze tin, needed for coinage?",
+   "explanation": "High-bronze tin, yellow like gold and needed for coinage, came mainly from Thailand.",
+   "options": [
+    "Oman",
+    "Thailand",
+    "Egypt",
+    "China"
+   ],
+   "answer": 1
+  },
+  {
+   "id": "m2-t4-q045",
+   "topic": "m2-t4",
+   "difficulty": "medium",
+   "type": "concept",
+   "question": "Which Southeast Asian region is named as the source of spices that fetched high profits?",
+   "explanation": "The session names the eastern Indonesian islands as the source of high-profit spices.",
+   "options": [
+    "Western Sahara",
+    "Eastern Indonesian islands",
+    "Northern Persia",
+    "The Deccan plateau"
+   ],
+   "answer": 1
+  },
+  {
+   "id": "m2-t4-q046",
+   "topic": "m2-t4",
+   "difficulty": "medium",
+   "type": "mcq",
+   "question": "What did the Chola naval expedition's trade involve, according to the session?",
+   "explanation": "Chola exports were pearls, pepper and textiles; imports were camphor, copper and tin.",
+   "options": [
+    "Exports of horses and glass; imports of wine, lead and asphalt from Rome",
+    "Exports of wine and asphalt; imports of pepper, pearls and textiles",
+    "Exports of tin and camphor; imports of pearls, pepper and textiles",
+    "Exports of pearls, pepper and textiles; imports of camphor, copper and tin"
+   ],
+   "answer": 3
+  },
+  {
+   "id": "m2-t4-q047",
+   "topic": "m2-t4",
+   "difficulty": "easy",
+   "type": "tf",
+   "question": "According to the session, in the early centuries CE mariners of India, Southeast Asia, the Red Sea, the Persian Gulf and the Mediterranean were strongly interlinked.",
+   "explanation": "True. Archaeological evidence points to a strong interlink among these regions.",
+   "answer": true
+  },
+  {
+   "id": "m2-t4-q048",
+   "topic": "m2-t4",
+   "difficulty": "hard",
+   "type": "scenario",
+   "question": "A scholar finds Kharoshti-Brahmi inscriptions on potsherds in Thailand and Vietnam. What does the session suggest this indicates?",
+   "explanation": "The findings suggest that the script and language migrated to overseas countries along with trade.",
+   "options": [
+    "Script and language migrated overseas along with trade",
+    "Southeast Asia invented Brahmi independently",
+    "Roman merchants wrote in Brahmi",
+    "The inscriptions were brought by Silk Road caravans only"
+   ],
+   "answer": 0
+  },
+  {
+   "id": "m2-t4-q049",
+   "topic": "m2-t4",
+   "difficulty": "hard",
+   "type": "compare",
+   "question": "How do the Anuradhapura and Ban Don Ta Phet findings differ in what they show?",
+   "explanation": "Anuradhapura shows script spreading to Sri Lanka; Ban Don Ta Phet dates maritime contact between India and Southeast Asia.",
+   "options": [
+    "Anuradhapura: Roman coins in Sri Lanka; Ban Don Ta Phet: Mauryan edicts in Thailand",
+    "Both sites show Silk Road caravans crossing the Karakoram into Kashmir",
+    "Anuradhapura: Brahmi script reaching Sri Lanka; Ban Don Ta Phet: early India-Southeast Asia contact",
+    "Anuradhapura: the Chola navy at sea; Ban Don Ta Phet: Harappan seals in Thailand"
+   ],
+   "answer": 2
+  },
+  {
+   "id": "m2-t4-q050",
+   "topic": "m2-t4",
+   "difficulty": "hard",
+   "type": "ar",
+   "question": "Assertion (A): Rouletted ware of Indian origin is found only within the Indian subcontinent.\nReason (R): Ceramic evidence is the best example for outlining the contacts and routes between peoples.",
+   "explanation": "A is false: Rouletted ware is found across the subcontinent, Southeast Asia and West Asia. R is true.",
+   "options": [
+    "Both A and R are true, and R explains A",
+    "Both A and R are true, but R does not explain A",
+    "A is true but R is false",
+    "A is false but R is true"
+   ],
+   "answer": 3
+  },
+  {
+   "id": "m2-t4-q051",
+   "topic": "m2-t4",
+   "difficulty": "medium",
+   "type": "not",
+   "question": "Which of these is NOT listed as an export or import in the Chola expedition trade?",
+   "explanation": "The Chola list names pearls, pepper and textiles as exports and camphor, copper and tin as imports.",
+   "options": [
+    "Pearls",
+    "Camphor",
+    "Wootz steel",
+    "Tin"
+   ],
+   "answer": 2
+  },
+  {
+   "id": "m2-t4-q052",
+   "topic": "m2-t4",
+   "difficulty": "hard",
+   "type": "scenario",
+   "question": "A trader buys tin that is yellow like gold and needed for coinage, and sells Indian spices abroad. Which source and benefit does the session mention?",
+   "explanation": "The session names Thailand as the main source of high-bronze tin and the eastern Indonesian islands for profitable spices.",
+   "options": [
+    "Tin from Thailand and high profits from spices of the eastern Indonesian islands",
+    "Tin from Egypt and high profits from horses bought in Arabia",
+    "Tin from Rome and high profits from wine sold in Southeast Asia",
+    "Tin from Persia and high profits from glass sold in the Indonesian islands"
+   ],
+   "answer": 0
+  },
+  {
+   "id": "m2-t4-q053",
+   "topic": "m2-t4",
+   "difficulty": "medium",
+   "type": "mcq",
+   "question": "Brahmi and Kharoshti inscriptions of the 1st-5th century AD were found on which objects at Tamralipti and in West Bengal?",
+   "explanation": "The inscriptions were found on pots, seals and plaques.",
+   "options": [
+    "Roman coins",
+    "Temple bells",
+    "Palm-leaf books",
+    "Pots, seals and plaques"
+   ],
+   "answer": 3
+  },
+  {
+   "id": "m2-t4-q054",
+   "topic": "m2-t4",
+   "difficulty": "medium",
+   "type": "fill",
+   "question": "The Anuradhapura excavation shows Indian traders introduced ______ script to Sri Lanka.",
+   "explanation": "Stratigraphical evidence at Anuradhapura shows the introduction of Brahmi script by traders of India.",
+   "accept": [
+    "Brahmi"
+   ]
+  },
+  {
+   "id": "m2-t4-q055",
+   "topic": "m2-t4",
+   "difficulty": "easy",
+   "type": "tf",
+   "question": "The session says the Chola naval expedition's exports included camphor, copper and tin.",
+   "explanation": "False. Exports were pearls, pepper and textiles; camphor, copper and tin were imports.",
+   "answer": false
+  },
+  {
+   "id": "m2-t4-q056",
+   "topic": "m2-t4",
+   "difficulty": "hard",
+   "type": "not",
+   "question": "Which statement about the archaeological evidence is NOT supported by the session?",
+   "explanation": "Rouletted ware is found across India, Southeast Asia and West Asia, not only in Rome.",
+   "options": [
+    "Ban Don Ta Phet suggests 4th century BCE contact",
+    "Rouletted ware is found only in Rome",
+    "Anuradhapura shows Brahmi script reaching Sri Lanka",
+    "Inscriptions in Thailand suggest script migrated with trade"
+   ],
+   "answer": 1
+  },
+  {
+   "id": "m2-t5-q057",
+   "topic": "m2-t5",
+   "difficulty": "easy",
+   "type": "concept",
+   "question": "A group of merchants travelling together for safety is called a:",
+   "explanation": "The session defines a caravan as a group of merchants travelling together for safety.",
+   "options": [
+    "Guild",
+    "Caravan",
+    "Treasury",
+    "Dockyard"
+   ],
+   "answer": 1
+  },
+  {
+   "id": "m2-t5-q058",
+   "topic": "m2-t5",
+   "difficulty": "medium",
+   "type": "multi",
+   "question": "Which pack animals are named for caravan trade? (Select all that apply)",
+   "explanation": "The session names camels, horses, bullocks and donkeys.",
+   "options": [
+    "Elephants",
+    "Donkeys",
+    "Bullocks",
+    "Camels",
+    "Horses",
+    "Mules"
+   ],
+   "answer": [
+    1,
+    2,
+    3,
+    4
+   ]
+  },
+  {
+   "id": "m2-t5-q059",
+   "topic": "m2-t5",
+   "difficulty": "medium",
+   "type": "multi",
+   "question": "Which caravan infrastructure is named? (Select all that apply)",
+   "explanation": "Infrastructure along routes included inns or serais, wells and fortified outposts.",
+   "options": [
+    "Inns/serais",
+    "Wells",
+    "Dry docks",
+    "Lighthouses",
+    "Fortified outposts"
+   ],
+   "answer": [
+    0,
+    1,
+    4
+   ]
+  },
+  {
+   "id": "m2-t5-q060",
+   "topic": "m2-t5",
+   "difficulty": "medium",
+   "type": "mcq",
+   "question": "The earliest Indian reference to a caravanserai is found in:",
+   "explanation": "The earliest reference is in the Delhi-Topra pillar edict No. 7, 3rd century BCE, under Ashoka.",
+   "options": [
+    "The Periplus of the Erythraean Sea",
+    "Panini's Ashtadhyayi",
+    "Megasthenes' Indica",
+    "Delhi-Topra pillar edict No. 7 of Ashoka"
+   ],
+   "answer": 3
+  },
+  {
+   "id": "m2-t5-q061",
+   "topic": "m2-t5",
+   "difficulty": "medium",
+   "type": "mcq",
+   "question": "In which century does the session date the Delhi-Topra pillar edict No. 7?",
+   "explanation": "The edict dates to the 3rd century BCE, in Ashoka's reign.",
+   "options": [
+    "3rd century BCE",
+    "1st century CE",
+    "6th century BCE",
+    "5th century CE"
+   ],
+   "answer": 0
+  },
+  {
+   "id": "m2-t5-q062",
+   "topic": "m2-t5",
+   "difficulty": "medium",
+   "type": "mcq",
+   "question": "The rise of what also saw the development of trading infrastructure, according to the session?",
+   "explanation": "The rise of the 16 Mahajanapadas saw trading infrastructure develop.",
+   "options": [
+    "The Gupta Empire",
+    "The Roman Empire",
+    "The 16 Mahajanapadas",
+    "The Chola navy"
+   ],
+   "answer": 2
+  },
+  {
+   "id": "m2-t5-q063",
+   "topic": "m2-t5",
+   "difficulty": "hard",
+   "type": "multi",
+   "question": "What logistic support did caravanserais give traders? (Select all that apply)",
+   "explanation": "Caravanserais gave security, shelter, food, water and other services.",
+   "options": [
+    "Food",
+    "Royal escorts to Rome",
+    "Free ships",
+    "Shelter",
+    "Security",
+    "Water"
+   ],
+   "answer": [
+    0,
+    3,
+    4,
+    5
+   ]
+  },
+  {
+   "id": "m2-t5-q064",
+   "topic": "m2-t5",
+   "difficulty": "medium",
+   "type": "mcq",
+   "question": "During the Mauryan period, trade routes extended into Southeast Asia through the:",
+   "explanation": "Mauryan routes extended through the Malay Peninsula into Southeast Asia.",
+   "options": [
+    "Persian Gulf",
+    "Red Sea",
+    "Malay Peninsula",
+    "Khyber Pass"
+   ],
+   "answer": 2
+  },
+  {
+   "id": "m2-t5-q065",
+   "topic": "m2-t5",
+   "difficulty": "medium",
+   "type": "mcq",
+   "question": "Which pass acted as a strategically important gateway on the Silk Road link to the subcontinent?",
+   "explanation": "The Khyber Pass was the strategic gateway for trade and communication.",
+   "options": [
+    "Khyber Pass",
+    "Zoji La",
+    "Burzil",
+    "Dom La"
+   ],
+   "answer": 0
+  },
+  {
+   "id": "m2-t5-q066",
+   "topic": "m2-t5",
+   "difficulty": "hard",
+   "type": "multi",
+   "question": "Which items are named among key exports in the session? (Select all that apply)",
+   "explanation": "Exports included silk, cotton and muslin textiles, spices, gems, ivory, timber, bamboo, dyes, wootz steel and medicinal substances.",
+   "options": [
+    "Muslin",
+    "Ivory",
+    "Wine",
+    "Diamonds",
+    "Wootz steel",
+    "Lead"
+   ],
+   "answer": [
+    0,
+    1,
+    3,
+    4
+   ]
+  },
+  {
+   "id": "m2-t5-q067",
+   "topic": "m2-t5",
+   "difficulty": "medium",
+   "type": "not",
+   "question": "Which of the following is NOT listed as an import of the caravan period?",
+   "explanation": "Imports listed were lead, wine, horses, crude glass, asphalt and antimony. Spices were exports.",
+   "options": [
+    "Lead",
+    "Horses",
+    "Antimony",
+    "Spices"
+   ],
+   "answer": 3
+  },
+  {
+   "id": "m2-t5-q068",
+   "topic": "m2-t5",
+   "difficulty": "easy",
+   "type": "tf",
+   "question": "Wine, horses and crude glass are named among the exports of the caravan period.",
+   "explanation": "False. Wine, horses, crude glass, lead, asphalt and antimony are listed as imports.",
+   "answer": false
+  },
+  {
+   "id": "m2-t5-q069",
+   "topic": "m2-t5",
+   "difficulty": "hard",
+   "type": "scenario",
+   "question": "A caravan crossing a dry stretch reaches a roadside inn with a well and a fortified wall. Which feature of caravan trade does this illustrate?",
+   "explanation": "Inns or serais, wells and fortified outposts supplied security, water and shelter.",
+   "options": [
+    "A Harappan coastal dock with processing centres for shell",
+    "Caravan infrastructure such as serais, wells and fortified outposts",
+    "A Roman sailing guide describing ports and seasons to sail",
+    "A Chola naval station supplying ships on the Bay of Bengal"
+   ],
+   "answer": 1
+  },
+  {
+   "id": "m2-t5-q070",
+   "topic": "m2-t5",
+   "difficulty": "hard",
+   "type": "ar",
+   "question": "Assertion (A): Caravanserais helped long-distance overland trade.\nReason (R): They provided security, shelter, food and water along the routes.",
+   "explanation": "Both are true and the second explains how they helped.",
+   "options": [
+    "Both A and R are true, and R explains A",
+    "Both A and R are true, but R does not explain A",
+    "A is true but R is false",
+    "A is false but R is true"
+   ],
+   "answer": 0
+  },
+  {
+   "id": "m2-t5-q071",
+   "topic": "m2-t5",
+   "difficulty": "easy",
+   "type": "fill",
+   "question": "The earliest reference to a caravanserai is in the Delhi-______ pillar edict No. 7.",
+   "explanation": "The earliest Indian reference to a caravanserai is the Delhi-Topra pillar edict No. 7.",
+   "accept": [
+    "Topra"
+   ]
+  },
+  {
+   "id": "m2-t6-q072",
+   "topic": "m2-t6",
+   "difficulty": "easy",
+   "type": "mcq",
+   "question": "Which are the two major trade routes named in the session's account of inland routes?",
+   "explanation": "The two major trade routes were the Uttarapatha and the Dakshinapatha.",
+   "options": [
+    "Silk Road and Spice Route",
+    "Uttarapatha and Dakshinapatha",
+    "Periplus and Hippalus route",
+    "Lothal and Dholavira routes"
+   ],
+   "answer": 1
+  },
+  {
+   "id": "m2-t6-q073",
+   "topic": "m2-t6",
+   "difficulty": "medium",
+   "type": "mcq",
+   "question": "The term Uttarapatha is mentioned primarily in:",
+   "explanation": "The session says Uttarapatha is mentioned primarily in Panini's Ashtadhyayi.",
+   "options": [
+    "The Arthashastra",
+    "The Mahabharata",
+    "The Periplus",
+    "Panini's Ashtadhyayi"
+   ],
+   "answer": 3
+  },
+  {
+   "id": "m2-t6-q074",
+   "topic": "m2-t6",
+   "difficulty": "medium",
+   "type": "mcq",
+   "question": "The session describes the Uttarapatha as a trans-regional route that is best seen as a:",
+   "explanation": "The Uttarapatha is described as a land-river route from north-west India across the Indo-Gangetic plains.",
+   "options": [
+    "Land-river route",
+    "Pure sea route",
+    "Mountain pass only",
+    "Underground canal"
+   ],
+   "answer": 0
+  },
+  {
+   "id": "m2-t6-q075",
+   "topic": "m2-t6",
+   "difficulty": "medium",
+   "type": "mcq",
+   "question": "The Uttarapatha ran from north-west India across the Indo-Gangetic plains up to the port of:",
+   "explanation": "The Uttarapatha reached Tamralipti on the Bay of Bengal.",
+   "options": [
+    "Barygaza on the Arabian Sea",
+    "Muziris on the Malabar coast",
+    "Tamralipti on the Bay of Bengal",
+    "Arikamedu on the Coromandel coast"
+   ],
+   "answer": 2
+  },
+  {
+   "id": "m2-t6-q076",
+   "topic": "m2-t6",
+   "difficulty": "hard",
+   "type": "multi",
+   "question": "Which places are named on the northern path of the Uttarapatha? (Select all that apply)",
+   "explanation": "The northern path included Lahore, Jalandhar, Saharanpur, Bijnor, Gorakhpur, Bihar and Bengal.",
+   "options": [
+    "Ujjain",
+    "Paithan",
+    "Bijnor",
+    "Gorakhpur",
+    "Lahore",
+    "Jalandhar"
+   ],
+   "answer": [
+    2,
+    3,
+    4,
+    5
+   ]
+  },
+  {
+   "id": "m2-t6-q077",
+   "topic": "m2-t6",
+   "difficulty": "medium",
+   "type": "multi",
+   "question": "Which places are named on the southern path? (Select all that apply)",
+   "explanation": "The southern path included Lahore, Indraprastha, Hastinapur, Varanasi, Prayagraj, Pataliputra and Rajgir.",
+   "options": [
+    "Varanasi",
+    "Rajgir",
+    "Prayagraj",
+    "Gorakhpur",
+    "Hastinapur",
+    "Jalandhar"
+   ],
+   "answer": [
+    0,
+    1,
+    2,
+    4
+   ]
+  },
+  {
+   "id": "m2-t6-q078",
+   "topic": "m2-t6",
+   "difficulty": "medium",
+   "type": "mcq",
+   "question": "Which trade centres are named among India's most important in the session?",
+   "explanation": "The list includes Barygaza, Ujjaini, Muziris, Soppara, Pataliputra, Kalyana, Poduca, Kaveripattinam and Tamralipti.",
+   "options": [
+    "Rome, Alexandria, Antioch, Damascus and Aden",
+    "Kashgar, Yarkand, Khotan, Bactria and Chang'an",
+    "Barygaza, Ujjaini, Muziris, Pataliputra and Tamralipti",
+    "Oman, Bahrain, Muscat, Aden and Zanzibar"
+   ],
+   "answer": 2
+  },
+  {
+   "id": "m2-t6-q079",
+   "topic": "m2-t6",
+   "difficulty": "medium",
+   "type": "mcq",
+   "question": "The Dakshinapatha stretched from Pataliputra in Magadha to:",
+   "explanation": "The Dakshinapatha ran from Pataliputra to Pratishthana (Paithan).",
+   "options": [
+    "Pratishthana (Paithan)",
+    "Taxila",
+    "Tamralipti",
+    "Balkh"
+   ],
+   "answer": 0
+  },
+  {
+   "id": "m2-t6-q080",
+   "topic": "m2-t6",
+   "difficulty": "medium",
+   "type": "mcq",
+   "question": "Branch routes connected the Dakshinapatha to Virampattinam (Arikamedu) through:",
+   "explanation": "The Dakshinapatha was connected to Virampattinam or Arikamedu via Pratishthana.",
+   "options": [
+    "Taxila",
+    "Mathura",
+    "Rajgir",
+    "Pratishthana"
+   ],
+   "answer": 3
+  },
+  {
+   "id": "m2-t6-q081",
+   "topic": "m2-t6",
+   "difficulty": "medium",
+   "type": "mcq",
+   "question": "Which coasts were linked to the Uttarapatha by branch routes?",
+   "explanation": "The Uttarapatha was connected to the Sind and Odisha coasts.",
+   "options": [
+    "The Malabar and Konkan coasts",
+    "The Sind and Odisha coasts",
+    "The Red Sea coast",
+    "The Makran and Oman coasts"
+   ],
+   "answer": 1
+  },
+  {
+   "id": "m2-t6-q082",
+   "topic": "m2-t6",
+   "difficulty": "hard",
+   "type": "multi",
+   "question": "Which goods moved along the Uttarapatha? (Select all that apply)",
+   "explanation": "Goods included lapis lazuli, silver and semi-precious stones from Afghanistan and Central Asia, and sea shells from the east coast.",
+   "options": [
+    "Silver",
+    "Sea shells from the east coast",
+    "Roman wine",
+    "Semi-precious stones",
+    "Crude glass",
+    "Lapis lazuli"
+   ],
+   "answer": [
+    0,
+    1,
+    3,
+    5
+   ]
+  },
+  {
+   "id": "m2-t6-q083",
+   "topic": "m2-t6",
+   "difficulty": "hard",
+   "type": "multi",
+   "question": "Which items did mineral-rich Rajasthan supply along the Dakshinapatha? (Select all that apply)",
+   "explanation": "Rajasthan supplied semi-precious stones, silver, gold, lead, copper, iron, sandalwood and hides.",
+   "options": [
+    "Pearls",
+    "Copper",
+    "Lapis lazuli",
+    "Iron",
+    "Hides",
+    "Silver"
+   ],
+   "answer": [
+    1,
+    3,
+    4,
+    5
+   ]
+  },
+  {
+   "id": "m2-t6-q084",
+   "topic": "m2-t6",
+   "difficulty": "medium",
+   "type": "mcq",
+   "question": "Which centres are named as important on the Dakshinapatha?",
+   "explanation": "Ujjain, Vidisha and Kaushambi were important trading centres on the Dakshinapatha.",
+   "options": [
+    "Taxila, Balkh and Kapisa",
+    "Ujjain, Vidisha and Kaushambi",
+    "Muziris, Calicut and Quilon",
+    "Champa, Kasi and Tamralipti"
+   ],
+   "answer": 1
+  },
+  {
+   "id": "m2-t6-q085",
+   "topic": "m2-t6",
+   "difficulty": "easy",
+   "type": "tf",
+   "question": "Lapis lazuli travelled along the Uttarapatha from Rajasthan.",
+   "explanation": "False. Lapis lazuli and other goods on the Uttarapatha came from Afghanistan and Central Asia; Rajasthan supplied materials along the Dakshinapatha.",
+   "answer": false
+  },
+  {
+   "id": "m2-t6-q086",
+   "topic": "m2-t6",
+   "difficulty": "hard",
+   "type": "scenario",
+   "question": "A trader at Pataliputra sends goods towards the Deccan and then to Arikamedu. Which route does the session describe?",
+   "explanation": "The Dakshinapatha ran from Pataliputra to Pratishthana, with a branch to Virampattinam (Arikamedu).",
+   "options": [
+    "The Uttarapatha northwards through Taxila to the Oxus and Balkh",
+    "The Harappan Cholistan route between Punjab and Rajasthan",
+    "The Silk Road branch from Yarkand across the Karakoram to Leh",
+    "The Dakshinapatha with a branch via Pratishthana to Arikamedu"
+   ],
+   "answer": 3
+  },
+  {
+   "id": "m2-t6-q087",
+   "topic": "m2-t6",
+   "difficulty": "hard",
+   "type": "compare",
+   "question": "How do the Uttarapatha and Dakshinapatha differ in the session?",
+   "explanation": "The Uttarapatha was the northern land-river route; the Dakshinapatha ran southwards to Pratishthana.",
+   "options": [
+    "Uttarapatha crossed the north to Tamralipti and the north-west; Dakshinapatha ran from Pataliputra to Pratishthana",
+    "Uttarapatha was only a sea route to Arabia; Dakshinapatha was only a river in the Deccan",
+    "Both routes started at Tamralipti and ended together at the port of Arikamedu",
+    "Dakshinapatha is the overland Silk Road; Uttarapatha is the Indian Ocean spice route"
+   ],
+   "answer": 0
+  },
+  {
+   "id": "m2-t6-q088",
+   "topic": "m2-t6",
+   "difficulty": "hard",
+   "type": "ar",
+   "question": "Assertion (A): The Uttarapatha was connected to the Sind and Odisha coasts by branch routes.\nReason (R): The Dakshinapatha was connected to Virampattinam (Arikamedu) through Pratishthana.",
+   "explanation": "Both are true, but R is a separate example (the southern route) and does not explain A.",
+   "options": [
+    "Both A and R are true, and R explains A",
+    "Both A and R are true, but R does not explain A",
+    "A is true but R is false",
+    "A is false but R is true"
+   ],
+   "answer": 1
+  },
+  {
+   "id": "m2-t6-q089",
+   "topic": "m2-t6",
+   "difficulty": "easy",
+   "type": "tf",
+   "question": "According to the session, Chiang Kien's expedition led China to discover Europe and marked the birth of the Silk Road.",
+   "explanation": "True. The expedition led China to discover Europe and the birth of the Silk Road.",
+   "answer": true
+  },
+  {
+   "id": "m2-t6-q090",
+   "topic": "m2-t6",
+   "difficulty": "hard",
+   "type": "not",
+   "question": "Which statement about the inland routes is NOT supported by the session?",
+   "explanation": "The Uttarapatha began at the eastern end, Tamralipti; Pratishthana belongs to the Dakshinapatha.",
+   "options": [
+    "The Uttarapatha was mentioned in Panini's Ashtadhyayi",
+    "The Dakshinapatha linked Pataliputra and Pratishthana",
+    "The Uttarapatha began at Pratishthana",
+    "Branch routes joined both highways to ports"
+   ],
+   "answer": 2
+  },
+  {
+   "id": "m2-t7-q091",
+   "topic": "m2-t7",
+   "difficulty": "medium",
+   "type": "mcq",
+   "question": "Roughly how long was the Silk Road according to the session?",
+   "explanation": "The Silk Road spanned almost 7,000 miles from China through Central Asia, northern India and the Parthian Empire to Rome.",
+   "options": [
+    "About 700 miles",
+    "About 70 miles",
+    "About 7,000 miles",
+    "About 70,000 miles"
+   ],
+   "answer": 2
+  },
+  {
+   "id": "m2-t7-q092",
+   "topic": "m2-t7",
+   "difficulty": "medium",
+   "type": "mcq",
+   "question": "Who first used the term Silk Road in 1838?",
+   "explanation": "German geographer Carl Ritter first used the term in 1838; it was popularised by von Richthofen in 1877.",
+   "options": [
+    "Carl Ritter",
+    "Ferdinand von Richthofen",
+    "Chiang Kien",
+    "Xuanzang"
+   ],
+   "answer": 0
+  },
+  {
+   "id": "m2-t7-q093",
+   "topic": "m2-t7",
+   "difficulty": "medium",
+   "type": "mcq",
+   "question": "Who popularised the term Silk Road in 1877?",
+   "explanation": "Baron Ferdinand von Richthofen popularised the term in 1877.",
+   "options": [
+    "Carl Ritter",
+    "Emperor Wu-ti",
+    "Kalidasa",
+    "Baron Ferdinand von Richthofen"
+   ],
+   "answer": 3
+  },
+  {
+   "id": "m2-t7-q094",
+   "topic": "m2-t7",
+   "difficulty": "medium",
+   "type": "mcq",
+   "question": "Chiang Kien was sent west in 138 BC by:",
+   "explanation": "The Chinese diplomat Chiang Kien was sent by Emperor Wu-ti in 138 BC.",
+   "options": [
+    "Ashoka",
+    "Emperor Wu-ti",
+    "Kanishka",
+    "Seleucus"
+   ],
+   "answer": 1
+  },
+  {
+   "id": "m2-t7-q095",
+   "topic": "m2-t7",
+   "difficulty": "easy",
+   "type": "tf",
+   "question": "Chiang Kien returned to the Han capital Changan after three years.",
+   "explanation": "False. He returned after thirteen years, having been sent west in 138 BC with a caravan of one hundred men.",
+   "answer": false
+  },
+  {
+   "id": "m2-t7-q096",
+   "topic": "m2-t7",
+   "difficulty": "medium",
+   "type": "mcq",
+   "question": "With how many men was Chiang Kien's caravan sent west?",
+   "explanation": "He left with a caravan of one hundred men.",
+   "options": [
+    "Ten",
+    "One hundred",
+    "One thousand",
+    "Five"
+   ],
+   "answer": 1
+  },
+  {
+   "id": "m2-t7-q097",
+   "topic": "m2-t7",
+   "difficulty": "medium",
+   "type": "concept",
+   "question": "The Silk Road, according to the session, is best understood as:",
+   "explanation": "It was not a single road but a series of caravan routes and trading posts across Eurasia.",
+   "options": [
+    "One paved highway running straight from China to Rome",
+    "A single sea lane between the Red Sea and the Bay of Bengal",
+    "A canal system linking the Oxus river with the Ganga river",
+    "A network of caravan routes, trails, trading posts and oases"
+   ],
+   "answer": 3
+  },
+  {
+   "id": "m2-t7-q098",
+   "topic": "m2-t7",
+   "difficulty": "medium",
+   "type": "mcq",
+   "question": "The eastern terminus of the Silk Road was:",
+   "explanation": "The eastern terminus was the Chinese capital Chang'an, today's Xian.",
+   "options": [
+    "Chang'an (Xian)",
+    "Antioch",
+    "Damascus",
+    "Constantinople"
+   ],
+   "answer": 0
+  },
+  {
+   "id": "m2-t7-q099",
+   "topic": "m2-t7",
+   "difficulty": "medium",
+   "type": "multi",
+   "question": "Which cities are named as western terminals? (Select all that apply)",
+   "explanation": "The western terminals included Byzantium or Constantinople, Antioch and Damascus.",
+   "options": [
+    "Byzantium/Constantinople",
+    "Chang'an",
+    "Antioch",
+    "Taxila",
+    "Damascus"
+   ],
+   "answer": [
+    0,
+    2,
+    4
+   ]
+  },
+  {
+   "id": "m2-t7-q100",
+   "topic": "m2-t7",
+   "difficulty": "medium",
+   "type": "concept",
+   "question": "Which art tradition fused Indian Buddhist art under the Kushanas with Greek art introduced by Alexander?",
+   "explanation": "Gandharan art, in the Peshawar valley, fused Indian Buddhist and Greek art, with some Persian elements.",
+   "options": [
+    "Harappan seal art",
+    "Mauryan pillar art only",
+    "Gandharan (Graeco-Indian) art",
+    "Chola bronze art"
+   ],
+   "answer": 2
+  },
+  {
+   "id": "m2-t7-q101",
+   "topic": "m2-t7",
+   "difficulty": "medium",
+   "type": "mcq",
+   "question": "The Mahabharata and the Arthashastra refer to China as:",
+   "explanation": "Both texts refer to China as Tsin.",
+   "options": [
+    "Chola",
+    "Funan",
+    "Tsin",
+    "Gandhara"
+   ],
+   "answer": 2
+  },
+  {
+   "id": "m2-t7-q102",
+   "topic": "m2-t7",
+   "difficulty": "medium",
+   "type": "multi",
+   "question": "Which goods moved from China along the Silk Road? (Select all that apply)",
+   "explanation": "From China came silk, medical herbs, carved jade, furs and ceramics.",
+   "options": [
+    "Wootz steel",
+    "Carved jade",
+    "Ceramics",
+    "Pepper",
+    "Medicinal herbs",
+    "Silk"
+   ],
+   "answer": [
+    1,
+    2,
+    4,
+    5
+   ]
+  },
+  {
+   "id": "m2-t7-q103",
+   "topic": "m2-t7",
+   "difficulty": "medium",
+   "type": "multi",
+   "question": "Which goods were imported into China? (Select all that apply)",
+   "explanation": "China imported horses, glassware, raw jade, gold and silver.",
+   "options": [
+    "Furs",
+    "Silk",
+    "Gold",
+    "Silver",
+    "Glassware",
+    "Horses"
+   ],
+   "answer": [
+    2,
+    3,
+    4,
+    5
+   ]
+  },
+  {
+   "id": "m2-t7-q104",
+   "topic": "m2-t7",
+   "difficulty": "medium",
+   "type": "mcq",
+   "question": "An important branch route leaving the southern Silk Road at Yarkand crossed the Karakoram to reach:",
+   "explanation": "The branch crossed the Karakoram passes to Leh and Srinagar and then reached north-west India.",
+   "options": [
+    "Leh and Srinagar",
+    "Rome and Antioch",
+    "Tamralipti and Pataliputra",
+    "Oman and Bahrain"
+   ],
+   "answer": 0
+  },
+  {
+   "id": "m2-t7-q105",
+   "topic": "m2-t7",
+   "difficulty": "medium",
+   "type": "mcq",
+   "question": "Chiang Kien's report also describes India's trade with south-western China through:",
+   "explanation": "His report deals with trade through Assam and Burma as early as the 2nd century BC.",
+   "options": [
+    "Sind and Kachchh",
+    "Persia and Egypt",
+    "Ceylon and Java",
+    "Assam and Burma"
+   ],
+   "answer": 3
+  },
+  {
+   "id": "m2-t7-q106",
+   "topic": "m2-t7",
+   "difficulty": "hard",
+   "type": "scenario",
+   "question": "A scholar wants early Indian literary evidence of Chinese silk. Which sources does the session name?",
+   "explanation": "Silk is mentioned as a foreign gift in the epics and the Manusmriti; Kautilya mentions China silk; Kalidasa speaks of Chinanashuka.",
+   "options": [
+    "Only Roman writers describing silk bought at Barygaza",
+    "The epics, the Manusmriti, Kautilya and Kalidasa's Abhigyan Shakuntalam",
+    "Only Chinese chronicles describing gifts sent to India",
+    "Only the Periplus and the inscriptions at Ban Don Ta Phet"
+   ],
+   "answer": 1
+  },
+  {
+   "id": "m2-t7-q107",
+   "topic": "m2-t7",
+   "difficulty": "hard",
+   "type": "compare",
+   "question": "How does Xuanzang's role differ from Chiang Kien's in the session?",
+   "explanation": "Chiang Kien's expedition led China to discover Europe; Xuanzang travelled from China to India via the Silk Road and recorded Gandhara.",
+   "options": [
+    "Xuanzang founded the Han dynasty; Chiang Kien wrote the text called Arthashastra",
+    "Chiang Kien reported on the west for the Han emperor; Xuanzang travelled to India and recorded Gandhara",
+    "Both men were Roman ambassadors who travelled from Rome to Pataliputra",
+    "Chiang Kien recorded Gandhara for Kanishka; Xuanzang coined the term Silk Road"
+   ],
+   "answer": 1
+  },
+  {
+   "id": "m2-t7-q108",
+   "topic": "m2-t7",
+   "difficulty": "hard",
+   "type": "ar",
+   "question": "Assertion (A): The Silk Road is not a single clearly defined road.\nReason (R): It is a series of caravan routes with trading posts, oases and emporia across Eurasia.",
+   "explanation": "Both are true and the second explains the first.",
+   "options": [
+    "Both A and R are true, and R explains A",
+    "Both A and R are true, but R does not explain A",
+    "A is true but R is false",
+    "A is false but R is true"
+   ],
+   "answer": 0
+  },
+  {
+   "id": "m2-t7-q109",
+   "topic": "m2-t7",
+   "difficulty": "hard",
+   "type": "tf",
+   "question": "Kushan sites at Harwan, Ushkur and Kanispur show the diffusion of Silk Route art into Kashmir.",
+   "explanation": "True. Excavations there revealed the diffusion of art from different areas of the Silk Route.",
+   "answer": true
+  },
+  {
+   "id": "m2-t7-q110",
+   "topic": "m2-t7",
+   "difficulty": "medium",
+   "type": "fill",
+   "question": "The Han dynasty (202 BC-220 AD) is associated with the rise and development of the ______ Road.",
+   "explanation": "The Han dynasty largely came to be associated with the Silk Road.",
+   "accept": [
+    "Silk"
+   ]
+  }
+ ],
+ "cards": [
+  {
+   "id": "m2-c001",
+   "topic": "m2-t7",
+   "front": "Silk Road: key facts",
+   "back": "About 7,000 miles; a network of routes; eastern terminus Chang'an (Xian); western terminals Byzantium/Constantinople, Antioch, Damascus."
+  },
+  {
+   "id": "m2-c002",
+   "topic": "m2-t6",
+   "front": "Two major inland routes",
+   "back": "Uttarapatha (north-west India across the Indo-Gangetic plains to Tamralipti) and Dakshinapatha (Pataliputra to Pratishthana)."
+  },
+  {
+   "id": "m2-c003",
+   "topic": "m2-t5",
+   "front": "Caravan infrastructure",
+   "back": "Inns or serais, wells and fortified outposts, giving security, shelter, food and water."
+  },
+  {
+   "id": "m2-c004",
+   "topic": "m2-t3",
+   "front": "Harappan trade materials",
+   "back": "Shell, copper, gold, lead, zinc, alabaster, limestone, steatite, and semi-precious stones (carnelian, agate, jasper)."
+  },
+  {
+   "id": "m2-c005",
+   "topic": "m2-t4",
+   "front": "Archaeological evidence of maritime links",
+   "back": "Anuradhapura Brahmi script; Tamralipti and Bengal inscriptions; Kharoshti-Brahmi finds in Southeast Asia; Rouletted ware; Ban Don Ta Phet."
+  }
+ ]
+}

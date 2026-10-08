@@ -1,0 +1,1713 @@
+{
+ "module": "m7",
+ "questions": [
+  {
+   "id": "m7-t1-q001",
+   "topic": "m7-t1",
+   "difficulty": "easy",
+   "type": "mcq",
+   "question": "By 322 BCE, who had unified the fragmented territories into the first pan-Indian empire?",
+   "explanation": "By 322 BCE Chandragupta Maurya had built the first pan-Indian empire.",
+   "options": [
+    "Bindusara",
+    "Ashoka",
+    "Chandragupta Maurya",
+    "Seleucus I"
+   ],
+   "answer": 2
+  },
+  {
+   "id": "m7-t1-q002",
+   "topic": "m7-t1",
+   "difficulty": "medium",
+   "type": "multi",
+   "question": "Which roles did the Mauryan state play in trade and commerce? (Select all that apply)",
+   "explanation": "The four roles were regulator, investor, revenue collector and diplomat.",
+   "options": [
+    "Diplomat",
+    "Investor",
+    "Caravan leader",
+    "Guild treasurer",
+    "Revenue collector",
+    "Regulator"
+   ],
+   "answer": [
+    0,
+    1,
+    4,
+    5
+   ]
+  },
+  {
+   "id": "m7-t1-q003",
+   "topic": "m7-t1",
+   "difficulty": "hard",
+   "type": "match",
+   "question": "Match each role of the Mauryan state with what it did.",
+   "explanation": "These are the four roles on the session's slide.",
+   "pairs": [
+    [
+     "Regulator",
+     "Set prices, standardized weights and policed hoarding and fraud"
+    ],
+    [
+     "Investor",
+     "Built roads, ports and irrigation"
+    ],
+    [
+     "Revenue collector",
+     "Taxed production, tolls and trade"
+    ],
+    [
+     "Diplomat",
+     "Opened and protected markets through treaties and embassies"
+    ]
+   ]
+  },
+  {
+   "id": "m7-t1-q004",
+   "topic": "m7-t1",
+   "difficulty": "easy",
+   "type": "concept",
+   "question": "A state that sets prices, standardizes weights and polices hoarding and fraud is acting as a:",
+   "explanation": "Regulating prices, weights and fraud is the regulator role.",
+   "options": [
+    "Regulator",
+    "Investor",
+    "Revenue collector",
+    "Diplomat"
+   ],
+   "answer": 0
+  },
+  {
+   "id": "m7-t1-q005",
+   "topic": "m7-t1",
+   "difficulty": "medium",
+   "type": "scenario",
+   "question": "The state builds and maintains roads, ports and irrigation that merchants depend on. Which role is this?",
+   "explanation": "Building roads, ports and irrigation is the investor role.",
+   "options": [
+    "Regulator",
+    "Diplomat",
+    "Revenue collector",
+    "Investor"
+   ],
+   "answer": 3
+  },
+  {
+   "id": "m7-t1-q006",
+   "topic": "m7-t1",
+   "difficulty": "medium",
+   "type": "scenario",
+   "question": "The state taxes agricultural produce and collects tolls to fund administration and the army. Which role is this?",
+   "explanation": "Taxing production, tolls and trade is the revenue collector role.",
+   "options": [
+    "Investor",
+    "Revenue collector",
+    "Regulator",
+    "Diplomat"
+   ],
+   "answer": 1
+  },
+  {
+   "id": "m7-t1-q007",
+   "topic": "m7-t1",
+   "difficulty": "hard",
+   "type": "scenario",
+   "question": "The state sends an embassy to a foreign king to open and protect markets for its merchants. Which role is this?",
+   "explanation": "Opening and protecting external markets through treaties and embassies is the diplomat role.",
+   "options": [
+    "Regulator",
+    "Diplomat",
+    "Investor",
+    "Revenue collector"
+   ],
+   "answer": 1
+  },
+  {
+   "id": "m7-t1-q008",
+   "topic": "m7-t1",
+   "difficulty": "easy",
+   "type": "fill",
+   "question": "The Mauryan state played four roles: regulator, investor, revenue collector and ______.",
+   "explanation": "Diplomat is the fourth role.",
+   "accept": [
+    "diplomat"
+   ]
+  },
+  {
+   "id": "m7-t1-q009",
+   "topic": "m7-t1",
+   "difficulty": "medium",
+   "type": "tf",
+   "question": "The Mauryan state left trade entirely to merchants and guilds, as earlier regional kingdoms had done.",
+   "explanation": "False. Unlike earlier regional kingdoms, the Mauryan state took a direct, hands-on role in the economy rather than leaving trade to merchants and guilds alone.",
+   "answer": false
+  },
+  {
+   "id": "m7-t1-q010",
+   "topic": "m7-t1",
+   "difficulty": "medium",
+   "type": "not",
+   "question": "Which of these is NOT one of the four roles of the Mauryan state in the session?",
+   "explanation": "The roles are regulator, investor, revenue collector and diplomat.",
+   "options": [
+    "Regulator",
+    "Investor",
+    "Diplomat",
+    "Guild treasurer"
+   ],
+   "answer": 3
+  },
+  {
+   "id": "m7-t1-q011",
+   "topic": "m7-t1",
+   "difficulty": "hard",
+   "type": "compare",
+   "question": "How does the regulator role differ from the investor role?",
+   "explanation": "Regulation concerns rules and policing; investment concerns building infrastructure.",
+   "options": [
+    "The regulator sets and polices rules on prices, weights and fraud; the investor builds infrastructure like roads and ports",
+    "The regulator builds roads and ports; the investor sets prices and polices fraud",
+    "Both roles only collect taxes and tolls from traders and farmers",
+    "The regulator signs treaties with foreign kings; the investor collects tolls"
+   ],
+   "answer": 0
+  },
+  {
+   "id": "m7-t1-q012",
+   "topic": "m7-t1",
+   "difficulty": "hard",
+   "type": "ar",
+   "question": "Assertion (A): The Mauryan state acted as an investor in trade.\nReason (R): It built and maintained the roads, ports and irrigation that trade depended on.",
+   "explanation": "Both are true and the second explains the first.",
+   "options": [
+    "Both A and R are true, and R explains A",
+    "Both A and R are true, but R does not explain A",
+    "A is true but R is false",
+    "A is false but R is true"
+   ],
+   "answer": 0
+  },
+  {
+   "id": "m7-t2-q013",
+   "topic": "m7-t2",
+   "difficulty": "medium",
+   "type": "mcq",
+   "question": "Mauryan provinces were run by governors who were often:",
+   "explanation": "Provinces were run by governors, often princes called kumaras.",
+   "options": [
+    "Foreign ambassadors",
+    "Guild heads",
+    "Princes (kumaras)",
+    "Buddhist monks"
+   ],
+   "answer": 2
+  },
+  {
+   "id": "m7-t2-q014",
+   "topic": "m7-t2",
+   "difficulty": "easy",
+   "type": "concept",
+   "question": "A kumara in the Mauryan system was a:",
+   "explanation": "The key terms list defines a kumara as a royal prince appointed as provincial governor.",
+   "options": [
+    "A superintendent who collected tolls at the city gates",
+    "A Greek ambassador sent to the court at Pataliputra",
+    "Royal prince appointed as a provincial governor",
+    "A chief spy who reported on markets and officials"
+   ],
+   "answer": 2
+  },
+  {
+   "id": "m7-t2-q015",
+   "topic": "m7-t2",
+   "difficulty": "medium",
+   "type": "mcq",
+   "question": "The Arthashastra served the Mauryan state as:",
+   "explanation": "It prescribed rules for revenue, trade and administration.",
+   "options": [
+    "A manual of economic governance",
+    "A diary of the emperor",
+    "A sailing guide",
+    "A collection of hymns"
+   ],
+   "answer": 0
+  },
+  {
+   "id": "m7-t2-q016",
+   "topic": "m7-t2",
+   "difficulty": "easy",
+   "type": "fill",
+   "question": "Adhyakshas were ______ who oversaw state departments.",
+   "explanation": "An adhyaksha is a superintendent or head of a state department.",
+   "accept": [
+    "superintendents"
+   ]
+  },
+  {
+   "id": "m7-t2-q017",
+   "topic": "m7-t2",
+   "difficulty": "medium",
+   "type": "mcq",
+   "question": "What did the gudhapurushas do?",
+   "explanation": "Gudhapurushas were spies who reported to the centre.",
+   "options": [
+    "Collected tolls at ferries and river crossings",
+    "Led caravans of merchants along the northern road",
+    "Minted the coins used in the provincial markets",
+    "Reported on prices, markets and the conduct of officials"
+   ],
+   "answer": 3
+  },
+  {
+   "id": "m7-t2-q018",
+   "topic": "m7-t2",
+   "difficulty": "easy",
+   "type": "tf",
+   "question": "Mauryan adhyakshas answered to an elected legislature.",
+   "explanation": "False. They answered only to the emperor; modern ministries answer to elected legislatures.",
+   "answer": false
+  },
+  {
+   "id": "m7-t2-q019",
+   "topic": "m7-t2",
+   "difficulty": "medium",
+   "type": "scenario",
+   "question": "A secret agent reports to the capital that grain prices at a border market have suddenly jumped. Which Mauryan institution is at work?",
+   "explanation": "Spies reported on prices, markets and officials.",
+   "options": [
+    "The guild council",
+    "The espionage network of gudhapurushas",
+    "The caravan serai",
+    "The toll gate"
+   ],
+   "answer": 1
+  },
+  {
+   "id": "m7-t2-q020",
+   "topic": "m7-t2",
+   "difficulty": "hard",
+   "type": "scenario",
+   "question": "A prince governing a province makes market decisions without waiting for the capital. Which feature of the Mauryan system does this show?",
+   "explanation": "Governors pushed decisions closer to markets.",
+   "options": [
+    "Rule by an elected council of merchants in each province",
+    "Provincial governors pushing decisions closer to markets",
+    "Abolition of provinces so that all decisions are made at Pataliputra",
+    "Guild control of the state through the guild councils"
+   ],
+   "answer": 1
+  },
+  {
+   "id": "m7-t2-q021",
+   "topic": "m7-t2",
+   "difficulty": "hard",
+   "type": "compare",
+   "question": "How do the roles of an adhyaksha and a gudhapurusha differ?",
+   "explanation": "Adhyakshas oversaw departments; gudhapurushas reported to the centre.",
+   "options": [
+    "An adhyaksha was a spy; a gudhapurusha headed a department of the state",
+    "Both were provincial governors, usually chosen from among the princes",
+    "Both were foreign envoys sent by the Hellenistic kings",
+    "An adhyaksha headed a department; a gudhapurusha was a spy reporting on markets and officials"
+   ],
+   "answer": 3
+  },
+  {
+   "id": "m7-t2-q022",
+   "topic": "m7-t2",
+   "difficulty": "medium",
+   "type": "not",
+   "question": "Which of these is NOT a feature of Mauryan centralized administration in the session?",
+   "explanation": "Adhyakshas answered only to the emperor.",
+   "options": [
+    "Elected assemblies appointing the adhyakshas",
+    "Provincial governors, often princes, running the provinces",
+    "Adhyakshas overseeing commerce, tolls, mines and ports",
+    "A spy network reporting on prices and officials"
+   ],
+   "answer": 0
+  },
+  {
+   "id": "m7-t2-q023",
+   "topic": "m7-t2",
+   "difficulty": "hard",
+   "type": "ar",
+   "question": "Assertion (A): Mauryan provinces were run by governors, often princes (kumaras).\nReason (R): Kautilya's Arthashastra functioned as a manual of economic governance.",
+   "explanation": "Both are true, but the Arthashastra's role as a governance manual does not explain why governors were often princes.",
+   "options": [
+    "Both A and R are true, and R explains A",
+    "Both A and R are true, but R does not explain A",
+    "A is true but R is false",
+    "A is false but R is true"
+   ],
+   "answer": 1
+  },
+  {
+   "id": "m7-t2-q024",
+   "topic": "m7-t2",
+   "difficulty": "medium",
+   "type": "multi",
+   "question": "Which features made the Mauryan political economy centralized? (Select all that apply)",
+   "explanation": "Provinces, the Arthashastra, adhyakshas and spies formed the centralized system.",
+   "options": [
+    "Provinces under royal governors",
+    "No record-keeping",
+    "Adhyakshas over departments",
+    "The Arthashastra as a governance manual",
+    "Private guild courts that overruled the emperor",
+    "A spy network"
+   ],
+   "answer": [
+    0,
+    2,
+    3,
+    5
+   ]
+  },
+  {
+   "id": "m7-t3-q025",
+   "topic": "m7-t3",
+   "difficulty": "hard",
+   "type": "match",
+   "question": "Match each superintendent with his domain.",
+   "explanation": "These are the select adhyakshas in the session.",
+   "pairs": [
+    [
+     "Panyadhyaksha",
+     "Commerce"
+    ],
+    [
+     "Sulkadhyaksha",
+     "Tolls and customs"
+    ],
+    [
+     "Pautavadhyaksha",
+     "Weights and measures"
+    ],
+    [
+     "Akaradhyaksha",
+     "Mines"
+    ],
+    [
+     "Navadhyaksha",
+     "Ships, ports and ferries"
+    ]
+   ]
+  },
+  {
+   "id": "m7-t3-q026",
+   "topic": "m7-t3",
+   "difficulty": "easy",
+   "type": "mcq",
+   "question": "The Panyadhyaksha was the Superintendent of:",
+   "explanation": "Panyadhyaksha was the Superintendent of Commerce.",
+   "options": [
+    "Mines",
+    "Ships",
+    "Commerce",
+    "Tolls"
+   ],
+   "answer": 2
+  },
+  {
+   "id": "m7-t3-q027",
+   "topic": "m7-t3",
+   "difficulty": "medium",
+   "type": "mcq",
+   "question": "The Sulkadhyaksha oversaw:",
+   "explanation": "Sulkadhyaksha was the Superintendent of Tolls.",
+   "options": [
+    "Weights and measures",
+    "Mines",
+    "Tolls and customs",
+    "Ships"
+   ],
+   "answer": 2
+  },
+  {
+   "id": "m7-t3-q028",
+   "topic": "m7-t3",
+   "difficulty": "medium",
+   "type": "mcq",
+   "question": "The Pautavadhyaksha oversaw:",
+   "explanation": "Pautavadhyaksha was the Superintendent of Weights and Measures.",
+   "options": [
+    "Weights and measures",
+    "Tolls",
+    "Mines",
+    "Ports"
+   ],
+   "answer": 0
+  },
+  {
+   "id": "m7-t3-q029",
+   "topic": "m7-t3",
+   "difficulty": "medium",
+   "type": "mcq",
+   "question": "The Akaradhyaksha oversaw the state monopoly over:",
+   "explanation": "Akaradhyaksha was the Superintendent of Mines.",
+   "options": [
+    "Ferries",
+    "Cloth",
+    "Grain",
+    "Minerals and mines"
+   ],
+   "answer": 3
+  },
+  {
+   "id": "m7-t3-q030",
+   "topic": "m7-t3",
+   "difficulty": "medium",
+   "type": "mcq",
+   "question": "The Navadhyaksha was the Superintendent of:",
+   "explanation": "Navadhyaksha was the Superintendent of Ships.",
+   "options": [
+    "Commerce",
+    "Ships, ports and ferries",
+    "Tolls",
+    "Mines"
+   ],
+   "answer": 1
+  },
+  {
+   "id": "m7-t3-q031",
+   "topic": "m7-t3",
+   "difficulty": "hard",
+   "type": "match",
+   "question": "Match each Mauryan capital with its position.",
+   "explanation": "These are the imperial capital and four provincial capitals.",
+   "pairs": [
+    [
+     "Pataliputra",
+     "Imperial capital at the centre"
+    ],
+    [
+     "Taxila",
+     "North-west province"
+    ],
+    [
+     "Ujjain",
+     "Western province (Malwa)"
+    ],
+    [
+     "Tosali",
+     "Eastern province (Kalinga)"
+    ],
+    [
+     "Suvarnagiri",
+     "Southern province (Deccan)"
+    ]
+   ]
+  },
+  {
+   "id": "m7-t3-q032",
+   "topic": "m7-t3",
+   "difficulty": "easy",
+   "type": "mcq",
+   "question": "Which city was the imperial capital of the Mauryan Empire?",
+   "explanation": "Pataliputra was the imperial capital.",
+   "options": [
+    "Taxila",
+    "Pataliputra",
+    "Ujjain",
+    "Tosali"
+   ],
+   "answer": 1
+  },
+  {
+   "id": "m7-t3-q033",
+   "topic": "m7-t3",
+   "difficulty": "medium",
+   "type": "mcq",
+   "question": "What does the name Suvarnagiri literally mean?",
+   "explanation": "The session notes that its name literally means mountain of gold.",
+   "options": [
+    "City of ships",
+    "Gate of the north",
+    "River of spices",
+    "Mountain of gold"
+   ],
+   "answer": 3
+  },
+  {
+   "id": "m7-t3-q034",
+   "topic": "m7-t3",
+   "difficulty": "medium",
+   "type": "concept",
+   "question": "Why was Suvarnagiri economically vital, according to the session?",
+   "explanation": "Deccan's gold and gems made it vital.",
+   "options": [
+    "The Deccan's mineral wealth, including gold and gems",
+    "It controlled the Silk Road",
+    "It was the imperial capital",
+    "It held the largest port in the north"
+   ],
+   "answer": 0
+  },
+  {
+   "id": "m7-t3-q035",
+   "topic": "m7-t3",
+   "difficulty": "medium",
+   "type": "scenario",
+   "question": "A merchant needs to know who sets the standard units used in the marketplace. Which official is responsible?",
+   "explanation": "Pautavadhyaksha oversaw standard units of weights and measures.",
+   "options": [
+    "The Navadhyaksha",
+    "The Akaradhyaksha",
+    "The Pautavadhyaksha",
+    "The Sulkadhyaksha"
+   ],
+   "answer": 2
+  },
+  {
+   "id": "m7-t3-q036",
+   "topic": "m7-t3",
+   "difficulty": "hard",
+   "type": "scenario",
+   "question": "A boatman runs a ferry at a river crossing and uses a port. Under which superintendent does the session place ports and ferries?",
+   "explanation": "Navadhyaksha supervised ships, ports, ferries and transport.",
+   "options": [
+    "The Akaradhyaksha",
+    "The Pautavadhyaksha",
+    "The Navadhyaksha",
+    "The Panyadhyaksha"
+   ],
+   "answer": 2
+  },
+  {
+   "id": "m7-t3-q037",
+   "topic": "m7-t3",
+   "difficulty": "hard",
+   "type": "scenario",
+   "question": "A trader hauls goods through a city gate and a ford and must pay customs. Which superintendent's office collects this?",
+   "explanation": "Sulkadhyaksha oversaw tolls and customs duties.",
+   "options": [
+    "The Sulkadhyaksha",
+    "The Akaradhyaksha",
+    "The Pautavadhyaksha",
+    "The Navadhyaksha"
+   ],
+   "answer": 0
+  },
+  {
+   "id": "m7-t3-q038",
+   "topic": "m7-t3",
+   "difficulty": "medium",
+   "type": "not",
+   "question": "Which pairing of superintendent and domain is INCORRECT?",
+   "explanation": "Akaradhyaksha oversaw mines; ships were under the Navadhyaksha.",
+   "options": [
+    "Panyadhyaksha: commerce",
+    "Pautavadhyaksha: weights and measures",
+    "Sulkadhyaksha: tolls and customs",
+    "Akaradhyaksha: ships and ferries"
+   ],
+   "answer": 3
+  },
+  {
+   "id": "m7-t3-q039",
+   "topic": "m7-t3",
+   "difficulty": "hard",
+   "type": "compare",
+   "question": "How does the Panyadhyaksha differ from the Sulkadhyaksha?",
+   "explanation": "Commerce regulation and toll collection were separate offices.",
+   "options": [
+    "The Panyadhyaksha ran the mines; the Sulkadhyaksha ran the ports and ferries",
+    "The Panyadhyaksha regulated trade and merchants; the Sulkadhyaksha collected tolls and customs",
+    "Both officials ran the state mines under one shared office",
+    "The Panyadhyaksha collected tolls; the Sulkadhyaksha set standard weights"
+   ],
+   "answer": 1
+  },
+  {
+   "id": "m7-t3-q040",
+   "topic": "m7-t3",
+   "difficulty": "hard",
+   "type": "ar",
+   "question": "Assertion (A): Suvarnagiri was economically vital to the Mauryan Empire.\nReason (R): Its name literally means 'mountain of silver'.",
+   "explanation": "A is true. R is false: Suvarnagiri literally means 'mountain of gold'.",
+   "options": [
+    "Both A and R are true, and R explains A",
+    "Both A and R are true, but R does not explain A",
+    "A is true but R is false",
+    "A is false but R is true"
+   ],
+   "answer": 2
+  },
+  {
+   "id": "m7-t3-q041",
+   "topic": "m7-t3",
+   "difficulty": "medium",
+   "type": "scenario",
+   "question": "A prospector reports a rich gold seam in the Deccan. Under which Mauryan office would the state's monopoly over such minerals fall?",
+   "explanation": "Mines were under the Akaradhyaksha, with a state monopoly over minerals.",
+   "options": [
+    "The Navadhyaksha, the Superintendent of Ships",
+    "The Akaradhyaksha, the Superintendent of Mines",
+    "The Panyadhyaksha, the Superintendent of Commerce",
+    "The Pautavadhyaksha, the Superintendent of Weights"
+   ],
+   "answer": 1
+  },
+  {
+   "id": "m7-t4-q042",
+   "topic": "m7-t4",
+   "difficulty": "medium",
+   "type": "mcq",
+   "question": "What formed the state's revenue, according to the session?",
+   "explanation": "Revenue came from a share of land produce and tolls on goods.",
+   "options": [
+    "Tribute paid by Roman merchants and nothing else",
+    "Gifts from guild treasurers and nothing else",
+    "Fines imposed on priests and nothing else",
+    "A share of agricultural produce plus tolls (sulka) on goods"
+   ],
+   "answer": 3
+  },
+  {
+   "id": "m7-t4-q043",
+   "topic": "m7-t4",
+   "difficulty": "medium",
+   "type": "multi",
+   "question": "Which tools did the Mauryan state use besides revenue collection? (Select all that apply)",
+   "explanation": "The state paired revenue with price regulation, anti-hoarding and standard weights, measures and currency.",
+   "options": [
+    "Tax holidays for Rome",
+    "Price regulation",
+    "Standardized currency",
+    "Anti-hoarding measures",
+    "Standardized weights and measures",
+    "Private tax farming"
+   ],
+   "answer": [
+    1,
+    2,
+    3,
+    4
+   ]
+  },
+  {
+   "id": "m7-t4-q044",
+   "topic": "m7-t4",
+   "difficulty": "easy",
+   "type": "fill",
+   "question": "Tolls on goods moving through the empire were called ______.",
+   "explanation": "The session uses the term sulka for tolls on goods moving through the empire, one of the state's main sources of revenue.",
+   "accept": [
+    "sulka"
+   ]
+  },
+  {
+   "id": "m7-t4-q045",
+   "topic": "m7-t4",
+   "difficulty": "easy",
+   "type": "tf",
+   "question": "Common weights, measures and currency reduced transaction costs across a vast territory.",
+   "explanation": "True. Standardization reduced transaction costs.",
+   "answer": true
+  },
+  {
+   "id": "m7-t4-q046",
+   "topic": "m7-t4",
+   "difficulty": "medium",
+   "type": "scenario",
+   "question": "Merchants withhold stock of an essential good to push up its price. Which Mauryan measure addresses this?",
+   "explanation": "Rules discouraged merchants from withholding stock to inflate prices.",
+   "options": [
+    "Anti-hoarding rules",
+    "Standard coinage",
+    "Road building",
+    "Embassies"
+   ],
+   "answer": 0
+  },
+  {
+   "id": "m7-t4-q047",
+   "topic": "m7-t4",
+   "difficulty": "hard",
+   "type": "scenario",
+   "question": "Officials fix the price of an essential commodity to prevent exploitation. Which tool is this?",
+   "explanation": "Officials monitored and, where needed, fixed prices of essential commodities.",
+   "options": [
+    "Anti-hoarding",
+    "Toll collection",
+    "Price regulation",
+    "Diplomacy"
+   ],
+   "answer": 2
+  },
+  {
+   "id": "m7-t4-q048",
+   "topic": "m7-t4",
+   "difficulty": "hard",
+   "type": "compare",
+   "question": "How does land revenue differ from tolls in the Mauryan revenue system?",
+   "explanation": "The two were distinct sources of revenue.",
+   "options": [
+    "Land revenue was charged at ports; tolls were charged on farms",
+    "Both were charged only on mines, ships and ferries",
+    "Land revenue: a share of produce; tolls: charges on goods moving through the empire",
+    "They were the same payment under two different names"
+   ],
+   "answer": 2
+  },
+  {
+   "id": "m7-t4-q049",
+   "topic": "m7-t4",
+   "difficulty": "medium",
+   "type": "not",
+   "question": "Which of these is NOT named as a source of Mauryan revenue?",
+   "explanation": "The session names a share of land produce, tolls and trade.",
+   "options": [
+    "Tribute from Roman merchants",
+    "A share of land produce",
+    "Tolls (sulka)",
+    "Trade"
+   ],
+   "answer": 0
+  },
+  {
+   "id": "m7-t4-q050",
+   "topic": "m7-t4",
+   "difficulty": "hard",
+   "type": "ar",
+   "question": "Assertion (A): Standardization reduced transaction costs in the Mauryan Empire.\nReason (R): Common weights, measures and currency made trade across a diverse territory easier.",
+   "explanation": "Both are true and the second explains the first.",
+   "options": [
+    "Both A and R are true, and R explains A",
+    "Both A and R are true, but R does not explain A",
+    "A is true but R is false",
+    "A is false but R is true"
+   ],
+   "answer": 0
+  },
+  {
+   "id": "m7-t4-q051",
+   "topic": "m7-t4",
+   "difficulty": "medium",
+   "type": "concept",
+   "question": "The term sulka refers to:",
+   "explanation": "Sulka means tolls on goods moving through the empire, one of the state's main sources of revenue.",
+   "options": [
+    "Provincial governors",
+    "Weights",
+    "Spies",
+    "Tolls on goods"
+   ],
+   "answer": 3
+  },
+  {
+   "id": "m7-t5-q052",
+   "topic": "m7-t5",
+   "difficulty": "medium",
+   "type": "mcq",
+   "question": "The Uttarapatha in the Mauryan context ran from Pataliputra through Taxila to:",
+   "explanation": "It ran from Pataliputra through Taxila to the north-west frontier.",
+   "options": [
+    "The Deccan plateau",
+    "The north-west frontier",
+    "The east coast",
+    "The Malay Peninsula"
+   ],
+   "answer": 1
+  },
+  {
+   "id": "m7-t5-q053",
+   "topic": "m7-t5",
+   "difficulty": "medium",
+   "type": "mcq",
+   "question": "The Dakshinapatha linked the Gangetic plains to:",
+   "explanation": "It was the Southern Route to the Deccan plateau.",
+   "options": [
+    "The Oxus valley",
+    "The Deccan plateau",
+    "The Himalayas",
+    "The Persian Gulf"
+   ],
+   "answer": 1
+  },
+  {
+   "id": "m7-t5-q054",
+   "topic": "m7-t5",
+   "difficulty": "medium",
+   "type": "multi",
+   "question": "Which goods did the Dakshinapatha carry? (Select all that apply)",
+   "explanation": "The Dakshinapatha carried gold, gems and spices.",
+   "options": [
+    "Roman wine",
+    "Chinese silk",
+    "Gold",
+    "Gems",
+    "Spices"
+   ],
+   "answer": [
+    2,
+    3,
+    4
+   ]
+  },
+  {
+   "id": "m7-t5-q055",
+   "topic": "m7-t5",
+   "difficulty": "medium",
+   "type": "mcq",
+   "question": "The Uttarapatha was the main artery for which trade?",
+   "explanation": "It carried Central Asian and Hellenistic trade.",
+   "options": [
+    "Arabian horse trade",
+    "Southeast Asian spice trade",
+    "Chinese silk trade only",
+    "Central Asian and Hellenistic trade"
+   ],
+   "answer": 3
+  },
+  {
+   "id": "m7-t5-q056",
+   "topic": "m7-t5",
+   "difficulty": "easy",
+   "type": "tf",
+   "question": "The Uttarapatha was the route that carried gold, gems and spices.",
+   "explanation": "False. The Uttarapatha carried Central Asian and Hellenistic trade; the Dakshinapatha carried gold, gems and spices.",
+   "answer": false
+  },
+  {
+   "id": "m7-t5-q057",
+   "topic": "m7-t5",
+   "difficulty": "easy",
+   "type": "concept",
+   "question": "The Mauryan arterial roads are described as a precursor to today's:",
+   "explanation": "The session calls the roads a precursor to the Grand Trunk Road.",
+   "options": [
+    "Grand Trunk Road",
+    "Silk Road",
+    "Spice Route",
+    "Periplus"
+   ],
+   "answer": 0
+  },
+  {
+   "id": "m7-t5-q058",
+   "topic": "m7-t5",
+   "difficulty": "medium",
+   "type": "multi",
+   "question": "Which supporting infrastructure is named? (Select all that apply)",
+   "explanation": "Support included rest houses, wells, garrisoned outposts, river transport, ports and irrigation.",
+   "options": [
+    "Roman harbours",
+    "Garrisoned outposts",
+    "Printed maps",
+    "Irrigation projects",
+    "Rest houses and wells",
+    "River transport and port facilities"
+   ],
+   "answer": [
+    1,
+    3,
+    4,
+    5
+   ]
+  },
+  {
+   "id": "m7-t5-q059",
+   "topic": "m7-t5",
+   "difficulty": "easy",
+   "type": "fill",
+   "question": "State-built roads turned scattered regional markets into one connected ______ network.",
+   "explanation": "The roads connected scattered regional markets into one trading network.",
+   "accept": [
+    "trading"
+   ]
+  },
+  {
+   "id": "m7-t5-q060",
+   "topic": "m7-t5",
+   "difficulty": "medium",
+   "type": "scenario",
+   "question": "A merchant travels from Pataliputra through Taxila towards the north-west frontier. Which route is he using?",
+   "explanation": "The Uttarapatha ran from Pataliputra through Taxila to the north-west.",
+   "options": [
+    "The Dakshinapatha",
+    "The Harappan coastal route",
+    "The Uttarapatha",
+    "The Periplus route"
+   ],
+   "answer": 2
+  },
+  {
+   "id": "m7-t5-q061",
+   "topic": "m7-t5",
+   "difficulty": "hard",
+   "type": "scenario",
+   "question": "Why would a state invest in irrigation along trade roads, not just in the roads themselves?",
+   "explanation": "Irrigation supports agricultural surplus that is traded along the roads.",
+   "options": [
+    "Irrigation replaces the need for roads, because water carries goods",
+    "Roads cannot carry grain, so only river transport matters",
+    "Agricultural surplus becomes tradeable goods, so infrastructure investment compounds across sectors",
+    "Irrigation was meant only for temples and royal gardens"
+   ],
+   "answer": 2
+  },
+  {
+   "id": "m7-t5-q062",
+   "topic": "m7-t5",
+   "difficulty": "hard",
+   "type": "compare",
+   "question": "How do the Uttarapatha and Dakshinapatha differ in the Mauryan period?",
+   "explanation": "They served different regions and goods.",
+   "options": [
+    "Uttarapatha: north-west and Hellenistic trade; Dakshinapatha: Deccan gold, gems and spices",
+    "The Uttarapatha led to the Deccan; the Dakshinapatha led to Taxila",
+    "Both led only to the east coast and to no other region",
+    "The Uttarapatha was a sea route; the Dakshinapatha a river route"
+   ],
+   "answer": 0
+  },
+  {
+   "id": "m7-t5-q063",
+   "topic": "m7-t5",
+   "difficulty": "easy",
+   "type": "tf",
+   "question": "Garrisoned outposts along routes provided security for traders.",
+   "explanation": "True. They are listed among supporting infrastructure.",
+   "answer": true
+  },
+  {
+   "id": "m7-t5-q064",
+   "topic": "m7-t5",
+   "difficulty": "medium",
+   "type": "not",
+   "question": "Which of these is NOT listed as supporting infrastructure for the roads?",
+   "explanation": "Roman-built harbours are not mentioned.",
+   "options": [
+    "Rest houses and wells",
+    "Garrisoned outposts",
+    "Irrigation projects",
+    "Roman-built harbours"
+   ],
+   "answer": 3
+  },
+  {
+   "id": "m7-t5-q065",
+   "topic": "m7-t5",
+   "difficulty": "hard",
+   "type": "ar",
+   "question": "Assertion (A): Mauryan roads left regional markets disconnected from each other.\nReason (R): The state built and maintained arterial roads.",
+   "explanation": "A is false: the roads converted scattered regional markets into one connected trading network. R is true.",
+   "options": [
+    "Both A and R are true, and R explains A",
+    "Both A and R are true, but R does not explain A",
+    "A is true but R is false",
+    "A is false but R is true"
+   ],
+   "answer": 3
+  },
+  {
+   "id": "m7-t5-q066",
+   "topic": "m7-t5",
+   "difficulty": "medium",
+   "type": "concept",
+   "question": "Converting scattered regional markets into one connected network by building roads is an example of the state acting as an:",
+   "explanation": "Building infrastructure is the investor role.",
+   "options": [
+    "Regulator",
+    "Investor",
+    "Revenue collector",
+    "Spy"
+   ],
+   "answer": 1
+  },
+  {
+   "id": "m7-t6-q067",
+   "topic": "m7-t6",
+   "difficulty": "medium",
+   "type": "mcq",
+   "question": "In the treaty with Seleucus I Nicator, Chandragupta secured territory up to the:",
+   "explanation": "The treaty gave territory up to the Hindu Kush.",
+   "options": [
+    "Persian Gulf",
+    "Hindu Kush",
+    "Oxus river",
+    "Sindhu delta"
+   ],
+   "answer": 1
+  },
+  {
+   "id": "m7-t6-q068",
+   "topic": "m7-t6",
+   "difficulty": "medium",
+   "type": "mcq",
+   "question": "How many war elephants did Chandragupta give in exchange, according to Session 11?",
+   "explanation": "The treaty exchanged territory for 500 war elephants.",
+   "options": [
+    "50",
+    "5,000",
+    "15",
+    "500"
+   ],
+   "answer": 3
+  },
+  {
+   "id": "m7-t6-q069",
+   "topic": "m7-t6",
+   "difficulty": "medium",
+   "type": "mcq",
+   "question": "The treaty with Seleucus was sealed with a:",
+   "explanation": "A marriage alliance sealed the treaty.",
+   "options": [
+    "Marriage alliance",
+    "Gold payment",
+    "Naval pact",
+    "Temple gift"
+   ],
+   "answer": 0
+  },
+  {
+   "id": "m7-t6-q070",
+   "topic": "m7-t6",
+   "difficulty": "medium",
+   "type": "mcq",
+   "question": "Megasthenes, who lived at Pataliputra, was the ambassador of:",
+   "explanation": "Megasthenes was Seleucus's ambassador at Pataliputra.",
+   "options": [
+    "Antiochus I",
+    "Ptolemy II",
+    "Seleucus I",
+    "Alexander of Epirus"
+   ],
+   "answer": 2
+  },
+  {
+   "id": "m7-t6-q071",
+   "topic": "m7-t6",
+   "difficulty": "easy",
+   "type": "fill",
+   "question": "Megasthenes wrote the fragmentary account called the ______.",
+   "explanation": "His Indica is a key external source on Mauryan administration and trade.",
+   "accept": [
+    "Indica"
+   ]
+  },
+  {
+   "id": "m7-t6-q072",
+   "topic": "m7-t6",
+   "difficulty": "medium",
+   "type": "mcq",
+   "question": "Deimachus served as Antiochus I's ambassador at whose court?",
+   "explanation": "Deimachus continued friendly relations at Bindusara's court.",
+   "options": [
+    "Chandragupta's",
+    "Ashoka's",
+    "Bindusara's",
+    "Seleucus's"
+   ],
+   "answer": 2
+  },
+  {
+   "id": "m7-t6-q073",
+   "topic": "m7-t6",
+   "difficulty": "hard",
+   "type": "multi",
+   "question": "Which five Hellenistic kings did Ashoka's envoys reach, according to Rock Edict XIII? (Select all that apply)",
+   "explanation": "The five kings were Antiochus II, Ptolemy II, Antigonus II, Magas and Alexander of Epirus.",
+   "options": [
+    "Seleucus I",
+    "Antiochus I",
+    "Antigonus II",
+    "Alexander of Epirus",
+    "Magas",
+    "Antiochus II",
+    "Ptolemy II"
+   ],
+   "answer": [
+    2,
+    3,
+    4,
+    5,
+    6
+   ]
+  },
+  {
+   "id": "m7-t6-q074",
+   "topic": "m7-t6",
+   "difficulty": "medium",
+   "type": "fill",
+   "question": "Ashoka's envoys reached ______ Hellenistic kings, according to Rock Edict XIII.",
+   "explanation": "Rock Edict XIII names five Hellenistic kings.",
+   "accept": [
+    "five",
+    "5"
+   ]
+  },
+  {
+   "id": "m7-t6-q075",
+   "topic": "m7-t6",
+   "difficulty": "easy",
+   "type": "tf",
+   "question": "Session 11 dates the treaty with Seleucus I Nicator to about 303 BCE.",
+   "explanation": "True. This is the date given in the session.",
+   "answer": true
+  },
+  {
+   "id": "m7-t6-q076",
+   "topic": "m7-t6",
+   "difficulty": "hard",
+   "type": "scenario",
+   "question": "A Greek ambassador resident at Pataliputra writes an account of Mauryan administration. Who is he, and why is his work valuable?",
+   "explanation": "Megasthenes's fragmentary Indica remains a key external source.",
+   "options": [
+    "Megasthenes; his Indica is a key external source",
+    "Deimachus; his edicts founded the empire",
+    "Seleucus; his treaty ended the empire",
+    "Antiochus II; his coins fixed prices"
+   ],
+   "answer": 0
+  },
+  {
+   "id": "m7-t6-q077",
+   "topic": "m7-t6",
+   "difficulty": "hard",
+   "type": "compare",
+   "question": "How do Megasthenes and Deimachus differ?",
+   "explanation": "They represented different Seleucid kings at different Mauryan courts.",
+   "options": [
+    "Megasthenes served at Bindusara's court; Deimachus served at Chandragupta's",
+    "Both men served at the court of Ashoka after the Kalinga War",
+    "Both men were Mauryan governors of provinces in the north-west",
+    "Megasthenes was Seleucus's ambassador at Pataliputra; Deimachus was Antiochus I's ambassador at Bindusara's court"
+   ],
+   "answer": 3
+  },
+  {
+   "id": "m7-t6-q078",
+   "topic": "m7-t6",
+   "difficulty": "medium",
+   "type": "not",
+   "question": "Which of these is NOT among the five Hellenistic kings of Rock Edict XIII?",
+   "explanation": "Seleucus I was the treaty partner of Chandragupta, not one of the five kings.",
+   "options": [
+    "Antiochus II",
+    "Seleucus I Nicator",
+    "Ptolemy II",
+    "Magas"
+   ],
+   "answer": 1
+  },
+  {
+   "id": "m7-t6-q079",
+   "topic": "m7-t6",
+   "difficulty": "hard",
+   "type": "ar",
+   "question": "Assertion (A): Embassies routinely doubled as commercial and intelligence channels.\nReason (R): Ashoka's envoys reached five Hellenistic kings, according to Rock Edict XIII.",
+   "explanation": "Both are true, but the number of kings reached does not explain why embassies doubled as commercial and intelligence channels.",
+   "options": [
+    "Both A and R are true, and R explains A",
+    "Both A and R are true, but R does not explain A",
+    "A is true but R is false",
+    "A is false but R is true"
+   ],
+   "answer": 1
+  },
+  {
+   "id": "m7-t6-q080",
+   "topic": "m7-t6",
+   "difficulty": "easy",
+   "type": "mcq",
+   "question": "Which Mauryan ruler made the treaty with Seleucus I Nicator?",
+   "explanation": "Chandragupta made the treaty.",
+   "options": [
+    "Bindusara",
+    "Chandragupta",
+    "Ashoka",
+    "Kautilya"
+   ],
+   "answer": 1
+  },
+  {
+   "id": "m7-t7-q081",
+   "topic": "m7-t7",
+   "difficulty": "hard",
+   "type": "match",
+   "question": "Match each person with their role or period in the session.",
+   "explanation": "These come from the people-behind-the-Mauryan-economy slide.",
+   "pairs": [
+    [
+     "Chandragupta Maurya",
+     "Founded the empire, r. c. 322-297 BCE"
+    ],
+    [
+     "Kautilya",
+     "Author of the Arthashastra"
+    ],
+    [
+     "Bindusara",
+     "Maintained Hellenistic ties, r. c. 297-268 BCE"
+    ],
+    [
+     "Ashoka",
+     "Expanded connectivity, r. c. 268-232 BCE"
+    ]
+   ]
+  },
+  {
+   "id": "m7-t7-q082",
+   "topic": "m7-t7",
+   "difficulty": "easy",
+   "type": "mcq",
+   "question": "Who founded the Mauryan Empire with Kautilya as chief advisor?",
+   "explanation": "Chandragupta founded the empire.",
+   "options": [
+    "Bindusara",
+    "Ashoka",
+    "Seleucus",
+    "Chandragupta Maurya"
+   ],
+   "answer": 3
+  },
+  {
+   "id": "m7-t7-q083",
+   "topic": "m7-t7",
+   "difficulty": "medium",
+   "type": "mcq",
+   "question": "Kautilya is described as the:",
+   "explanation": "Kautilya wrote the Arthashastra, which shaped Mauryan economic policy.",
+   "options": [
+    "Author of the Arthashastra",
+    "Greek ambassador",
+    "Governor of Taxila",
+    "Founder of the Gupta dynasty"
+   ],
+   "answer": 0
+  },
+  {
+   "id": "m7-t7-q084",
+   "topic": "m7-t7",
+   "difficulty": "medium",
+   "type": "mcq",
+   "question": "Bindusara is described as the ruler who:",
+   "explanation": "Bindusara maintained Hellenistic ties.",
+   "options": [
+    "Fought the Kalinga War and then turned to a policy of welfare",
+    "Founded the empire and unified the fragmented kingdoms",
+    "Maintained Hellenistic diplomatic ties and hosted Deimachus",
+    "Wrote the Arthashastra as a manual of economic governance"
+   ],
+   "answer": 2
+  },
+  {
+   "id": "m7-t7-q085",
+   "topic": "m7-t7",
+   "difficulty": "medium",
+   "type": "mcq",
+   "question": "Ashoka pivoted to a welfare policy after which event?",
+   "explanation": "The Kalinga War was the catalyst for Ashoka's welfare policy shift.",
+   "options": [
+    "The treaty with Seleucus",
+    "The fall of Pataliputra",
+    "The Kalinga War",
+    "The death of Bindusara"
+   ],
+   "answer": 2
+  },
+  {
+   "id": "m7-t7-q086",
+   "topic": "m7-t7",
+   "difficulty": "medium",
+   "type": "fill",
+   "question": "The Kalinga War of about 261 BCE was a turning point towards ______ policy.",
+   "explanation": "The Kalinga War was a turning point toward Dhamma and welfare policy.",
+   "accept": [
+    "Dhamma",
+    "welfare",
+    "dhamma"
+   ]
+  },
+  {
+   "id": "m7-t7-q087",
+   "topic": "m7-t7",
+   "difficulty": "medium",
+   "type": "mcq",
+   "question": "Which came first?",
+   "explanation": "The treaty comes first in the timeline.",
+   "options": [
+    "The treaty with Seleucus (c. 303 BCE)",
+    "The Kalinga War (c. 261 BCE)",
+    "Embassies to Hellenistic kings (c. 250 BCE)",
+    "The fall of the Mauryas (c. 185 BCE)"
+   ],
+   "answer": 0
+  },
+  {
+   "id": "m7-t7-q088",
+   "topic": "m7-t7",
+   "difficulty": "hard",
+   "type": "mcq",
+   "question": "Which sequence is in correct order?",
+   "explanation": "The dates are c. 268, c. 261, c. 250 and c. 232 BCE.",
+   "options": [
+    "Kalinga War, Ashoka ascends, death of Ashoka, embassies",
+    "Death of Ashoka, Kalinga War, Ashoka ascends, embassies",
+    "Embassies, Ashoka ascends, death of Ashoka, Kalinga War",
+    "Ashoka ascends, Kalinga War, embassies to Hellenistic kings, death of Ashoka"
+   ],
+   "answer": 3
+  },
+  {
+   "id": "m7-t7-q089",
+   "topic": "m7-t7",
+   "difficulty": "medium",
+   "type": "mcq",
+   "question": "The Mauryan Empire fell about:",
+   "explanation": "The fall of the Mauryas is dated about 185 BCE.",
+   "options": [
+    "322 BCE",
+    "185 BCE",
+    "232 BCE",
+    "261 BCE"
+   ],
+   "answer": 1
+  },
+  {
+   "id": "m7-t7-q090",
+   "topic": "m7-t7",
+   "difficulty": "easy",
+   "type": "tf",
+   "question": "Ashoka died around 268 BCE.",
+   "explanation": "False. About 268 BCE is when Ashoka ascended the throne; he died around 232 BCE.",
+   "answer": false
+  },
+  {
+   "id": "m7-t7-q091",
+   "topic": "m7-t7",
+   "difficulty": "medium",
+   "type": "scenario",
+   "question": "A historian describes a ruler who expanded connectivity through infrastructure and embassies and then pivoted to welfare policy. Who is described?",
+   "explanation": "This describes Ashoka, who expanded connectivity through infrastructure and embassies and pivoted to welfare policy after the Kalinga War.",
+   "options": [
+    "Chandragupta",
+    "Ashoka",
+    "Bindusara",
+    "Kautilya"
+   ],
+   "answer": 1
+  },
+  {
+   "id": "m7-t7-q092",
+   "topic": "m7-t7",
+   "difficulty": "hard",
+   "type": "scenario",
+   "question": "A source says: 'Founded the empire, unified fragmented kingdoms with Kautilya as chief advisor, and made a treaty with Seleucus.' Which ruler is described?",
+   "explanation": "These are the details given for Chandragupta.",
+   "options": [
+    "Bindusara",
+    "Ashoka",
+    "Megasthenes",
+    "Chandragupta Maurya"
+   ],
+   "answer": 3
+  },
+  {
+   "id": "m7-t7-q093",
+   "topic": "m7-t7",
+   "difficulty": "medium",
+   "type": "not",
+   "question": "Which pairing of person and role is INCORRECT?",
+   "explanation": "Chandragupta founded the empire; Bindusara succeeded him.",
+   "options": [
+    "Bindusara: founded the empire",
+    "Chandragupta: founded the empire",
+    "Kautilya: author of the Arthashastra",
+    "Ashoka: pivoted to welfare after Kalinga"
+   ],
+   "answer": 0
+  },
+  {
+   "id": "m7-t7-q094",
+   "topic": "m7-t7",
+   "difficulty": "hard",
+   "type": "compare",
+   "question": "How do Chandragupta's and Ashoka's contributions differ?",
+   "explanation": "The session assigns them different roles.",
+   "options": [
+    "Chandragupta fought the Kalinga War; Ashoka founded the empire",
+    "Both founded the empire and both made the Seleucus treaty",
+    "Chandragupta founded the empire; Ashoka expanded connectivity and turned to welfare",
+    "Ashoka made the Seleucus treaty; Chandragupta shifted to welfare"
+   ],
+   "answer": 2
+  },
+  {
+   "id": "m7-t7-q095",
+   "topic": "m7-t7",
+   "difficulty": "hard",
+   "type": "ar",
+   "question": "Assertion (A): Ashoka's policy shifted towards welfare after the Kalinga War.\nReason (R): The Kalinga War took place after Ashoka's death.",
+   "explanation": "A is true. R is false: the Kalinga War (about 261 BCE) came during his reign and was the catalyst for the shift.",
+   "options": [
+    "Both A and R are true, and R explains A",
+    "Both A and R are true, but R does not explain A",
+    "A is true but R is false",
+    "A is false but R is true"
+   ],
+   "answer": 2
+  },
+  {
+   "id": "m7-t7-q096",
+   "topic": "m7-t7",
+   "difficulty": "easy",
+   "type": "fill",
+   "question": "The Mauryan Empire fell around 185 ______.",
+   "explanation": "The fall of the Mauryas is dated about 185 BCE, roughly half a century after the death of Ashoka about 232 BCE.",
+   "accept": [
+    "BCE",
+    "BC"
+   ]
+  },
+  {
+   "id": "m7-t7-q097",
+   "topic": "m7-t7",
+   "difficulty": "medium",
+   "type": "mcq",
+   "question": "Who succeeded Chandragupta around 297 BCE?",
+   "explanation": "Chandragupta was succeeded by Bindusara.",
+   "options": [
+    "Ashoka",
+    "Kautilya",
+    "Bindusara",
+    "Seleucus I"
+   ],
+   "answer": 2
+  },
+  {
+   "id": "m7-t7-q098",
+   "topic": "m7-t7",
+   "difficulty": "hard",
+   "type": "mcq",
+   "question": "Which event is dated about 250 BCE?",
+   "explanation": "Embassies reached Hellenistic kings and Sri Lanka about 250 BCE.",
+   "options": [
+    "Embassies reach Hellenistic kings and Sri Lanka",
+    "The Kalinga War, a turning point towards welfare policy",
+    "The fall of the Mauryas, the end of the empire",
+    "The founding of the empire by Chandragupta Maurya"
+   ],
+   "answer": 0
+  },
+  {
+   "id": "m7-t8-q099",
+   "topic": "m7-t8",
+   "difficulty": "hard",
+   "type": "match",
+   "question": "Match each Mauryan feature with its modern equivalent.",
+   "explanation": "The session frames the Mauryan state as having the same functions with different tools.",
+   "pairs": [
+    [
+     "Centralized administration",
+     "National ministries and economic regulators"
+    ],
+    [
+     "Road networks",
+     "National highways and logistics infrastructure"
+    ],
+    [
+     "Diplomatic relations",
+     "Bilateral trade agreements and foreign missions"
+    ]
+   ]
+  },
+  {
+   "id": "m7-t8-q100",
+   "topic": "m7-t8",
+   "difficulty": "medium",
+   "type": "mcq",
+   "question": "Where does the Mauryan-modern analogy break, according to the session?",
+   "explanation": "Adhyakshas answered only to the emperor, while modern ministries answer to elected legislatures, so accountability is where the analogy breaks.",
+   "options": [
+    "Modern states have no roads, while Mauryan states had many",
+    "Mauryan states had no diplomacy, while modern states have it",
+    "Adhyakshas were elected by the people, like modern ministers",
+    "Adhyakshas answered only to the emperor, while modern ministries answer to elected legislatures"
+   ],
+   "answer": 3
+  },
+  {
+   "id": "m7-t8-q101",
+   "topic": "m7-t8",
+   "difficulty": "easy",
+   "type": "tf",
+   "question": "Modern ministries answer to elected legislatures.",
+   "explanation": "True. This is where the analogy with the Mauryan system breaks.",
+   "answer": true
+  },
+  {
+   "id": "m7-t8-q102",
+   "topic": "m7-t8",
+   "difficulty": "medium",
+   "type": "mcq",
+   "question": "Mauryan centralized administration corresponds to:",
+   "explanation": "Centralized administration corresponds to national ministries and regulators.",
+   "options": [
+    "Bilateral trade agreements with foreign states",
+    "National ministries and economic regulators",
+    "National highways and logistics infrastructure",
+    "Tolls collected at modern ports and airports"
+   ],
+   "answer": 1
+  },
+  {
+   "id": "m7-t8-q103",
+   "topic": "m7-t8",
+   "difficulty": "easy",
+   "type": "fill",
+   "question": "Mauryan roads correspond to modern national ______ and logistics infrastructure.",
+   "explanation": "Roads correspond to national highways and logistics infrastructure in the session's Mauryan-versus-modern comparison.",
+   "accept": [
+    "highways"
+   ]
+  },
+  {
+   "id": "m7-t8-q104",
+   "topic": "m7-t8",
+   "difficulty": "medium",
+   "type": "scenario",
+   "question": "A government signs a bilateral trade agreement and opens a foreign mission to help its exporters. Which Mauryan function does this parallel?",
+   "explanation": "Diplomatic relations correspond to bilateral trade agreements and foreign missions.",
+   "options": [
+    "Centralized administration",
+    "Diplomatic relations",
+    "Road networks",
+    "Price regulation"
+   ],
+   "answer": 1
+  },
+  {
+   "id": "m7-t8-q105",
+   "topic": "m7-t8",
+   "difficulty": "hard",
+   "type": "scenario",
+   "question": "A minister today must explain a market policy to Parliament, while a Mauryan superintendent explained his to the emperor. Which point does this illustrate?",
+   "explanation": "Accountability is the difference.",
+   "options": [
+    "The two systems are identical in every feature of accountability",
+    "Both had elected legislatures holding officials to account",
+    "Neither system had officials responsible for the economy",
+    "Where the analogy breaks: to whom officials are accountable"
+   ],
+   "answer": 3
+  },
+  {
+   "id": "m7-t8-q106",
+   "topic": "m7-t8",
+   "difficulty": "hard",
+   "type": "compare",
+   "question": "How do Mauryan adhyakshas differ from modern ministries in accountability?",
+   "explanation": "This is the break in the analogy.",
+   "options": [
+    "Adhyakshas answered only to the emperor; ministries answer to elected legislatures",
+    "Adhyakshas answered to legislatures; ministries answer to emperors",
+    "Both answered to the guilds that regulated the markets",
+    "Both answered to Rome, which set the rules for trade"
+   ],
+   "answer": 0
+  },
+  {
+   "id": "m7-t8-q107",
+   "topic": "m7-t8",
+   "difficulty": "medium",
+   "type": "not",
+   "question": "Which pairing of Mauryan feature and modern equivalent is INCORRECT?",
+   "explanation": "Diplomacy corresponds to bilateral agreements and foreign missions.",
+   "options": [
+    "Centralized administration: national ministries and regulators",
+    "Road networks: national highways",
+    "Diplomatic relations: national highways",
+    "Diplomatic relations: bilateral trade agreements"
+   ],
+   "answer": 2
+  },
+  {
+   "id": "m7-t8-q108",
+   "topic": "m7-t8",
+   "difficulty": "hard",
+   "type": "ar",
+   "question": "Assertion (A): Session 11 says Mauryan adhyakshas answered to elected legislatures.\nReason (R): Modern ministries answer to elected legislatures.",
+   "explanation": "A is false: adhyakshas answered only to the emperor. R is true.",
+   "options": [
+    "Both A and R are true, and R explains A",
+    "Both A and R are true, but R does not explain A",
+    "A is true but R is false",
+    "A is false but R is true"
+   ],
+   "answer": 3
+  },
+  {
+   "id": "m7-t8-q109",
+   "topic": "m7-t8",
+   "difficulty": "medium",
+   "type": "multi",
+   "question": "Which pairings are made in the session? (Select all that apply)",
+   "explanation": "These are the three pairings.",
+   "options": [
+    "Adhyakshas with elected legislators",
+    "Centralized administration with national ministries",
+    "Sulka with income tax slabs",
+    "Diplomatic relations with bilateral trade agreements",
+    "Road networks with national highways"
+   ],
+   "answer": [
+    1,
+    3,
+    4
+   ]
+  },
+  {
+   "id": "m7-t8-q110",
+   "topic": "m7-t8",
+   "difficulty": "medium",
+   "type": "mcq",
+   "question": "What question does the session pose at the start, which students should be able to answer by the end?",
+   "explanation": "The framing answer is centralized political economy, road networks and diplomatic relations.",
+   "options": [
+    "Why did the Kushanas rise to control the Silk Route?",
+    "How did guild banks lend money to merchants?",
+    "What factors made the Mauryan Empire an economic powerhouse?",
+    "Why did Rome import pepper from the Malabar Coast?"
+   ],
+   "answer": 2
+  }
+ ],
+ "cards": [
+  {
+   "id": "m7-c001",
+   "topic": "m7-t1",
+   "front": "Four roles of the Mauryan state",
+   "back": "Regulator (prices, weights, hoarding, fraud); Investor (roads, ports, irrigation); Revenue collector (production, tolls, trade); Diplomat (treaties and embassies)."
+  },
+  {
+   "id": "m7-c002",
+   "topic": "m7-t3",
+   "front": "Adhyakshas",
+   "back": "Panyadhyaksha: commerce. Sulkadhyaksha: tolls. Pautavadhyaksha: weights and measures. Akaradhyaksha: mines. Navadhyaksha: ships, ports, ferries."
+  },
+  {
+   "id": "m7-c003",
+   "topic": "m7-t3",
+   "front": "Provincial capitals",
+   "back": "Pataliputra (imperial centre), Taxila (north-west), Ujjain (west, Malwa), Tosali (east, Kalinga), Suvarnagiri (south, Deccan)."
+  },
+  {
+   "id": "m7-c004",
+   "topic": "m7-t6",
+   "front": "Hellenistic diplomacy",
+   "back": "Seleucus I treaty c. 303 BCE: territory up to the Hindu Kush for 500 war elephants plus a marriage alliance. Megasthenes (Indica). Deimachus. Five kings in Rock Edict XIII."
+  },
+  {
+   "id": "m7-c005",
+   "topic": "m7-t7",
+   "front": "Key dates",
+   "back": "c. 322 founding; c. 303 Seleucus treaty; c. 297 Bindusara; c. 268 Ashoka; c. 261 Kalinga War; c. 250 embassies; c. 232 Ashoka dies; c. 185 BCE fall."
+  }
+ ]
+}

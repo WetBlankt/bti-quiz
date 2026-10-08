@@ -1,0 +1,1700 @@
+{
+ "module": "m6",
+ "questions": [
+  {
+   "id": "m6-t1-q001",
+   "topic": "m6-t1",
+   "difficulty": "easy",
+   "type": "tf",
+   "question": "The session says reliable money alone is enough to create trust in markets.",
+   "explanation": "False. The session says reliable money plus ethical conduct creates trust in markets.",
+   "answer": false
+  },
+  {
+   "id": "m6-t1-q002",
+   "topic": "m6-t1",
+   "difficulty": "easy",
+   "type": "fill",
+   "question": "Reliable money plus ethical conduct equals ______ in markets.",
+   "explanation": "The session's formula is reliable money plus ethical conduct equals trust in markets.",
+   "accept": [
+    "trust"
+   ]
+  },
+  {
+   "id": "m6-t1-q003",
+   "topic": "m6-t1",
+   "difficulty": "medium",
+   "type": "mcq",
+   "question": "According to the introduction, trade expanded from local barter to:",
+   "explanation": "Trade expanded from local barter to international commerce.",
+   "options": [
+    "Local festivals only",
+    "Temple donations only",
+    "International commerce",
+    "Royal gifts only"
+   ],
+   "answer": 2
+  },
+  {
+   "id": "m6-t1-q004",
+   "topic": "m6-t1",
+   "difficulty": "medium",
+   "type": "mcq",
+   "question": "What does a market need beyond exchange, according to the session?",
+   "explanation": "The session says a market needs a shared basis for value and confidence.",
+   "options": [
+    "A shared basis for value and confidence",
+    "A larger army",
+    "A single language",
+    "A royal monopoly"
+   ],
+   "answer": 0
+  },
+  {
+   "id": "m6-t1-q005",
+   "topic": "m6-t1",
+   "difficulty": "medium",
+   "type": "multi",
+   "question": "Which are learning objectives of this session? (Select all that apply)",
+   "explanation": "The four objectives are evolution to coinage, punch-marked coins and gold dinars, standardization and trust, and Dharma-based ethics.",
+   "options": [
+    "Evaluate Dharma-based ethical business practices",
+    "Analyse standardization and trust in trade",
+    "Compare Roman tax codes",
+    "Understand the evolution from barter to coinage",
+    "Explain punch-marked coins and gold dinars",
+    "Plan military campaigns"
+   ],
+   "answer": [
+    0,
+    1,
+    3,
+    4
+   ]
+  },
+  {
+   "id": "m6-t1-q006",
+   "topic": "m6-t1",
+   "difficulty": "medium",
+   "type": "not",
+   "question": "Which of these is NOT a learning objective of the session?",
+   "explanation": "The objectives concern coinage, standardization, trust and Dharma-based ethics.",
+   "options": [
+    "Understand the evolution from barter to coinage",
+    "Analyse standardization and trust in trade",
+    "Evaluate Dharma-based ethical business practices",
+    "Memorise the tax rates of Roman provinces"
+   ],
+   "answer": 3
+  },
+  {
+   "id": "m6-t1-q007",
+   "topic": "m6-t1",
+   "difficulty": "medium",
+   "type": "scenario",
+   "question": "A growing trading town wants merchants from many regions to deal with it confidently. According to the session, which two things should it develop?",
+   "explanation": "The session says reliable money plus ethical conduct builds trust in markets.",
+   "options": [
+    "Larger armies and higher tolls",
+    "Reliable money and ethical conduct",
+    "More festivals and fewer markets",
+    "Secret prices and private weights"
+   ],
+   "answer": 1
+  },
+  {
+   "id": "m6-t1-q008",
+   "topic": "m6-t1",
+   "difficulty": "hard",
+   "type": "ar",
+   "question": "Assertion (A): Monetary systems improved efficiency and trust in ancient India.\nReason (R): Trade expanded from local barter to international commerce.",
+   "explanation": "Both are true; wider trade created the need for reliable monetary systems.",
+   "options": [
+    "Both A and R are true, and R explains A",
+    "Both A and R are true, but R does not explain A",
+    "A is true but R is false",
+    "A is false but R is true"
+   ],
+   "answer": 0
+  },
+  {
+   "id": "m6-t1-q009",
+   "topic": "m6-t1",
+   "difficulty": "hard",
+   "type": "compare",
+   "question": "How does the session link reliable money to ethical conduct?",
+   "explanation": "The session presents both as parts of the trust that markets need.",
+   "options": [
+    "Money replaces the need for ethics, because coins alone guarantee honest trade",
+    "Money supplies a shared basis for value, and ethics supplies confidence; together they create trust",
+    "Ethics replaces the need for money, because honest people can trade by barter",
+    "They are unrelated in the session and appear on separate slides by chance"
+   ],
+   "answer": 1
+  },
+  {
+   "id": "m6-t1-q010",
+   "topic": "m6-t1",
+   "difficulty": "medium",
+   "type": "concept",
+   "question": "Ancient India's commercial success, the session says, rested on reliable currency and:",
+   "explanation": "Reliable currency and ethical conduct supported commercial success.",
+   "options": [
+    "Military conquest",
+    "Royal gifts",
+    "Foreign tribute",
+    "Ethical conduct"
+   ],
+   "answer": 3
+  },
+  {
+   "id": "m6-t2-q011",
+   "topic": "m6-t2",
+   "difficulty": "easy",
+   "type": "concept",
+   "question": "The exchange of goods without money is called:",
+   "explanation": "The session defines barter as exchange of goods without money.",
+   "options": [
+    "Barter",
+    "Arbitration",
+    "Coinage",
+    "Taxation"
+   ],
+   "answer": 0
+  },
+  {
+   "id": "m6-t2-q012",
+   "topic": "m6-t2",
+   "difficulty": "medium",
+   "type": "multi",
+   "question": "Which difficulties made barter inadequate as trade grew? (Select all that apply)",
+   "explanation": "The session lists double coincidence of wants, indivisibility, valuation and the need for a standardized medium.",
+   "options": [
+    "Too many coins",
+    "Valuation",
+    "Indivisibility",
+    "Need for a standardized medium of exchange",
+    "Double coincidence of wants",
+    "Excess of gold"
+   ],
+   "answer": [
+    1,
+    2,
+    3,
+    4
+   ]
+  },
+  {
+   "id": "m6-t2-q013",
+   "topic": "m6-t2",
+   "difficulty": "easy",
+   "type": "fill",
+   "question": "In barter, both parties must want what the other has; the session calls this the double ______ of wants.",
+   "explanation": "Double coincidence of wants is the first difficulty listed.",
+   "accept": [
+    "coincidence"
+   ]
+  },
+  {
+   "id": "m6-t2-q014",
+   "topic": "m6-t2",
+   "difficulty": "medium",
+   "type": "scenario",
+   "question": "A farmer with grain wants cloth, but the weaver wants salt, not grain. Which barter difficulty is this?",
+   "explanation": "Each side must want what the other offers.",
+   "options": [
+    "Indivisibility",
+    "Valuation",
+    "Double coincidence of wants",
+    "Coin purity"
+   ],
+   "answer": 2
+  },
+  {
+   "id": "m6-t2-q015",
+   "topic": "m6-t2",
+   "difficulty": "medium",
+   "type": "scenario",
+   "question": "A man owns one cow and wants a small bag of salt, but a cow cannot be split to match the small purchase. Which barter difficulty is this?",
+   "explanation": "Goods that cannot be divided make small exchanges hard.",
+   "options": [
+    "Double coincidence of wants",
+    "Valuation",
+    "Indivisibility",
+    "Guild certification"
+   ],
+   "answer": 2
+  },
+  {
+   "id": "m6-t2-q016",
+   "topic": "m6-t2",
+   "difficulty": "hard",
+   "type": "scenario",
+   "question": "Two traders cannot agree how many measures of rice equal one bolt of cloth, because there is no common way to price either. Which barter difficulty is this?",
+   "explanation": "Without a standard of value, comparing goods is hard.",
+   "options": [
+    "Valuation",
+    "Indivisibility",
+    "Double coincidence of wants",
+    "Integrity"
+   ],
+   "answer": 0
+  },
+  {
+   "id": "m6-t2-q017",
+   "topic": "m6-t2",
+   "difficulty": "easy",
+   "type": "tf",
+   "question": "A common medium of exchange makes transactions harder to compare.",
+   "explanation": "False. A common medium of exchange can reduce friction and make transactions easier to compare.",
+   "answer": false
+  },
+  {
+   "id": "m6-t2-q018",
+   "topic": "m6-t2",
+   "difficulty": "medium",
+   "type": "mcq",
+   "question": "What central movement does the session describe from exchange to coinage?",
+   "explanation": "The movement is direct exchange to standardized value to wider commercial trust.",
+   "options": [
+    "Coinage, then barter, then gifts exchanged between neighbouring villages",
+    "Trust, then barter, then coins issued by a single powerful ruler",
+    "Barter, then conquest, then tolls collected on all the trade routes",
+    "Direct exchange, then standardized value, then wider commercial trust"
+   ],
+   "answer": 3
+  },
+  {
+   "id": "m6-t2-q019",
+   "topic": "m6-t2",
+   "difficulty": "medium",
+   "type": "not",
+   "question": "Which of these is NOT a difficulty of barter named in the session?",
+   "explanation": "The difficulties named are double coincidence of wants, indivisibility, valuation and the need for a standardized medium.",
+   "options": [
+    "Double coincidence of wants",
+    "Excess supply of coins",
+    "Indivisibility",
+    "Valuation"
+   ],
+   "answer": 1
+  },
+  {
+   "id": "m6-t2-q020",
+   "topic": "m6-t2",
+   "difficulty": "hard",
+   "type": "compare",
+   "question": "How does exchange through a standardized medium differ from barter?",
+   "explanation": "A common medium of exchange reduces friction and makes comparison easier.",
+   "options": [
+    "Barter is easier to compare than money, because goods are valued directly",
+    "A common medium makes transactions easier to compare and reduces friction; barter needs a matching of wants",
+    "Both barter and a common medium require a double coincidence of wants",
+    "Money removes all trade, because nothing needs to be exchanged for goods"
+   ],
+   "answer": 1
+  },
+  {
+   "id": "m6-t2-q021",
+   "topic": "m6-t2",
+   "difficulty": "hard",
+   "type": "ar",
+   "question": "Assertion (A): Barter became difficult as trade networks grew.\nReason (R): A common medium of exchange could reduce friction and make transactions easier to compare.",
+   "explanation": "Both are true, but the second describes the remedy rather than explaining the difficulty.",
+   "options": [
+    "Both A and R are true, and R explains A",
+    "Both A and R are true, but R does not explain A",
+    "A is true but R is false",
+    "A is false but R is true"
+   ],
+   "answer": 1
+  },
+  {
+   "id": "m6-t2-q022",
+   "topic": "m6-t2",
+   "difficulty": "hard",
+   "type": "match",
+   "question": "Match each barter difficulty with the situation that shows it.",
+   "explanation": "These situations illustrate the four difficulties listed in the session.",
+   "pairs": [
+    [
+     "Double coincidence of wants",
+     "The weaver does not want the farmer's grain"
+    ],
+    [
+     "Indivisibility",
+     "A cow cannot be split to buy a small item"
+    ],
+    [
+     "Valuation",
+     "No agreed rate between cloth and salt"
+    ],
+    [
+     "Need for a standardized medium",
+     "Prices cannot be compared in one unit"
+    ]
+   ]
+  },
+  {
+   "id": "m6-t2-q023",
+   "topic": "m6-t2",
+   "difficulty": "medium",
+   "type": "fill",
+   "question": "As trade networks grew, a common medium of exchange could reduce ______ and make transactions easier to compare.",
+   "explanation": "The session says a common medium could reduce friction.",
+   "accept": [
+    "friction"
+   ]
+  },
+  {
+   "id": "m6-t2-q024",
+   "topic": "m6-t2",
+   "difficulty": "medium",
+   "type": "mcq",
+   "question": "If every good in a market is priced in coins, which barter difficulty is most directly solved?",
+   "explanation": "Pricing in one medium solves valuation and the need for a standard medium.",
+   "options": [
+    "The need for ships, because coins can only be spent across the sea",
+    "The need for guilds, because only guilds are able to price goods",
+    "The need for wells, because coins are needed to dig wells in markets",
+    "The need for a standardized medium and a way to value goods"
+   ],
+   "answer": 3
+  },
+  {
+   "id": "m6-t3-q025",
+   "topic": "m6-t3",
+   "difficulty": "easy",
+   "type": "fill",
+   "question": "Punch-marked coins were introduced around the ______ century BCE.",
+   "explanation": "The session dates punch-marked coins to about the 6th century BCE.",
+   "accept": [
+    "6th",
+    "sixth",
+    "6"
+   ]
+  },
+  {
+   "id": "m6-t3-q026",
+   "topic": "m6-t3",
+   "difficulty": "medium",
+   "type": "mcq",
+   "question": "Punch-marked coins were made of which metal, bearing official symbols?",
+   "explanation": "They were silver coins with official symbols.",
+   "options": [
+    "Silver",
+    "Gold",
+    "Iron",
+    "Lead"
+   ],
+   "answer": 0
+  },
+  {
+   "id": "m6-t3-q027",
+   "topic": "m6-t3",
+   "difficulty": "medium",
+   "type": "multi",
+   "question": "What did punch-marked coins do? (Select all that apply)",
+   "explanation": "They facilitated taxation and long-distance trade and increased confidence in commerce.",
+   "options": [
+    "Increased confidence in commerce",
+    "Replaced all guilds",
+    "Facilitated taxation",
+    "Ended all trade",
+    "Facilitated long-distance trade"
+   ],
+   "answer": [
+    0,
+    2,
+    4
+   ]
+  },
+  {
+   "id": "m6-t3-q028",
+   "topic": "m6-t3",
+   "difficulty": "easy",
+   "type": "tf",
+   "question": "Punch-marked coins were gold coins issued by the Gupta dynasty.",
+   "explanation": "False. They were silver coins introduced around the 6th century BCE; gold dinars were issued by the Kushan and Gupta dynasties.",
+   "answer": false
+  },
+  {
+   "id": "m6-t3-q029",
+   "topic": "m6-t3",
+   "difficulty": "medium",
+   "type": "concept",
+   "question": "A standardized medium of exchange, usually silver, bearing official symbols, is a:",
+   "explanation": "This describes the punch-marked coins of the 6th century BCE.",
+   "options": [
+    "Hundi",
+    "Gold dinar",
+    "Punch-marked coin",
+    "Karshapana of gold"
+   ],
+   "answer": 2
+  },
+  {
+   "id": "m6-t3-q030",
+   "topic": "m6-t3",
+   "difficulty": "medium",
+   "type": "scenario",
+   "question": "A ruler wants to collect taxes in a uniform and convenient way. Which feature of punch-marked coins helps?",
+   "explanation": "The session lists facilitating taxation as one of their roles.",
+   "options": [
+    "They ended barter by law",
+    "They required no symbols",
+    "They facilitated taxation",
+    "They were issued by Rome"
+   ],
+   "answer": 2
+  },
+  {
+   "id": "m6-t3-q031",
+   "topic": "m6-t3",
+   "difficulty": "hard",
+   "type": "scenario",
+   "question": "Merchants from distant towns accept silver pieces stamped with official symbols without arguing over their value. Which effect from the session is shown?",
+   "explanation": "Standardized currency reduces uncertainty and increases confidence.",
+   "options": [
+    "Increased confidence in commerce and reduced uncertainty",
+    "A return to barter, because silver pieces make exchange less certain",
+    "A ban on foreign trade, because coins are only accepted locally",
+    "The rise of the Gupta dynasty, because stamped silver needs a new ruler"
+   ],
+   "answer": 0
+  },
+  {
+   "id": "m6-t3-q032",
+   "topic": "m6-t3",
+   "difficulty": "hard",
+   "type": "ar",
+   "question": "Assertion (A): Punch-marked coins increased confidence in commerce.\nReason (R): They were unmarked lumps of gold with no official symbols.",
+   "explanation": "A is true. R is false: punch-marked coins were silver with official symbols.",
+   "options": [
+    "Both A and R are true, and R explains A",
+    "Both A and R are true, but R does not explain A",
+    "A is true but R is false",
+    "A is false but R is true"
+   ],
+   "answer": 2
+  },
+  {
+   "id": "m6-t3-q033",
+   "topic": "m6-t3",
+   "difficulty": "medium",
+   "type": "not",
+   "question": "Which of these is NOT stated about punch-marked coins?",
+   "explanation": "They are dated to the 6th century BCE; Kushan gold dinars came later.",
+   "options": [
+    "They were introduced around the 6th century BCE",
+    "They were silver with official symbols",
+    "They facilitated taxation",
+    "They were first issued by the Kushan dynasty"
+   ],
+   "answer": 3
+  },
+  {
+   "id": "m6-t3-q034",
+   "topic": "m6-t3",
+   "difficulty": "medium",
+   "type": "mcq",
+   "question": "According to the session, standardized currency can reduce:",
+   "explanation": "The session says standardized currency can reduce uncertainty in exchange.",
+   "options": [
+    "Trade routes",
+    "Uncertainty in exchange",
+    "Guild numbers",
+    "The use of weights"
+   ],
+   "answer": 1
+  },
+  {
+   "id": "m6-t4-q035",
+   "topic": "m6-t4",
+   "difficulty": "easy",
+   "type": "mcq",
+   "question": "Which dynasties issued gold dinars, according to the session?",
+   "explanation": "The Kushan and Gupta dynasties issued gold dinars.",
+   "options": [
+    "The Harappan and Mauryan dynasties",
+    "The Kushan and Gupta dynasties",
+    "The Chola and Pandya dynasties",
+    "The Satavahana and Mauryan dynasties"
+   ],
+   "answer": 1
+  },
+  {
+   "id": "m6-t4-q036",
+   "topic": "m6-t4",
+   "difficulty": "easy",
+   "type": "tf",
+   "question": "Gold dinars reflected a decline in trade with Rome.",
+   "explanation": "False. Gold dinars reflected prosperity and Roman trade.",
+   "answer": false
+  },
+  {
+   "id": "m6-t4-q037",
+   "topic": "m6-t4",
+   "difficulty": "medium",
+   "type": "multi",
+   "question": "What did gold dinars reflect or encourage? (Select all that apply)",
+   "explanation": "They reflected prosperity and Roman trade and encouraged urbanization and specialization.",
+   "options": [
+    "Specialization",
+    "Decline of cities",
+    "Isolation of markets",
+    "Urbanization",
+    "Prosperity",
+    "Roman trade"
+   ],
+   "answer": [
+    0,
+    3,
+    4,
+    5
+   ]
+  },
+  {
+   "id": "m6-t4-q038",
+   "topic": "m6-t4",
+   "difficulty": "medium",
+   "type": "fill",
+   "question": "Gold dinars encouraged urbanization and ______.",
+   "explanation": "The session says gold dinars encouraged urbanization and specialization.",
+   "accept": [
+    "specialization",
+    "specialisation"
+   ]
+  },
+  {
+   "id": "m6-t4-q039",
+   "topic": "m6-t4",
+   "difficulty": "medium",
+   "type": "scenario",
+   "question": "Archaeologists find many gold dinars in a prosperous trading city. What does the session say such coins reflect?",
+   "explanation": "Gold dinars reflected prosperity and Roman trade.",
+   "options": [
+    "Barter and isolation",
+    "Famine and decline",
+    "Hoarding and monopoly",
+    "Prosperity and Roman trade"
+   ],
+   "answer": 3
+  },
+  {
+   "id": "m6-t4-q040",
+   "topic": "m6-t4",
+   "difficulty": "hard",
+   "type": "compare",
+   "question": "How do punch-marked coins differ from gold dinars in the session?",
+   "explanation": "Silver punch-marked coins came first; gold dinars were Kushan and Gupta issues.",
+   "options": [
+    "Punch-marked coins: silver, about the 6th century BCE; gold dinars: issued by the Kushan and Gupta dynasties",
+    "Punch-marked coins: gold, in the 6th century BCE; gold dinars: silver, issued by Rome",
+    "Both were issued by the Gupta dynasty only, with no earlier coinage at all",
+    "Both were first introduced by Rome and later copied by Indian rulers"
+   ],
+   "answer": 0
+  },
+  {
+   "id": "m6-t4-q041",
+   "topic": "m6-t4",
+   "difficulty": "medium",
+   "type": "not",
+   "question": "Which of these is NOT linked to gold dinars in the session?",
+   "explanation": "Gold dinars encouraged urbanization and specialization.",
+   "options": [
+    "Prosperity",
+    "Roman trade",
+    "Decline of urbanization",
+    "Specialization"
+   ],
+   "answer": 2
+  },
+  {
+   "id": "m6-t4-q042",
+   "topic": "m6-t4",
+   "difficulty": "hard",
+   "type": "ar",
+   "question": "Assertion (A): Gold dinars encouraged urbanization and specialization.\nReason (R): They reflected prosperity and Roman trade.",
+   "explanation": "Both are true, but the second does not directly explain the first.",
+   "options": [
+    "Both A and R are true, and R explains A",
+    "Both A and R are true, but R does not explain A",
+    "A is true but R is false",
+    "A is false but R is true"
+   ],
+   "answer": 1
+  },
+  {
+   "id": "m6-t5-q043",
+   "topic": "m6-t5",
+   "difficulty": "medium",
+   "type": "multi",
+   "question": "What does the session list as the infrastructure of trust? (Select all that apply)",
+   "explanation": "Standardization consists of uniform weights and measures, standard coin purity and guild certification.",
+   "options": [
+    "Uniform weights and measures",
+    "Guild certification",
+    "Royal monopoly of trade",
+    "Standard coin purity",
+    "A ban on foreign coins"
+   ],
+   "answer": [
+    0,
+    1,
+    3
+   ]
+  },
+  {
+   "id": "m6-t5-q044",
+   "topic": "m6-t5",
+   "difficulty": "easy",
+   "type": "mcq",
+   "question": "What do uniform weights and measures provide?",
+   "explanation": "They make quantities comparable across transactions.",
+   "options": [
+    "Higher tolls on every road and ferry",
+    "More coins in the hands of every merchant",
+    "Comparable quantities across transactions",
+    "Fewer markets in the towns of the kingdom"
+   ],
+   "answer": 2
+  },
+  {
+   "id": "m6-t5-q045",
+   "topic": "m6-t5",
+   "difficulty": "medium",
+   "type": "mcq",
+   "question": "What does standard coin purity provide?",
+   "explanation": "Standard purity gives greater confidence in the value of coins.",
+   "options": [
+    "Greater confidence in value",
+    "Faster ships",
+    "Cheaper cloth",
+    "Larger caravans"
+   ],
+   "answer": 0
+  },
+  {
+   "id": "m6-t5-q046",
+   "topic": "m6-t5",
+   "difficulty": "medium",
+   "type": "mcq",
+   "question": "What does guild certification provide?",
+   "explanation": "Guild certification supports quality and trust.",
+   "options": [
+    "Free grain for every member of the guild",
+    "Military protection for merchants on the roads",
+    "Royal tribute paid by foreign merchants to the guild",
+    "Institutional support for quality and trust"
+   ],
+   "answer": 3
+  },
+  {
+   "id": "m6-t5-q047",
+   "topic": "m6-t5",
+   "difficulty": "easy",
+   "type": "fill",
+   "question": "Standardization is described in the session as the infrastructure of ______.",
+   "explanation": "The slide is titled Standardization: The Infrastructure of Trust.",
+   "accept": [
+    "trust"
+   ]
+  },
+  {
+   "id": "m6-t5-q048",
+   "topic": "m6-t5",
+   "difficulty": "medium",
+   "type": "scenario",
+   "question": "Every town in a region uses a different weight for a measure of grain, so buyers cannot compare prices. Which element of standardization is missing?",
+   "explanation": "Without uniform weights and measures, quantities are not comparable.",
+   "options": [
+    "Standard coin purity",
+    "Uniform weights and measures",
+    "Guild certification",
+    "Barter"
+   ],
+   "answer": 1
+  },
+  {
+   "id": "m6-t5-q049",
+   "topic": "m6-t5",
+   "difficulty": "medium",
+   "type": "scenario",
+   "question": "Coins in a market contain different amounts of silver, so people doubt their value. Which element is missing?",
+   "explanation": "Standard coin purity gives confidence in value.",
+   "options": [
+    "Uniform weights and measures",
+    "Standard coin purity",
+    "Guild certification",
+    "Valuation by barter"
+   ],
+   "answer": 1
+  },
+  {
+   "id": "m6-t5-q050",
+   "topic": "m6-t5",
+   "difficulty": "hard",
+   "type": "scenario",
+   "question": "A guild stamps its cloth to certify that it meets an agreed quality. Which element of the session does this illustrate?",
+   "explanation": "Guild certification is institutional support for quality and trust.",
+   "options": [
+    "Standard coin purity",
+    "Uniform weights",
+    "Barter",
+    "Guild certification"
+   ],
+   "answer": 3
+  },
+  {
+   "id": "m6-t5-q051",
+   "topic": "m6-t5",
+   "difficulty": "easy",
+   "type": "tf",
+   "question": "The combined result of standardization is reduced fraud, reduced transaction costs and stronger commercial confidence.",
+   "explanation": "True. This is the result stated on the slide.",
+   "answer": true
+  },
+  {
+   "id": "m6-t5-q052",
+   "topic": "m6-t5",
+   "difficulty": "hard",
+   "type": "match",
+   "question": "Match each standardization element with what it provides.",
+   "explanation": "These are the three elements and their roles.",
+   "pairs": [
+    [
+     "Uniform weights and measures",
+     "Comparable quantities across transactions"
+    ],
+    [
+     "Standard coin purity",
+     "Greater confidence in value"
+    ],
+    [
+     "Guild certification",
+     "Institutional support for quality and trust"
+    ]
+   ]
+  },
+  {
+   "id": "m6-t5-q053",
+   "topic": "m6-t5",
+   "difficulty": "hard",
+   "type": "compare",
+   "question": "How does standard coin purity differ from guild certification?",
+   "explanation": "One supports the value of money, the other the quality of goods.",
+   "options": [
+    "Coin purity secures confidence in value; guild certification supports quality and trust in goods",
+    "Coin purity certifies the quality of cloth; guild certification mints the coins",
+    "They are identical, so the session draws no difference between them",
+    "Coin purity concerns weights only; guild certification concerns tolls only"
+   ],
+   "answer": 0
+  },
+  {
+   "id": "m6-t5-q054",
+   "topic": "m6-t5",
+   "difficulty": "medium",
+   "type": "not",
+   "question": "Which of these is NOT a result of standardization in the session?",
+   "explanation": "The result is reduced fraud, lower transaction costs and stronger confidence.",
+   "options": [
+    "Reduced fraud",
+    "Reduced transaction costs",
+    "Higher transaction costs",
+    "Stronger commercial confidence"
+   ],
+   "answer": 2
+  },
+  {
+   "id": "m6-t5-q055",
+   "topic": "m6-t5",
+   "difficulty": "hard",
+   "type": "ar",
+   "question": "Assertion (A): Standardization is called the infrastructure of trust.\nReason (R): It reduces fraud and transaction costs and strengthens commercial confidence.",
+   "explanation": "Both are true and the second explains the first.",
+   "options": [
+    "Both A and R are true, and R explains A",
+    "Both A and R are true, but R does not explain A",
+    "A is true but R is false",
+    "A is false but R is true"
+   ],
+   "answer": 0
+  },
+  {
+   "id": "m6-t5-q056",
+   "topic": "m6-t5",
+   "difficulty": "medium",
+   "type": "concept",
+   "question": "Reduced fraud, reduced transaction costs and stronger commercial confidence together describe the:",
+   "explanation": "The slide labels this the result of standardization.",
+   "options": [
+    "Barter difficulties",
+    "Cost of coinage",
+    "Result of standardization",
+    "Role of guild courts"
+   ],
+   "answer": 2
+  },
+  {
+   "id": "m6-t5-q057",
+   "topic": "m6-t5",
+   "difficulty": "hard",
+   "type": "scenario",
+   "question": "A market adopts uniform weights, coins of fixed purity and guild-certified goods. Which combined result does the session expect?",
+   "explanation": "The session lists reduced fraud, reduced transaction costs and stronger commercial confidence as the result of standardization.",
+   "options": [
+    "Reduced fraud, lower transaction costs and stronger commercial confidence",
+    "Higher fraud and rising transaction costs in all of the markets",
+    "A return to barter between neighbours in the region",
+    "A ban on foreign merchants entering the markets"
+   ],
+   "answer": 0
+  },
+  {
+   "id": "m6-t6-q058",
+   "topic": "m6-t6",
+   "difficulty": "hard",
+   "type": "match",
+   "question": "Match each ethical principle with its meaning in the session.",
+   "explanation": "These are the four ethical business principles.",
+   "pairs": [
+    [
+     "Satya",
+     "Truthfulness"
+    ],
+    [
+     "Fair Pricing",
+     "Avoid exploitation"
+    ],
+    [
+     "Social Responsibility",
+     "Consider wider welfare"
+    ],
+    [
+     "Integrity",
+     "Honour commitments and contracts"
+    ]
+   ]
+  },
+  {
+   "id": "m6-t6-q059",
+   "topic": "m6-t6",
+   "difficulty": "easy",
+   "type": "fill",
+   "question": "Satya means ______.",
+   "explanation": "Satya is truthfulness: being honest about goods, quantities and prices.",
+   "accept": [
+    "truthfulness"
+   ]
+  },
+  {
+   "id": "m6-t6-q060",
+   "topic": "m6-t6",
+   "difficulty": "medium",
+   "type": "mcq",
+   "question": "Which principle means honouring commitments and contracts?",
+   "explanation": "Integrity is honouring commitments and contracts.",
+   "options": [
+    "Satya",
+    "Fair Pricing",
+    "Social Responsibility",
+    "Integrity"
+   ],
+   "answer": 3
+  },
+  {
+   "id": "m6-t6-q061",
+   "topic": "m6-t6",
+   "difficulty": "easy",
+   "type": "tf",
+   "question": "The session presents ethical conduct as an optional add-on to commerce.",
+   "explanation": "False. Ethical conduct is presented as part of trustworthy commerce, not an optional add-on.",
+   "answer": false
+  },
+  {
+   "id": "m6-t6-q062",
+   "topic": "m6-t6",
+   "difficulty": "medium",
+   "type": "scenario",
+   "question": "A merchant advertises cloth as pure silk although it is mixed with cotton. Which principle is violated?",
+   "explanation": "Misdescribing goods breaks truthfulness.",
+   "options": [
+    "Integrity",
+    "Satya (truthfulness)",
+    "Social Responsibility",
+    "Fair Pricing only"
+   ],
+   "answer": 1
+  },
+  {
+   "id": "m6-t6-q063",
+   "topic": "m6-t6",
+   "difficulty": "medium",
+   "type": "scenario",
+   "question": "In a shortage a seller raises the price of grain far beyond what is fair to exploit desperate buyers. Which principle is violated?",
+   "explanation": "Fair pricing means avoiding exploitation.",
+   "options": [
+    "Satya",
+    "Fair Pricing",
+    "Integrity",
+    "Social Responsibility only"
+   ],
+   "answer": 1
+  },
+  {
+   "id": "m6-t6-q064",
+   "topic": "m6-t6",
+   "difficulty": "hard",
+   "type": "scenario",
+   "question": "A merchant dumps waste into a well used by the whole village, harming others for his own gain. Which principle is violated?",
+   "explanation": "Social responsibility means considering wider welfare.",
+   "options": [
+    "Satya",
+    "Fair Pricing",
+    "Integrity",
+    "Social Responsibility"
+   ],
+   "answer": 3
+  },
+  {
+   "id": "m6-t6-q065",
+   "topic": "m6-t6",
+   "difficulty": "hard",
+   "type": "scenario",
+   "question": "A trader signs a contract to supply grain at an agreed price. When the market price rises he still delivers as promised. Which principle does this show?",
+   "explanation": "Honouring commitments and contracts is integrity.",
+   "options": [
+    "Integrity",
+    "Satya",
+    "Fair Pricing",
+    "Barter"
+   ],
+   "answer": 0
+  },
+  {
+   "id": "m6-t6-q066",
+   "topic": "m6-t6",
+   "difficulty": "hard",
+   "type": "scenario",
+   "question": "A seller knowingly passes off defective goods as perfect and also overcharges. Which two principles are violated?",
+   "explanation": "Misrepresenting goods breaks truthfulness; overcharging breaks fair pricing.",
+   "options": [
+    "Integrity and Barter",
+    "Social Responsibility only",
+    "Satya and Fair Pricing",
+    "None of the principles"
+   ],
+   "answer": 2
+  },
+  {
+   "id": "m6-t6-q067",
+   "topic": "m6-t6",
+   "difficulty": "medium",
+   "type": "not",
+   "question": "Which of these is NOT one of the four ethical business principles?",
+   "explanation": "The four principles are Satya, Fair Pricing, Social Responsibility and Integrity.",
+   "options": [
+    "Satya",
+    "Fair Pricing",
+    "Maximising profit at any cost",
+    "Integrity"
+   ],
+   "answer": 2
+  },
+  {
+   "id": "m6-t6-q068",
+   "topic": "m6-t6",
+   "difficulty": "medium",
+   "type": "multi",
+   "question": "Which are the ethical business principles in the session? (Select all that apply)",
+   "explanation": "The four principles are Satya, Fair Pricing, Social Responsibility and Integrity.",
+   "options": [
+    "Fair Pricing",
+    "Secrecy",
+    "Social Responsibility",
+    "Satya",
+    "Monopoly",
+    "Integrity"
+   ],
+   "answer": [
+    0,
+    2,
+    3,
+    5
+   ]
+  },
+  {
+   "id": "m6-t6-q069",
+   "topic": "m6-t6",
+   "difficulty": "hard",
+   "type": "compare",
+   "question": "How does Satya differ from Integrity?",
+   "explanation": "They are separate principles with different meanings.",
+   "options": [
+    "Satya is truthfulness; integrity is honouring commitments and contracts",
+    "Satya is honouring contracts; integrity is being truthful about goods",
+    "They are identical, so the session gives them one meaning",
+    "Satya is fixing prices; integrity is considering wider welfare"
+   ],
+   "answer": 0
+  },
+  {
+   "id": "m6-t6-q070",
+   "topic": "m6-t6",
+   "difficulty": "hard",
+   "type": "ar",
+   "question": "Assertion (A): The session treats ethical conduct as an optional add-on to commerce.\nReason (R): Ethical conduct is presented as part of trustworthy commerce.",
+   "explanation": "A is false: ethical conduct is not an optional add-on. R is true.",
+   "options": [
+    "Both A and R are true, and R explains A",
+    "Both A and R are true, but R does not explain A",
+    "A is true but R is false",
+    "A is false but R is true"
+   ],
+   "answer": 3
+  },
+  {
+   "id": "m6-t7-q071",
+   "topic": "m6-t7",
+   "difficulty": "medium",
+   "type": "mcq",
+   "question": "What does Dharma balance, according to the session?",
+   "explanation": "Dharma balances wealth with ethics.",
+   "options": [
+    "Taxes with tolls",
+    "Barter with coins",
+    "Ships with caravans",
+    "Wealth with ethics"
+   ],
+   "answer": 3
+  },
+  {
+   "id": "m6-t7-q072",
+   "topic": "m6-t7",
+   "difficulty": "easy",
+   "type": "fill",
+   "question": "Dharma balances wealth with ______.",
+   "explanation": "Dharma balances wealth with ethics.",
+   "accept": [
+    "ethics"
+   ]
+  },
+  {
+   "id": "m6-t7-q073",
+   "topic": "m6-t7",
+   "difficulty": "medium",
+   "type": "mcq",
+   "question": "Which modern ideas does the session link to Dharma?",
+   "explanation": "The modern link is with ESG and corporate governance.",
+   "options": [
+    "Barter and coinage",
+    "ESG and corporate governance",
+    "Hundis and tolls",
+    "Guilds and caravans"
+   ],
+   "answer": 1
+  },
+  {
+   "id": "m6-t7-q074",
+   "topic": "m6-t7",
+   "difficulty": "medium",
+   "type": "scenario",
+   "question": "A firm gives up a quick profit to protect the long-term welfare of employees, customers and the community. Which idea from the session is this?",
+   "explanation": "Dharma emphasises long-term stakeholder welfare.",
+   "options": [
+    "Hoarding goods to push up the price of essential items",
+    "Dharma over simple profit maximization",
+    "Barter exchange of goods without any use of money",
+    "Price fixing by a group of sellers in the market"
+   ],
+   "answer": 1
+  },
+  {
+   "id": "m6-t7-q075",
+   "topic": "m6-t7",
+   "difficulty": "hard",
+   "type": "scenario",
+   "question": "A company hides pollution to maximise profit. Which question from the session does this raise?",
+   "explanation": "This is the key question posed in the session.",
+   "options": [
+    "Can barter replace money in the long run of trade?",
+    "Can coins be made only of silver and never of gold?",
+    "Can caravans cross the mountains in every season?",
+    "Can wealth creation be sustainable when ethical responsibility is ignored?"
+   ],
+   "answer": 3
+  },
+  {
+   "id": "m6-t7-q076",
+   "topic": "m6-t7",
+   "difficulty": "easy",
+   "type": "tf",
+   "question": "Dharma emphasises long-term stakeholder welfare.",
+   "explanation": "True. Long-term stakeholder welfare is one of the points listed.",
+   "answer": true
+  },
+  {
+   "id": "m6-t7-q077",
+   "topic": "m6-t7",
+   "difficulty": "hard",
+   "type": "compare",
+   "question": "How does a Dharma-based approach differ from pure profit maximization?",
+   "explanation": "The session contrasts balancing wealth with ethics against profit alone.",
+   "options": [
+    "Dharma balances wealth with ethics and long-term stakeholder welfare; profit maximization alone does not",
+    "Dharma ignores wealth, while profit maximization values it greatly",
+    "Profit maximization includes stakeholder welfare, but Dharma does not",
+    "They are identical, so the session draws no contrast between them"
+   ],
+   "answer": 0
+  },
+  {
+   "id": "m6-t7-q078",
+   "topic": "m6-t7",
+   "difficulty": "medium",
+   "type": "not",
+   "question": "Which of these is NOT part of the session's Dharma-based approach?",
+   "explanation": "Short-term profit regardless of impact is the opposite of the Dharma-based approach.",
+   "options": [
+    "Balancing wealth with ethics in business decisions",
+    "Long-term welfare of all the stakeholders of a business",
+    "Maximising short-term profit regardless of impact",
+    "The link between Dharma and ESG in modern business"
+   ],
+   "answer": 2
+  },
+  {
+   "id": "m6-t7-q079",
+   "topic": "m6-t7",
+   "difficulty": "hard",
+   "type": "ar",
+   "question": "Assertion (A): Dharma remains relevant to modern business.\nReason (R): The session says Dharma has no link to ESG or corporate governance.",
+   "explanation": "A is true. R is false: the session links Dharma to ESG and corporate governance.",
+   "options": [
+    "Both A and R are true, and R explains A",
+    "Both A and R are true, but R does not explain A",
+    "A is true but R is false",
+    "A is false but R is true"
+   ],
+   "answer": 2
+  },
+  {
+   "id": "m6-t7-q080",
+   "topic": "m6-t7",
+   "difficulty": "medium",
+   "type": "concept",
+   "question": "The modern framework most directly linked to Dharma in the session is:",
+   "explanation": "The session links Dharma with ESG and corporate governance.",
+   "options": [
+    "UPI",
+    "Core banking",
+    "ESG",
+    "Hundis"
+   ],
+   "answer": 2
+  },
+  {
+   "id": "m6-t7-q081",
+   "topic": "m6-t7",
+   "difficulty": "easy",
+   "type": "tf",
+   "question": "The session asks whether wealth creation can be sustainable when ethical responsibility is ignored.",
+   "explanation": "True. It is the key question on the slide.",
+   "answer": true
+  },
+  {
+   "id": "m6-t7-q082",
+   "topic": "m6-t7",
+   "difficulty": "hard",
+   "type": "match",
+   "question": "Match each idea with its role in the session.",
+   "explanation": "These come from the Dharma versus profit maximization slide.",
+   "pairs": [
+    [
+     "Dharma",
+     "Balances wealth with ethics"
+    ],
+    [
+     "ESG",
+     "Modern link to Dharma"
+    ],
+    [
+     "Stakeholder welfare",
+     "Long-term concern of Dharma-based business"
+    ]
+   ]
+  },
+  {
+   "id": "m6-t8-q083",
+   "topic": "m6-t8",
+   "difficulty": "hard",
+   "type": "match",
+   "question": "Match each modern area with the ancient principle it reflects, as the session presents them.",
+   "explanation": "These are the four modern-relevance areas on the slide.",
+   "pairs": [
+    [
+     "Digital payments",
+     "Standardization and speed"
+    ],
+    [
+     "Ethical banking",
+     "Trust, integrity and responsible financial conduct"
+    ],
+    [
+     "Consumer protection",
+     "Fair dealing and protection against exploitation"
+    ],
+    [
+     "Responsible business",
+     "Stakeholder welfare, ESG and governance"
+    ]
+   ]
+  },
+  {
+   "id": "m6-t8-q084",
+   "topic": "m6-t8",
+   "difficulty": "easy",
+   "type": "mcq",
+   "question": "Digital payments reflect which idea in the session?",
+   "explanation": "Digital payments reflect standardization and speed in modern transactions.",
+   "options": [
+    "Standardization and speed",
+    "Barter and gifts",
+    "Royal tribute",
+    "Caravan trade"
+   ],
+   "answer": 0
+  },
+  {
+   "id": "m6-t8-q085",
+   "topic": "m6-t8",
+   "difficulty": "medium",
+   "type": "mcq",
+   "question": "Ethical banking reflects which ideas?",
+   "explanation": "Ethical banking reflects trust, integrity and responsible conduct.",
+   "options": [
+    "Barter and speed, in transactions between neighbours",
+    "Standard weights only, with no concern for conduct",
+    "A royal monopoly over every bank in the kingdom",
+    "Trust, integrity and responsible financial conduct"
+   ],
+   "answer": 3
+  },
+  {
+   "id": "m6-t8-q086",
+   "topic": "m6-t8",
+   "difficulty": "medium",
+   "type": "mcq",
+   "question": "Consumer protection reflects which ideas?",
+   "explanation": "Consumer protection means fair dealing and protection against exploitation.",
+   "options": [
+    "Speed and standardization in modern transactions",
+    "Fair dealing and protection against exploitation",
+    "Barter and gifts exchanged between merchants",
+    "Coinage and tolls collected by the state officials"
+   ],
+   "answer": 1
+  },
+  {
+   "id": "m6-t8-q087",
+   "topic": "m6-t8",
+   "difficulty": "medium",
+   "type": "fill",
+   "question": "Responsible business involves stakeholder welfare, ESG and ______.",
+   "explanation": "The session lists stakeholder welfare, ESG and governance.",
+   "accept": [
+    "governance"
+   ]
+  },
+  {
+   "id": "m6-t8-q088",
+   "topic": "m6-t8",
+   "difficulty": "medium",
+   "type": "scenario",
+   "question": "A bank refuses to sell a misleading loan scheme because it would damage customers' trust. Which modern area is this?",
+   "explanation": "Ethical banking is about trust, integrity and responsible conduct.",
+   "options": [
+    "Digital payments",
+    "Ethical banking",
+    "Barter",
+    "Hoarding"
+   ],
+   "answer": 1
+  },
+  {
+   "id": "m6-t8-q089",
+   "topic": "m6-t8",
+   "difficulty": "hard",
+   "type": "scenario",
+   "question": "A buyer complains about unfair dealing and the authorities protect him from exploitation. Which modern area is this?",
+   "explanation": "Consumer protection means fair dealing and protection against exploitation.",
+   "options": [
+    "Digital payments",
+    "Ethical banking",
+    "Responsible business",
+    "Consumer protection"
+   ],
+   "answer": 3
+  },
+  {
+   "id": "m6-t8-q090",
+   "topic": "m6-t8",
+   "difficulty": "hard",
+   "type": "compare",
+   "question": "How does ethical banking differ from consumer protection?",
+   "explanation": "They are separate modern areas with different emphases.",
+   "options": [
+    "Ethical banking stresses trust and responsible financial conduct; consumer protection stresses fair dealing against exploitation",
+    "They are identical, so the session gives them one shared emphasis",
+    "Ethical banking concerns weights and measures; consumer protection concerns coins",
+    "Ethical banking is a barter system; consumer protection is a toll system"
+   ],
+   "answer": 0
+  },
+  {
+   "id": "m6-t8-q091",
+   "topic": "m6-t8",
+   "difficulty": "medium",
+   "type": "not",
+   "question": "Which of these is NOT named as a modern relevance in the session?",
+   "explanation": "The session names digital payments, ethical banking, consumer protection and responsible business.",
+   "options": [
+    "Digital payments",
+    "Ethical banking",
+    "Barter networks",
+    "Consumer protection"
+   ],
+   "answer": 2
+  },
+  {
+   "id": "m6-t8-q092",
+   "topic": "m6-t8",
+   "difficulty": "hard",
+   "type": "ar",
+   "question": "Assertion (A): Ancient principles have no relevance to contemporary systems.\nReason (R): Digital payments, ethical banking, consumer protection and responsible business apply them today.",
+   "explanation": "A is false: the principles remain relevant. R is true.",
+   "options": [
+    "Both A and R are true, and R explains A",
+    "Both A and R are true, but R does not explain A",
+    "A is true but R is false",
+    "A is false but R is true"
+   ],
+   "answer": 3
+  },
+  {
+   "id": "m6-t8-q093",
+   "topic": "m6-t8",
+   "difficulty": "medium",
+   "type": "multi",
+   "question": "Which are the modern relevance areas named? (Select all that apply)",
+   "explanation": "These four areas are named on the slide.",
+   "options": [
+    "Digital payments",
+    "Responsible business",
+    "Ethical banking",
+    "Caravan trade",
+    "Guild banking",
+    "Consumer protection"
+   ],
+   "answer": [
+    0,
+    1,
+    2,
+    5
+   ]
+  },
+  {
+   "id": "m6-t8-q094",
+   "topic": "m6-t8",
+   "difficulty": "medium",
+   "type": "concept",
+   "question": "Standardization and speed in modern transactions describe:",
+   "explanation": "The session links digital payments to standardization and speed.",
+   "options": [
+    "Ethical banking",
+    "Consumer protection",
+    "Digital payments",
+    "Responsible business"
+   ],
+   "answer": 2
+  },
+  {
+   "id": "m6-t9-q095",
+   "topic": "m6-t9",
+   "difficulty": "hard",
+   "type": "match",
+   "question": "Match each stage of the synthesis chain with its description.",
+   "explanation": "The chain runs Barter, Coins, Standards, Ethics, Trust.",
+   "pairs": [
+    [
+     "Barter",
+     "Direct exchange"
+    ],
+    [
+     "Coins",
+     "Standardized value"
+    ],
+    [
+     "Standards",
+     "Comparable quality"
+    ],
+    [
+     "Ethics",
+     "Responsible conduct"
+    ],
+    [
+     "Trust",
+     "Efficient markets"
+    ]
+   ]
+  },
+  {
+   "id": "m6-t9-q096",
+   "topic": "m6-t9",
+   "difficulty": "medium",
+   "type": "mcq",
+   "question": "Which sequence is the session's synthesis chain?",
+   "explanation": "The chain runs Barter, Coins, Standards, Ethics, Trust.",
+   "options": [
+    "Barter, Coins, Standards, Ethics, Trust",
+    "Coins, Barter, Ethics, Standards, Trust",
+    "Trust, Ethics, Standards, Coins, Barter",
+    "Barter, Standards, Coins, Trust, Ethics"
+   ],
+   "answer": 0
+  },
+  {
+   "id": "m6-t9-q097",
+   "topic": "m6-t9",
+   "difficulty": "easy",
+   "type": "fill",
+   "question": "Trust is the economic ______ connecting monetary systems, standards and ethical business practices.",
+   "explanation": "The closing statement calls trust the economic bridge.",
+   "accept": [
+    "bridge"
+   ]
+  },
+  {
+   "id": "m6-t9-q098",
+   "topic": "m6-t9",
+   "difficulty": "medium",
+   "type": "multi",
+   "question": "Which are among the four key takeaways? (Select all that apply)",
+   "explanation": "The takeaways are: money evolved from barter to coins, gold coinage expanded trade, trust drives markets and Dharma remains relevant.",
+   "options": [
+    "Dharma remains relevant",
+    "Trust drives markets",
+    "Ethics is optional",
+    "Barter replaced coins",
+    "Money evolved from barter to coins",
+    "Gold coinage expanded trade"
+   ],
+   "answer": [
+    0,
+    1,
+    4,
+    5
+   ]
+  },
+  {
+   "id": "m6-t9-q099",
+   "topic": "m6-t9",
+   "difficulty": "easy",
+   "type": "tf",
+   "question": "One of the four takeaways is that gold coinage expanded trade.",
+   "explanation": "True. It is the second takeaway.",
+   "answer": true
+  },
+  {
+   "id": "m6-t9-q100",
+   "topic": "m6-t9",
+   "difficulty": "medium",
+   "type": "fill",
+   "question": "The exit chain is: standardized money, lower friction, trust, ______ markets.",
+   "explanation": "The exit chain ends with ethical markets.",
+   "accept": [
+    "ethical"
+   ]
+  },
+  {
+   "id": "m6-t9-q101",
+   "topic": "m6-t9",
+   "difficulty": "medium",
+   "type": "mcq",
+   "question": "In the exit chain, what does lower friction lead to?",
+   "explanation": "The chain runs standardized money, lower friction, trust, ethical markets.",
+   "options": [
+    "Barter",
+    "Coinage",
+    "Taxation",
+    "Trust"
+   ],
+   "answer": 3
+  },
+  {
+   "id": "m6-t9-q102",
+   "topic": "m6-t9",
+   "difficulty": "hard",
+   "type": "scenario",
+   "question": "A market has reliable coins, uniform weights and honest merchants. According to the chain, what outcome follows?",
+   "explanation": "Standardized money lowers friction, builds trust and supports ethical markets.",
+   "options": [
+    "Return to barter",
+    "Trust and efficient, ethical markets",
+    "Collapse of trade",
+    "Rule by the army"
+   ],
+   "answer": 1
+  },
+  {
+   "id": "m6-t9-q103",
+   "topic": "m6-t9",
+   "difficulty": "hard",
+   "type": "compare",
+   "question": "How does the session relate efficiency and ethics?",
+   "explanation": "The exit statement says efficiency and ethics can reinforce each other.",
+   "options": [
+    "Efficiency removes the need for ethics",
+    "They can reinforce each other",
+    "Ethics always reduces efficiency",
+    "They are unrelated"
+   ],
+   "answer": 1
+  },
+  {
+   "id": "m6-t9-q104",
+   "topic": "m6-t9",
+   "difficulty": "medium",
+   "type": "not",
+   "question": "Which of these is NOT a stage in the synthesis chain?",
+   "explanation": "The chain is Barter, Coins, Standards, Ethics, Trust.",
+   "options": [
+    "Barter",
+    "Standards",
+    "Ethics",
+    "Conquest"
+   ],
+   "answer": 3
+  },
+  {
+   "id": "m6-t9-q105",
+   "topic": "m6-t9",
+   "difficulty": "medium",
+   "type": "mcq",
+   "question": "Which references does the session name?",
+   "explanation": "The references are Balram Srivastava and Kautilya's Arthashastra.",
+   "options": [
+    "Balram Srivastava and Kautilya's Arthashastra",
+    "The Periplus and the Indica",
+    "Panini and Herodotus",
+    "Xuanzang and Fa Xian"
+   ],
+   "answer": 0
+  },
+  {
+   "id": "m6-t9-q106",
+   "topic": "m6-t9",
+   "difficulty": "hard",
+   "type": "ar",
+   "question": "Assertion (A): The exit framework begins with standardized money.\nReason (R): Lower friction leads to trust and then to ethical markets.",
+   "explanation": "Both are true and the second continues the chain.",
+   "options": [
+    "Both A and R are true, and R explains A",
+    "Both A and R are true, but R does not explain A",
+    "A is true but R is false",
+    "A is false but R is true"
+   ],
+   "answer": 0
+  },
+  {
+   "id": "m6-t9-q107",
+   "topic": "m6-t9",
+   "difficulty": "easy",
+   "type": "tf",
+   "question": "The session lists 'Dharma remains relevant' as a key takeaway.",
+   "explanation": "True. It is the fourth takeaway.",
+   "answer": true
+  },
+  {
+   "id": "m6-t9-q108",
+   "topic": "m6-t9",
+   "difficulty": "easy",
+   "type": "mcq",
+   "question": "The first takeaway is that money evolved from:",
+   "explanation": "The first takeaway is that money evolved from barter to coins.",
+   "options": [
+    "Coins to barter",
+    "Gold to silver only",
+    "Barter to coins",
+    "Tolls to taxes"
+   ],
+   "answer": 2
+  },
+  {
+   "id": "m6-t9-q109",
+   "topic": "m6-t9",
+   "difficulty": "medium",
+   "type": "concept",
+   "question": "Which idea does 'efficiency and ethics can reinforce each other' summarise?",
+   "explanation": "It is the closing lesson of the session.",
+   "options": [
+    "A barter difficulty",
+    "A coin type",
+    "Ancient commerce's lesson about markets",
+    "A guild punishment"
+   ],
+   "answer": 2
+  },
+  {
+   "id": "m6-t4-q110",
+   "topic": "m6-t4",
+   "difficulty": "medium",
+   "type": "mcq",
+   "question": "Gold dinars are described as reflecting trade with which empire?",
+   "explanation": "The session says gold dinars reflected prosperity and Roman trade.",
+   "options": [
+    "The Roman empire",
+    "The Chinese empire",
+    "The Persian empire",
+    "The Greek city-states"
+   ],
+   "answer": 0
+  }
+ ],
+ "cards": [
+  {
+   "id": "m6-c001",
+   "topic": "m6-t2",
+   "front": "Difficulties of barter",
+   "back": "Double coincidence of wants; indivisibility; valuation; need for a standardized medium of exchange."
+  },
+  {
+   "id": "m6-c002",
+   "topic": "m6-t5",
+   "front": "Standardization: infrastructure of trust",
+   "back": "Uniform weights and measures; standard coin purity; guild certification. Result: reduced fraud, reduced transaction costs, stronger commercial confidence."
+  },
+  {
+   "id": "m6-c003",
+   "topic": "m6-t6",
+   "front": "Four ethical business principles",
+   "back": "Satya (truthfulness); Fair Pricing (avoid exploitation); Social Responsibility (consider wider welfare); Integrity (honour commitments and contracts)."
+  },
+  {
+   "id": "m6-c004",
+   "topic": "m6-t9",
+   "front": "Synthesis chain",
+   "back": "Barter (direct exchange) -> Coins (standardized value) -> Standards (comparable quality) -> Ethics (responsible conduct) -> Trust (efficient markets)."
+  },
+  {
+   "id": "m6-c005",
+   "topic": "m6-t4",
+   "front": "Gold dinars",
+   "back": "Issued by the Kushan and Gupta dynasties; reflected prosperity and Roman trade; encouraged urbanization and specialization."
+  }
+ ]
+}

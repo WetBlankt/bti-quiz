@@ -1,0 +1,1674 @@
+{
+ "module": "m1",
+ "questions": [
+  {
+   "id": "m1-t1-q001",
+   "topic": "m1-t1",
+   "difficulty": "medium",
+   "type": "mcq",
+   "question": "Who was the chief advisor to Chandragupta Maurya whose governance principles combined economics, ethics, administration and public welfare?",
+   "explanation": "Chanakya (Kautilya) advised Chandragupta Maurya more than 2,300 years ago and treated wealth as something to be managed responsibly for the kingdom's prosperity.",
+   "options": [
+    "Megasthenes, the Greek ambassador",
+    "Bindusara, the next Mauryan ruler",
+    "Panini, author of the Ashtadhyayi",
+    "Kautilya (Chanakya)"
+   ],
+   "answer": 3
+  },
+  {
+   "id": "m1-t1-q002",
+   "topic": "m1-t1",
+   "difficulty": "easy",
+   "type": "tf",
+   "question": "In the session, economic administration is described as both an economic necessity and a moral responsibility.",
+   "explanation": "True. Chanakya's approach tied economic management to ethics and the welfare of subjects.",
+   "answer": true
+  },
+  {
+   "id": "m1-t1-q003",
+   "topic": "m1-t1",
+   "difficulty": "medium",
+   "type": "multi",
+   "question": "Which of these are stated objectives of economic administration? (Select all that apply)",
+   "explanation": "A ruler should ensure stable revenue, fair taxation, regulated markets, consumer welfare, prevention of exploitation, efficient trade and national prosperity. Unregulated markets are the opposite of the aim.",
+   "options": [
+    "Stable revenue",
+    "Fair taxation",
+    "Unregulated markets",
+    "Prevention of exploitation"
+   ],
+   "answer": [
+    0,
+    1,
+    3
+   ]
+  },
+  {
+   "id": "m1-t1-q004",
+   "topic": "m1-t1",
+   "difficulty": "medium",
+   "type": "not",
+   "question": "Which of the following is NOT listed as an objective of economic administration?",
+   "explanation": "The objectives are stable revenue, fair taxation, regulated markets, consumer welfare, prevention of exploitation, efficient trade and national prosperity. Maximising tax rates is not one of them; Chanakya opposed excessive taxation.",
+   "options": [
+    "Maximising tax rates",
+    "Efficient trade",
+    "National prosperity",
+    "Consumer welfare"
+   ],
+   "answer": 0
+  },
+  {
+   "id": "m1-t1-q005",
+   "topic": "m1-t1",
+   "difficulty": "hard",
+   "type": "ar",
+   "question": "Assertion (A): Chanakya's governance philosophy was about managing wealth responsibly, not merely acquiring it.\nReason (R): He held that the prosperity of the king depends upon the prosperity of his subjects.",
+   "explanation": "Both are true and R explains A: if the ruler's prosperity rests on the people's prosperity, wealth must be managed responsibly for the whole kingdom. (The exact line is more explicit in the Arthashastra; Chanakya Niti carries the ethical foundation.)",
+   "options": [
+    "Both A and R are true, and R explains A",
+    "Both A and R are true, but R does not explain A",
+    "A is true but R is false",
+    "A is false but R is true"
+   ],
+   "answer": 0
+  },
+  {
+   "id": "m1-t1-q006",
+   "topic": "m1-t1",
+   "difficulty": "medium",
+   "type": "fill",
+   "question": "The ethical foundation of governance and public welfare is consistently emphasised in Chanakya ______.",
+   "explanation": "Chanakya Niti emphasises governance as serving the public good, while the bee-and-honey taxation analogy is elaborated in the Arthashastra.",
+   "accept": [
+    "Niti"
+   ]
+  },
+  {
+   "id": "m1-t2-q007",
+   "topic": "m1-t2",
+   "difficulty": "medium",
+   "type": "mcq",
+   "question": "Which set lists Chanakya's five pillars of economic administration?",
+   "explanation": "The five pillars are Taxation, Customs Duties, Tolls, Anti-Hoarding and Price Controls.",
+   "options": [
+    "Customs Duties, Quotas, Tolls, Anti-Hoarding, Wage Controls",
+    "Taxation, Tariffs, Tolls, Monopolies, Price Controls",
+    "Taxation, Customs Duties, Tolls, Anti-Hoarding, Price Controls",
+    "Taxation, Subsidies, Tolls, Rationing, Licensing"
+   ],
+   "answer": 2
+  },
+  {
+   "id": "m1-t2-q008",
+   "topic": "m1-t2",
+   "difficulty": "hard",
+   "type": "match",
+   "question": "Match each pillar with its role.",
+   "explanation": "Customs duties regulated trade and strengthened the treasury; tolls funded roads, ports and ferries; anti-hoarding protected consumers from artificial shortages; price controls kept essential goods fairly priced.",
+   "pairs": [
+    [
+     "Customs Duties",
+     "Regulated trade, prevented illegal commerce, strengthened the treasury"
+    ],
+    [
+     "Tolls",
+     "Fees from roads, ports, ferries and markets that funded infrastructure"
+    ],
+    [
+     "Anti-Hoarding",
+     "Penalties for creating artificial shortages of essential goods"
+    ],
+    [
+     "Price Controls",
+     "Officials monitored prices of essential commodities"
+    ]
+   ]
+  },
+  {
+   "id": "m1-t2-q009",
+   "topic": "m1-t2",
+   "difficulty": "medium",
+   "type": "mcq",
+   "question": "Why were duties levied on imports and exports, according to the session?",
+   "explanation": "Duties regulated trade, prevented illegal commerce and strengthened the treasury, while foreign trade was still encouraged and national interests safeguarded.",
+   "options": [
+    "To fix the daily wages of all artisans and village labourers",
+    "To regulate trade, prevent illegal commerce and strengthen the treasury",
+    "To ban all foreign trade and keep imported goods out of the kingdom",
+    "To fund only the royal army, its horses and its war elephants"
+   ],
+   "answer": 1
+  },
+  {
+   "id": "m1-t2-q010",
+   "topic": "m1-t2",
+   "difficulty": "medium",
+   "type": "concept",
+   "question": "Merchants are prohibited from creating artificial shortages of essential goods, and violators face strict penalties. Which pillar is this?",
+   "explanation": "This is the Anti-Hoarding pillar: it protects consumers and maintains market stability.",
+   "options": [
+    "Tolls",
+    "Taxation",
+    "Customs Duties",
+    "Anti-Hoarding"
+   ],
+   "answer": 3
+  },
+  {
+   "id": "m1-t3-q011",
+   "topic": "m1-t3",
+   "difficulty": "easy",
+   "type": "fill",
+   "question": "Chanakya said a ruler should collect taxes like a ______ gathers honey from flowers, without harming them.",
+   "explanation": "The bee-and-honey analogy: take what is needed without damaging the source of wealth (elaborated in the Arthashastra).",
+   "accept": [
+    "bee"
+   ]
+  },
+  {
+   "id": "m1-t3-q012",
+   "topic": "m1-t3",
+   "difficulty": "medium",
+   "type": "mcq",
+   "question": "What does Chanakya's bee-and-honey analogy teach about taxation?",
+   "explanation": "Taxes should be collected so that people keep producing wealth, businesses keep growing and citizens willingly pay.",
+   "options": [
+    "Only the wealthy few should be taxed, never ordinary traders",
+    "Taxes should be paid in honey and grain rather than in coin",
+    "Taxes should be collected without harming the citizens who create the wealth",
+    "Taxes should be set highest at harvest time, when produce is plentiful"
+   ],
+   "answer": 2
+  },
+  {
+   "id": "m1-t3-q013",
+   "topic": "m1-t3",
+   "difficulty": "medium",
+   "type": "multi",
+   "question": "Which are characteristics of good taxation listed in the session? (Select all that apply)",
+   "explanation": "Good taxation is fair, predictable, moderate, transparent and used for public welfare. Arbitrary taxation is what Chanakya warned against.",
+   "options": [
+    "Fair",
+    "Predictable",
+    "Arbitrary",
+    "Transparent",
+    "Moderate"
+   ],
+   "answer": [
+    0,
+    1,
+    3,
+    4
+   ]
+  },
+  {
+   "id": "m1-t3-q014",
+   "topic": "m1-t3",
+   "difficulty": "hard",
+   "type": "compare",
+   "question": "How does the session compare Chanakya's taxation approach with today's GST?",
+   "explanation": "Both aim at fair, efficient taxation: GST offers a single system, easier compliance, a broader base and less evasion, echoing Chanakya's call for fair, moderate, transparent taxes.",
+   "options": [
+    "Both aim at fair, efficient taxation with easier compliance and less evasion",
+    "GST aims to maximise rates while Chanakya aimed to minimise them",
+    "They have nothing in common",
+    "Chanakya taxed only imports, GST taxes only domestic sales"
+   ],
+   "answer": 0
+  },
+  {
+   "id": "m1-t3-q015",
+   "topic": "m1-t3",
+   "difficulty": "medium",
+   "type": "not",
+   "question": "Which is NOT listed among GST's objectives in the session's modern parallel?",
+   "explanation": "The listed GST objectives are a single taxation system, easier compliance, a broader tax base, reduced tax evasion and economic efficiency. Customs duties are a separate pillar.",
+   "options": [
+    "Higher customs duties on imports",
+    "Single taxation system",
+    "Reduced tax evasion",
+    "Broader tax base"
+   ],
+   "answer": 0
+  },
+  {
+   "id": "m1-t3-q016",
+   "topic": "m1-t3",
+   "difficulty": "hard",
+   "type": "scenario",
+   "question": "Tax collectors take so much that farmers stop planting and traders shut their shops. Which of Chanakya's principles has been violated?",
+   "explanation": "Chanakya never supported excessive taxation: people should keep producing wealth, businesses growing, agriculture profitable and trade expanding.",
+   "options": [
+    "Hoarded stocks of essential goods must be released to the market",
+    "Taxes should leave people producing wealth, businesses growing and agriculture profitable",
+    "Tolls must be collected only from users of roads, ports and ferries",
+    "Officials must be carefully tested before they are appointed"
+   ],
+   "answer": 1
+  },
+  {
+   "id": "m1-t3-q017",
+   "topic": "m1-t3",
+   "difficulty": "easy",
+   "type": "tf",
+   "question": "Chanakya supported excessive taxation as long as the revenue reached the treasury.",
+   "explanation": "False. He never supported excessive taxation; the ruler should collect taxes without harming citizens.",
+   "answer": false
+  },
+  {
+   "id": "m1-t4-q018",
+   "topic": "m1-t4",
+   "difficulty": "medium",
+   "type": "mcq",
+   "question": "Why did the Mauryan state levy customs duties on imported goods?",
+   "explanation": "Duties gave the state revenue while also protecting domestic industries and regulating foreign trade.",
+   "options": [
+    "To set the wages of sailors",
+    "To encourage smuggling",
+    "For revenue and to protect domestic industries",
+    "Only to punish foreign merchants"
+   ],
+   "answer": 2
+  },
+  {
+   "id": "m1-t4-q019",
+   "topic": "m1-t4",
+   "difficulty": "medium",
+   "type": "multi",
+   "question": "Which are objectives of customs administration named in the session? (Select all that apply)",
+   "explanation": "Objectives: regulating foreign trade, maintaining product quality, preventing smuggling, ensuring accurate valuation and generating public revenue. Fixing retail grain prices belongs to price regulation.",
+   "options": [
+    "Regulating foreign trade",
+    "Preventing smuggling",
+    "Ensuring accurate valuation",
+    "Fixing the retail price of grain"
+   ],
+   "answer": [
+    0,
+    1,
+    2
+   ]
+  },
+  {
+   "id": "m1-t4-q020",
+   "topic": "m1-t4",
+   "difficulty": "medium",
+   "type": "mcq",
+   "question": "What did Chanakya emphasise about the officials who administered trade?",
+   "explanation": "He stressed selecting competent officials and testing them carefully before entrusting them with responsibility.",
+   "options": [
+    "Officials should be rotated every day",
+    "Officials should be paid directly by merchants",
+    "Competent officials should be selected and carefully tested first",
+    "Any royal relative could be appointed"
+   ],
+   "answer": 2
+  },
+  {
+   "id": "m1-t4-q021",
+   "topic": "m1-t4",
+   "difficulty": "medium",
+   "type": "concept",
+   "question": "Today's customs authorities regulate imports, exports, anti-dumping duties, national security and trade policy. Which ancient function does this continue?",
+   "explanation": "Ancient Mauryan customs administration evolved into today's international trade regulation.",
+   "options": [
+    "Revenue from village agricultural land",
+    "Arbitration of disputes within guilds",
+    "Mauryan customs duties and trade regulation",
+    "Toll collection on roads and ferries"
+   ],
+   "answer": 2
+  },
+  {
+   "id": "m1-t5-q022",
+   "topic": "m1-t5",
+   "difficulty": "medium",
+   "type": "mcq",
+   "question": "Tolls in Chanakya's system were collected from people using which facilities?",
+   "explanation": "Travellers and merchants using roads, bridges, ports, ferries and marketplaces paid tolls that funded their upkeep.",
+   "options": [
+    "Only the royal palace and its gardens",
+    "Only farmland and village wells",
+    "Roads, bridges, ports, ferries and marketplaces",
+    "Only temples and monasteries"
+   ],
+   "answer": 2
+  },
+  {
+   "id": "m1-t5-q023",
+   "topic": "m1-t5",
+   "difficulty": "hard",
+   "type": "ar",
+   "question": "Assertion (A): Tolls were regarded as payment for public services rather than arbitrary taxes.\nReason (R): Tolls were collected arbitrarily, whenever the king needed extra funds.",
+   "explanation": "A is true, R is false. Unlike arbitrary taxes, tolls were treated as payment for services such as maintained roads, bridges and ports.",
+   "options": [
+    "Both A and R are true, and R explains A",
+    "Both A and R are true, but R does not explain A",
+    "A is true but R is false",
+    "A is false but R is true"
+   ],
+   "answer": 2
+  },
+  {
+   "id": "m1-t5-q024",
+   "topic": "m1-t5",
+   "difficulty": "medium",
+   "type": "fill",
+   "question": "The principle behind ancient tolls and today's highway tolls is that ______ contribute towards maintaining public infrastructure.",
+   "explanation": "The underlying principle: users contribute towards maintaining public infrastructure.",
+   "accept": [
+    "users"
+   ]
+  },
+  {
+   "id": "m1-t5-q025",
+   "topic": "m1-t5",
+   "difficulty": "medium",
+   "type": "not",
+   "question": "Which is NOT a stated purpose of tolls?",
+   "explanation": "Tolls funded road maintenance, public infrastructure, military movement, trade facilitation and administrative efficiency, not royal feasts.",
+   "options": [
+    "Trade facilitation",
+    "Road maintenance",
+    "Military movement",
+    "Funding royal feasts"
+   ],
+   "answer": 3
+  },
+  {
+   "id": "m1-t5-q026",
+   "topic": "m1-t5",
+   "difficulty": "hard",
+   "type": "scenario",
+   "question": "A merchant complains that a ferry fee is just another tax. How does the session's view of tolls answer him?",
+   "explanation": "Tolls were considered payment for public services: those who use ferries, roads and ports pay towards keeping them working.",
+   "options": [
+    "It is payment for a public service he uses, helping maintain infrastructure",
+    "It is a voluntary gift that merchants make to the king",
+    "It is a one-time levy that replaces all other taxes",
+    "It is a punishment imposed on traders for doing business"
+   ],
+   "answer": 0
+  },
+  {
+   "id": "m1-t6-q027",
+   "topic": "m1-t6",
+   "difficulty": "medium",
+   "type": "mcq",
+   "question": "Which of these did government officials monitor under Chanakya's price regulation?",
+   "explanation": "Officials monitored market prices, quality, weights, measures and supply conditions.",
+   "options": [
+    "Prices, quality, weights, measures and supply conditions",
+    "Only the colour and packaging of goods",
+    "Marriage customs of the merchant class",
+    "The calendar of religious festivals"
+   ],
+   "answer": 0
+  },
+  {
+   "id": "m1-t6-q028",
+   "topic": "m1-t6",
+   "difficulty": "medium",
+   "type": "mcq",
+   "question": "When, according to the session, must the ruler intervene in markets?",
+   "explanation": "The ruler had a responsibility to intervene whenever market forces created injustice.",
+   "options": [
+    "Only when merchants request it",
+    "Never, because markets always correct themselves",
+    "Whenever market forces create injustice",
+    "Only during wars"
+   ],
+   "answer": 2
+  },
+  {
+   "id": "m1-t6-q029",
+   "topic": "m1-t6",
+   "difficulty": "easy",
+   "type": "tf",
+   "question": "Price regulation aimed to protect consumers, prevent inflation, ensure fairness and discourage profiteering.",
+   "explanation": "True. These are the four stated objectives of price regulation.",
+   "answer": true
+  },
+  {
+   "id": "m1-t7-q030",
+   "topic": "m1-t7",
+   "difficulty": "medium",
+   "type": "concept",
+   "question": "Traders store goods, reduce market supply, raise prices and earn abnormal profits. What does the session call this threat to economic stability?",
+   "explanation": "Artificial scarcity: deliberately limiting supply to push prices up, which Chanakya considered harmful to ordinary citizens.",
+   "options": [
+    "Toll avoidance",
+    "Customs evasion",
+    "Artificial scarcity",
+    "Free-market competition"
+   ],
+   "answer": 2
+  },
+  {
+   "id": "m1-t7-q031",
+   "topic": "m1-t7",
+   "difficulty": "medium",
+   "type": "not",
+   "question": "Which is NOT an aim of anti-hoarding measures?",
+   "explanation": "Aims: stable prices, uninterrupted supply, food security and public confidence. Higher profits for stockists is exactly what hoarding sought.",
+   "options": [
+    "Higher profits for stockists",
+    "Stable prices for ordinary consumers",
+    "Uninterrupted supply of essential goods",
+    "Food security for the public"
+   ],
+   "answer": 0
+  },
+  {
+   "id": "m1-t7-q032",
+   "topic": "m1-t7",
+   "difficulty": "medium",
+   "type": "multi",
+   "question": "Which items does the session say modern governments regulate during emergencies? (Select all that apply)",
+   "explanation": "The list: food grains, medicines, fertilizers, oxygen cylinders and fuel. The philosophy is unchanged: markets should not exploit public suffering.",
+   "options": [
+    "Food grains",
+    "Oxygen cylinders",
+    "Luxury perfumes",
+    "Fuel",
+    "Fertilizers"
+   ],
+   "answer": [
+    0,
+    1,
+    3,
+    4
+   ]
+  },
+  {
+   "id": "m1-t7-q033",
+   "topic": "m1-t7",
+   "difficulty": "medium",
+   "type": "fill",
+   "question": "Government officials monitored traders' ______, and illegal stockpiling invited punishment.",
+   "explanation": "Officials monitored inventories so that hoarding could be detected and penalised.",
+   "accept": [
+    "inventories",
+    "inventory",
+    "stocks"
+   ]
+  },
+  {
+   "id": "m1-t7-q034",
+   "topic": "m1-t7",
+   "difficulty": "hard",
+   "type": "ar",
+   "question": "Assertion (A): Under Chanakya's system, illegal stockpiling was tolerated.\nReason (R): Government officials monitored inventories.",
+   "explanation": "A is false, R is true. Illegal stockpiling invited punishment, and officials monitored inventories to enforce this.",
+   "options": [
+    "Both A and R are true, and R explains A",
+    "Both A and R are true, but R does not explain A",
+    "A is true but R is false",
+    "A is false but R is true"
+   ],
+   "answer": 3
+  },
+  {
+   "id": "m1-t8-q035",
+   "topic": "m1-t8",
+   "difficulty": "easy",
+   "type": "tf",
+   "question": "Chanakya viewed wealth as an end in itself.",
+   "explanation": "False. He believed economic administration existed for public welfare; wealth was a means.",
+   "answer": false
+  },
+  {
+   "id": "m1-t8-q036",
+   "topic": "m1-t8",
+   "difficulty": "medium",
+   "type": "mcq",
+   "question": "Which list best describes what public welfare includes in the session?",
+   "explanation": "Public welfare includes law and order, employment, food security, fair justice, infrastructure and trade promotion.",
+   "options": [
+    "Only conquest of foreign territory and collection of tribute",
+    "Only military strength, fortified cities and a full royal treasury",
+    "Only temple donations, religious ceremonies and festival grants",
+    "Law and order, employment, food security, fair justice, infrastructure, trade promotion"
+   ],
+   "answer": 3
+  },
+  {
+   "id": "m1-t8-q037",
+   "topic": "m1-t8",
+   "difficulty": "hard",
+   "type": "multi",
+   "question": "Which are features of a prosperous state in the session? (Select all that apply)",
+   "explanation": "A prosperous state has educated citizens, secure trade, agricultural growth, efficient administration, honest officials and stable markets.",
+   "options": [
+    "Educated citizens",
+    "Secure trade",
+    "Honest officials",
+    "Hereditary monopolies",
+    "Stable markets"
+   ],
+   "answer": [
+    0,
+    1,
+    2,
+    4
+   ]
+  },
+  {
+   "id": "m1-t8-q038",
+   "topic": "m1-t8",
+   "difficulty": "medium",
+   "type": "mcq",
+   "question": "What does the session conclude about economic prosperity and social welfare?",
+   "explanation": "Economic prosperity and social welfare therefore go together.",
+   "options": [
+    "Welfare matters only after prosperity is complete",
+    "They conflict with each other",
+    "They go together",
+    "Welfare is the market's job alone"
+   ],
+   "answer": 2
+  },
+  {
+   "id": "m1-t9-q039",
+   "topic": "m1-t9",
+   "difficulty": "hard",
+   "type": "match",
+   "question": "Match each of Chanakya's principles with its modern equivalent.",
+   "explanation": "These pairings come from the session's principle-to-modern-equivalent table.",
+   "pairs": [
+    [
+     "Fair Taxation",
+     "GST"
+    ],
+    [
+     "Customs Duties",
+     "Customs Act"
+    ],
+    [
+     "Price Regulation",
+     "Consumer Protection Act"
+    ],
+    [
+     "Anti-Hoarding",
+     "Essential Commodities Act"
+    ],
+    [
+     "Trade Regulation",
+     "Competition Commission of India"
+    ]
+   ]
+  },
+  {
+   "id": "m1-t9-q040",
+   "topic": "m1-t9",
+   "difficulty": "easy",
+   "type": "mcq",
+   "question": "Which modern equivalent corresponds to Chanakya's principle of fair taxation?",
+   "explanation": "Fair taxation maps to GST in the session's table.",
+   "options": [
+    "Competition Act",
+    "Consumer Protection Act",
+    "Customs Act",
+    "GST"
+   ],
+   "answer": 3
+  },
+  {
+   "id": "m1-t9-q041",
+   "topic": "m1-t9",
+   "difficulty": "medium",
+   "type": "mcq",
+   "question": "In the session's principle-to-equivalent table, which modern law corresponds to Chanakya's anti-hoarding principle?",
+   "explanation": "Anti-Hoarding maps to the Essential Commodities Act, which lets governments regulate essentials in emergencies.",
+   "options": [
+    "Consumer Protection Act",
+    "Essential Commodities Act",
+    "Companies Act",
+    "Customs Act"
+   ],
+   "answer": 1
+  },
+  {
+   "id": "m1-t9-q042",
+   "topic": "m1-t9",
+   "difficulty": "medium",
+   "type": "mcq",
+   "question": "Chanakya's emphasis on honest officials corresponds to which modern equivalent?",
+   "explanation": "Honest Officials maps to Civil Services & Vigilance.",
+   "options": [
+    "Consumer Affairs Department",
+    "Competition Commission of India",
+    "Civil Services & Vigilance",
+    "National Highway Authority"
+   ],
+   "answer": 2
+  },
+  {
+   "id": "m1-t9-q043",
+   "topic": "m1-t9",
+   "difficulty": "hard",
+   "type": "not",
+   "question": "Which pairing of Chanakya's principle and modern equivalent is INCORRECT?",
+   "explanation": "Customs Duties maps to the Customs Act. The Competition Commission of India corresponds to trade regulation.",
+   "options": [
+    "Market Inspection – Consumer Affairs Department",
+    "Customs Duties – Competition Commission of India",
+    "Price Regulation – Consumer Protection Act",
+    "Tolls – National Highway Authority"
+   ],
+   "answer": 1
+  },
+  {
+   "id": "m1-t9-q044",
+   "topic": "m1-t9",
+   "difficulty": "medium",
+   "type": "fill",
+   "question": "The Competition Act, 2002 and the ______ promote healthy competition and prevent market abuse.",
+   "explanation": "The Competition Act, 2002 and the Competition Commission of India (CCI) are the modern counterpart of preventing monopolies and unfair trade practices.",
+   "accept": [
+    "Competition Commission of India",
+    "CCI"
+   ]
+  },
+  {
+   "id": "m1-t9-q045",
+   "topic": "m1-t9",
+   "difficulty": "hard",
+   "type": "concept",
+   "question": "Which modern law is described as safeguarding consumer rights, ensuring fair trade practices and providing grievance redressal?",
+   "explanation": "The Consumer Protection Act, 2019 is paired with Chanakya's protection of consumers through regulated prices and quality standards.",
+   "options": [
+    "Essential Commodities Act",
+    "Competition Act, 2002",
+    "Consumer Protection Act, 2019",
+    "Customs Act"
+   ],
+   "answer": 2
+  },
+  {
+   "id": "m1-t9-q046",
+   "topic": "m1-t9",
+   "difficulty": "hard",
+   "type": "compare",
+   "question": "How does the session distinguish the focus of the Competition Act, 2002 from the Consumer Protection Act, 2019?",
+   "explanation": "Competition Act: healthy competition and preventing market abuse. Consumer Protection Act: consumer rights, fair trade practices and grievance redressal.",
+   "options": [
+    "Competition Act deals with taxation of traders; Consumer Protection Act with funding of infrastructure",
+    "Competition Act: healthy competition and preventing market abuse; Consumer Protection Act: consumer rights and grievance redressal",
+    "Competition Act deals with tolls on roads; Consumer Protection Act deals with customs duties on imports",
+    "The two Acts have identical aims and cover the same problems in the same way"
+   ],
+   "answer": 1
+  },
+  {
+   "id": "m1-t10-q047",
+   "topic": "m1-t10",
+   "difficulty": "hard",
+   "type": "scenario",
+   "question": "Heavy rain damages onion crops, wholesalers secretly store onions, and the retail price rises from ₹25/kg to ₹120/kg. What problem does the case highlight?",
+   "explanation": "Wholesalers hid stock and cut market supply: the pattern the session calls artificial scarcity (hoarding), with middlemen capturing the gains.",
+   "options": [
+    "A toll on every cart that carries onions to market",
+    "Excessive customs duties charged on imported onions",
+    "Artificial scarcity created by hoarding, with middlemen capturing the gains",
+    "A genuine shortage that nobody in the market could influence"
+   ],
+   "answer": 2
+  },
+  {
+   "id": "m1-t10-q048",
+   "topic": "m1-t10",
+   "difficulty": "hard",
+   "type": "scenario",
+   "question": "Applying Chanakya's anti-hoarding principle to the onion case, which action fits best?",
+   "explanation": "Chanakya's officials monitored inventories and punished illegal stockpiling to keep supply and prices stable.",
+   "options": [
+    "Monitor warehouse inventories and penalise illegal stockpiling",
+    "Let prices keep rising so farmers benefit automatically",
+    "Levy extra tolls on every cart carrying onions",
+    "Raise taxes on the farmers who grew the crop"
+   ],
+   "answer": 0
+  },
+  {
+   "id": "m1-t10-q049",
+   "topic": "m1-t10",
+   "difficulty": "medium",
+   "type": "fill",
+   "question": "In the onion case, retail prices rise from ₹25/kg to ₹______/kg.",
+   "explanation": "The case study states the retail price rose from ₹25/kg to ₹120/kg.",
+   "accept": [
+    "120",
+    "Rs 120",
+    "Rs. 120",
+    "₹120"
+   ]
+  },
+  {
+   "id": "m1-t10-q050",
+   "topic": "m1-t10",
+   "difficulty": "hard",
+   "type": "mcq",
+   "question": "In the onion case, why do farmers NOT benefit from the higher prices?",
+   "explanation": "Middlemen had purchased the crop earlier, so the higher retail prices did not reach the farmers.",
+   "options": [
+    "Middlemen had purchased the crop earlier",
+    "Imports flooded the market",
+    "Farmers refused to sell",
+    "The king taxed all farm income"
+   ],
+   "answer": 0
+  },
+  {
+   "id": "m1-t1-q051",
+   "topic": "m1-t1",
+   "difficulty": "easy",
+   "type": "fill",
+   "question": "Chanakya (Kautilya) was the chief advisor to ______ Maurya.",
+   "explanation": "Chanakya, also known as Kautilya, was the chief advisor to Chandragupta Maurya.",
+   "accept": [
+    "Chandragupta"
+   ]
+  },
+  {
+   "id": "m1-t1-q052",
+   "topic": "m1-t1",
+   "difficulty": "easy",
+   "type": "tf",
+   "question": "Chanakya's philosophy was not merely about acquiring wealth but about managing wealth responsibly for the prosperity of the kingdom.",
+   "explanation": "True. The session stresses responsible management of wealth for the kingdom's prosperity, not wealth for its own sake.",
+   "answer": true
+  },
+  {
+   "id": "m1-t1-q053",
+   "topic": "m1-t1",
+   "difficulty": "medium",
+   "type": "mcq",
+   "question": "How long ago, according to the session, did Chanakya lay down his principles of governance?",
+   "explanation": "The session places Chanakya's principles of governance more than 2,300 years ago, in the time of Chandragupta Maurya.",
+   "options": [
+    "About 1,000 years ago",
+    "About 4,000 years ago",
+    "More than 2,300 years ago",
+    "About 500 years ago"
+   ],
+   "answer": 2
+  },
+  {
+   "id": "m1-t1-q054",
+   "topic": "m1-t1",
+   "difficulty": "medium",
+   "type": "mcq",
+   "question": "Where, according to the session, does the line that the king's prosperity depends on his subjects' prosperity appear more explicitly?",
+   "explanation": "The session says this exact statement appears more explicitly in the Arthashastra, while Chanakya Niti consistently emphasises the ethical foundation of governance as serving the public good.",
+   "options": [
+    "In the Arthashastra",
+    "In Chanakya Niti",
+    "In Rock Edict XIII",
+    "In the Indica of Megasthenes"
+   ],
+   "answer": 0
+  },
+  {
+   "id": "m1-t1-q055",
+   "topic": "m1-t1",
+   "difficulty": "hard",
+   "type": "scenario",
+   "question": "A minister designs trade policy only to fill the treasury and ignores its effect on ordinary people. Which idea from Chanakya's philosophy does this contradict?",
+   "explanation": "Chanakya held that the prosperity of the king depends on the prosperity of his subjects, and that economic administration is a moral responsibility as well as a necessity.",
+   "options": [
+    "Customs duties ought to be abolished for all imports",
+    "Tolls ought to be collected only from users of ferries",
+    "Officials ought to be rotated every single year",
+    "The king's prosperity depends on his subjects' prosperity"
+   ],
+   "answer": 3
+  },
+  {
+   "id": "m1-t1-q056",
+   "topic": "m1-t1",
+   "difficulty": "medium",
+   "type": "multi",
+   "question": "Which fields did Chanakya's principles of governance combine? (Select all that apply)",
+   "explanation": "The session says Chanakya combined economics, ethics, administration and public welfare in his principles of governance.",
+   "options": [
+    "Economics",
+    "Ethics",
+    "Astronomy",
+    "Administration",
+    "Public welfare"
+   ],
+   "answer": [
+    0,
+    1,
+    3,
+    4
+   ]
+  },
+  {
+   "id": "m1-t2-q057",
+   "topic": "m1-t2",
+   "difficulty": "easy",
+   "type": "tf",
+   "question": "In Chanakya's customs policy, foreign trade was discouraged altogether.",
+   "explanation": "False. Foreign trade was encouraged while national interests were safeguarded; duties regulated it and strengthened the treasury.",
+   "answer": false
+  },
+  {
+   "id": "m1-t2-q058",
+   "topic": "m1-t2",
+   "difficulty": "medium",
+   "type": "concept",
+   "question": "Fees collected from roads, ports, ferries and marketplaces funded public infrastructure and ensured secure transportation. Which pillar of economic administration is this?",
+   "explanation": "This is the Tolls pillar: fees from users of roads, ports, ferries and marketplaces paid for public infrastructure and secure transport.",
+   "options": [
+    "Anti-Hoarding",
+    "Tolls",
+    "Taxation",
+    "Price Controls"
+   ],
+   "answer": 1
+  },
+  {
+   "id": "m1-t2-q059",
+   "topic": "m1-t2",
+   "difficulty": "medium",
+   "type": "mcq",
+   "question": "Under the price-controls pillar, who monitored the prices of essential commodities?",
+   "explanation": "The state monitored the prices of essential commodities through appointed market officials.",
+   "options": [
+    "Foreign ambassadors at court",
+    "Appointed market officials",
+    "The merchants themselves",
+    "Village priests of each locality"
+   ],
+   "answer": 1
+  },
+  {
+   "id": "m1-t2-q060",
+   "topic": "m1-t2",
+   "difficulty": "medium",
+   "type": "concept",
+   "question": "Which pillar was meant to prevent exploitation and inflation and to ensure equitable access to necessities?",
+   "explanation": "Price Controls: fair pricing prevented exploitation and inflation and gave people equitable access to necessities.",
+   "options": [
+    "Price Controls",
+    "Customs Duties",
+    "Tolls",
+    "Taxation"
+   ],
+   "answer": 0
+  },
+  {
+   "id": "m1-t2-q061",
+   "topic": "m1-t2",
+   "difficulty": "easy",
+   "type": "fill",
+   "question": "According to the five pillars, taxes should be fair, ______ and efficient.",
+   "explanation": "The taxation pillar says taxes should be fair, moderate and efficient, collected the way a bee gathers honey, without harming the flowers.",
+   "accept": [
+    "moderate"
+   ]
+  },
+  {
+   "id": "m1-t2-q062",
+   "topic": "m1-t2",
+   "difficulty": "hard",
+   "type": "compare",
+   "question": "How do the customs-duties pillar and the tolls pillar differ?",
+   "explanation": "Customs duties were levied on imports and exports to regulate trade and strengthen the treasury. Tolls were fees for using roads, ports, ferries and marketplaces and funded infrastructure.",
+   "options": [
+    "Customs duties were paid only by farmers, while tolls were paid only by soldiers",
+    "They were one charge that was simply known by two different names",
+    "Customs duties were levied on imports and exports to regulate trade; tolls were fees for using roads, ports, ferries and marketplaces",
+    "Customs duties funded roads and ferries, while tolls were levied on imports and exports"
+   ],
+   "answer": 2
+  },
+  {
+   "id": "m1-t2-q063",
+   "topic": "m1-t2",
+   "difficulty": "easy",
+   "type": "fill",
+   "question": "The five-pillars slide quotes Chanakya: \"The prosperity of the state lies in the prosperity of its ______.\"",
+   "explanation": "The quotation links the state's prosperity to the prosperity of its people, the same idea as the king's prosperity depending on his subjects'.",
+   "accept": [
+    "people"
+   ]
+  },
+  {
+   "id": "m1-t3-q064",
+   "topic": "m1-t3",
+   "difficulty": "easy",
+   "type": "fill",
+   "question": "Taxation formed the ______ of state administration, according to the session.",
+   "explanation": "The session calls taxation the backbone of state administration.",
+   "accept": [
+    "backbone"
+   ]
+  },
+  {
+   "id": "m1-t3-q065",
+   "topic": "m1-t3",
+   "difficulty": "medium",
+   "type": "tf",
+   "question": "The session says Chanakya Niti advises safeguarding wealth, preparing for adversity and using resources wisely.",
+   "explanation": "True. The spirit of prudent wealth management and preserving resources is reflected throughout Chanakya Niti.",
+   "answer": true
+  },
+  {
+   "id": "m1-t3-q066",
+   "topic": "m1-t3",
+   "difficulty": "medium",
+   "type": "mcq",
+   "question": "What outcome does the session expect from citizens when taxation follows Chanakya's approach?",
+   "explanation": "When taxes are collected without harming productivity, citizens continue producing wealth and willingly pay taxes.",
+   "options": [
+    "They willingly pay their taxes",
+    "They hide part of their harvest",
+    "They stop trading altogether",
+    "They leave for neighbouring kingdoms"
+   ],
+   "answer": 0
+  },
+  {
+   "id": "m1-t3-q067",
+   "topic": "m1-t3",
+   "difficulty": "hard",
+   "type": "ar",
+   "question": "Assertion (A): Taxation formed the backbone of state administration in Chanakya's thought.\nReason (R): Chanakya wanted taxes collected so that people continue producing wealth.",
+   "explanation": "Both statements are true, but R does not explain why taxation was the backbone; it describes the limit on how taxes should be collected.",
+   "options": [
+    "Both A and R are true, and R explains A",
+    "Both A and R are true, but R does not explain A",
+    "A is true but R is false",
+    "A is false but R is true"
+   ],
+   "answer": 1
+  },
+  {
+   "id": "m1-t3-q068",
+   "topic": "m1-t3",
+   "difficulty": "medium",
+   "type": "not",
+   "question": "Chanakya wanted taxes collected so that people continue producing wealth. Which of these is NOT among the results the session lists?",
+   "explanation": "The session lists businesses continuing to grow, agriculture remaining profitable, trade expanding and citizens willingly paying. Farmers abandoning their land is the opposite of the aim.",
+   "options": [
+    "Trade expands",
+    "Agriculture remains profitable",
+    "Farmers abandon their land",
+    "Businesses continue growing"
+   ],
+   "answer": 2
+  },
+  {
+   "id": "m1-t3-q069",
+   "topic": "m1-t3",
+   "difficulty": "hard",
+   "type": "scenario",
+   "question": "A kingdom's taxes are high, change without notice, and nobody knows how the money is spent. Which characteristics from the session's list of good taxation are clearly missing?",
+   "explanation": "Good taxation is fair, predictable, moderate, transparent and used for public welfare. High taxes are not moderate, sudden changes are not predictable, and hidden spending is not transparent.",
+   "options": [
+    "Only 'used for public welfare'",
+    "None of the listed characteristics",
+    "Only 'fair'",
+    "Moderate, predictable and transparent"
+   ],
+   "answer": 3
+  },
+  {
+   "id": "m1-t3-q070",
+   "topic": "m1-t3",
+   "difficulty": "hard",
+   "type": "compare",
+   "question": "How does the session's treatment of general taxation differ from its treatment of tolls?",
+   "explanation": "General taxes should be fair and moderate and used for public welfare. Tolls, unlike arbitrary taxes, were considered payment by users for public services such as roads and ferries.",
+   "options": [
+    "Taxes are paid only by merchants, while tolls are paid only by farmers",
+    "The session draws no distinction between taxes and tolls",
+    "Taxes are payment for specific services, while tolls are general revenue",
+    "Taxes should be fair and moderate; tolls are payment by users for services like roads"
+   ],
+   "answer": 3
+  },
+  {
+   "id": "m1-t4-q071",
+   "topic": "m1-t4",
+   "difficulty": "easy",
+   "type": "tf",
+   "question": "Trade was left largely unsupervised during the Mauryan Empire.",
+   "explanation": "False. The session says trade was carefully supervised during the Mauryan Empire.",
+   "answer": false
+  },
+  {
+   "id": "m1-t4-q072",
+   "topic": "m1-t4",
+   "difficulty": "medium",
+   "type": "fill",
+   "question": "Customs duties helped prevent smuggling and ensure accurate ______ of goods.",
+   "explanation": "The listed customs objectives are regulating foreign trade, maintaining quality, preventing smuggling, ensuring accurate valuation and generating revenue.",
+   "accept": [
+    "valuation"
+   ]
+  },
+  {
+   "id": "m1-t4-q073",
+   "topic": "m1-t4",
+   "difficulty": "medium",
+   "type": "mcq",
+   "question": "According to the session, how did Chanakya see wealth entering the kingdom?",
+   "explanation": "Chanakya believed wealth enters the kingdom through productive commerce but should be regulated by capable administrators.",
+   "options": [
+    "Through gifts from visiting foreign rulers",
+    "Through productive commerce regulated by capable administrators",
+    "Through conquest of neighbouring states alone",
+    "Through unregulated private markets"
+   ],
+   "answer": 1
+  },
+  {
+   "id": "m1-t4-q074",
+   "topic": "m1-t4",
+   "difficulty": "medium",
+   "type": "concept",
+   "question": "Which customs objective concerns the standard of the goods traded?",
+   "explanation": "Maintaining product quality is one of the listed objectives of customs administration, alongside preventing smuggling and ensuring accurate valuation.",
+   "options": [
+    "Preventing smuggling",
+    "Regulating foreign trade",
+    "Generating public revenue",
+    "Maintaining product quality"
+   ],
+   "answer": 3
+  },
+  {
+   "id": "m1-t4-q075",
+   "topic": "m1-t4",
+   "difficulty": "hard",
+   "type": "scenario",
+   "question": "At a border post a trader declares cargo at far below its worth, and some bales slip through unrecorded. Which customs objectives are being defeated?",
+   "explanation": "Declaring goods below their worth defeats accurate valuation, and unrecorded bales are smuggling. Both are listed objectives of customs administration.",
+   "options": [
+    "Price regulation and anti-hoarding",
+    "Fair taxation and public welfare",
+    "Road maintenance and military movement",
+    "Accurate valuation and preventing smuggling"
+   ],
+   "answer": 3
+  },
+  {
+   "id": "m1-t4-q076",
+   "topic": "m1-t4",
+   "difficulty": "hard",
+   "type": "ar",
+   "question": "Assertion (A): Customs administration needed capable, carefully tested officials.\nReason (R): Chanakya believed that wealth entering the kingdom through commerce should be regulated by capable administrators.",
+   "explanation": "Both are true and R explains A: because commerce was to be regulated by capable administrators, officials had to be competent and carefully tested.",
+   "options": [
+    "Both A and R are true, and R explains A",
+    "Both A and R are true, but R does not explain A",
+    "A is true but R is false",
+    "A is false but R is true"
+   ],
+   "answer": 0
+  },
+  {
+   "id": "m1-t5-q077",
+   "topic": "m1-t5",
+   "difficulty": "medium",
+   "type": "multi",
+   "question": "Which modern examples of user charges does the session give? (Select all that apply)",
+   "explanation": "The session lists highway tolls, airport user charges and port fees. Income tax slabs and stamp duty are not given as examples.",
+   "options": [
+    "Highway tolls",
+    "Airport user charges",
+    "Income tax slabs",
+    "Port fees",
+    "Stamp duty"
+   ],
+   "answer": [
+    0,
+    1,
+    3
+   ]
+  },
+  {
+   "id": "m1-t5-q078",
+   "topic": "m1-t5",
+   "difficulty": "easy",
+   "type": "tf",
+   "question": "According to the session, good infrastructure results in lower transportation costs and faster trade.",
+   "explanation": "True. The session also lists economic development and employment generation as results.",
+   "answer": true
+  },
+  {
+   "id": "m1-t5-q079",
+   "topic": "m1-t5",
+   "difficulty": "medium",
+   "type": "mcq",
+   "question": "Which of these does the session list as a result of good infrastructure?",
+   "explanation": "Good infrastructure results in lower transportation costs, faster trade, economic development and employment generation.",
+   "options": [
+    "Higher customs duties",
+    "Stockpiling of goods",
+    "Stricter price controls",
+    "Employment generation"
+   ],
+   "answer": 3
+  },
+  {
+   "id": "m1-t5-q080",
+   "topic": "m1-t5",
+   "difficulty": "medium",
+   "type": "fill",
+   "question": "Roads, bridges, ports, ferries and trade ______ required maintenance, so travellers and merchants using them paid tolls.",
+   "explanation": "Roads, bridges, ports, ferries and trade routes required maintenance, and those who used them paid tolls.",
+   "accept": [
+    "routes"
+   ]
+  },
+  {
+   "id": "m1-t5-q081",
+   "topic": "m1-t5",
+   "difficulty": "hard",
+   "type": "scenario",
+   "question": "A government builds a highway, charges only the vehicles that use it, and spends the money on maintaining the road. Which idea from the session does this reflect?",
+   "explanation": "The underlying principle of tolls, ancient and modern, is that users contribute towards maintaining public infrastructure.",
+   "options": [
+    "Users contribute towards maintaining public infrastructure",
+    "Penalising illegal stockpiling by traders",
+    "Artificial scarcity of essential goods",
+    "Fixing the retail price of grain"
+   ],
+   "answer": 0
+  },
+  {
+   "id": "m1-t6-q082",
+   "topic": "m1-t6",
+   "difficulty": "easy",
+   "type": "tf",
+   "question": "Chanakya believed that markets require supervision.",
+   "explanation": "True. Markets cannot function efficiently if sellers manipulate prices, so officials supervised them.",
+   "answer": true
+  },
+  {
+   "id": "m1-t6-q083",
+   "topic": "m1-t6",
+   "difficulty": "easy",
+   "type": "fill",
+   "question": "Markets cannot function efficiently if sellers ______ prices.",
+   "explanation": "The session's reasoning for price regulation: sellers who manipulate prices stop markets from working efficiently.",
+   "accept": [
+    "manipulate"
+   ]
+  },
+  {
+   "id": "m1-t6-q084",
+   "topic": "m1-t6",
+   "difficulty": "medium",
+   "type": "scenario",
+   "question": "Sellers manipulate the price of an essential commodity and no official checks them. What does the session say about such markets?",
+   "explanation": "Markets cannot function efficiently if sellers manipulate prices, which is why Chanakya believed markets require supervision.",
+   "options": [
+    "They should be left alone to correct themselves",
+    "They cannot function efficiently, so they need supervision",
+    "They are working exactly as Chanakya intended",
+    "They are protected by the toll system"
+   ],
+   "answer": 1
+  },
+  {
+   "id": "m1-t6-q085",
+   "topic": "m1-t6",
+   "difficulty": "hard",
+   "type": "compare",
+   "question": "How do price regulation and anti-hoarding differ in focus?",
+   "explanation": "Price regulation: officials monitored prices, quality, weights, measures and supply conditions. Anti-hoarding: officials targeted artificial scarcity by monitoring inventories and punishing illegal stockpiling.",
+   "options": [
+    "They were two different names for exactly the same rule of the state",
+    "Price regulation monitored prices, quality and supply; anti-hoarding targeted stockpiling that creates scarcity",
+    "Price regulation applied only to imported goods, while anti-hoarding applied only to exports",
+    "Price regulation targeted stockpiling by traders, while anti-hoarding monitored weights and measures"
+   ],
+   "answer": 1
+  },
+  {
+   "id": "m1-t6-q086",
+   "topic": "m1-t6",
+   "difficulty": "hard",
+   "type": "ar",
+   "question": "Assertion (A): Price regulation aimed to discourage profiteering.\nReason (R): Chanakya believed rulers should leave sellers free to set any price they like.",
+   "explanation": "A is true: discouraging profiteering was a stated objective. R is false: Chanakya believed markets require supervision and that the ruler must intervene when markets create injustice.",
+   "options": [
+    "Both A and R are true, and R explains A",
+    "Both A and R are true, but R does not explain A",
+    "A is true but R is false",
+    "A is false but R is true"
+   ],
+   "answer": 2
+  },
+  {
+   "id": "m1-t7-q087",
+   "topic": "m1-t7",
+   "difficulty": "easy",
+   "type": "tf",
+   "question": "According to the session, hoarding did not harm ordinary citizens.",
+   "explanation": "False. Chanakya considered hoarding harmful to society because it hurt ordinary citizens.",
+   "answer": false
+  },
+  {
+   "id": "m1-t7-q088",
+   "topic": "m1-t7",
+   "difficulty": "medium",
+   "type": "mcq",
+   "question": "What effect does hoarding have on the supply of goods in the market?",
+   "explanation": "Hoarding means traders store goods and reduce market supply in order to raise prices.",
+   "options": [
+    "It increases the supply",
+    "It has no effect on supply",
+    "It reduces the market supply",
+    "It lowers the market price"
+   ],
+   "answer": 2
+  },
+  {
+   "id": "m1-t7-q089",
+   "topic": "m1-t7",
+   "difficulty": "easy",
+   "type": "fill",
+   "question": "Anti-hoarding measures aimed at stable prices, uninterrupted supply, ______ security and public confidence.",
+   "explanation": "The stated aims of anti-hoarding: stable prices, uninterrupted supply, food security and public confidence.",
+   "accept": [
+    "food"
+   ]
+  },
+  {
+   "id": "m1-t7-q090",
+   "topic": "m1-t7",
+   "difficulty": "hard",
+   "type": "scenario",
+   "question": "When supplies of rice run short, a trader buys most of the stock, hides it in a warehouse and plans to sell it later at a much higher price. How does the session's account of Chanakya view this?",
+   "explanation": "Storing goods to cut supply and raise prices is artificial scarcity, which Chanakya considered harmful because it hurts ordinary citizens.",
+   "options": [
+    "As good support for food security in a time of shortage",
+    "As a lawful way to stabilise prices for consumers",
+    "As a normal part of fair trade between merchants",
+    "As harmful artificial scarcity that hurts ordinary citizens"
+   ],
+   "answer": 3
+  },
+  {
+   "id": "m1-t7-q091",
+   "topic": "m1-t7",
+   "difficulty": "hard",
+   "type": "compare",
+   "question": "How does the session compare Chanakya's anti-hoarding approach with modern emergency regulation?",
+   "explanation": "The session says the philosophy is identical: markets should not exploit public suffering. Modern governments regulate food grains, medicines, fertilizers, oxygen cylinders and fuel in emergencies.",
+   "options": [
+    "Modern governments regulate only luxury goods in emergencies",
+    "Chanakya allowed hoarding, but modern law forbids it",
+    "The philosophy is identical: markets should not exploit public suffering",
+    "Chanakya regulated only fuel and medicines"
+   ],
+   "answer": 2
+  },
+  {
+   "id": "m1-t7-q092",
+   "topic": "m1-t7",
+   "difficulty": "hard",
+   "type": "ar",
+   "question": "Assertion (A): Anti-hoarding measures aimed at food security.\nReason (R): Chanakya's five pillars are taxation, customs duties, tolls, anti-hoarding and price controls.",
+   "explanation": "Both are true, but R does not explain A: R merely lists the pillars, whereas food security is one of the aims of the anti-hoarding pillar.",
+   "options": [
+    "Both A and R are true, and R explains A",
+    "Both A and R are true, but R does not explain A",
+    "A is true but R is false",
+    "A is false but R is true"
+   ],
+   "answer": 1
+  },
+  {
+   "id": "m1-t8-q093",
+   "topic": "m1-t8",
+   "difficulty": "easy",
+   "type": "fill",
+   "question": "A strong economy is built on ethical governance, fair markets, disciplined trade and the welfare of every ______.",
+   "explanation": "Chanakya's Vision, as summarised in the session: ethical governance, fair markets, disciplined trade and the welfare of every citizen.",
+   "accept": [
+    "citizen"
+   ]
+  },
+  {
+   "id": "m1-t8-q094",
+   "topic": "m1-t8",
+   "difficulty": "medium",
+   "type": "mcq",
+   "question": "According to the session, what does Chanakya repeatedly advise managing prudently?",
+   "explanation": "Chanakya repeatedly advises prudent management of wealth, learning and resources and encourages preparation for future uncertainties.",
+   "options": [
+    "Temple land and donations",
+    "Foreign embassies and gifts",
+    "Wealth, learning and resources",
+    "The royal army and its horses"
+   ],
+   "answer": 2
+  },
+  {
+   "id": "m1-t8-q095",
+   "topic": "m1-t8",
+   "difficulty": "medium",
+   "type": "multi",
+   "question": "Which of these does the session say reflect Chanakya's principles today? (Select all that apply)",
+   "explanation": "The session names GST, customs regulations, anti-hoarding laws, consumer protection legislation and government price stabilization policies. Stock-market listing rules are not mentioned.",
+   "options": [
+    "GST",
+    "Customs regulations",
+    "Stock-market listing rules",
+    "Consumer protection legislation",
+    "Government price stabilization policies"
+   ],
+   "answer": [
+    0,
+    1,
+    3,
+    4
+   ]
+  },
+  {
+   "id": "m1-t8-q096",
+   "topic": "m1-t8",
+   "difficulty": "easy",
+   "type": "tf",
+   "question": "The session says Chanakya encouraged preparing for future uncertainties.",
+   "explanation": "True. Alongside prudent management of wealth, learning and resources, Chanakya encourages preparation for future uncertainties.",
+   "answer": true
+  },
+  {
+   "id": "m1-t8-q097",
+   "topic": "m1-t8",
+   "difficulty": "hard",
+   "type": "scenario",
+   "question": "A minister says the economy is thriving because the treasury is full, even though food is scarce and justice is slow. How would the session's account of Chanakya respond?",
+   "explanation": "Chanakya never viewed wealth as an end in itself. Public welfare includes food security and fair justice, and prosperity and welfare go together.",
+   "options": [
+    "Wealth is no end in itself; welfare includes food security and justice",
+    "Slow justice is a normal cost of prosperity",
+    "Welfare matters only after the treasury is full",
+    "A full treasury is the only measure of success"
+   ],
+   "answer": 0
+  },
+  {
+   "id": "m1-t9-q098",
+   "topic": "m1-t9",
+   "difficulty": "medium",
+   "type": "mcq",
+   "question": "In the session's table, which modern equivalent corresponds to Chanakya's tolls?",
+   "explanation": "Tolls correspond to the National Highway Authority in the session's principle-to-equivalent table.",
+   "options": [
+    "National Highway Authority",
+    "Consumer Affairs Department",
+    "Civil Services & Vigilance",
+    "Competition Commission of India"
+   ],
+   "answer": 0
+  },
+  {
+   "id": "m1-t9-q099",
+   "topic": "m1-t9",
+   "difficulty": "easy",
+   "type": "tf",
+   "question": "In the session's table, Market Inspection corresponds to the Consumer Affairs Department.",
+   "explanation": "True. Market Inspection is paired with the Consumer Affairs Department.",
+   "answer": true
+  },
+  {
+   "id": "m1-t9-q100",
+   "topic": "m1-t9",
+   "difficulty": "medium",
+   "type": "tf",
+   "question": "The session says GST aims to simplify taxation, improve compliance and ensure steady revenue without burdening businesses.",
+   "explanation": "True. This is the common objective the session gives for fair and moderate taxation and GST.",
+   "answer": true
+  },
+  {
+   "id": "m1-t9-q101",
+   "topic": "m1-t9",
+   "difficulty": "hard",
+   "type": "match",
+   "question": "Which objective does each ancient principle share with the modern law that continues it?",
+   "explanation": "These pairings come from the session's second table of principles, modern equivalents and common objectives.",
+   "pairs": [
+    [
+     "Fair and moderate taxation",
+     "Simplify taxation, improve compliance and ensure steady revenue without burdening businesses"
+    ],
+    [
+     "Prevent monopolies, hoarding and unfair trade practices",
+     "Promote healthy competition, prevent market abuse and protect economic efficiency"
+    ],
+    [
+     "Protect consumers through regulated prices and quality standards",
+     "Safeguard consumer rights, ensure fair trade practices and provide grievance redressal"
+    ]
+   ]
+  },
+  {
+   "id": "m1-t9-q102",
+   "topic": "m1-t9",
+   "difficulty": "hard",
+   "type": "ar",
+   "question": "Assertion (A): The session pairs Chanakya's tolls with the Consumer Protection Act.\nReason (R): Tolls were fees paid for the use of public services such as roads and ports.",
+   "explanation": "A is false: tolls are paired with the National Highway Authority. R is true: tolls were payment for public services.",
+   "options": [
+    "Both A and R are true, and R explains A",
+    "Both A and R are true, but R does not explain A",
+    "A is true but R is false",
+    "A is false but R is true"
+   ],
+   "answer": 3
+  },
+  {
+   "id": "m1-t9-q103",
+   "topic": "m1-t9",
+   "difficulty": "medium",
+   "type": "fill",
+   "question": "Chanakya's principle of honest officials corresponds today to Civil Services and ______.",
+   "explanation": "The session pairs Honest Officials with Civil Services & Vigilance.",
+   "accept": [
+    "Vigilance"
+   ]
+  },
+  {
+   "id": "m1-t9-q104",
+   "topic": "m1-t9",
+   "difficulty": "hard",
+   "type": "compare",
+   "question": "The session's two tables place hoarding-related principles differently. Which statement matches them?",
+   "explanation": "The first table pairs Anti-Hoarding with the Essential Commodities Act. The second table groups preventing monopolies, hoarding and unfair trade practices under the Competition Act, 2002 and the Competition Commission of India.",
+   "options": [
+    "Both tables pair anti-hoarding only with the Customs Act and say nothing of competition law",
+    "Neither table mentions hoarding, because hoarding is covered only by the tolls pillar",
+    "The first table pairs Anti-Hoarding with the Essential Commodities Act; the second groups hoarding under the Competition Act and CCI",
+    "The first table pairs Anti-Hoarding with GST; the second pairs it with the Consumer Protection Act"
+   ],
+   "answer": 2
+  },
+  {
+   "id": "m1-t10-q105",
+   "topic": "m1-t10",
+   "difficulty": "medium",
+   "type": "match",
+   "question": "Match each element of the onion case with what happens to it.",
+   "explanation": "From the case study: rain damages the crop, wholesalers secretly store onions, consumers suffer higher prices, and farmers do not receive the higher prices.",
+   "pairs": [
+    [
+     "Heavy rainfall",
+     "Damages the onion crops"
+    ],
+    [
+     "Wholesalers",
+     "Secretly store onions in warehouses"
+    ],
+    [
+     "Consumers",
+     "Suffer as retail prices rise"
+    ],
+    [
+     "Farmers",
+     "Do not receive the higher prices"
+    ]
+   ]
+  },
+  {
+   "id": "m1-t10-q106",
+   "topic": "m1-t10",
+   "difficulty": "medium",
+   "type": "mcq",
+   "question": "What event starts the onion price crisis in the case study?",
+   "explanation": "The case begins with heavy rainfall damaging the onion crops.",
+   "options": [
+    "Farmers refuse to harvest the crop",
+    "The king raises customs duties on onions",
+    "Heavy rainfall damages the onion crops",
+    "A new toll is set on all roads"
+   ],
+   "answer": 2
+  },
+  {
+   "id": "m1-t10-q107",
+   "topic": "m1-t10",
+   "difficulty": "easy",
+   "type": "fill",
+   "question": "In the onion case, several ______ secretly store onions in warehouses.",
+   "explanation": "The case says several wholesalers secretly store onions, so supply in the markets decreases.",
+   "accept": [
+    "wholesalers",
+    "wholesaler"
+   ]
+  },
+  {
+   "id": "m1-t10-q108",
+   "topic": "m1-t10",
+   "difficulty": "hard",
+   "type": "scenario",
+   "question": "If heavy rainfall alone had caused the onion shortage, prices might rise without anyone stockpiling. Which detail in the case shows that hoarding is also involved?",
+   "explanation": "The case says several wholesalers secretly store onions in warehouses, reducing market supply, which is the behaviour the session calls hoarding.",
+   "options": [
+    "Farmers do not receive higher prices",
+    "Consumers suffer",
+    "Retail prices rise from ₹25/kg to ₹120/kg",
+    "Several wholesalers secretly store onions in warehouses"
+   ],
+   "answer": 3
+  },
+  {
+   "id": "m1-t10-q109",
+   "topic": "m1-t10",
+   "difficulty": "medium",
+   "type": "concept",
+   "question": "Which of Chanakya's five pillars, and which modern law in the session's table, does the onion case most directly illustrate?",
+   "explanation": "The case is about stockpiling that creates artificial scarcity: the Anti-Hoarding pillar, paired in the session's table with the Essential Commodities Act.",
+   "options": [
+    "Taxation and GST",
+    "Anti-Hoarding and the Essential Commodities Act",
+    "Tolls and the National Highway Authority",
+    "Customs Duties and the Customs Act"
+   ],
+   "answer": 1
+  },
+  {
+   "id": "m1-t10-q110",
+   "topic": "m1-t10",
+   "difficulty": "medium",
+   "type": "multi",
+   "question": "Which groups does the onion case describe as suffering or not benefiting? (Select all that apply)",
+   "explanation": "Consumers suffer as prices rise, and farmers do not receive higher prices because middlemen purchased the crop earlier. Customs officers are not part of the case.",
+   "options": [
+    "Consumers",
+    "Farmers",
+    "Wholesalers who stored the onions",
+    "The king's customs officers"
+   ],
+   "answer": [
+    0,
+    1
+   ]
+  }
+ ],
+ "cards": [
+  {
+   "id": "m1-c001",
+   "topic": "m1-t2",
+   "front": "Chanakya's five pillars of economic administration",
+   "back": "Taxation, Customs Duties, Tolls, Anti-Hoarding, Price Controls"
+  },
+  {
+   "id": "m1-c002",
+   "topic": "m1-t3",
+   "front": "Bee-and-honey analogy (taxation)",
+   "back": "Collect taxes the way a bee gathers honey: without harming the flower. People must keep producing wealth, businesses growing and citizens willingly paying."
+  },
+  {
+   "id": "m1-c003",
+   "topic": "m1-t3",
+   "front": "Characteristics of good taxation",
+   "back": "Fair, predictable, moderate, transparent, used for public welfare."
+  },
+  {
+   "id": "m1-c004",
+   "topic": "m1-t5",
+   "front": "Why were tolls different from arbitrary taxes?",
+   "back": "Tolls were payment for public services (roads, bridges, ports, ferries) used by the payer; they funded upkeep and trade facilitation."
+  },
+  {
+   "id": "m1-c005",
+   "topic": "m1-t7",
+   "front": "Artificial scarcity",
+   "back": "Traders store goods, cut supply, raise prices and earn abnormal profits. Anti-hoarding rules: officials monitored inventories, illegal stockpiling was punished."
+  },
+  {
+   "id": "m1-c006",
+   "topic": "m1-t9",
+   "front": "Chanakya's principle → modern equivalent",
+   "back": "Fair Taxation → GST\nCustoms Duties → Customs Act\nTolls → National Highway Authority\nPrice Regulation → Consumer Protection Act\nAnti-Hoarding → Essential Commodities Act\nHonest Officials → Civil Services & Vigilance\nMarket Inspection → Consumer Affairs Department\nTrade Regulation → Competition Commission of India"
+  },
+  {
+   "id": "m1-c007",
+   "topic": "m1-t1",
+   "front": "Objectives of economic administration",
+   "back": "Stable revenue, fair taxation, regulated markets, consumer welfare, prevention of exploitation, efficient trade, national prosperity."
+  },
+  {
+   "id": "m1-c008",
+   "topic": "m1-t4",
+   "front": "Objectives of customs administration",
+   "back": "Regulate foreign trade, maintain product quality, prevent smuggling, ensure accurate valuation, generate public revenue."
+  },
+  {
+   "id": "m1-c009",
+   "topic": "m1-t5",
+   "front": "Modern examples of user charges (tolls principle)",
+   "back": "Highway tolls, airport user charges, port fees. Principle: users contribute towards maintaining public infrastructure."
+  },
+  {
+   "id": "m1-c010",
+   "topic": "m1-t6",
+   "front": "What did officials monitor under price regulation?",
+   "back": "Market prices, quality, weights, measures and supply conditions."
+  },
+  {
+   "id": "m1-c011",
+   "topic": "m1-t7",
+   "front": "Aims of anti-hoarding measures",
+   "back": "Stable prices, uninterrupted supply, food security, public confidence."
+  },
+  {
+   "id": "m1-c012",
+   "topic": "m1-t8",
+   "front": "Public welfare includes...",
+   "back": "Law and order, employment, food security, fair justice, infrastructure, trade promotion."
+  }
+ ]
+}

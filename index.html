@@ -1,0 +1,65 @@
+<!doctype html>
+<html lang="en" data-theme="dark">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover">
+<meta name="theme-color" content="#0a0e1f">
+<meta name="color-scheme" content="dark light">
+<title>Business Trade in India · Study</title>
+<link rel="manifest" href="manifest.webmanifest">
+<link rel="icon" href="icons/icon-192.png">
+<link rel="apple-touch-icon" href="icons/icon-192.png">
+<style>html,body{background:#0a0e1f;color:#f1f3ff}</style>
+<link rel="stylesheet" href="css/app.css">
+</head>
+<body>
+<div id="app"><div class="boot" data-loading>Loading…</div></div>
+<noscript>This study app needs JavaScript.</noscript>
+<!-- Startup watchdog. Plain (non-module) script on purpose: if js/main.js or any file it imports fails to load,
+     the module never runs and cannot explain itself. This shows WHICH file/error stopped the app. It only ever
+     writes inside the Loading box, which the app replaces as soon as it starts normally. -->
+<script>
+(function () {
+  var problems = [];
+  function tail(u) { try { return new URL(u, location.href).pathname; } catch (e) { return String(u); } }
+  window.__btiReset = function () { // removes cached app files only; saved progress (IndexedDB) is untouched
+    var jobs = [];
+    if (navigator.serviceWorker && navigator.serviceWorker.getRegistrations) jobs.push(navigator.serviceWorker.getRegistrations().then(function (rs) { return Promise.all(rs.map(function (r) { return r.unregister(); })); }));
+    if (window.caches) jobs.push(caches.keys().then(function (ks) { return Promise.all(ks.map(function (k) { return caches.delete(k); })); }));
+    Promise.all(jobs).catch(function () {}).then(function () { location.reload(); });
+  };
+  function failedFiles() {
+    var out = [];
+    try { performance.getEntriesByType('resource').forEach(function (r) { if (r.responseStatus >= 400) out.push('HTTP ' + r.responseStatus + '  ' + tail(r.name)); }); } catch (e) {}
+    return out;
+  }
+  function show(waited) {
+    var box = document.querySelector('[data-loading]');
+    if (!box) return;                                   // the app already started
+    var lines = failedFiles().concat(problems).filter(function (v, i, a) { return a.indexOf(v) === i; });
+    if (!lines.length && !waited) return;
+    box.textContent = '';
+    var wrap = document.createElement('div'); wrap.style.cssText = 'max-width:34rem;padding:24px;text-align:left';
+    function el(tag, text, css) { var n = document.createElement(tag); n.textContent = text; if (css) n.style.cssText = css; wrap.appendChild(n); return n; }
+    el('h2', lines.length ? 'The app could not start' : 'Still loading\u2026', 'margin:0 0 12px');
+    if (lines.length) lines.forEach(function (l) { el('pre', l, 'margin:4px 0;white-space:pre-wrap;word-break:break-all;font-size:13px'); });
+    else el('p', 'This is taking longer than 12 seconds. Check your connection, then reload.');
+    if (lines.some(function (l) { return l.indexOf('404') >= 0 || l.indexOf('Could not load') >= 0; }))
+      el('p', 'A file is missing from the website. On GitHub, index.html, js/, css/, data/ and icons/ must sit at the top level of the repository (not inside another folder).', 'margin-top:12px');
+    var b = el('button', 'Clear cached app files & reload', 'margin-top:12px;padding:10px 14px;font:inherit;border-radius:10px;border:1px solid #556;background:#1b2140;color:inherit');
+    b.onclick = window.__btiReset;
+    box.appendChild(wrap);
+  }
+  function add(msg) { if (problems.indexOf(msg) < 0) problems.push(msg); show(false); }
+  window.addEventListener('error', function (e) {
+    var t = e.target;
+    if (t && t !== window && (t.src || t.href)) add('Could not load ' + tail(t.src || t.href));
+    else add((e.message || 'Script error') + (e.filename ? '  [' + tail(e.filename) + ':' + e.lineno + ']' : ''));
+  }, true);
+  window.addEventListener('unhandledrejection', function (e) { add('Startup error: ' + ((e.reason && e.reason.message) || e.reason)); });
+  setTimeout(function () { show(true); }, 12000);
+})();
+</script>
+<script type="module" src="js/main.js"></script>
+</body>
+</html>

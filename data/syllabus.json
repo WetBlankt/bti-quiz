@@ -1,0 +1,1065 @@
+{
+ "version": 1,
+ "modules": [
+  {
+   "id": "m1",
+   "n": 1,
+   "session": 5,
+   "title": "Structured Economic Administration & Public Welfare",
+   "short": "Economic Administration",
+   "icon": "⚖️",
+   "topics": [
+    {
+     "id": "m1-t1",
+     "title": "Chanakya and the goals of economic administration",
+     "notes": [
+      "Chanakya (Kautilya) was chief advisor to Chandragupta Maurya, more than 2,300 years ago. He combined economics, ethics, administration and public welfare.",
+      "Core idea: the prosperity of the king/state depends on the prosperity of the people. This is stated more explicitly in the Arthashastra; Chanakya Niti carries the ethical foundation.",
+      "Objectives: stable revenue, fair taxation, regulated markets, consumer welfare, prevention of exploitation, efficient trade, national prosperity.",
+      "Economic administration was both an economic necessity and a moral responsibility.",
+      "Deck detail: Chanakya Niti describes governance as serving the public good. Slide quote: \"The prosperity of the state lies in the prosperity of its people.\""
+     ]
+    },
+    {
+     "id": "m1-t2",
+     "title": "Five pillars of economic administration",
+     "notes": [
+      "Taxation, Customs Duties, Tolls, Anti-Hoarding, Price Controls.",
+      "Deck detail (pillar descriptions): Taxation should be fair, moderate and efficient. Customs duties regulated trade, prevented illegal commerce and strengthened the treasury, while foreign trade was encouraged and national interests safeguarded.",
+      "Deck detail: Tolls (fees from roads, ports, ferries and marketplaces) funded public infrastructure and ensured secure transportation. Anti-hoarding protected consumers and maintained market stability. Price controls: the state monitored prices of essential commodities through appointed market officials, preventing exploitation and inflation and ensuring equitable access to necessities."
+     ]
+    },
+    {
+     "id": "m1-t3",
+     "title": "Taxation",
+     "notes": [
+      "Bee-and-honey analogy: collect taxes without harming citizens (elaborated in the Arthashastra).",
+      "Chanakya never supported excessive taxation. Taxes should leave people producing wealth, businesses growing, agriculture profitable, trade expanding, and citizens paying willingly.",
+      "Good taxation is fair, predictable, moderate, transparent and used for public welfare.",
+      "Modern parallel, GST: single system, easier compliance, broader tax base, reduced evasion, economic efficiency.",
+      "Deck detail: Taxation formed the backbone of state administration. Chanakya Niti advises safeguarding wealth, preparing for adversity and using resources wisely. GST parallel: single taxation system, easier compliance, broader tax base, reduced tax evasion, economic efficiency."
+     ]
+    },
+    {
+     "id": "m1-t4",
+     "title": "Customs duties",
+     "notes": [
+      "Mauryan trade was supervised. Imports carried duties for revenue and to protect domestic industries.",
+      "Objectives: regulate foreign trade, maintain quality, prevent smuggling, ensure accurate valuation, generate revenue.",
+      "Officials should be competent and tested before being trusted.",
+      "Modern customs regulate imports, exports, anti-dumping duties, national security and trade policy.",
+      "Deck detail: Chanakya believed wealth enters the kingdom through productive commerce but should be regulated by capable administrators."
+     ]
+    },
+    {
+     "id": "m1-t5",
+     "title": "Tolls and infrastructure financing",
+     "notes": [
+      "Tolls on roads, bridges, ports, ferries and routes paid for road maintenance, public infrastructure, military movement, trade facilitation and administrative efficiency.",
+      "Tolls were seen as payment for public services, unlike arbitrary taxes.",
+      "Good infrastructure brings lower transport costs, faster trade, development and employment.",
+      "Modern examples: highway tolls, airport user charges, port fees. Principle: users pay to maintain infrastructure.",
+      "Deck detail: Roads, bridges, ports, ferries and trade routes required maintenance; travellers and merchants using these facilities paid tolls."
+     ]
+    },
+    {
+     "id": "m1-t6",
+     "title": "Price regulation",
+     "notes": [
+      "Officials monitored market prices, quality, weights, measures and supply conditions.",
+      "Objectives: protect consumers, prevent inflation, ensure fairness, discourage profiteering.",
+      "The ruler must intervene when market forces create injustice.",
+      "Deck detail: Markets cannot function efficiently if sellers manipulate prices, so Chanakya believed markets require supervision."
+     ]
+    },
+    {
+     "id": "m1-t7",
+     "title": "Anti-hoarding",
+     "notes": [
+      "Artificial scarcity: traders store goods, reduce supply, raise prices and earn abnormal profits.",
+      "Officials monitored inventories, and illegal stockpiling was punished.",
+      "Aim: stable prices, uninterrupted supply, food security, public confidence.",
+      "Modern emergency controls cover food grains, medicines, fertilizers, oxygen cylinders and fuel.",
+      "Deck detail: Chanakya considered hoarding harmful because it hurt ordinary citizens. Modern principle: markets should not exploit public suffering."
+     ]
+    },
+    {
+     "id": "m1-t8",
+     "title": "Public welfare as the centre of policy",
+     "notes": [
+      "Wealth is not an end in itself.",
+      "A prosperous state has educated citizens, secure trade, agricultural growth, efficient administration, honest officials and stable markets.",
+      "Public welfare includes law and order, employment, food security, fair justice, infrastructure and trade promotion.",
+      "Deck detail: Chanakya repeatedly advises prudent management of wealth, learning and resources and encourages preparation for future uncertainties. Economic prosperity and social welfare go together.",
+      "Deck detail (Chanakya's Vision): a strong economy is built on ethical governance, fair markets, disciplined trade and the welfare of every citizen. Modern relevance: GST, customs regulations, anti-hoarding laws, consumer protection legislation and government price stabilization policies."
+     ]
+    },
+    {
+     "id": "m1-t9",
+     "title": "Ancient principle → modern equivalent",
+     "notes": [
+      "Fair Taxation → GST",
+      "Customs Duties → Customs Act",
+      "Tolls → National Highway Authority",
+      "Price Regulation → Consumer Protection Act",
+      "Anti-Hoarding → Essential Commodities Act",
+      "Honest Officials → Civil Services & Vigilance",
+      "Market Inspection → Consumer Affairs Department",
+      "Trade Regulation → Competition Commission of India",
+      "Second table: preventing monopolies, hoarding and unfair practices → Competition Act 2002 & CCI. Protecting consumers through prices and quality → Consumer Protection Act 2019.",
+      "Deck detail (common objectives): fair and moderate taxation / GST - simplify taxation, improve compliance and ensure steady revenue without burdening businesses. Preventing monopolies, hoarding and unfair trade practices / Competition Act 2002 & CCI - promote healthy competition, prevent market abuse and protect economic efficiency. Protecting consumers through regulated prices and quality standards / Consumer Protection Act 2019 - safeguard consumer rights, ensure fair trade practices and provide grievance redressal."
+     ]
+    },
+    {
+     "id": "m1-t10",
+     "title": "Case study: onion price crisis",
+     "notes": [
+      "Rain damages crops. Wholesalers secretly store onions, and retail price rises from ₹25 to ₹120/kg.",
+      "Farmers don't gain because middlemen bought the crop earlier.",
+      "This will be used for scenario questions about artificial scarcity, hoarding and the state's role. Only slide-supported answers will be used."
+     ]
+    }
+   ]
+  },
+  {
+   "id": "m2",
+   "n": 2,
+   "session": 6,
+   "title": "India's Position in the Ancient Global Trade Network",
+   "short": "Global Trade Network",
+   "icon": "🧭",
+   "topics": [
+    {
+     "id": "m2-t1",
+     "title": "Trade routes (concept)",
+     "notes": [
+      "Trade routes are the pathways connecting settlements, territories and landscapes.",
+      "States sought to develop and control them.",
+      "The Silk Route (overland across Asia) and the Spice Route (Indian Ocean) were the earliest extensive networks linking Africa, Asia and Europe."
+     ]
+    },
+    {
+     "id": "m2-t2",
+     "title": "Importance of India",
+     "notes": [
+      "India held a strategic position between East and West.",
+      "Northwest passes: Karakoram, Burzil, Lanak La, Zoji La. Northeast passes: Thang La, Tulung La, Dom La, Andra La. These linked India to Central Asia, Tibet and China.",
+      "Uttarapatha ran from Tamralipti (Tamluk) to the Oxus. It linked Champa, Pataliputra, Kasi, Kausambi, Mathura, Sakala (Sialkot), Taxila, Purushapura (Peshawar), Kapisa (Begram) and Balkh.",
+      "A central-plateau route linked Kausambi and Mathura with Ujjayini and Bharukachha (Barygaza).",
+      "The Indian Ocean sits at the centre of maritime networks, encircled by Africa, Europe and Asia.",
+      "Coastline is given as 11,098.8 km in this deck (see FLAG 1).",
+      "Lagoons and sheltered waters favoured port development.",
+      "Harappans were the earliest mariners. Using monsoon winds, they sailed from Gujarat and the Makran coast to Oman, Bahrain and West Asia."
+     ]
+    },
+    {
+     "id": "m2-t3",
+     "title": "Harappan trade routes",
+     "notes": [
+      "Internal routes:",
+      "Sindh–South Baluchistan via the Kirthar mountains",
+      "Coastal Sindh–Upper Sindh–Central Indus plains",
+      "Punjab–East Punjab–Rajasthan via Cholistan",
+      "Sindh–Gujarat",
+      "Sindh–Baluchistan via Kachchh and Kathiawar",
+      "Coastal route: Gujarat (Lothal, Dholavira) to the Makran coast (Sutkagendor).",
+      "Materials: shell, copper, gold, lead, zinc, alabaster, limestone, steatite, carnelian, agate, jasper. These were processed at manufacturing centres.",
+      "External route: via Iran and Afghanistan into West and Central Asia."
+     ]
+    },
+    {
+     "id": "m2-t4",
+     "title": "Maritime trade and maritime archaeology",
+     "notes": [
+      "Anuradhapura excavation: Brahmi script was introduced to Sri Lanka by Indian traders, probably in the 5th–4th century BC.",
+      "Brahmi and Kharoshti inscriptions (1st–5th century AD) at Tamralipti and West Bengal show Bengal had contacts with northwest India.",
+      "Traders from Gandhara and the Oxus reached Mathura and the Gangetic valley overland, then sailed to Southeast Asia.",
+      "Kharoshti-Brahmi inscriptions in Bengal, Odisha, Thailand, Vietnam, Bali and Funan suggest script and language migrated with the horse trade.",
+      "Ceramic evidence (Rouletted ware) is found across the subcontinent, Southeast Asia and West Asia.",
+      "In the early centuries CE, mariners of India, Southeast Asia, the Red Sea, the Persian Gulf and the Mediterranean were interlinked.",
+      "Ban Don Ta Phet (Thailand) excavations date India–Southeast Asia contact to the 4th century BCE.",
+      "Imports:",
+      "High-bronze tin: yellow and gold-like, used for coinage, mainly sourced from Thailand.",
+      "Spices from the eastern Indonesian islands.",
+      "Chola naval expedition: exports were pearls, pepper and textiles; imports were camphor, copper and tin."
+     ]
+    },
+    {
+     "id": "m2-t5",
+     "title": "Caravan trade",
+     "notes": [
+      "Trading infrastructure developed with the rise of the 16 Mahajanapadas.",
+      "A caravan was a group of merchants travelling together for safety.",
+      "Pack animals: camels, horses, bullocks, donkeys.",
+      "Infrastructure: inns/serais, wells, fortified outposts.",
+      "The earliest Indian reference to a caravanserai is Ashoka's Delhi-Topra pillar edict No. 7 (3rd century BCE).",
+      "Mauryan routes reached Southeast Asia through the Malay Peninsula. The Khyber Pass was a key gateway.",
+      "Exports:",
+      "Silk and textiles (cotton, muslin, embroidered garments)",
+      "Spices (pepper, cinnamon, cardamom)",
+      "Exotic foods",
+      "Gems (diamonds, pearls, sapphires)",
+      "Ivory, timber, bamboo, dyes",
+      "Wootz steel and medicinal substances",
+      "Imports: lead, wine, horses, crude glass, asphalt, antimony."
+     ]
+    },
+    {
+     "id": "m2-t6",
+     "title": "Inland routes",
+     "notes": [
+      "Major trade centres: Barygaza, Ujjaini, Muziris, Soppara, Pataliputra, Kalyana, Poduca, Kaveripattinam, Tamralipti.",
+      "The two major routes were Uttarapatha and Dakshinapatha.",
+      "\"Uttarapatha\" is mentioned mainly in Panini's Ashtadhyayi.",
+      "Uttarapatha was a land-river route from northwest India across the Indo-Gangetic plain to Tamralipti on the Bay of Bengal.",
+      "Northern path: Lahore, Jalandhar, Saharanpur, Bijnor, Gorakhpur, Bihar, Bengal.",
+      "Southern path: Lahore, Indraprastha, Hastinapur, Varanasi, Prayagraj, Pataliputra, Rajgir.",
+      "Branch routes connected both highways to seaports. Uttarapatha reached the Sind and Odisha coasts. Dakshinapatha reached Virampattinam (Arikamedu) via Pratishthana.",
+      "Goods on Uttarapatha: lapis lazuli, silver and semi-precious stones from Afghanistan and Central Asia, plus sea shells from the east coast.",
+      "Rajasthan supplied semi-precious stones, silver, gold, lead, copper, iron, sandalwood and hides. Similar items appear along Dakshinapatha.",
+      "Dakshinapatha ran from Pataliputra (Magadha) to Pratishthana (Paithan). Ujjain, Vidisha and Kaushambi were key centres."
+     ]
+    },
+    {
+     "id": "m2-t7",
+     "title": "Silk Road",
+     "notes": [
+      "About 7,000 miles from China through Central Asia, north India and the Parthian Empire to Rome. Active c. 200 BC–14th century AD.",
+      "The term was coined by Carl Ritter (1838) and popularised by Ferdinand von Richthofen (1877).",
+      "Chiang Kien was sent west by Emperor Wu-ti in 138 BC with 100 men. He returned to Changan after 13 years. The Han dynasty (202 BC–220 AD) is associated with the Silk Road's rise.",
+      "It was a network of caravan routes, not one road.",
+      "Eastern terminus: Chang'an (Xian).",
+      "Western termini: Byzantium/Constantinople, Antioch, Damascus.",
+      "Gandharan art (Peshawar valley) fused Indian Buddhist art under the Kushanas with Greek art introduced by Alexander, plus some Persian elements.",
+      "The Mahabharata and Arthashastra call China \"Tsin\".",
+      "From China: silk, medical herbs, carved jade, furs, ceramics. To China: horses, glassware, raw jade, gold, silver.",
+      "A branch ran from Yarkand across the Karakoram to Leh and Srinagar, connecting India to the Silk Road.",
+      "Chiang Kien's report mentions India–southwest China trade via Assam and Burma in the 2nd century BC.",
+      "Literary mentions of silk:",
+      "The epics and the Manusmriti mention silk as a foreign gift.",
+      "Kautilya mentions China silk.",
+      "Kalidasa mentions Chinanashuka in Abhigyan Shakuntalam.",
+      "Xuanzang recorded Gandhara.",
+      "Kushan sites at Harwan, Ushkur and Kanispur (Kashmir) show Silk Route art influence."
+     ]
+    }
+   ]
+  },
+  {
+   "id": "m3",
+   "n": 3,
+   "session": 7,
+   "title": "Major Exports and Imports",
+   "short": "Exports & Imports",
+   "icon": "📦",
+   "topics": [
+    {
+     "id": "m3-t1",
+     "title": "Ancient India as a trading civilization",
+     "notes": [
+      "Strengths:",
+      "Strategic location",
+      "Long coastline (over 7,500 km today)",
+      "Fertile land and mineral resources",
+      "Skilled artisans",
+      "Shipbuilding",
+      "Market towns",
+      "Maritime knowledge",
+      "Trade partners: Mesopotamia, Egypt, Persia, Rome, Southeast Asia, China.",
+      "Key features: ports, road networks, merchant guilds, monsoon navigation."
+     ]
+    },
+    {
+     "id": "m3-t2",
+     "title": "Early international trade (Akhanda Bharath)",
+     "notes": [
+      "Surplus agriculture in the Indus Valley Civilization (2600–1900 BCE) led to urban centres, trade and crafts.",
+      "Harappans were seafarers, shown by boats on seals, tablets and amulets.",
+      "Panini's Uttarapatha (the Oxus–Ganges road) connected to the Achaemenid road network.",
+      "India–Babylon trade went via the Persian Gulf. Herodotus (5th century BC) attests the sea route.",
+      "The Baberu Jataka tells of Indian merchants taking a peacock by sea to Babylon.",
+      "Alexander intended to explore the south Arabian coast to link India and Egypt."
+     ]
+    },
+    {
+     "id": "m3-t3",
+     "title": "Export portfolio",
+     "notes": [
+      "Export table:",
+      "Spices: valued in Europe and West Asia",
+      "Cotton textiles: fine fabrics",
+      "Silk: luxury item",
+      "Precious stones: diamonds, sapphires, rubies",
+      "Beads: glass and semi-precious stones",
+      "Ivory: luxury decorative products",
+      "Sandalwood: fragrance and rituals",
+      "Indigo: textile dye",
+      "Sugar: India introduced sugar-making",
+      "Categories, destinations and value claims:",
+      "Spices (pepper, cardamom, cinnamon, turmeric) to Rome, Arabia, China. Valued weight-for-weight with silver.",
+      "Textiles (muslin \"woven air\", silk, cotton) to Rome, Persia, Southeast Asia. Egyptian mummies were wrapped in Indian cotton.",
+      "Gems (diamonds, rubies, sapphires, pearls) to Persia, Rome, China. Golconda diamonds were the global benchmark.",
+      "Manufactured goods (steel, iron tools, pottery, beads, conch shells, metalwork) to Mesopotamia, Africa, Southeast Asia. Found in Mesopotamian graves of 3000 BCE.",
+      "Luxury goods (sandalwood, indigo, perfumes, incense) to Rome, Arabia, China. Prestige material for thrones and ornaments."
+     ]
+    },
+    {
+     "id": "m3-t4",
+     "title": "Spices",
+     "notes": [
+      "Why spices were valuable: food preservation, medicine (Ayurveda), ritual, status symbol, currency substitute (the slide says pepper paid Roman soldiers; see FLAG 5).",
+      "Spice route chain:",
+      "Vasco da Gama's 1498 voyage aimed to cut out Arab middlemen."
+     ]
+    },
+    {
+     "id": "m3-t5",
+     "title": "Textiles and gems",
+     "notes": [
+      "Dhaka muslin was called \"woven air\". Romans called it \"India fabrics\". The Greek geographer Arrian described it as transparent.",
+      "Calico and chintz were named after Calicut. England passed a law in 1701 banning Indian cotton to protect local weavers.",
+      "India imported raw silk from China, added value, and re-exported finished silk to Rome and Persia.",
+      "Golconda was the only known diamond source until Brazil (1725). The Koh-i-Noor and Hope diamonds came from there.",
+      "Carnelian beads from Gujarat were found in Mesopotamian royal tombs (2600 BCE).",
+      "Gulf of Mannar pearls were a top luxury, and Rome imported pearl necklaces."
+     ]
+    },
+    {
+     "id": "m3-t6",
+     "title": "Imports",
+     "notes": [
+      "Gold and silver: India lacked major gold deposits.",
+      "Roman gold aurei are found at Tamil Nadu ports; India was a \"gold sink\" for Rome.",
+      "Imported gold underpinned the gold Karshapana.",
+      "A positive trade balance led to gold accumulation.",
+      "Horses: India could not breed war-quality horses.",
+      "Vijayanagara spent 15,000 gold pagodas a year on Arabian horses imported via Oman traders.",
+      "This was a strategic dependency, like modern oil.",
+      "Other imports: glass, wine and olive oil from Rome; silk from China; tin and camphor from Southeast Asia; copper from Arabia.",
+      "Roman amphorae were found at Arikamedu (Pondicherry), a Roman trading post.",
+      "Lesson: no economy is fully self-sufficient."
+     ]
+    },
+    {
+     "id": "m3-t7",
+     "title": "Trade routes: sea, land, Periplus",
+     "notes": [
+      "Indian Ocean sea route (India–Arabia–East Africa–Southeast Asia):",
+      "Used the monsoon winds \"discovered\" by Hippalus (1st century CE).",
+      "Ports: Calicut, Muscat, Aden, Zanzibar. Called the first \"Blue Economy\".",
+      "Key stops: Barygaza (Bharuch), Malabar, Ceylon, Aden/Red Sea, Alexandria.",
+      "Silk Road overland (India–Central Asia–China–Persia–Rome):",
+      "A network, not one road, with caravans of 1,000+ camels.",
+      "Key stops: Taxila, Bactria, Parthia, Antioch, Rome.",
+      "Periplus route:",
+      "The Periplus of the Erythraean Sea (1st century CE) was a Greek merchant's sailing guide listing 40+ Indian ports.",
+      "Key stops: Barygaza, Kalliena, Musikanos, Patala, Barbarikon."
+     ]
+    },
+    {
+     "id": "m3-t8",
+     "title": "Trade as an agent of cultural exchange",
+     "notes": [
+      "Core idea: ideas travel with goods.",
+      "Religion: Buddhism spread along trade routes, and Borobudur is described as funded by Indian traders (see FLAG 5). Fa Xian came in 399 CE.",
+      "Language: Sanskrit spread to Southeast Asia, and Khmer, Javanese and Thai scripts derive from Indian scripts. \"Shampoo\" comes from champi.",
+      "Art: Gandharan art was a Greek–Indian fusion. Angkor Wat reflects Indian temple architecture.",
+      "Food: pepper went to Rome, and \"curry\" appears in English cookbooks by the 1600s.",
+      "Five-step mechanism: Contact → Curiosity → Adoption → Adaptation → Integration.",
+      "Buddhism case study: Theravada took local form in Sri Lanka and Thailand; Mahayana fused with Taoism in China. There are about 500 million Buddhists today."
+     ]
+    },
+    {
+     "id": "m3-t9",
+     "title": "Trade and diplomacy (\"soft power\")",
+     "notes": [
+      "Gift diplomacy: Chandragupta sent Seleucus I an elephant herd and received a Greek princess plus territory. This deck dates it to 321 BCE (see FLAG 2).",
+      "Merchant embassies: the Ayyavole 500 guild had its own flags and armies. Its 1067 CE inscription describes a private corporation with a foreign policy.",
+      "Royal missions: Ashoka sent missions to 5 Greek kingdoms, and Gupta kings had envoys in China and Ceylon. Xuanzang (629 CE) documented 20+ trading kingdoms, a \"market research report\".",
+      "Shared legal frameworks: identical standard weights in Indus cities and Mesopotamia. The Arthashastra (300 BCE) is called an \"International Business Manual\"."
+     ]
+    },
+    {
+     "id": "m3-t10",
+     "title": "Then vs now, and 5 lessons",
+     "notes": [
+      "Analogies:",
+      "Spice monopoly → De Beers / OPEC",
+      "Ayyavole guild → MNCs",
+      "Monks → Netflix/K-pop",
+      "Periplus → Ease of Doing Business index",
+      "Gift diplomacy → Belt & Road Initiative",
+      "Ayurveda adapted for Arab markets → McAloo Tikki (glocalisation)",
+      "Lessons:"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "m4",
+   "n": 4,
+   "session": 8,
+   "title": "Guild System & State Regulation of Trade",
+   "short": "Guilds & Regulation",
+   "icon": "🤝",
+   "topics": [
+    {
+     "id": "m4-t1",
+     "title": "Origin of guilds (Shrenis)",
+     "notes": [
+      "Guilds arose from the need for cooperation among traders and craftsmen.",
+      "Drivers: trade expansion, occupational specialization, long-distance commerce.",
+      "Guilds united people of the same occupation for protection and benefit.",
+      "Early references: Vedic literature, the epics, Buddhist texts, Panini, the Dharmashastras."
+     ]
+    },
+    {
+     "id": "m4-t2",
+     "title": "Membership norms",
+     "notes": [
+      "Members came from the same profession, and trust had to be established first.",
+      "Admission required mutual agreement, a written constitution, acceptance by members, and guarantees or witnesses.",
+      "Members had to obey the constitution."
+     ]
+    },
+    {
+     "id": "m4-t3",
+     "title": "Collective accountability",
+     "notes": [
+      "Every member protected the guild's reputation, and decisions were binding.",
+      "Rights, duties, financial responsibilities and reputation were shared.",
+      "Guild welfare came before individual interest."
+     ]
+    },
+    {
+     "id": "m4-t4",
+     "title": "Discipline",
+     "notes": [
+      "Penalties: confiscation of property, expulsion/banishment, other punishments.",
+      "Those causing disputes or divisions were punished severely.",
+      "Guilds arbitrated members' disputes and regulated family matters affecting membership."
+     ]
+    },
+    {
+     "id": "m4-t5",
+     "title": "Democratic character",
+     "notes": [
+      "Collective decision-making, with executive officers or a committee for daily affairs.",
+      "Leaders had to be honest and capable.",
+      "The king protected guild customs and decisions."
+     ]
+    },
+    {
+     "id": "m4-t6",
+     "title": "Public responsibility",
+     "notes": [
+      "Guilds built temples, assembly halls, wells and ponds.",
+      "They provided water for travellers, supported religious ceremonies, helped the poor, and promoted education and culture."
+     ]
+    },
+    {
+     "id": "m4-t7",
+     "title": "Price regulation",
+     "notes": [
+      "Goal: fair prices for producers and consumers. Laws came from the Dharmashastras and Arthashastra.",
+      "The Panyadhyaksha (Superintendent of Commerce) set prices considering cost of production, demand and supply, transport, market conditions and reasonable profit.",
+      "Kautilya's profit caps: 5% on local goods, 10% on imported goods. Exceeding them was punished.",
+      "With excess supply, the state centralised sales and blocked parallel sales until stocks cleared.",
+      "No hoarding was allowed.",
+      "Dishonest pricing was an offence. The Jatakas mention the Agghakaraka, an official who valued goods for the king.",
+      "Prices moved from negotiated to standardized as money spread."
+     ]
+    },
+    {
+     "id": "m4-t8",
+     "title": "Wages and retail trade",
+     "notes": [
+      "There are only limited references to wages.",
+      "When goods were centralised, merchants sold for daily wages under supervision.",
+      "Retailers acted as agents of wholesalers. They handed over proceeds and agreed profits, and bore losses if market value fell.",
+      "The chapter has no separate detailed wage system."
+     ]
+    },
+    {
+     "id": "m4-t9",
+     "title": "Weights and measures",
+     "notes": [
+      "The king examined weights every six months.",
+      "The Superintendent of Weights and Measures made standard weights, then certified and stamped instruments for a fee.",
+      "Unstamped or false weights were fined. Minor accidental errors were tolerated, but deliberate fraud was punished.",
+      "Regular inspections built confidence."
+     ]
+    },
+    {
+     "id": "m4-t10",
+     "title": "Adulteration",
+     "notes": [
+      "Offences: mixing inferior with superior goods, passing off poor goods, short quantity.",
+      "Goods covered: medicines, oils, salt, perfumes, rice, molasses, earthen products, hides, threads."
+     ]
+    },
+    {
+     "id": "m4-t11",
+     "title": "Consumer protection and the role of the state",
+     "notes": [
+      "Consumer protection: profit caps, anti-hoarding and speculation controls, standard weights, adulteration penalties, retail regulation, price supervision, trader licensing.",
+      "State duties: supervise markets, fix prices, control profits, inspect weights, issue licences, prevent hoarding, ensure fair competition, protect consumers, encourage trade."
+     ]
+    }
+   ]
+  },
+  {
+   "id": "m5",
+   "n": 5,
+   "session": 9,
+   "title": "Banking and Finance",
+   "short": "Banking & Finance",
+   "icon": "🏦",
+   "topics": [
+    {
+     "id": "m5-t1",
+     "title": "Emergence of banking",
+     "notes": [
+      "Barter gave way to surplus, markets and trade.",
+      "New needs arose: safe custody of wealth, access to credit, and financing for long-distance trade. These created the foundation for financial intermediation."
+     ]
+    },
+    {
+     "id": "m5-t2",
+     "title": "Guilds as institutions",
+     "notes": [
+      "Associations of merchants and artisans that were self-governing and recognised by the state.",
+      "Roles: trade regulation, quality control, finance, dispute resolution.",
+      "Structure: guild head, treasurer, members, apprentices."
+     ]
+    },
+    {
+     "id": "m5-t3",
+     "title": "Guild banking and collective wealth",
+     "notes": [
+      "Enabling conditions: collective wealth, growing trade, public trust, demand for organised credit.",
+      "Flow: Deposits → Guild Treasury → Loans → Trade → Repayment.",
+      "Idle funds were channelled to merchants."
+     ]
+    },
+    {
+     "id": "m5-t4",
+     "title": "Financial intermediation",
+     "notes": [
+      "Mobilising savings and lending them for productive use, connecting surplus holders with capital seekers.",
+      "Result: investment, employment, growth.",
+      "Indirect transfer: saver → intermediary → firm."
+     ]
+    },
+    {
+     "id": "m5-t5",
+     "title": "Trust, ethics and governance",
+     "notes": [
+      "Foundations: trust, Dharma, transparency, collective responsibility.",
+      "Governance: guild head, treasurer, council, member accountability.",
+      "Relevant to modern corporate governance and regulation."
+     ]
+    },
+    {
+     "id": "m5-t6",
+     "title": "Guild banking vs modern banking",
+     "notes": [
+      "Shared: deposits, loans, trade finance, records, support for development.",
+      "Modern banking differs in scale, technology, formal regulation and range of products."
+     ]
+    },
+    {
+     "id": "m5-t7",
+     "title": "Responsible finance and financial inclusion",
+     "notes": [
+      "Principles: trust, productive lending, ethical governance, inclusion.",
+      "Modern applications: ESG, responsible lending, digital banking, UPI.",
+      "Institutions must earn returns and keep public confidence."
+     ]
+    },
+    {
+     "id": "m5-t8",
+     "title": "Dispute resolution",
+     "notes": [
+      "Disputes: loan defaults, contract breaches, quality disputes, price disagreements.",
+      "Process: complaint → hearing → evidence → decision → penalty/compensation.",
+      "Modern equivalents: arbitration, banking grievance mechanisms, consumer forums."
+     ]
+    },
+    {
+     "id": "m5-t9",
+     "title": "Instruments and historical evidence",
+     "notes": [
+      "Practices: deposits, loans, interest, accounting records. Hundis were a key stage.",
+      "Sources: Arthashastra, Jataka Tales, inscriptions at Nasik, Sanchi and Mathura."
+     ]
+    },
+    {
+     "id": "m5-t10",
+     "title": "Cooperative banking, SHGs, microfinance",
+     "notes": [
+      "Parallels: collective savings, credit, peer monitoring, community development.",
+      "Outcomes: financial inclusion, women's empowerment, MSME finance."
+     ]
+    },
+    {
+     "id": "m5-t11",
+     "title": "Credit appraisal: Ujjain merchant",
+     "notes": [
+      "A merchant from Ujjain wants finance to export to Alexandria. He needs capital for raw materials, labour, transport and customs.",
+      "The lender should assess the loan's purpose, repayment ability and trade risks."
+     ]
+    },
+    {
+     "id": "m5-t12",
+     "title": "Evolution of banking",
+     "notes": [
+      "Barter → Coins → Guild Banking → Hundis → Presidency Banks → RBI → Nationalisation → Core Banking → Internet Banking → UPI → AI & Digital Banking.",
+      "Constants: deposits, lending, trust."
+     ]
+    }
+   ]
+  },
+  {
+   "id": "m6",
+   "n": 6,
+   "session": 10,
+   "title": "Monetary Systems & Ethical Business Practices",
+   "short": "Money & Ethics",
+   "icon": "🪙",
+   "topics": [
+    {
+     "id": "m6-t1",
+     "title": "Why money and ethics matter",
+     "notes": [
+      "Reliable money plus ethical conduct creates trust in markets.",
+      "Trade grew from barter to international commerce."
+     ]
+    },
+    {
+     "id": "m6-t2",
+     "title": "Barter and its problems",
+     "notes": [
+      "Double coincidence of wants, indivisibility, valuation, and the need for a standard medium of exchange."
+     ]
+    },
+    {
+     "id": "m6-t3",
+     "title": "Punch-marked coins",
+     "notes": [
+      "c. 6th century BCE, made of silver with official symbols.",
+      "They eased taxation and long-distance trade and built confidence."
+     ]
+    },
+    {
+     "id": "m6-t4",
+     "title": "Gold dinars",
+     "notes": [
+      "Issued by the Kushan and Gupta dynasties.",
+      "They reflected prosperity and Roman trade, and encouraged urbanisation and specialisation."
+     ]
+    },
+    {
+     "id": "m6-t5",
+     "title": "Standardization as the infrastructure of trust",
+     "notes": [
+      "Uniform weights and measures, standard coin purity, guild certification.",
+      "Result: less fraud, lower transaction costs, more confidence."
+     ]
+    },
+    {
+     "id": "m6-t6",
+     "title": "Ethical business principles",
+     "notes": [
+      "Satya (truthfulness), Fair Pricing (avoid exploitation), Social Responsibility (wider welfare), Integrity (honour contracts)."
+     ]
+    },
+    {
+     "id": "m6-t7",
+     "title": "Dharma vs profit maximisation",
+     "notes": [
+      "Dharma balances wealth with ethics and long-term stakeholder welfare.",
+      "Modern link: ESG and corporate governance."
+     ]
+    },
+    {
+     "id": "m6-t8",
+     "title": "Modern relevance",
+     "notes": [
+      "Digital payments (standardization, speed), ethical banking, consumer protection, responsible business/ESG."
+     ]
+    },
+    {
+     "id": "m6-t9",
+     "title": "Synthesis",
+     "notes": [
+      "Barter → Coins → Standards → Ethics → Trust. Matching stages: direct exchange, standardized value, comparable quality, responsible conduct, efficient markets.",
+      "Exit chain: Standardized money → lower friction → trust → ethical markets.",
+      "Four takeaways:",
+      "References: Balram Srivastava, Trade and Commerce in Ancient India; Kautilya's Arthashastra."
+     ]
+    }
+   ]
+  },
+  {
+   "id": "m7",
+   "n": 7,
+   "session": 11,
+   "title": "State as Driver of Trade & Commerce (Mauryan Empire)",
+   "short": "Mauryan State & Trade",
+   "icon": "🏰",
+   "topics": [
+    {
+     "id": "m7-t1",
+     "title": "Four roles of the state",
+     "notes": [
+      "By 322 BCE Chandragupta had built the first pan-Indian empire.",
+      "The state played four roles:",
+      "Regulator: prices, weights, anti-hoarding and fraud control.",
+      "Investor: roads, ports, irrigation.",
+      "Revenue Collector: taxes on production, tolls, trade.",
+      "Diplomat: treaties and embassies.",
+      "Deck detail: Unlike earlier regional kingdoms, the Mauryan state took a direct, hands-on role in the economy rather than leaving trade to merchants and guilds alone."
+     ]
+    },
+    {
+     "id": "m7-t2",
+     "title": "Centralized political economy",
+     "notes": [
+      "Provinces were run by governors, often princes (kumaras).",
+      "The Arthashastra served as an economic governance manual.",
+      "Adhyakshas (superintendents) oversaw departments.",
+      "Gudhapurushas (spies) reported on prices, markets and officials.",
+      "Deck detail: Provincial governors (often princes) pushed decisions closer to markets; the spy network reported on prices, markets and the conduct of officials back to the centre."
+     ]
+    },
+    {
+     "id": "m7-t3",
+     "title": "Offices and provinces",
+     "notes": [
+      "Superintendents:",
+      "Panyadhyaksha: commerce",
+      "Sulkadhyaksha: tolls/customs",
+      "Pautavadhyaksha: weights and measures",
+      "Akaradhyaksha: mines (state monopoly)",
+      "Navadhyaksha: ships, ports, ferries",
+      "Capitals:",
+      "Pataliputra: imperial capital",
+      "Taxila: northwest",
+      "Ujjain: west (Malwa)",
+      "Tosali: east (Kalinga)",
+      "Suvarnagiri: south (Deccan), \"mountain of gold\", vital for gold and gems"
+     ]
+    },
+    {
+     "id": "m7-t4",
+     "title": "Taxation, regulation and welfare",
+     "notes": [
+      "Revenue came from a share of land produce plus tolls (sulka).",
+      "Other tools: price regulation, anti-hoarding, standardized weights, measures and currency."
+     ]
+    },
+    {
+     "id": "m7-t5",
+     "title": "Road networks",
+     "notes": [
+      "Uttarapatha (Northern Route) ran from Pataliputra through Taxila to the northwest, carrying Central Asian and Hellenistic trade.",
+      "Dakshinapatha (Southern Route) linked the Gangetic plains to the Deccan, carrying gold, gems and spices.",
+      "These were a precursor to the Grand Trunk Road.",
+      "Support infrastructure: rest houses, wells, garrisoned outposts, river transport and ports, irrigation.",
+      "Deck detail: State-built roads converted scattered regional markets into one connected trading network. Irrigation along trade roads links agricultural surplus to tradeable goods."
+     ]
+    },
+    {
+     "id": "m7-t6",
+     "title": "Diplomacy",
+     "notes": [
+      "Treaty with Seleucus I Nicator (c. 303 BCE): territory up to the Hindu Kush for 500 war elephants, plus a marriage alliance (see FLAG 2).",
+      "Megasthenes was Seleucus's ambassador at Pataliputra and wrote the Indica.",
+      "Deimachus, Antiochus I's ambassador, served at Bindusara's court.",
+      "Ashoka's envoys reached five Hellenistic kings, per Rock Edict XIII: Antiochus II, Ptolemy II, Antigonus II, Magas, Alexander of Epirus.",
+      "Deck detail: Megasthenes's account, the Indica, survives only in fragments. Embassies routinely doubled as commercial and intelligence channels."
+     ]
+    },
+    {
+     "id": "m7-t7",
+     "title": "People and dates",
+     "notes": [
+      "Rulers:",
+      "Chandragupta (r. c. 322–297 BCE)",
+      "Kautilya (fl. 4th century BCE)",
+      "Bindusara (r. c. 297–268 BCE)",
+      "Ashoka (r. c. 268–232 BCE)",
+      "Timeline:",
+      "c. 303: Seleucus treaty; Megasthenes arrives",
+      "c. 261: Kalinga War → Dhamma/welfare turn",
+      "c. 250: embassies reach Hellenistic kings and Sri Lanka",
+      "c. 232: Ashoka dies",
+      "c. 185 BCE: fall of the Mauryas"
+     ]
+    },
+    {
+     "id": "m7-t8",
+     "title": "Mauryan vs modern state",
+     "notes": [
+      "Centralized administration → ministries and regulators.",
+      "Roads → national highways.",
+      "Diplomacy → bilateral trade agreements.",
+      "Where the analogy breaks: adhyakshas answered to the emperor, not a legislature.",
+      "Key terms list (slide 12)."
+     ]
+    }
+   ]
+  },
+  {
+   "id": "m8",
+   "n": 8,
+   "session": 12,
+   "title": "Kushana Dynasty and the Silk Route",
+   "short": "Kushanas & Silk Route",
+   "icon": "🐪",
+   "topics": [
+    {
+     "id": "m8-t1",
+     "title": "\"Globalization before globalization\"",
+     "notes": [
+      "The ancient world was economically and culturally interconnected long before container ships."
+     ]
+    },
+    {
+     "id": "m8-t2",
+     "title": "The intermediary state",
+     "notes": [
+      "After the Mauryan Empire fragmented, the Kushanas rose to prominence. They were originally the Yuezhi (Yue-chi), a nomadic clan from Central Asia."
+     ]
+    },
+    {
+     "id": "m8-t3",
+     "title": "The geographic bridge",
+     "notes": [
+      "Kujula Kadphises, Vima Kadphises and Kanishka unified Central Asia and north India.",
+      "They controlled routes from the Oxus valley (Bactria) to Mathura and Varanasi.",
+      "This made them a nexus of the Roman Empire, Han China and the Indian kingdoms."
+     ]
+    },
+    {
+     "id": "m8-t4",
+     "title": "Kanishka and Eurasian integration",
+     "notes": [
+      "Kanishka ascended c. 78 CE (see FLAG 3).",
+      "His territory ran from Tashkent and parts of Chinese Turkestan into north India.",
+      "Primary capital: Purushapura (Peshawar). Secondary centre: Mathura.",
+      "He controlled Kashgar, Yarkand, Khotan and the Pamir passes."
+     ]
+    },
+    {
+     "id": "m8-t5",
+     "title": "Security and tolls",
+     "notes": [
+      "The state secured caravan routes with supply stations and fortified posts.",
+      "It levied tolls (sulka) and cesses on luxury transit goods."
+     ]
+    },
+    {
+     "id": "m8-t6",
+     "title": "Commodity flow",
+     "notes": [
+      "Chinese silk moved through Kushan lands to Barygaza (Broach) and Barbaricum.",
+      "India added Malabar pepper (\"black gold\"), muslins, cotton and ivory.",
+      "Imports: Roman glass, wines, realgar, orpiment, antimony and bullion."
+     ]
+    },
+    {
+     "id": "m8-t7",
+     "title": "Cultural diffusion",
+     "notes": [
+      "Kanishka patronised Mahayana Buddhism and hosted the Fourth Buddhist Council in Kashmir.",
+      "Buddhism spread to China, Central Asia and Tibet.",
+      "The Gandhara School of Art blended Greco-Roman/Hellenistic style with Indian Buddhist themes."
+     ]
+    },
+    {
+     "id": "m8-t8",
+     "title": "Evolution of Kushan coinage",
+     "notes": [
+      "Kujula Kadphises: mainly copper coins, with Hellenistic designs.",
+      "Vima Kadphises: introduced gold coinage.",
+      "Kanishka: extensive gold coinage system."
+     ]
+    },
+    {
+     "id": "m8-t9",
+     "title": "Favourable trade balance",
+     "notes": [
+      "High-purity gold coins are proof of wealth and a favourable balance of trade.",
+      "Gold reserves came from tolls and from selling eastern goods for Roman bullion."
+     ]
+    },
+    {
+     "id": "m8-t10",
+     "title": "Monetary stability",
+     "notes": [
+      "Kushan dinaras matched Roman aureus weight and purity standards.",
+      "This brought Eurasian monetary stability: merchants trusted the coins, transaction risk fell, and cross-border credit became easier."
+     ]
+    },
+    {
+     "id": "m8-t11",
+     "title": "Guild banking (Shrenis/Negamas)",
+     "notes": [
+      "Guilds acted as ancient banks.",
+      "State and royal bodies deposited permanent endowments with guilds such as weavers, potters and oil-millers.",
+      "The fixed monthly interest funded public works and religious activities."
+     ]
+    },
+    {
+     "id": "m8-t12",
+     "title": "Route mapping and the \"toll gate of Eurasia\"",
+     "notes": [
+      "Overland route: Han China → Kashgar, Yarkand, Khotan → Bactria.",
+      "Southern branches ran along the Indus to Barbaricum (mouth of the Indus) and Barygaza (Gujarat), then to the Roman West by sea.",
+      "Wealth chain: Strategic location → control of routes → tolls → favourable balance → gold reserves → prosperity.",
+      "Final reflection, four significances: beyond infrastructure and profit; monetary and technological trust; transmitting culture and art; a channel for philosophies."
+     ]
+    }
+   ]
+  },
+  {
+   "id": "m9",
+   "n": 9,
+   "session": 13,
+   "title": "India's Maritime Trade",
+   "short": "Maritime Trade",
+   "icon": "⛵",
+   "topics": [
+    {
+     "id": "m9-t1",
+     "title": "Introduction",
+     "notes": [
+      "Maritime trade is the exchange of goods and services by sea.",
+      "India's tradition is over 4,000 years old.",
+      "Coastline is given as about 7,500 km in this deck (see FLAG 1).",
+      "The Arabian Sea, Bay of Bengal and Indian Ocean linked India to Asia, Africa and Europe.",
+      "Ports were centres of commerce, culture and diplomacy. India was the hub of the Indian Ocean network."
+     ]
+    },
+    {
+     "id": "m9-t2",
+     "title": "The state as driver of maritime trade",
+     "notes": [
+      "Governments built ports, harbours, warehouses and dockyards.",
+      "Customs duties at ports were a major source of income.",
+      "Naval forces protected sea routes, and Mauryan officials supervised ports.",
+      "Satavahanas: Roman trade via western ports.",
+      "Cholas: navy securing the Bay of Bengal.",
+      "Vijayanagara: trade with Arabia, Persia and Southeast Asia."
+     ]
+    },
+    {
+     "id": "m9-t3",
+     "title": "Ancient maritime trade",
+     "notes": [
+      "Began in the Indus Valley Civilization around 2500 BCE.",
+      "Lothal (Gujarat) had one of the earliest dockyards.",
+      "Partners: Mesopotamia and the Persian Gulf.",
+      "Exports: beads, cotton textiles, pottery, precious stones. Imports: metals and luxury goods.",
+      "Shipbuilding advances enabled long-distance voyages."
+     ]
+    },
+    {
+     "id": "m9-t4",
+     "title": "Merchant guilds",
+     "notes": [
+      "Ayyavole 500 (Ainnurruvar), Manigramam and Anjuvannam.",
+      "They set up centres in Sri Lanka and Southeast Asia, financed voyages and managed risk.",
+      "They maintained standards, negotiated privileges and tax concessions with rulers, and built temples, rest houses and warehouses.",
+      "Described as medieval-period institutions."
+     ]
+    },
+    {
+     "id": "m9-t5",
+     "title": "Trade with Southeast Asia",
+     "notes": [
+      "Partners: Sri Lanka, Myanmar, Thailand, Malaysia, Indonesia, Cambodia, Vietnam. Kingdoms: Srivijaya, Majapahit, Khmer.",
+      "Exports: cotton textiles, spices, sandalwood, ivory, gems, metalware, handicrafts.",
+      "Imports: camphor, aromatic woods, cloves, nutmeg, tin, forest products.",
+      "Guild settlements were established.",
+      "Cultural spread: Hinduism, Buddhism, Sanskrit, Indian art. Temples: Angkor Wat, Prambanan.",
+      "Indian administration, law and education were adopted."
+     ]
+    },
+    {
+     "id": "m9-t6",
+     "title": "Trade with China",
+     "notes": [
+      "Via the Maritime Silk Route; expanded under the Tang and Song dynasties.",
+      "India exported spices, cotton, indigo, medicinal herbs, ivory, gems and aromatics.",
+      "China exported silk, porcelain, paper and tea.",
+      "Faxian (Fa-Hien) and Xuanzang (Hiuen Tsang) documented Indian commercial centres.",
+      "Monks and scholars carried Buddhist exchange."
+     ]
+    },
+    {
+     "id": "m9-t7",
+     "title": "Trade with Arabia and West Asia",
+     "notes": [
+      "Via the Arabian Sea, with Oman, Yemen, Bahrain and Persia.",
+      "Arab traders linked India to Mediterranean and European markets.",
+      "Exports: pepper, cardamom, cotton, indigo, sandalwood, ivory, gems, sugar.",
+      "Imports: Arabian horses, dates, pearls, gold, silver, perfumes.",
+      "Muslim merchant communities settled in Gujarat, Kerala and the Konkan."
+     ]
+    },
+    {
+     "id": "m9-t8",
+     "title": "Major commodities",
+     "notes": [
+      "Pepper was the \"Black Gold\".",
+      "Other exports: cardamom, cinnamon, cloves, textiles, silk, indigo, sandalwood, ivory, pearls, gems, steel, handicrafts, herbs.",
+      "Imports: gold, silver, copper, tin, coral, horses, wine, glassware, Chinese silk and porcelain."
+     ]
+    },
+    {
+     "id": "m9-t9",
+     "title": "Economic and cultural impact",
+     "notes": [
+      "Port cities: Muziris, Bharuch, Kaveripattinam.",
+      "Jobs for merchants, sailors, shipbuilders, artisans and labourers.",
+      "Customs revenue funded administration, and commercial wealth funded temples and education.",
+      "Spread of Hinduism, Buddhism and Jainism.",
+      "Foreign communities increased diversity in port cities."
+     ]
+    },
+    {
+     "id": "m9-t10",
+     "title": "Arrival of Europeans",
+     "notes": [
+      "Vasco da Gama reached Calicut in 1498, a turning point.",
+      "The Portuguese set up at Goa, Cochin and Diu, followed by the Dutch, English and French.",
+      "Europeans brought monopolies and naval conflicts.",
+      "Trade shifted to European control, laying the foundation for colonial domination."
+     ]
+    },
+    {
+     "id": "m9-t11",
+     "title": "Maritime heritage",
+     "notes": [
+      "Knowledge of navigation, astronomy, currents and monsoons.",
+      "Stitched-plank shipbuilding.",
+      "Evidence: ports, inscriptions, coins, temples, archaeology.",
+      "Government revival initiatives."
+     ]
+    },
+    {
+     "id": "m9-t12",
+     "title": "INSV Kaundinya",
+     "notes": [
+      "A modern reconstruction of an ancient stitched-plank vessel, built with coir stitching and wooden planks and no metal fasteners.",
+      "It retraced the India–Oman route.",
+      "Purposes: research, cultural diplomacy, heritage revival."
+     ]
+    }
+   ]
+  }
+ ]
+}

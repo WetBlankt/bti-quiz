@@ -1,0 +1,1637 @@
+{
+ "module": "m4",
+ "questions": [
+  {
+   "id": "m4-t1-q001",
+   "topic": "m4-t1",
+   "difficulty": "easy",
+   "type": "mcq",
+   "question": "What brought guilds (Shrenis) into being, according to the session?",
+   "explanation": "Guilds emerged from the growing need for cooperation among traders and craftsmen.",
+   "options": [
+    "A royal order banning private trade",
+    "The arrival of Roman merchants",
+    "The growing need for cooperation among traders and craftsmen",
+    "The end of all long-distance commerce"
+   ],
+   "answer": 2
+  },
+  {
+   "id": "m4-t1-q002",
+   "topic": "m4-t1",
+   "difficulty": "easy",
+   "type": "fill",
+   "question": "Guilds were also known as ______ in ancient India.",
+   "explanation": "The session uses the term Shrenis for guilds.",
+   "accept": [
+    "Shrenis"
+   ]
+  },
+  {
+   "id": "m4-t1-q003",
+   "topic": "m4-t1",
+   "difficulty": "medium",
+   "type": "multi",
+   "question": "Which developments encouraged merchants to organise themselves into guilds? (Select all that apply)",
+   "explanation": "Trade expansion, specialisation of occupations and long-distance commerce encouraged merchants to organise.",
+   "options": [
+    "A royal ban on private trade",
+    "The decline of all markets",
+    "Expansion of trade",
+    "Long-distance commerce",
+    "Specialisation of occupations"
+   ],
+   "answer": [
+    2,
+    3,
+    4
+   ]
+  },
+  {
+   "id": "m4-t1-q004",
+   "topic": "m4-t1",
+   "difficulty": "medium",
+   "type": "mcq",
+   "question": "Guilds united people engaged in the same occupation for:",
+   "explanation": "The session says guilds united people of the same occupation for mutual protection and economic benefit.",
+   "options": [
+    "Mutual protection and economic benefit",
+    "Collecting land revenue for the king",
+    "Running royal armies",
+    "Judging criminal cases of the whole kingdom"
+   ],
+   "answer": 0
+  },
+  {
+   "id": "m4-t1-q005",
+   "topic": "m4-t1",
+   "difficulty": "medium",
+   "type": "multi",
+   "question": "Which sources contain early references to guilds, according to the session? (Select all that apply)",
+   "explanation": "Early references appear in Vedic literature, the epics, Buddhist texts, Panini's grammar and the Dharmashastras.",
+   "options": [
+    "The epics",
+    "The Periplus",
+    "Vedic literature",
+    "Buddhist texts",
+    "Roman inscriptions",
+    "Dharmashastras"
+   ],
+   "answer": [
+    0,
+    2,
+    3,
+    5
+   ]
+  },
+  {
+   "id": "m4-t1-q006",
+   "topic": "m4-t1",
+   "difficulty": "easy",
+   "type": "tf",
+   "question": "Guilds emerged mainly because kings ordered traders to form associations.",
+   "explanation": "False. Guilds emerged from the growing need for cooperation among traders and craftsmen as trade expanded and occupations specialised.",
+   "answer": false
+  },
+  {
+   "id": "m4-t1-q007",
+   "topic": "m4-t1",
+   "difficulty": "medium",
+   "type": "scenario",
+   "question": "In a growing market town, potters, oil-pressers and weavers each form their own association to protect members and share risks. Which idea from the session does this show?",
+   "explanation": "Expanding trade and occupational specialisation led people of the same occupation to organise.",
+   "options": [
+    "Guilds were created by foreign merchants who settled in port towns",
+    "Guilds existed only for religious reasons and had no economic role",
+    "Guilds replaced the king's government in the market towns",
+    "Guilds arose as trade and specialisation grew and people of one occupation needed cooperation"
+   ],
+   "answer": 3
+  },
+  {
+   "id": "m4-t1-q008",
+   "topic": "m4-t1",
+   "difficulty": "medium",
+   "type": "not",
+   "question": "Which of these is NOT named as an early source mentioning guilds?",
+   "explanation": "Early references are in Vedic literature, the epics, Buddhist texts, Panini's grammar and the Dharmashastras.",
+   "options": [
+    "Panini's grammar",
+    "The Periplus of the Erythraean Sea",
+    "Buddhist texts",
+    "The Dharmashastras"
+   ],
+   "answer": 1
+  },
+  {
+   "id": "m4-t1-q009",
+   "topic": "m4-t1",
+   "difficulty": "hard",
+   "type": "compare",
+   "question": "How does a guild differ from a caravan?",
+   "explanation": "Guilds united people of the same occupation for protection and benefit; a caravan is a group of merchants travelling together for safety.",
+   "options": [
+    "A guild is a pack animal used on trade routes; a caravan is a committee of potters",
+    "A guild is an association of people of one occupation; a caravan is merchants travelling together for safety",
+    "A guild travels from town to town; a caravan is a permanent union of potters",
+    "They are two names for the very same institution of merchants"
+   ],
+   "answer": 1
+  },
+  {
+   "id": "m4-t1-q010",
+   "topic": "m4-t1",
+   "difficulty": "hard",
+   "type": "ar",
+   "question": "Assertion (A): Guilds grew as trade and specialisation expanded.\nReason (R): Traders and craftsmen needed to cooperate for protection and benefit.",
+   "explanation": "Both are true and the second explains why guilds formed.",
+   "options": [
+    "Both A and R are true, and R explains A",
+    "Both A and R are true, but R does not explain A",
+    "A is true but R is false",
+    "A is false but R is true"
+   ],
+   "answer": 0
+  },
+  {
+   "id": "m4-t2-q011",
+   "topic": "m4-t2",
+   "difficulty": "easy",
+   "type": "mcq",
+   "question": "Guild membership generally consisted of people:",
+   "explanation": "Membership generally consisted of people of the same profession or craft.",
+   "options": [
+    "Born in the same village only",
+    "Appointed by the king",
+    "Of any occupation at all",
+    "Engaged in the same profession or craft"
+   ],
+   "answer": 3
+  },
+  {
+   "id": "m4-t2-q012",
+   "topic": "m4-t2",
+   "difficulty": "medium",
+   "type": "multi",
+   "question": "Which steps did admission to a guild involve? (Select all that apply)",
+   "explanation": "Admission involved mutual agreement, a written constitution, acceptance by members and guarantees or witnesses.",
+   "options": [
+    "Appointment by the king alone",
+    "Acceptance by existing members",
+    "Payment of a fee to Rome",
+    "Guarantees or witnesses for good conduct",
+    "A written set of rules or constitution",
+    "Mutual agreement among members"
+   ],
+   "answer": [
+    1,
+    3,
+    4,
+    5
+   ]
+  },
+  {
+   "id": "m4-t2-q013",
+   "topic": "m4-t2",
+   "difficulty": "medium",
+   "type": "mcq",
+   "question": "What did new members have to establish before joining a guild?",
+   "explanation": "New members had to establish mutual trust and confidence before joining.",
+   "options": [
+    "Mutual trust and confidence",
+    "Ownership of a ship",
+    "A royal title",
+    "Fluency in several languages"
+   ],
+   "answer": 0
+  },
+  {
+   "id": "m4-t2-q014",
+   "topic": "m4-t2",
+   "difficulty": "easy",
+   "type": "tf",
+   "question": "Members were expected to obey the guild's constitution and regulations.",
+   "explanation": "True. Obeying the constitution was a basic expectation.",
+   "answer": true
+  },
+  {
+   "id": "m4-t2-q015",
+   "topic": "m4-t2",
+   "difficulty": "medium",
+   "type": "fill",
+   "question": "Admission to a guild involved guarantees or ______ for good conduct.",
+   "explanation": "The session lists guarantees or witnesses for good conduct.",
+   "accept": [
+    "witnesses"
+   ]
+  },
+  {
+   "id": "m4-t2-q016",
+   "topic": "m4-t2",
+   "difficulty": "hard",
+   "type": "scenario",
+   "question": "A young potter wants to join a potters' guild. Which steps would the session expect?",
+   "explanation": "Admission involved agreement to written rules, acceptance by members and guarantees or witnesses for good conduct.",
+   "options": [
+    "Only paying a fee to the Superintendent of Commerce for a seal",
+    "Only being born to the son of a current guild leader",
+    "Agreement with the rules, acceptance by existing members and guarantees of his conduct",
+    "Only receiving the king's written approval for membership"
+   ],
+   "answer": 2
+  },
+  {
+   "id": "m4-t2-q017",
+   "topic": "m4-t2",
+   "difficulty": "medium",
+   "type": "not",
+   "question": "Which of these is NOT listed as part of admission to a guild?",
+   "explanation": "Admission involved mutual agreement, a constitution, acceptance and guarantees. Foreign approval is not mentioned.",
+   "options": [
+    "Mutual agreement among members",
+    "Acceptance by existing members",
+    "Approval from a foreign ruler",
+    "Guarantees for good conduct"
+   ],
+   "answer": 2
+  },
+  {
+   "id": "m4-t2-q018",
+   "topic": "m4-t2",
+   "difficulty": "medium",
+   "type": "concept",
+   "question": "The set of written rules that members of a guild had to obey is called its:",
+   "explanation": "The session says admission involved written rules or a constitution that members were expected to obey.",
+   "options": [
+    "Constitution",
+    "Treasury",
+    "Caravan",
+    "Licence"
+   ],
+   "answer": 0
+  },
+  {
+   "id": "m4-t2-q019",
+   "topic": "m4-t2",
+   "difficulty": "hard",
+   "type": "ar",
+   "question": "Assertion (A): Admission to a guild required guarantees or witnesses for good conduct.\nReason (R): Members were expected to obey the guild's constitution.",
+   "explanation": "Both statements are true, but the second does not explain the first.",
+   "options": [
+    "Both A and R are true, and R explains A",
+    "Both A and R are true, but R does not explain A",
+    "A is true but R is false",
+    "A is false but R is true"
+   ],
+   "answer": 1
+  },
+  {
+   "id": "m4-t2-q020",
+   "topic": "m4-t2",
+   "difficulty": "medium",
+   "type": "tf",
+   "question": "According to the session, admission to a guild was decided by the king alone.",
+   "explanation": "False. Admission rested on mutual agreement and acceptance by existing members, not on the king alone.",
+   "answer": false
+  },
+  {
+   "id": "m4-t3-q021",
+   "topic": "m4-t3",
+   "difficulty": "easy",
+   "type": "mcq",
+   "question": "Who was responsible for maintaining the reputation of the guild?",
+   "explanation": "Every member was responsible for maintaining the guild's reputation.",
+   "options": [
+    "Only the guild head",
+    "Only the king",
+    "Only foreign buyers",
+    "Every member"
+   ],
+   "answer": 3
+  },
+  {
+   "id": "m4-t3-q022",
+   "topic": "m4-t3",
+   "difficulty": "easy",
+   "type": "tf",
+   "question": "Guild decisions were binding only on the guild's officers.",
+   "explanation": "False. Guild decisions were binding on all members.",
+   "answer": false
+  },
+  {
+   "id": "m4-t3-q023",
+   "topic": "m4-t3",
+   "difficulty": "medium",
+   "type": "multi",
+   "question": "What did guild members collectively share? (Select all that apply)",
+   "explanation": "Members collectively shared rights, duties, financial responsibilities and professional reputation.",
+   "options": [
+    "Duties",
+    "Private family estates",
+    "Rights",
+    "Royal titles",
+    "Financial responsibilities",
+    "Professional reputation"
+   ],
+   "answer": [
+    0,
+    2,
+    4,
+    5
+   ]
+  },
+  {
+   "id": "m4-t3-q024",
+   "topic": "m4-t3",
+   "difficulty": "easy",
+   "type": "fill",
+   "question": "The ______ of the guild was considered more important than individual interests.",
+   "explanation": "Collective welfare came before individual interests.",
+   "accept": [
+    "welfare"
+   ]
+  },
+  {
+   "id": "m4-t3-q025",
+   "topic": "m4-t3",
+   "difficulty": "medium",
+   "type": "scenario",
+   "question": "One member of a guild sells poor-quality goods, and the guild's customers lose trust in all its members. Which idea from the session explains this?",
+   "explanation": "Because the reputation is shared, one member's conduct affects all.",
+   "options": [
+    "Guild decisions are not binding",
+    "Every member is responsible for the guild's reputation",
+    "Reputation belongs only to the king",
+    "Members have no shared duties"
+   ],
+   "answer": 1
+  },
+  {
+   "id": "m4-t3-q026",
+   "topic": "m4-t3",
+   "difficulty": "hard",
+   "type": "scenario",
+   "question": "A guild must decide whether to bear a shared loss from a failed shipment. Which principle from the session applies?",
+   "explanation": "Financial responsibilities were shared, and the guild's welfare mattered more than individual interests.",
+   "options": [
+    "Each member bears only his own private loss and the others bear nothing",
+    "Members share financial responsibilities and guild welfare comes first",
+    "The king must pay all losses, because guilds hold no shared funds",
+    "Losses are ignored by guild rules, so nobody is asked to bear them"
+   ],
+   "answer": 1
+  },
+  {
+   "id": "m4-t3-q027",
+   "topic": "m4-t3",
+   "difficulty": "hard",
+   "type": "compare",
+   "question": "How does the session's view of individual interest differ from guild interest?",
+   "explanation": "The welfare of the guild came before individual interests.",
+   "options": [
+    "Individual interest was considered more important than guild welfare",
+    "Both were treated as having no importance",
+    "Individual interest mattered only to the king",
+    "Guild welfare was considered more important than individual interests"
+   ],
+   "answer": 3
+  },
+  {
+   "id": "m4-t3-q028",
+   "topic": "m4-t3",
+   "difficulty": "hard",
+   "type": "ar",
+   "question": "Assertion (A): Guild decisions were binding on all members.\nReason (R): Any member who disagreed with a guild decision could ignore it.",
+   "explanation": "A is true. R is false: because decisions were binding on all members, they could not simply be ignored.",
+   "options": [
+    "Both A and R are true, and R explains A",
+    "Both A and R are true, but R does not explain A",
+    "A is true but R is false",
+    "A is false but R is true"
+   ],
+   "answer": 2
+  },
+  {
+   "id": "m4-t3-q029",
+   "topic": "m4-t3",
+   "difficulty": "medium",
+   "type": "not",
+   "question": "Which of these is NOT described as shared by guild members?",
+   "explanation": "Members shared rights, duties, financial responsibilities and professional reputation.",
+   "options": [
+    "Individual royal titles",
+    "Rights",
+    "Duties",
+    "Professional reputation"
+   ],
+   "answer": 0
+  },
+  {
+   "id": "m4-t4-q030",
+   "topic": "m4-t4",
+   "difficulty": "medium",
+   "type": "multi",
+   "question": "What penalties could guilds impose on members who broke the rules? (Select all that apply)",
+   "explanation": "Violators faced confiscation of property, expulsion or banishment and other prescribed punishments.",
+   "options": [
+    "Appointment as guild head",
+    "Other prescribed punishments",
+    "Confiscation of property",
+    "Expulsion or banishment",
+    "Exemption from all duties"
+   ],
+   "answer": [
+    1,
+    2,
+    3
+   ]
+  },
+  {
+   "id": "m4-t4-q031",
+   "topic": "m4-t4",
+   "difficulty": "medium",
+   "type": "mcq",
+   "question": "Why were people who created disputes or divisions in a guild severely punished?",
+   "explanation": "Persons creating divisions threatened the unity of the guild.",
+   "options": [
+    "They were foreign merchants",
+    "They were competing with the king",
+    "They threatened the unity of the organisation",
+    "They refused to pay tolls"
+   ],
+   "answer": 2
+  },
+  {
+   "id": "m4-t4-q032",
+   "topic": "m4-t4",
+   "difficulty": "easy",
+   "type": "tf",
+   "question": "Guilds could not arbitrate disputes among their members; only the king could.",
+   "explanation": "False. Guilds could arbitrate disputes among members and regulate important family matters affecting membership.",
+   "answer": false
+  },
+  {
+   "id": "m4-t4-q033",
+   "topic": "m4-t4",
+   "difficulty": "medium",
+   "type": "fill",
+   "question": "Guild penalties included confiscation of ______ and expulsion or banishment.",
+   "explanation": "Confiscation of property was one of the penalties.",
+   "accept": [
+    "property"
+   ]
+  },
+  {
+   "id": "m4-t4-q034",
+   "topic": "m4-t4",
+   "difficulty": "medium",
+   "type": "mcq",
+   "question": "Besides disputes, guilds could also regulate:",
+   "explanation": "The session says guilds could regulate important family matters affecting membership.",
+   "options": [
+    "The succession to the royal throne of the kingdom",
+    "Foreign wars fought by neighbouring kings against each other",
+    "Important family matters affecting guild membership",
+    "The temple festivals held in other towns of the kingdom"
+   ],
+   "answer": 2
+  },
+  {
+   "id": "m4-t4-q035",
+   "topic": "m4-t4",
+   "difficulty": "hard",
+   "type": "scenario",
+   "question": "A member keeps spreading quarrels that split the guild into rival groups. How would the session expect the guild to treat him?",
+   "explanation": "People creating divisions were severely punished.",
+   "options": [
+    "Punish him severely because he threatens the guild's unity",
+    "Reward him for his independence",
+    "Ignore him because disputes are private",
+    "Hand him to a foreign court"
+   ],
+   "answer": 0
+  },
+  {
+   "id": "m4-t4-q036",
+   "topic": "m4-t4",
+   "difficulty": "medium",
+   "type": "not",
+   "question": "Which of these is NOT among the disciplinary measures listed for guilds?",
+   "explanation": "A rule-breaker would not be rewarded with a committee seat.",
+   "options": [
+    "Confiscation of property",
+    "Expulsion or banishment",
+    "Other prescribed punishments",
+    "Appointment to the guild committee"
+   ],
+   "answer": 3
+  },
+  {
+   "id": "m4-t4-q037",
+   "topic": "m4-t4",
+   "difficulty": "hard",
+   "type": "compare",
+   "question": "How does arbitrating a dispute differ from imposing a penalty, in the session's account of guild powers?",
+   "explanation": "Guilds arbitrated disputes among members and also punished violations with confiscation, banishment and other penalties.",
+   "options": [
+    "Arbitration means expulsion from the guild; a penalty means settling a dispute",
+    "Arbitration settles a dispute between members; a penalty punishes a rule violation",
+    "They are exactly the same power under two different names",
+    "Arbitration was for the king only; a penalty was for the guild only"
+   ],
+   "answer": 1
+  },
+  {
+   "id": "m4-t4-q038",
+   "topic": "m4-t4",
+   "difficulty": "hard",
+   "type": "ar",
+   "question": "Assertion (A): Guilds took no action against members who broke their rules.\nReason (R): Guilds possessed disciplinary powers over their members.",
+   "explanation": "A is false: violators faced confiscation of property, expulsion or other punishments. R is true.",
+   "options": [
+    "Both A and R are true, and R explains A",
+    "Both A and R are true, but R does not explain A",
+    "A is true but R is false",
+    "A is false but R is true"
+   ],
+   "answer": 3
+  },
+  {
+   "id": "m4-t5-q039",
+   "topic": "m4-t5",
+   "difficulty": "easy",
+   "type": "mcq",
+   "question": "How did guilds make decisions, according to the session?",
+   "explanation": "Guilds functioned through collective decision-making.",
+   "options": [
+    "By a single hereditary ruler",
+    "Through collective decision-making",
+    "By royal order only",
+    "By lot every year"
+   ],
+   "answer": 1
+  },
+  {
+   "id": "m4-t5-q040",
+   "topic": "m4-t5",
+   "difficulty": "medium",
+   "type": "mcq",
+   "question": "Who managed the day-to-day affairs of a guild?",
+   "explanation": "Executive officers or committee members managed day-to-day affairs.",
+   "options": [
+    "Foreign agents",
+    "The superintendent of ships",
+    "Roman consuls",
+    "Executive officers or committee members"
+   ],
+   "answer": 3
+  },
+  {
+   "id": "m4-t5-q041",
+   "topic": "m4-t5",
+   "difficulty": "medium",
+   "type": "tf",
+   "question": "Guild leaders were expected to be honest and capable and to work for the welfare of all members.",
+   "explanation": "True. This is the session's expectation of leaders.",
+   "answer": true
+  },
+  {
+   "id": "m4-t5-q042",
+   "topic": "m4-t5",
+   "difficulty": "easy",
+   "type": "fill",
+   "question": "The king protected the established customs and decisions of ______.",
+   "explanation": "The session says the king protected the established customs and decisions of guilds.",
+   "accept": [
+    "guilds"
+   ]
+  },
+  {
+   "id": "m4-t5-q043",
+   "topic": "m4-t5",
+   "difficulty": "medium",
+   "type": "scenario",
+   "question": "A guild's committee settles a pricing question by discussion and a shared decision rather than one man's order. Which feature does this show?",
+   "explanation": "Guilds functioned through collective decision-making.",
+   "options": [
+    "Democratic, collective decision-making",
+    "Royal monopoly",
+    "Foreign control",
+    "Military discipline"
+   ],
+   "answer": 0
+  },
+  {
+   "id": "m4-t5-q044",
+   "topic": "m4-t5",
+   "difficulty": "hard",
+   "type": "scenario",
+   "question": "A king respects a guild's long-standing rules when settling a trade case. What does the session say about this?",
+   "explanation": "The king protected the established customs and decisions of guilds.",
+   "options": [
+    "The king abolished all guild customs and replaced them with royal law",
+    "The king had no role at all and ignored every guild decision",
+    "The king protected the established customs and decisions of guilds",
+    "The king forced guilds to copy the royal law word for word"
+   ],
+   "answer": 2
+  },
+  {
+   "id": "m4-t5-q045",
+   "topic": "m4-t5",
+   "difficulty": "medium",
+   "type": "not",
+   "question": "Which of these is NOT an expectation of guild leaders in the session?",
+   "explanation": "Leaders were expected to be honest, capable and work for the welfare of all members.",
+   "options": [
+    "Being honest",
+    "Being capable",
+    "Serving the interests of the king alone",
+    "Working for the welfare of all members"
+   ],
+   "answer": 2
+  },
+  {
+   "id": "m4-t5-q046",
+   "topic": "m4-t5",
+   "difficulty": "hard",
+   "type": "compare",
+   "question": "How do the guild's executive officers differ from the guild's members as a whole?",
+   "explanation": "Executive officers handled daily affairs while decisions were collective.",
+   "options": [
+    "Officers managed day-to-day affairs; members took part in collective decisions",
+    "Officers were foreign agents; members were appointed by the royal court",
+    "Officers made every decision alone; members could not take part",
+    "Members managed all daily affairs; officers took part in no decisions"
+   ],
+   "answer": 0
+  },
+  {
+   "id": "m4-t5-q047",
+   "topic": "m4-t5",
+   "difficulty": "hard",
+   "type": "ar",
+   "question": "Assertion (A): Guild leaders were expected to be honest and capable.\nReason (R): The king protected the established customs and decisions of guilds.",
+   "explanation": "Both are true, but royal protection of guild customs does not explain the expectation that leaders be honest and capable.",
+   "options": [
+    "Both A and R are true, and R explains A",
+    "Both A and R are true, but R does not explain A",
+    "A is true but R is false",
+    "A is false but R is true"
+   ],
+   "answer": 1
+  },
+  {
+   "id": "m4-t6-q048",
+   "topic": "m4-t6",
+   "difficulty": "medium",
+   "type": "multi",
+   "question": "Which public works did guilds undertake, according to the session? (Select all that apply)",
+   "explanation": "Guilds built temples and assembly halls and dug wells and ponds.",
+   "options": [
+    "Building assembly halls",
+    "Minting imperial coins",
+    "Constructing temples",
+    "Digging wells and ponds",
+    "Building royal palaces"
+   ],
+   "answer": [
+    0,
+    2,
+    3
+   ]
+  },
+  {
+   "id": "m4-t6-q049",
+   "topic": "m4-t6",
+   "difficulty": "easy",
+   "type": "mcq",
+   "question": "For whom did guilds provide drinking water?",
+   "explanation": "Guilds provided drinking water for travellers.",
+   "options": [
+    "Soldiers only",
+    "Foreign kings only",
+    "Tax officials only",
+    "Travellers"
+   ],
+   "answer": 3
+  },
+  {
+   "id": "m4-t6-q050",
+   "topic": "m4-t6",
+   "difficulty": "easy",
+   "type": "tf",
+   "question": "Guilds helped poor people as part of their public responsibility.",
+   "explanation": "True. Helping the poor was among their social functions.",
+   "answer": true
+  },
+  {
+   "id": "m4-t6-q051",
+   "topic": "m4-t6",
+   "difficulty": "medium",
+   "type": "fill",
+   "question": "Guilds supported religious ceremonies and promoted education and ______.",
+   "explanation": "The session lists promoting education and culture.",
+   "accept": [
+    "culture"
+   ]
+  },
+  {
+   "id": "m4-t6-q052",
+   "topic": "m4-t6",
+   "difficulty": "medium",
+   "type": "scenario",
+   "question": "A guild digs a well beside a trade road so travellers can drink. Which function does this show?",
+   "explanation": "Digging wells and providing drinking water were public functions.",
+   "options": [
+    "Price fixing carried out by the Superintendent of Commerce",
+    "Guilds' public responsibility beyond business",
+    "Tax collection carried out by the officials of the king",
+    "Weights inspection carried out by the royal Superintendent"
+   ],
+   "answer": 1
+  },
+  {
+   "id": "m4-t6-q053",
+   "topic": "m4-t6",
+   "difficulty": "hard",
+   "type": "scenario",
+   "question": "A guild funds a hall where town meetings and religious gatherings are held. Which functions from the session are being served?",
+   "explanation": "Guilds built assembly halls and supported religious ceremonies.",
+   "options": [
+    "Fixing the profit margins of merchants in the town market",
+    "Building assembly halls and supporting religious ceremonies",
+    "Inspecting the weights and measures used by local shopkeepers",
+    "Licensing the traders who sell goods in the town market"
+   ],
+   "answer": 1
+  },
+  {
+   "id": "m4-t6-q054",
+   "topic": "m4-t6",
+   "difficulty": "hard",
+   "type": "compare",
+   "question": "How do guilds' business functions differ from their public functions?",
+   "explanation": "Guilds protected their occupations and also performed social functions such as building temples and halls.",
+   "options": [
+    "Business: building temples and halls; public: setting prices for the whole kingdom",
+    "Both functions were only about collecting taxes for the king",
+    "Business functions served the king; public functions served foreigners",
+    "Business: protecting and regulating the trade; public: temples, halls, wells and help for the poor"
+   ],
+   "answer": 3
+  },
+  {
+   "id": "m4-t6-q055",
+   "topic": "m4-t6",
+   "difficulty": "medium",
+   "type": "not",
+   "question": "Which of these is NOT listed among guild social functions?",
+   "explanation": "Collecting land revenue was a state function.",
+   "options": [
+    "Collecting land revenue",
+    "Constructing temples",
+    "Digging wells and ponds",
+    "Helping poor people"
+   ],
+   "answer": 0
+  },
+  {
+   "id": "m4-t6-q056",
+   "topic": "m4-t6",
+   "difficulty": "hard",
+   "type": "ar",
+   "question": "Assertion (A): Guilds performed many social functions beyond business.\nReason (R): They built temples, dug wells and ponds, and helped poor people.",
+   "explanation": "Both are true and the second gives examples of the first.",
+   "options": [
+    "Both A and R are true, and R explains A",
+    "Both A and R are true, but R does not explain A",
+    "A is true but R is false",
+    "A is false but R is true"
+   ],
+   "answer": 0
+  },
+  {
+   "id": "m4-t7-q057",
+   "topic": "m4-t7",
+   "difficulty": "easy",
+   "type": "mcq",
+   "question": "What did the state aim to ensure through price regulation?",
+   "explanation": "The state aimed to ensure fair prices for producers and consumers.",
+   "options": [
+    "The highest possible prices",
+    "The lowest possible wages",
+    "Fair prices for both producers and consumers",
+    "Equal prices in every kingdom"
+   ],
+   "answer": 2
+  },
+  {
+   "id": "m4-t7-q058",
+   "topic": "m4-t7",
+   "difficulty": "medium",
+   "type": "mcq",
+   "question": "Which official supervised prices, according to the session?",
+   "explanation": "The Superintendent of Commerce supervised prices.",
+   "options": [
+    "The Navadhyaksha (Superintendent of Ships)",
+    "The Sulkadhyaksha (Superintendent of Tolls)",
+    "The Panyadhyaksha (Superintendent of Commerce)",
+    "The Akaradhyaksha (Superintendent of Mines)"
+   ],
+   "answer": 2
+  },
+  {
+   "id": "m4-t7-q059",
+   "topic": "m4-t7",
+   "difficulty": "medium",
+   "type": "multi",
+   "question": "Which factors were considered when fixing prices? (Select all that apply)",
+   "explanation": "Prices considered production cost, demand and supply, transport, market conditions and reasonable profit.",
+   "options": [
+    "Cost of production",
+    "The merchant's caste",
+    "Demand and supply",
+    "Reasonable profit",
+    "Transport expenses",
+    "The colour of the goods"
+   ],
+   "answer": [
+    0,
+    2,
+    3,
+    4
+   ]
+  },
+  {
+   "id": "m4-t7-q060",
+   "topic": "m4-t7",
+   "difficulty": "easy",
+   "type": "fill",
+   "question": "Kautilya prescribed a maximum profit of ______ per cent on locally produced goods.",
+   "explanation": "The limit was 5 per cent on local goods and 10 per cent on imported goods.",
+   "accept": [
+    "5"
+   ]
+  },
+  {
+   "id": "m4-t7-q061",
+   "topic": "m4-t7",
+   "difficulty": "easy",
+   "type": "fill",
+   "question": "Kautilya prescribed a maximum profit of ______ per cent on imported goods.",
+   "explanation": "The limit was 10 per cent on imported goods.",
+   "accept": [
+    "10"
+   ]
+  },
+  {
+   "id": "m4-t7-q062",
+   "topic": "m4-t7",
+   "difficulty": "medium",
+   "type": "match",
+   "question": "Match each item with its role in price regulation.",
+   "explanation": "These come from Kautilya's profit limits and the officials named in the session.",
+   "pairs": [
+    [
+     "Maximum profit on local goods",
+     "5%"
+    ],
+    [
+     "Maximum profit on imported goods",
+     "10%"
+    ],
+    [
+     "Superintendent of Commerce",
+     "Supervised prices"
+    ],
+    [
+     "Agghakaraka",
+     "Assessed the value of goods for the king"
+    ]
+   ]
+  },
+  {
+   "id": "m4-t7-q063",
+   "topic": "m4-t7",
+   "difficulty": "medium",
+   "type": "mcq",
+   "question": "What did the profit limits prevent?",
+   "explanation": "The limits prevented monopoly and excessive pricing.",
+   "options": [
+    "Monopoly and excessive pricing",
+    "All foreign trade",
+    "The use of money",
+    "The work of guilds"
+   ],
+   "answer": 0
+  },
+  {
+   "id": "m4-t7-q064",
+   "topic": "m4-t7",
+   "difficulty": "medium",
+   "type": "tf",
+   "question": "Charging profits beyond Kautilya's limits attracted punishment.",
+   "explanation": "True. Exceeding the limits was punishable.",
+   "answer": true
+  },
+  {
+   "id": "m4-t7-q065",
+   "topic": "m4-t7",
+   "difficulty": "hard",
+   "type": "scenario",
+   "question": "A merchant sells locally produced cloth at a 12 per cent profit. How does the session treat this?",
+   "explanation": "Kautilya capped profit on local goods at 5 per cent.",
+   "options": [
+    "It is fine, because the limit for local goods is 10 per cent",
+    "It is fine, because profits were never limited",
+    "It is required by law",
+    "It exceeds the 5 per cent limit for local goods and attracts punishment"
+   ],
+   "answer": 3
+  },
+  {
+   "id": "m4-t7-q066",
+   "topic": "m4-t7",
+   "difficulty": "hard",
+   "type": "scenario",
+   "question": "A trader sells imported goods at a 9 per cent profit. How does the session treat this?",
+   "explanation": "The limit on imported goods was 10 per cent.",
+   "options": [
+    "It exceeds the limit for imported goods, so it attracts punishment",
+    "It is within the 10 per cent limit for imported goods",
+    "It is banned for all kinds of goods, local or imported",
+    "It is allowed only for local goods and never for imported goods"
+   ],
+   "answer": 1
+  },
+  {
+   "id": "m4-t7-q067",
+   "topic": "m4-t7",
+   "difficulty": "hard",
+   "type": "scenario",
+   "question": "During a period of excess supply, the government centralises the sale of goods and stops sales elsewhere until stocks clear. Which problem is it preventing?",
+   "explanation": "The government centralised sales and prevented parallel sales until stocks were cleared.",
+   "options": [
+    "Customs duties levied on goods crossing the border",
+    "Hoarding and parallel sales that undermine fair prices",
+    "Adulteration of medicines, oils, salt and rice",
+    "False weights used in the weighing of goods"
+   ],
+   "answer": 1
+  },
+  {
+   "id": "m4-t7-q068",
+   "topic": "m4-t7",
+   "difficulty": "hard",
+   "type": "compare",
+   "question": "How does the profit limit on local goods compare with that on imported goods?",
+   "explanation": "Kautilya prescribed 5 per cent for local and 10 per cent for imported goods.",
+   "options": [
+    "Local goods: 10 per cent; imported goods: 5 per cent",
+    "Both: 5 per cent",
+    "Both: 10 per cent",
+    "Local goods: 5 per cent; imported goods: 10 per cent"
+   ],
+   "answer": 3
+  },
+  {
+   "id": "m4-t7-q069",
+   "topic": "m4-t7",
+   "difficulty": "medium",
+   "type": "not",
+   "question": "Which of these is NOT a factor the session lists for determining prices?",
+   "explanation": "Cost of production, demand and supply, transport, market conditions and reasonable profit were considered.",
+   "options": [
+    "The merchant's family name",
+    "Cost of production",
+    "Transport expenses",
+    "Market conditions"
+   ],
+   "answer": 0
+  },
+  {
+   "id": "m4-t7-q070",
+   "topic": "m4-t7",
+   "difficulty": "hard",
+   "type": "ar",
+   "question": "Assertion (A): Kautilya set maximum profit limits of 5 per cent on local goods and 10 per cent on imported goods.\nReason (R): The limits were meant to encourage monopoly and high prices.",
+   "explanation": "A is true. R is false: the limits prevented monopoly and excessive pricing.",
+   "options": [
+    "Both A and R are true, and R explains A",
+    "Both A and R are true, but R does not explain A",
+    "A is true but R is false",
+    "A is false but R is true"
+   ],
+   "answer": 2
+  },
+  {
+   "id": "m4-t7-q071",
+   "topic": "m4-t7",
+   "difficulty": "medium",
+   "type": "mcq",
+   "question": "According to the Jatakas, what was the role of the Agghakaraka?",
+   "explanation": "The Jatakas mention officials called Agghakaraka who assessed the value of goods.",
+   "options": [
+    "A guild treasurer who looked after the common funds",
+    "A caravan leader who guided merchants on the road",
+    "An official appointed to assess the value of goods on behalf of the king",
+    "A customs inspector who checked cargo at the border"
+   ],
+   "answer": 2
+  },
+  {
+   "id": "m4-t7-q072",
+   "topic": "m4-t7",
+   "difficulty": "medium",
+   "type": "tf",
+   "question": "Prices were always fixed by the king and were never negotiated.",
+   "explanation": "False. Prices were initially often negotiated and became more standardised later with monetary exchange.",
+   "answer": false
+  },
+  {
+   "id": "m4-t8-q073",
+   "topic": "m4-t8",
+   "difficulty": "medium",
+   "type": "tf",
+   "question": "The session contains only limited references to wages.",
+   "explanation": "True. It does not give a detailed separate system of wage regulation.",
+   "answer": true
+  },
+  {
+   "id": "m4-t8-q074",
+   "topic": "m4-t8",
+   "difficulty": "medium",
+   "type": "mcq",
+   "question": "When goods were centralised by the state, merchants sold them for:",
+   "explanation": "Merchants sold the centralised goods for daily wages under government supervision.",
+   "options": [
+    "Fixed annual salaries",
+    "Free of charge",
+    "Daily wages under government supervision",
+    "Foreign gold only"
+   ],
+   "answer": 2
+  },
+  {
+   "id": "m4-t8-q075",
+   "topic": "m4-t8",
+   "difficulty": "medium",
+   "type": "fill",
+   "question": "Retail dealers generally acted as ______ for wholesale merchants.",
+   "explanation": "Retail dealers acted as agents for wholesale merchants.",
+   "accept": [
+    "agents"
+   ]
+  },
+  {
+   "id": "m4-t8-q076",
+   "topic": "m4-t8",
+   "difficulty": "hard",
+   "type": "scenario",
+   "question": "A retailer receives goods from a wholesaler and the market value then falls. Whom does the session say bears the loss?",
+   "explanation": "Retail traders had to bear losses when market values declined after receiving goods.",
+   "options": [
+    "The retailer, who had to bear the loss",
+    "The wholesaler alone",
+    "The king",
+    "The customers"
+   ],
+   "answer": 0
+  },
+  {
+   "id": "m4-t8-q077",
+   "topic": "m4-t8",
+   "difficulty": "hard",
+   "type": "compare",
+   "question": "How do the duties of retail traders to wholesalers differ from the usual idea of independent shopkeepers?",
+   "explanation": "Retailers generally acted as agents of wholesale merchants.",
+   "options": [
+    "Retailers kept all the profits and handed nothing to wholesalers",
+    "Retailers paid no losses even when market values fell",
+    "Wholesalers served the retailers as their agents instead",
+    "Retailers handed over proceeds and agreed profits to wholesalers and bore losses"
+   ],
+   "answer": 3
+  },
+  {
+   "id": "m4-t8-q078",
+   "topic": "m4-t8",
+   "difficulty": "medium",
+   "type": "not",
+   "question": "Which statement about wages is NOT supported by the session?",
+   "explanation": "The chapter has no separate detailed wage system; its emphasis is price regulation, quality control and consumer protection.",
+   "options": [
+    "References to wages in the chapter are limited and brief",
+    "The chapter contains a separate, detailed system of wage regulation",
+    "Merchants sold state-held goods for daily wages under supervision",
+    "Retailers generally acted as agents of wholesale merchants"
+   ],
+   "answer": 1
+  },
+  {
+   "id": "m4-t8-q079",
+   "topic": "m4-t8",
+   "difficulty": "hard",
+   "type": "ar",
+   "question": "Assertion (A): Retail traders had to bear losses when market values declined after receiving goods.\nReason (R): Retail dealers generally acted as agents for wholesale merchants.",
+   "explanation": "Both are true; the session lists them as separate rules promoting fairness between wholesalers and retailers.",
+   "options": [
+    "Both A and R are true, and R explains A",
+    "Both A and R are true, but R does not explain A",
+    "A is true but R is false",
+    "A is false but R is true"
+   ],
+   "answer": 1
+  },
+  {
+   "id": "m4-t8-q080",
+   "topic": "m4-t8",
+   "difficulty": "easy",
+   "type": "mcq",
+   "question": "What did the retail-trade rules promote, according to the session?",
+   "explanation": "The rules promoted fairness between wholesalers and retailers.",
+   "options": [
+    "Monopoly of retailers",
+    "Fairness between wholesalers and retailers",
+    "Exemption from all taxes",
+    "The end of trade"
+   ],
+   "answer": 1
+  },
+  {
+   "id": "m4-t8-q081",
+   "topic": "m4-t8",
+   "difficulty": "medium",
+   "type": "concept",
+   "question": "A retail trader who passes sale proceeds and agreed profits to a wholesale merchant is acting as the wholesaler's:",
+   "explanation": "Retail dealers acted as agents for wholesale merchants.",
+   "options": [
+    "Superintendent",
+    "Treasurer",
+    "Guild head",
+    "Agent"
+   ],
+   "answer": 3
+  },
+  {
+   "id": "m4-t9-q082",
+   "topic": "m4-t9",
+   "difficulty": "easy",
+   "type": "fill",
+   "question": "The king examined official weights and measures every ______ months.",
+   "explanation": "The king examined weights and measures every six months.",
+   "accept": [
+    "six"
+   ]
+  },
+  {
+   "id": "m4-t9-q083",
+   "topic": "m4-t9",
+   "difficulty": "medium",
+   "type": "mcq",
+   "question": "Which official manufactured standard weights, and certified and stamped measuring instruments?",
+   "explanation": "The Superintendent of Weights and Measures made standard weights and stamped instruments.",
+   "options": [
+    "The Superintendent of Weights and Measures",
+    "The Panyadhyaksha, the Superintendent of Commerce",
+    "The Navadhyaksha, the Superintendent of Ships",
+    "The Akaradhyaksha, the Superintendent of Mines"
+   ],
+   "answer": 0
+  },
+  {
+   "id": "m4-t9-q084",
+   "topic": "m4-t9",
+   "difficulty": "medium",
+   "type": "multi",
+   "question": "What did the Superintendent of Weights and Measures do? (Select all that apply)",
+   "explanation": "He manufactured standard weights, certified and stamped instruments and charged a fee for stamping.",
+   "options": [
+    "Manufactured standard weights",
+    "Collected customs at ports",
+    "Certified and stamped instruments",
+    "Set the price of grain",
+    "Charged a fee for official stamping"
+   ],
+   "answer": [
+    0,
+    2,
+    4
+   ]
+  },
+  {
+   "id": "m4-t9-q085",
+   "topic": "m4-t9",
+   "difficulty": "medium",
+   "type": "tf",
+   "question": "Using unstamped or false weights resulted in fines.",
+   "explanation": "True. Unstamped or false weights were fined.",
+   "answer": true
+  },
+  {
+   "id": "m4-t9-q086",
+   "topic": "m4-t9",
+   "difficulty": "hard",
+   "type": "scenario",
+   "question": "A shopkeeper's scale is slightly off by an honest mistake. How does the session treat this?",
+   "explanation": "Minor accidental differences were tolerated, but deliberate deception was strictly punished.",
+   "options": [
+    "It is always punished by banishment",
+    "It is rewarded",
+    "Minor accidental differences were tolerated",
+    "It is ignored if the king is away"
+   ],
+   "answer": 2
+  },
+  {
+   "id": "m4-t9-q087",
+   "topic": "m4-t9",
+   "difficulty": "medium",
+   "type": "scenario",
+   "question": "A trader deliberately uses a false weight to cheat customers. How is it treated?",
+   "explanation": "Deliberate deception was strictly punished.",
+   "options": [
+    "Tolerated as accidental",
+    "Taxed lightly",
+    "Strictly punished",
+    "Ignored by officials"
+   ],
+   "answer": 2
+  },
+  {
+   "id": "m4-t9-q088",
+   "topic": "m4-t9",
+   "difficulty": "hard",
+   "type": "compare",
+   "question": "How does the treatment of accidental errors differ from deliberate fraud?",
+   "explanation": "The session distinguishes minor accidental differences from deliberate deception.",
+   "options": [
+    "Accidental differences were tolerated; deliberate deception was strictly punished",
+    "Both accidental errors and deliberate deception were tolerated",
+    "Both accidental errors and deliberate deception were punished by banishment",
+    "Accidental errors were punished more severely than deliberate fraud"
+   ],
+   "answer": 0
+  },
+  {
+   "id": "m4-t9-q089",
+   "topic": "m4-t9",
+   "difficulty": "medium",
+   "type": "not",
+   "question": "Which of these is NOT a result of standardisation, according to the session?",
+   "explanation": "Standardisation reduced fraud and increased public confidence; proper measurement was essential for efficient commerce.",
+   "options": [
+    "Reduced fraud",
+    "Increased public confidence",
+    "More efficient commerce",
+    "Higher customs duties"
+   ],
+   "answer": 3
+  },
+  {
+   "id": "m4-t9-q090",
+   "topic": "m4-t9",
+   "difficulty": "hard",
+   "type": "ar",
+   "question": "Assertion (A): Deliberate use of false weights was tolerated in the same way as minor accidental differences.\nReason (R): Minor accidental differences were tolerated, but deliberate deception was strictly punished.",
+   "explanation": "A is false: deliberate deception was strictly punished. R is true.",
+   "options": [
+    "Both A and R are true, and R explains A",
+    "Both A and R are true, but R does not explain A",
+    "A is true but R is false",
+    "A is false but R is true"
+   ],
+   "answer": 3
+  },
+  {
+   "id": "m4-t9-q091",
+   "topic": "m4-t9",
+   "difficulty": "easy",
+   "type": "mcq",
+   "question": "Why were uniform weights and measures considered essential?",
+   "explanation": "Uniform weights and measures were essential for fair trade.",
+   "options": [
+    "They set the king's holidays",
+    "They were essential for fair trade",
+    "They fixed temple donations",
+    "They controlled caravan routes"
+   ],
+   "answer": 1
+  },
+  {
+   "id": "m4-t9-q092",
+   "topic": "m4-t9",
+   "difficulty": "medium",
+   "type": "fill",
+   "question": "The Superintendent certified and ______ measuring instruments for a fee.",
+   "explanation": "He certified and stamped instruments and charged a fee for official stamping.",
+   "accept": [
+    "stamped"
+   ]
+  },
+  {
+   "id": "m4-t10-q093",
+   "topic": "m4-t10",
+   "difficulty": "medium",
+   "type": "multi",
+   "question": "Which goods did the adulteration laws specifically cover? (Select all that apply)",
+   "explanation": "The laws covered medicines, oils, salt, perfumes, rice, molasses, earthen products, hides and threads.",
+   "options": [
+    "Silver coins",
+    "Rice",
+    "Horses",
+    "Salt",
+    "Medicines",
+    "Oils"
+   ],
+   "answer": [
+    1,
+    3,
+    4,
+    5
+   ]
+  },
+  {
+   "id": "m4-t10-q094",
+   "topic": "m4-t10",
+   "difficulty": "easy",
+   "type": "tf",
+   "question": "Selling less than the declared quantity was not an offence under the trade laws.",
+   "explanation": "False. Selling less than the declared quantity was an offence, alongside mixing inferior goods and passing off poor goods.",
+   "answer": false
+  },
+  {
+   "id": "m4-t10-q095",
+   "topic": "m4-t10",
+   "difficulty": "medium",
+   "type": "mcq",
+   "question": "Which practice was prohibited under the adulteration laws?",
+   "explanation": "Mixing inferior with superior goods was prohibited.",
+   "options": [
+    "Selling goods at a fair price",
+    "Mixing inferior goods with superior goods",
+    "Stamping weights",
+    "Paying tolls"
+   ],
+   "answer": 1
+  },
+  {
+   "id": "m4-t10-q096",
+   "topic": "m4-t10",
+   "difficulty": "easy",
+   "type": "fill",
+   "question": "Selling poor-quality goods as ______ products was punishable.",
+   "explanation": "Passing off poor goods as superior was punishable.",
+   "accept": [
+    "superior"
+   ]
+  },
+  {
+   "id": "m4-t10-q097",
+   "topic": "m4-t10",
+   "difficulty": "hard",
+   "type": "scenario",
+   "question": "A merchant mixes cheap oil with good oil and sells it all as pure. Which offence from the session is this?",
+   "explanation": "Mixing inferior goods with superior ones and selling them as pure was prohibited.",
+   "options": [
+    "Customs evasion",
+    "Toll avoidance",
+    "Hoarding",
+    "Adulteration, which was punishable"
+   ],
+   "answer": 3
+  },
+  {
+   "id": "m4-t10-q098",
+   "topic": "m4-t10",
+   "difficulty": "hard",
+   "type": "scenario",
+   "question": "A grain seller gives a customer less rice than the quantity he declared. Which offence is this?",
+   "explanation": "Selling less than the declared quantity was an offence.",
+   "options": [
+    "Selling less than the declared quantity",
+    "Hoarding of essential goods to raise their price later",
+    "Smuggling of goods past a customs post at the border",
+    "Price fixing by an official of the royal court"
+   ],
+   "answer": 0
+  },
+  {
+   "id": "m4-t10-q099",
+   "topic": "m4-t10",
+   "difficulty": "medium",
+   "type": "not",
+   "question": "Which of these is NOT among the goods listed in the adulteration laws?",
+   "explanation": "The list: medicines, oils, salt, perfumes, rice, molasses, earthen products, hides and threads.",
+   "options": [
+    "Medicines",
+    "Perfumes",
+    "Elephants",
+    "Hides"
+   ],
+   "answer": 2
+  },
+  {
+   "id": "m4-t10-q100",
+   "topic": "m4-t10",
+   "difficulty": "hard",
+   "type": "compare",
+   "question": "How does adulteration differ from using false weights?",
+   "explanation": "Adulteration concerned quality and mixing; false weights concerned measurement.",
+   "options": [
+    "They are the same offence, so the session gives no difference",
+    "Adulteration cheats on weight; false weights mix inferior goods in",
+    "Adulteration is mixing or misrepresenting the goods; false weights cheat on the quantity measured",
+    "Neither adulteration nor false weights was punished by officials"
+   ],
+   "answer": 2
+  },
+  {
+   "id": "m4-t10-q101",
+   "topic": "m4-t10",
+   "difficulty": "hard",
+   "type": "ar",
+   "question": "Assertion (A): Adulteration was treated as a serious offence.\nReason (R): Mixing inferior goods with superior goods was prohibited and punishable.",
+   "explanation": "Both are true; the second shows why it was serious.",
+   "options": [
+    "Both A and R are true, and R explains A",
+    "Both A and R are true, but R does not explain A",
+    "A is true but R is false",
+    "A is false but R is true"
+   ],
+   "answer": 0
+  },
+  {
+   "id": "m4-t10-q102",
+   "topic": "m4-t10",
+   "difficulty": "medium",
+   "type": "concept",
+   "question": "Mixing inferior goods with superior goods and selling them as superior is called:",
+   "explanation": "The session calls this adulteration.",
+   "options": [
+    "Adulteration",
+    "Hoarding",
+    "Smuggling",
+    "Arbitration"
+   ],
+   "answer": 0
+  },
+  {
+   "id": "m4-t11-q103",
+   "topic": "m4-t11",
+   "difficulty": "medium",
+   "type": "multi",
+   "question": "Which measures protected consumers, according to the session? (Select all that apply)",
+   "explanation": "Measures included reasonable margins, preventing hoarding and speculation, standard weights, punishing adulteration, regulating retail, supervising prices and licensing traders.",
+   "options": [
+    "Banning all retail",
+    "Punishing adulteration",
+    "Fixing reasonable profit margins",
+    "Abolishing weights",
+    "Licensing traders",
+    "Preventing hoarding and speculation"
+   ],
+   "answer": [
+    1,
+    2,
+    4,
+    5
+   ]
+  },
+  {
+   "id": "m4-t11-q104",
+   "topic": "m4-t11",
+   "difficulty": "medium",
+   "type": "multi",
+   "question": "Which duties were the king and officials responsible for? (Select all that apply)",
+   "explanation": "State duties included supervising markets, fixing prices, controlling profits, inspecting weights, issuing licences and protecting consumers.",
+   "options": [
+    "Abolishing guilds",
+    "Fixing prices",
+    "Setting caravan routes by lot",
+    "Inspecting weights and measures",
+    "Supervising markets",
+    "Issuing trade licences"
+   ],
+   "answer": [
+    1,
+    3,
+    4,
+    5
+   ]
+  },
+  {
+   "id": "m4-t11-q105",
+   "topic": "m4-t11",
+   "difficulty": "medium",
+   "type": "mcq",
+   "question": "What was the primary emphasis of the chapter, according to its key takeaways?",
+   "explanation": "The chapter's emphasis is price regulation, quality control and consumer protection.",
+   "options": [
+    "A detailed system of wage regulation for all workers",
+    "Foreign conquest and the expansion of royal territory",
+    "Temple building and the support of religious ceremonies",
+    "Price regulation, quality control and consumer protection"
+   ],
+   "answer": 3
+  },
+  {
+   "id": "m4-t11-q106",
+   "topic": "m4-t11",
+   "difficulty": "medium",
+   "type": "tf",
+   "question": "Ancient Indian trade was closely regulated by the state to ensure fairness and public welfare.",
+   "explanation": "True. This is the first key takeaway.",
+   "answer": true
+  },
+  {
+   "id": "m4-t11-q107",
+   "topic": "m4-t11",
+   "difficulty": "easy",
+   "type": "fill",
+   "question": "Government supervision of prices, licences and retail trade reduced market ______.",
+   "explanation": "The takeaways say supervision reduced market abuse.",
+   "accept": [
+    "abuse"
+   ]
+  },
+  {
+   "id": "m4-t11-q108",
+   "topic": "m4-t11",
+   "difficulty": "hard",
+   "type": "scenario",
+   "question": "A town official inspects weights, checks prices, issues licences and punishes adulterators. Which role of the state does this show?",
+   "explanation": "The state supervised markets, fixed prices, inspected weights, issued licences and protected consumers.",
+   "options": [
+    "Collecting the membership fees of the town guilds",
+    "Protecting consumers and ensuring fair competition",
+    "Building temples and wells for the benefit of travellers",
+    "Leading caravans across the mountain passes to Central Asia"
+   ],
+   "answer": 1
+  },
+  {
+   "id": "m4-t11-q109",
+   "topic": "m4-t11",
+   "difficulty": "hard",
+   "type": "compare",
+   "question": "How does the state's role in this module differ from the guilds' role?",
+   "explanation": "The state supervised markets and protected consumers; guilds had their own rules, discipline and public works.",
+   "options": [
+    "Guilds set prices for the whole kingdom; the state ran only temples and wells",
+    "The state regulated markets, prices and licences; guilds governed their own members and performed social functions",
+    "They had identical powers over the same members and the same markets",
+    "The state ran caravans; the guilds led the king's army in war"
+   ],
+   "answer": 1
+  },
+  {
+   "id": "m4-t11-q110",
+   "topic": "m4-t11",
+   "difficulty": "medium",
+   "type": "not",
+   "question": "Which statement about the state's role is NOT supported by the session?",
+   "explanation": "The state supervised markets, fixed prices, inspected weights and issued licences.",
+   "options": [
+    "The state fixed prices through officials such as the Panyadhyaksha",
+    "The state inspected weights and measures every six months",
+    "The state issued trade licences and punished adulteration",
+    "The state left prices and weights entirely to merchants"
+   ],
+   "answer": 3
+  }
+ ],
+ "cards": [
+  {
+   "id": "m4-c001",
+   "topic": "m4-t7",
+   "front": "Kautilya's profit limits",
+   "back": "5% on locally produced goods; 10% on imported goods. Beyond these limits attracted punishment."
+  },
+  {
+   "id": "m4-c002",
+   "topic": "m4-t9",
+   "front": "Weights and measures",
+   "back": "King examined every six months; the Superintendent made, certified and stamped standard weights for a fee; unstamped or false weights were fined."
+  },
+  {
+   "id": "m4-c003",
+   "topic": "m4-t10",
+   "front": "Adulteration laws",
+   "back": "Prohibited mixing inferior with superior goods, passing off poor goods as superior and selling short quantity. Covered medicines, oils, salt, perfumes, rice, molasses, earthen products, hides, threads."
+  },
+  {
+   "id": "m4-c004",
+   "topic": "m4-t4",
+   "front": "Guild discipline",
+   "back": "Confiscation of property, expulsion or banishment, other prescribed punishments; guilds also arbitrated disputes."
+  },
+  {
+   "id": "m4-c005",
+   "topic": "m4-t6",
+   "front": "Guild public responsibility",
+   "back": "Temples, assembly halls, wells and ponds, drinking water for travellers, religious ceremonies, help for the poor, education and culture."
+  }
+ ]
+}

@@ -1,0 +1,1906 @@
+{
+ "module": "m9",
+ "questions": [
+  {
+   "id": "m9-t1-q001",
+   "topic": "m9-t1",
+   "difficulty": "easy",
+   "type": "tf",
+   "question": "Maritime trade is the exchange of goods and services only through land routes.",
+   "explanation": "False. Maritime trade is the exchange of goods and services through sea routes.",
+   "answer": false
+  },
+  {
+   "id": "m9-t1-q002",
+   "topic": "m9-t1",
+   "difficulty": "medium",
+   "type": "mcq",
+   "question": "According to the session, India's maritime tradition goes back:",
+   "explanation": "The session describes one of the oldest maritime traditions in the world, over 4,000 years old.",
+   "options": [
+    "About 400 years",
+    "About 40 years",
+    "Over 4,000 years",
+    "Only to the arrival of Europeans"
+   ],
+   "answer": 2
+  },
+  {
+   "id": "m9-t1-q003",
+   "topic": "m9-t1",
+   "difficulty": "medium",
+   "type": "multi",
+   "question": "Which bodies of water connected India with Asia, Africa and Europe? (Select all that apply)",
+   "explanation": "The session names the Arabian Sea, Bay of Bengal and Indian Ocean.",
+   "options": [
+    "The Arabian Sea",
+    "The Bay of Bengal",
+    "The Indian Ocean",
+    "The Caspian Sea",
+    "The Black Sea"
+   ],
+   "answer": [
+    0,
+    1,
+    2
+   ]
+  },
+  {
+   "id": "m9-t1-q004",
+   "topic": "m9-t1",
+   "difficulty": "easy",
+   "type": "fill",
+   "question": "Indian ports became centres of commerce, culture and ______.",
+   "explanation": "The session calls Indian ports centres of commerce, culture and diplomacy.",
+   "accept": [
+    "diplomacy"
+   ]
+  },
+  {
+   "id": "m9-t1-q005",
+   "topic": "m9-t1",
+   "difficulty": "medium",
+   "type": "concept",
+   "question": "India's strategic location made it the ______ of the Indian Ocean trade network.",
+   "explanation": "The session calls India the hub of the Indian Ocean trade network.",
+   "options": [
+    "Hub",
+    "Border",
+    "Prisoner",
+    "Shadow"
+   ],
+   "answer": 0
+  },
+  {
+   "id": "m9-t1-q006",
+   "topic": "m9-t1",
+   "difficulty": "hard",
+   "type": "scenario",
+   "question": "A port town hosts merchants from several lands, new temples and visiting envoys. Which idea from the session does this show?",
+   "explanation": "Indian ports became centres of commerce, culture and diplomacy.",
+   "options": [
+    "Ports as isolated fishing villages",
+    "Ports as military camps only",
+    "Ports as tax-free zones only",
+    "Ports as centres of commerce, culture and diplomacy"
+   ],
+   "answer": 3
+  },
+  {
+   "id": "m9-t1-q007",
+   "topic": "m9-t1",
+   "difficulty": "medium",
+   "type": "not",
+   "question": "Which of these is NOT a benefit of maritime trade named in the introduction?",
+   "explanation": "Maritime trade encouraged exchange, not isolation.",
+   "options": [
+    "Economic prosperity",
+    "Isolation from foreign influence",
+    "Urban development",
+    "Exchange of ideas, religions, technology and art"
+   ],
+   "answer": 1
+  },
+  {
+   "id": "m9-t1-q008",
+   "topic": "m9-t1",
+   "difficulty": "hard",
+   "type": "ar",
+   "question": "Assertion (A): India was the hub of the Indian Ocean trade network.\nReason (R): India's strategic location gave it access to Asia, Africa and Europe.",
+   "explanation": "Both are true and the second explains the first.",
+   "options": [
+    "Both A and R are true, and R explains A",
+    "Both A and R are true, but R does not explain A",
+    "A is true but R is false",
+    "A is false but R is true"
+   ],
+   "answer": 0
+  },
+  {
+   "id": "m9-t2-q009",
+   "topic": "m9-t2",
+   "difficulty": "medium",
+   "type": "multi",
+   "question": "Which facilities did governments develop to support maritime trade? (Select all that apply)",
+   "explanation": "Governments developed ports, harbours, warehouses and dockyards.",
+   "options": [
+    "Harbours",
+    "Ports",
+    "Dockyards",
+    "Silk workshops",
+    "Caravan serais",
+    "Warehouses"
+   ],
+   "answer": [
+    0,
+    1,
+    2,
+    5
+   ]
+  },
+  {
+   "id": "m9-t2-q010",
+   "topic": "m9-t2",
+   "difficulty": "medium",
+   "type": "mcq",
+   "question": "Customs duties collected at ports became:",
+   "explanation": "Customs duties became a major source of state income.",
+   "options": [
+    "A source of foreign debt",
+    "A major source of state income",
+    "A form of gift",
+    "A ban on trade"
+   ],
+   "answer": 1
+  },
+  {
+   "id": "m9-t2-q011",
+   "topic": "m9-t2",
+   "difficulty": "medium",
+   "type": "mcq",
+   "question": "How did kings ensure the safety of merchants at sea?",
+   "explanation": "Kings maintained naval forces to protect sea routes.",
+   "options": [
+    "By closing the ports to every ship that carried foreign cargo",
+    "By banning voyages across the sea during the monsoon months",
+    "By taxing only the sailors who worked on the merchant ships",
+    "By maintaining naval forces and protecting sea routes"
+   ],
+   "answer": 3
+  },
+  {
+   "id": "m9-t2-q012",
+   "topic": "m9-t2",
+   "difficulty": "medium",
+   "type": "mcq",
+   "question": "What did the Mauryas do about ports and overseas commerce?",
+   "explanation": "The Mauryas appointed officials to regulate ports.",
+   "options": [
+    "Appointed officials to regulate ports and supervise overseas commerce",
+    "Banned overseas trade so that no goods left the kingdom",
+    "Left ports unsupervised and without any officials in charge",
+    "Handed the ports over to Rome to run on behalf of the state"
+   ],
+   "answer": 0
+  },
+  {
+   "id": "m9-t2-q013",
+   "topic": "m9-t2",
+   "difficulty": "hard",
+   "type": "match",
+   "question": "Match each ruling power with its policy on maritime trade.",
+   "explanation": "These come from the session's state-as-driver slide.",
+   "pairs": [
+    [
+     "Mauryas",
+     "Appointed officials to regulate ports"
+    ],
+    [
+     "Satavahanas",
+     "Promoted trade with Rome through western ports"
+    ],
+    [
+     "Cholas",
+     "Built a powerful navy securing Bay of Bengal routes"
+    ],
+    [
+     "Vijayanagara",
+     "Encouraged trade with Arabia, Persia and Southeast Asia"
+    ]
+   ]
+  },
+  {
+   "id": "m9-t2-q014",
+   "topic": "m9-t2",
+   "difficulty": "medium",
+   "type": "mcq",
+   "question": "The Satavahanas promoted trade with the Roman Empire through:",
+   "explanation": "The Satavahanas used western coastal ports for Roman trade.",
+   "options": [
+    "Eastern river ports",
+    "Himalayan passes",
+    "Western coastal ports",
+    "Central Asian oases"
+   ],
+   "answer": 2
+  },
+  {
+   "id": "m9-t2-q015",
+   "topic": "m9-t2",
+   "difficulty": "medium",
+   "type": "mcq",
+   "question": "The Cholas established a powerful navy that secured routes across the:",
+   "explanation": "The Chola navy secured routes across the Bay of Bengal.",
+   "options": [
+    "Arabian Sea",
+    "Red Sea",
+    "Bay of Bengal",
+    "Persian Gulf"
+   ],
+   "answer": 2
+  },
+  {
+   "id": "m9-t2-q016",
+   "topic": "m9-t2",
+   "difficulty": "easy",
+   "type": "fill",
+   "question": "______ rulers encouraged overseas trade with Arabia, Persia and Southeast Asia.",
+   "explanation": "The session names Vijayanagara rulers for this policy.",
+   "accept": [
+    "Vijayanagara"
+   ]
+  },
+  {
+   "id": "m9-t2-q017",
+   "topic": "m9-t2",
+   "difficulty": "hard",
+   "type": "scenario",
+   "question": "A kingdom builds dockyards, patrols the seas with a navy and collects duties at its ports. Which idea from the session does this illustrate?",
+   "explanation": "Port building, naval protection and customs duties all show state support.",
+   "options": [
+    "The state as a driver of maritime trade",
+    "Barter exchange carried on between neighbouring coastal villages",
+    "Guild banking carried on through deposits and loans",
+    "Caravan trade carried on along the overland roads"
+   ],
+   "answer": 0
+  },
+  {
+   "id": "m9-t2-q018",
+   "topic": "m9-t2",
+   "difficulty": "hard",
+   "type": "compare",
+   "question": "How do the Satavahana and Chola contributions to maritime trade differ?",
+   "explanation": "The session assigns them different strengths.",
+   "options": [
+    "Satavahanas: a navy in the Bay of Bengal; Cholas: Roman trade through western ports",
+    "Both powers: caravan trade across the overland roads only",
+    "Satavahanas: trade with Arabia only; Cholas: trade with China only",
+    "Satavahanas: Roman trade through western ports; Cholas: a navy securing the Bay of Bengal"
+   ],
+   "answer": 3
+  },
+  {
+   "id": "m9-t2-q019",
+   "topic": "m9-t2",
+   "difficulty": "medium",
+   "type": "not",
+   "question": "Which of these is NOT described as a state measure for maritime trade?",
+   "explanation": "States promoted, not banned, overseas trade.",
+   "options": [
+    "Developing ports and dockyards",
+    "Banning overseas trade to protect revenue",
+    "Maintaining naval forces",
+    "Collecting customs duties"
+   ],
+   "answer": 1
+  },
+  {
+   "id": "m9-t2-q020",
+   "topic": "m9-t2",
+   "difficulty": "hard",
+   "type": "ar",
+   "question": "Assertion (A): Indian rulers recognised maritime trade as an important source of revenue.\nReason (R): Customs duties at ports were abolished to encourage trade.",
+   "explanation": "A is true. R is false: customs duties collected at ports became a major source of state income.",
+   "options": [
+    "Both A and R are true, and R explains A",
+    "Both A and R are true, but R does not explain A",
+    "A is true but R is false",
+    "A is false but R is true"
+   ],
+   "answer": 2
+  },
+  {
+   "id": "m9-t3-q021",
+   "topic": "m9-t3",
+   "difficulty": "easy",
+   "type": "tf",
+   "question": "Maritime trade began during the Indus Valley Civilization around 2500 BCE.",
+   "explanation": "True. The session dates its beginnings to about 2500 BCE.",
+   "answer": true
+  },
+  {
+   "id": "m9-t3-q022",
+   "topic": "m9-t3",
+   "difficulty": "medium",
+   "type": "mcq",
+   "question": "Which site in Gujarat had one of the world's earliest known dockyards?",
+   "explanation": "Lothal had one of the earliest known dockyards.",
+   "options": [
+    "Taxila",
+    "Lothal",
+    "Pataliputra",
+    "Muziris"
+   ],
+   "answer": 1
+  },
+  {
+   "id": "m9-t3-q023",
+   "topic": "m9-t3",
+   "difficulty": "easy",
+   "type": "fill",
+   "question": "Lothal in present-day ______ had one of the earliest known dockyards.",
+   "explanation": "Lothal lies in present-day Gujarat.",
+   "accept": [
+    "Gujarat"
+   ]
+  },
+  {
+   "id": "m9-t3-q024",
+   "topic": "m9-t3",
+   "difficulty": "medium",
+   "type": "multi",
+   "question": "Which items did Indian merchants export in this early period? (Select all that apply)",
+   "explanation": "Exports included beads, cotton textiles, pottery and precious stones.",
+   "options": [
+    "Horses",
+    "Wine",
+    "Cotton textiles",
+    "Pottery",
+    "Precious stones",
+    "Beads"
+   ],
+   "answer": [
+    2,
+    3,
+    4,
+    5
+   ]
+  },
+  {
+   "id": "m9-t3-q025",
+   "topic": "m9-t3",
+   "difficulty": "medium",
+   "type": "mcq",
+   "question": "Archaeological discoveries indicate early trade with:",
+   "explanation": "Discoveries point to trade with Mesopotamia and the Persian Gulf.",
+   "options": [
+    "Rome and Egypt",
+    "China and Japan",
+    "Greece and Sicily",
+    "Mesopotamia and the Persian Gulf"
+   ],
+   "answer": 3
+  },
+  {
+   "id": "m9-t3-q026",
+   "topic": "m9-t3",
+   "difficulty": "medium",
+   "type": "mcq",
+   "question": "What did India import in this early trade?",
+   "explanation": "Imports included metals and luxury goods.",
+   "options": [
+    "Metals and luxury goods",
+    "Only grain",
+    "Only horses",
+    "Only paper"
+   ],
+   "answer": 0
+  },
+  {
+   "id": "m9-t3-q027",
+   "topic": "m9-t3",
+   "difficulty": "hard",
+   "type": "scenario",
+   "question": "Small fishing villages on the coast grow into busy commercial towns as trade expands. Which point from the session does this reflect?",
+   "explanation": "The session says coastal settlements evolved into major commercial centres.",
+   "options": [
+    "Coasts were abandoned as the villages moved inland",
+    "Trade ended and the fishing villages stayed small",
+    "Coastal settlements evolved into major commercial centres",
+    "Ports became monasteries with no commercial use at all"
+   ],
+   "answer": 2
+  },
+  {
+   "id": "m9-t3-q028",
+   "topic": "m9-t3",
+   "difficulty": "hard",
+   "type": "compare",
+   "question": "How does the session link early Indus maritime trade to later developments?",
+   "explanation": "Early maritime trade laid the foundation for later expansion.",
+   "options": [
+    "It had no connection with the later trade of the subcontinent",
+    "It ended before later trade began and left no trace",
+    "It laid the foundation for India's later commercial expansion",
+    "It was replaced by Roman trade, which erased the earlier ports"
+   ],
+   "answer": 2
+  },
+  {
+   "id": "m9-t3-q029",
+   "topic": "m9-t3",
+   "difficulty": "medium",
+   "type": "not",
+   "question": "Which statement is NOT supported by the session?",
+   "explanation": "The session dates maritime trade to the Indus Valley Civilization.",
+   "options": [
+    "Maritime trade began only in the medieval period",
+    "It began around 2500 BCE",
+    "Lothal had a dockyard",
+    "Mesopotamia was a trade partner"
+   ],
+   "answer": 0
+  },
+  {
+   "id": "m9-t3-q030",
+   "topic": "m9-t3",
+   "difficulty": "hard",
+   "type": "ar",
+   "question": "Assertion (A): Advances in shipbuilding and navigation supported long-distance voyages.\nReason (R): Maritime trade laid the foundation for India's later commercial expansion.",
+   "explanation": "Both are true, but the second does not explain the first.",
+   "options": [
+    "Both A and R are true, and R explains A",
+    "Both A and R are true, but R does not explain A",
+    "A is true but R is false",
+    "A is false but R is true"
+   ],
+   "answer": 1
+  },
+  {
+   "id": "m9-t4-q031",
+   "topic": "m9-t4",
+   "difficulty": "medium",
+   "type": "multi",
+   "question": "Which merchant guilds are named in the session? (Select all that apply)",
+   "explanation": "The prominent guilds were Ayyavole 500, Manigramam and Anjuvannam.",
+   "options": [
+    "Ayyavole 500",
+    "Manigramam",
+    "Panyadhyaksha guild",
+    "Anjuvannam",
+    "Mahajanapada council"
+   ],
+   "answer": [
+    0,
+    1,
+    3
+   ]
+  },
+  {
+   "id": "m9-t4-q032",
+   "topic": "m9-t4",
+   "difficulty": "easy",
+   "type": "mcq",
+   "question": "The Ayyavole 500 is also known as:",
+   "explanation": "Ayyavole 500 is also called Ainnurruvar.",
+   "options": [
+    "Anjuvannam",
+    "Manigramam",
+    "Negamas",
+    "Ainnurruvar"
+   ],
+   "answer": 3
+  },
+  {
+   "id": "m9-t4-q033",
+   "topic": "m9-t4",
+   "difficulty": "hard",
+   "type": "multi",
+   "question": "What did the guilds do to support maritime trade? (Select all that apply)",
+   "explanation": "Guilds established centres overseas, financed voyages and managed risk.",
+   "options": [
+    "Managed commercial risks",
+    "Set up trade centres in Sri Lanka and Southeast Asia",
+    "Commanded Chola fleets",
+    "Financed long-distance voyages",
+    "Collected customs for Rome"
+   ],
+   "answer": [
+    0,
+    1,
+    3
+   ]
+  },
+  {
+   "id": "m9-t4-q034",
+   "topic": "m9-t4",
+   "difficulty": "easy",
+   "type": "mcq",
+   "question": "Guilds maintained standards of:",
+   "explanation": "They maintained standards of quality, weights and measures.",
+   "options": [
+    "Religion only",
+    "Quality, weights and measures",
+    "Warfare",
+    "Dress"
+   ],
+   "answer": 1
+  },
+  {
+   "id": "m9-t4-q035",
+   "topic": "m9-t4",
+   "difficulty": "medium",
+   "type": "mcq",
+   "question": "What did guilds negotiate with rulers?",
+   "explanation": "They negotiated privileges and concessions.",
+   "options": [
+    "Peace treaties with Rome to end the wars in the west",
+    "Trade privileges, tax concessions and protection of merchant interests",
+    "The end of trade with all foreign merchants",
+    "Control of the navy that protected the sea routes"
+   ],
+   "answer": 1
+  },
+  {
+   "id": "m9-t4-q036",
+   "topic": "m9-t4",
+   "difficulty": "medium",
+   "type": "multi",
+   "question": "What did merchant guilds build? (Select all that apply)",
+   "explanation": "Guilds built temples, rest houses and warehouses.",
+   "options": [
+    "Rest houses",
+    "Palaces",
+    "Warehouses",
+    "Temples",
+    "Fortresses"
+   ],
+   "answer": [
+    0,
+    2,
+    3
+   ]
+  },
+  {
+   "id": "m9-t4-q037",
+   "topic": "m9-t4",
+   "difficulty": "easy",
+   "type": "fill",
+   "question": "The session calls the merchant guilds ______-period institutions.",
+   "explanation": "It describes their success as showing the advanced nature of commercial institutions of the medieval period.",
+   "accept": [
+    "medieval"
+   ]
+  },
+  {
+   "id": "m9-t4-q038",
+   "topic": "m9-t4",
+   "difficulty": "hard",
+   "type": "scenario",
+   "question": "A guild persuades a ruler to reduce taxes on its overseas cargoes and to protect its merchants. Which guild activity is this?",
+   "explanation": "Guilds negotiated tax concessions and protection.",
+   "options": [
+    "Financing voyages by lending capital to merchants",
+    "Building temples and rest houses at the ports",
+    "Setting weights and measures for the market",
+    "Negotiating privileges and tax concessions with rulers"
+   ],
+   "answer": 3
+  },
+  {
+   "id": "m9-t4-q039",
+   "topic": "m9-t4",
+   "difficulty": "hard",
+   "type": "scenario",
+   "question": "A guild builds a warehouse and rest house at a port and a temple nearby. What does this show?",
+   "explanation": "Guilds built temples, rest houses and warehouses.",
+   "options": [
+    "Guilds contributed to social and economic development",
+    "Guilds avoided public life and left all building to the state",
+    "Guilds were run by foreign kings who lived in the ports",
+    "Guilds only fought wars and took no part in trade"
+   ],
+   "answer": 0
+  },
+  {
+   "id": "m9-t4-q040",
+   "topic": "m9-t4",
+   "difficulty": "hard",
+   "type": "compare",
+   "question": "How do the roles of guilds and the state differ in maritime trade?",
+   "explanation": "The two had complementary roles.",
+   "options": [
+    "Guilds kept navies; the state financed voyages and managed risks",
+    "Both only collected customs duties from foreign ships",
+    "Guilds financed voyages and negotiated privileges; the state built ports and kept naval forces",
+    "Neither guilds nor the state gave any support to trade"
+   ],
+   "answer": 2
+  },
+  {
+   "id": "m9-t4-q041",
+   "topic": "m9-t4",
+   "difficulty": "medium",
+   "type": "not",
+   "question": "Which of these is NOT an activity of the merchant guilds?",
+   "explanation": "The navy was kept by rulers.",
+   "options": [
+    "Financing voyages",
+    "Managing commercial risks",
+    "Commanding the royal navy",
+    "Building warehouses"
+   ],
+   "answer": 2
+  },
+  {
+   "id": "m9-t4-q042",
+   "topic": "m9-t4",
+   "difficulty": "hard",
+   "type": "ar",
+   "question": "Assertion (A): The efficient organisation of merchant guilds strengthened India's international trade network.\nReason (R): They financed voyages, arranged transport and managed commercial risks.",
+   "explanation": "Both are true and the second explains the first.",
+   "options": [
+    "Both A and R are true, and R explains A",
+    "Both A and R are true, but R does not explain A",
+    "A is true but R is false",
+    "A is false but R is true"
+   ],
+   "answer": 0
+  },
+  {
+   "id": "m9-t5-q043",
+   "topic": "m9-t5",
+   "difficulty": "medium",
+   "type": "multi",
+   "question": "Which countries are named as Indian trade partners in Southeast Asia and nearby? (Select all that apply)",
+   "explanation": "The session names Sri Lanka, Myanmar, Thailand, Malaysia, Indonesia, Cambodia and Vietnam.",
+   "options": [
+    "Korea",
+    "Thailand",
+    "Vietnam",
+    "Cambodia",
+    "Indonesia",
+    "Japan"
+   ],
+   "answer": [
+    1,
+    2,
+    3,
+    4
+   ]
+  },
+  {
+   "id": "m9-t5-q044",
+   "topic": "m9-t5",
+   "difficulty": "medium",
+   "type": "multi",
+   "question": "Which kingdoms did South Indian ports serve as gateways to? (Select all that apply)",
+   "explanation": "The kingdoms named are Srivijaya, Majapahit and Khmer.",
+   "options": [
+    "Majapahit",
+    "Srivijaya",
+    "Gupta",
+    "Khmer",
+    "Chola"
+   ],
+   "answer": [
+    0,
+    1,
+    3
+   ]
+  },
+  {
+   "id": "m9-t5-q045",
+   "topic": "m9-t5",
+   "difficulty": "hard",
+   "type": "match",
+   "question": "Match each name with its place in the session.",
+   "explanation": "These come from the Southeast Asia slide.",
+   "pairs": [
+    [
+     "Angkor Wat",
+     "Temple in Cambodia"
+    ],
+    [
+     "Prambanan",
+     "Temple in Indonesia"
+    ],
+    [
+     "Srivijaya, Majapahit and Khmer",
+     "Kingdoms reached through South Indian ports"
+    ]
+   ]
+  },
+  {
+   "id": "m9-t5-q046",
+   "topic": "m9-t5",
+   "difficulty": "medium",
+   "type": "multi",
+   "question": "Which goods did India import from Southeast Asia? (Select all that apply)",
+   "explanation": "Imports included camphor, aromatic woods, cloves, nutmeg, tin and forest products.",
+   "options": [
+    "Aromatic woods",
+    "Wine",
+    "Camphor",
+    "Horses",
+    "Tin",
+    "Cloves"
+   ],
+   "answer": [
+    0,
+    2,
+    4,
+    5
+   ]
+  },
+  {
+   "id": "m9-t5-q047",
+   "topic": "m9-t5",
+   "difficulty": "easy",
+   "type": "fill",
+   "question": "Merchant ______ established permanent trading settlements in many Southeast Asian ports.",
+   "explanation": "Guilds established permanent settlements.",
+   "accept": [
+    "guilds"
+   ]
+  },
+  {
+   "id": "m9-t5-q048",
+   "topic": "m9-t5",
+   "difficulty": "medium",
+   "type": "mcq",
+   "question": "Which things spread to Southeast Asia through maritime trade?",
+   "explanation": "These spread across the region.",
+   "options": [
+    "Hinduism, Buddhism, Sanskrit and Indian art",
+    "Roman law, Greek science and Chinese tea",
+    "Chinese tea only, with nothing else crossing the sea",
+    "Greek science only, with nothing else crossing the sea"
+   ],
+   "answer": 0
+  },
+  {
+   "id": "m9-t5-q049",
+   "topic": "m9-t5",
+   "difficulty": "easy",
+   "type": "tf",
+   "question": "Angkor Wat and Prambanan were unaffected by Indian architectural styles.",
+   "explanation": "False. Indian architectural styles influenced famous temples such as Angkor Wat in Cambodia and Prambanan in Indonesia.",
+   "answer": false
+  },
+  {
+   "id": "m9-t5-q050",
+   "topic": "m9-t5",
+   "difficulty": "hard",
+   "type": "scenario",
+   "question": "A Southeast Asian kingdom adopts Indian systems of administration, law and education after long contact with Indian merchants. Which process is this?",
+   "explanation": "The session says such systems were adopted.",
+   "options": [
+    "Military conquest by Rome",
+    "A Mauryan treaty",
+    "Barter",
+    "Cultural exchange through maritime trade"
+   ],
+   "answer": 3
+  },
+  {
+   "id": "m9-t5-q051",
+   "topic": "m9-t5",
+   "difficulty": "hard",
+   "type": "compare",
+   "question": "How do India's exports to Southeast Asia differ from its imports?",
+   "explanation": "The session lists the two sets.",
+   "options": [
+    "Exports: camphor and nutmeg; imports: textiles and spices",
+    "Exports: textiles, spices, ivory; imports: camphor, aromatic woods, cloves, tin",
+    "Both exports and imports consisted only of horses",
+    "Exports: tin and forest products; imports: ivory and gems"
+   ],
+   "answer": 1
+  },
+  {
+   "id": "m9-t5-q052",
+   "topic": "m9-t5",
+   "difficulty": "medium",
+   "type": "not",
+   "question": "Which of these is NOT named as a Southeast Asian trade partner?",
+   "explanation": "Persia belongs to the West Asian trade.",
+   "options": [
+    "Thailand",
+    "Persia",
+    "Cambodia",
+    "Vietnam"
+   ],
+   "answer": 1
+  },
+  {
+   "id": "m9-t5-q053",
+   "topic": "m9-t5",
+   "difficulty": "hard",
+   "type": "ar",
+   "question": "Assertion (A): Southeast Asia became one of India's most important trading regions.\nReason (R): Friendly diplomatic relations between rulers further strengthened commercial partnerships.",
+   "explanation": "Both are true, but the second is only one of several supporting factors.",
+   "options": [
+    "Both A and R are true, and R explains A",
+    "Both A and R are true, but R does not explain A",
+    "A is true but R is false",
+    "A is false but R is true"
+   ],
+   "answer": 1
+  },
+  {
+   "id": "m9-t5-q054",
+   "topic": "m9-t5",
+   "difficulty": "hard",
+   "type": "mcq",
+   "question": "What strengthened commercial partnerships alongside trade itself?",
+   "explanation": "The session says friendly diplomacy strengthened partnerships.",
+   "options": [
+    "Naval wars with Rome that closed the eastern routes",
+    "Closure of ports to all foreign merchants",
+    "Caravan taxes charged on every overland journey",
+    "Friendly diplomatic relations between rulers"
+   ],
+   "answer": 3
+  },
+  {
+   "id": "m9-t6-q055",
+   "topic": "m9-t6",
+   "difficulty": "medium",
+   "type": "mcq",
+   "question": "India and China traded extensively through the:",
+   "explanation": "The session names the Maritime Silk Route.",
+   "options": [
+    "Maritime Silk Route",
+    "Uttarapatha",
+    "Dakshinapatha",
+    "Periplus route"
+   ],
+   "answer": 0
+  },
+  {
+   "id": "m9-t6-q056",
+   "topic": "m9-t6",
+   "difficulty": "medium",
+   "type": "mcq",
+   "question": "Trade expanded significantly under which Chinese dynasties?",
+   "explanation": "Trade expanded during the Tang and Song dynasties.",
+   "options": [
+    "Han and Qin",
+    "Ming and Qing",
+    "Tang and Song",
+    "Zhou and Shang"
+   ],
+   "answer": 2
+  },
+  {
+   "id": "m9-t6-q057",
+   "topic": "m9-t6",
+   "difficulty": "medium",
+   "type": "multi",
+   "question": "Which goods did India export to China? (Select all that apply)",
+   "explanation": "India exported spices, cotton textiles, indigo, medicinal herbs, ivory, gemstones and aromatics.",
+   "options": [
+    "Porcelain",
+    "Medicinal herbs",
+    "Spices",
+    "Cotton textiles",
+    "Indigo",
+    "Silk"
+   ],
+   "answer": [
+    1,
+    2,
+    3,
+    4
+   ]
+  },
+  {
+   "id": "m9-t6-q058",
+   "topic": "m9-t6",
+   "difficulty": "easy",
+   "type": "mcq",
+   "question": "Which of these goods came to India from China rather than from India's own exports?",
+   "explanation": "China exported silk, porcelain, paper, tea and luxury goods to India; indigo, medicinal herbs and ivory were Indian exports.",
+   "options": [
+    "Indigo, which India exported to China",
+    "Medicinal herbs, which India exported to China",
+    "Porcelain",
+    "Ivory, which India exported to China"
+   ],
+   "answer": 2
+  },
+  {
+   "id": "m9-t6-q059",
+   "topic": "m9-t6",
+   "difficulty": "easy",
+   "type": "fill",
+   "question": "Chinese travellers such as Faxian and ______ documented India's commercial centres.",
+   "explanation": "Faxian and Xuanzang documented India's prosperous commercial centres.",
+   "accept": [
+    "Xuanzang",
+    "Hiuen Tsang",
+    "Hsuan Tsang"
+   ]
+  },
+  {
+   "id": "m9-t6-q060",
+   "topic": "m9-t6",
+   "difficulty": "easy",
+   "type": "tf",
+   "question": "Indian ports on both east and west coasts welcomed Chinese merchant ships throughout the medieval period.",
+   "explanation": "True. The session says this.",
+   "answer": true
+  },
+  {
+   "id": "m9-t6-q061",
+   "topic": "m9-t6",
+   "difficulty": "hard",
+   "type": "scenario",
+   "question": "A Buddhist monk travels from India to China with merchants and shares texts. Which point from the session does this show?",
+   "explanation": "Monks and scholars travelled between India and China.",
+   "options": [
+    "Monks and scholars promoted religious and intellectual exchange",
+    "Military conquest of the Chinese ports by Indian rulers",
+    "Closure of the routes between India and China",
+    "A tax dispute between merchants of the two countries"
+   ],
+   "answer": 0
+  },
+  {
+   "id": "m9-t6-q062",
+   "topic": "m9-t6",
+   "difficulty": "hard",
+   "type": "compare",
+   "question": "How does the Maritime Silk Route differ from the overland Silk Road in the module's accounts?",
+   "explanation": "One is by sea, the other by land.",
+   "options": [
+    "The Maritime route is overland; the Silk Road is by sea",
+    "Both are rivers that flow through Central Asia",
+    "They are identical, so the session makes no distinction",
+    "The Maritime Silk Route is the sea link; the Silk Road is the overland route across Asia"
+   ],
+   "answer": 3
+  },
+  {
+   "id": "m9-t6-q063",
+   "topic": "m9-t6",
+   "difficulty": "medium",
+   "type": "not",
+   "question": "Which of these is NOT a Chinese export named in the session?",
+   "explanation": "Spices were Indian exports.",
+   "options": [
+    "Silk",
+    "Spices",
+    "Porcelain",
+    "Tea"
+   ],
+   "answer": 1
+  },
+  {
+   "id": "m9-t6-q064",
+   "topic": "m9-t6",
+   "difficulty": "hard",
+   "type": "ar",
+   "question": "Assertion (A): Maritime trade strengthened diplomatic and cultural relations between India and China.\nReason (R): No travellers, monks or scholars moved between the two civilizations.",
+   "explanation": "A is true. R is false: Buddhist monks and scholars travelled between India and China, and Faxian and Xuanzang documented Indian centres.",
+   "options": [
+    "Both A and R are true, and R explains A",
+    "Both A and R are true, but R does not explain A",
+    "A is true but R is false",
+    "A is false but R is true"
+   ],
+   "answer": 2
+  },
+  {
+   "id": "m9-t7-q065",
+   "topic": "m9-t7",
+   "difficulty": "medium",
+   "type": "mcq",
+   "question": "The principal route connecting India with Arabia and the Persian Gulf was the:",
+   "explanation": "The Arabian Sea was the principal route.",
+   "options": [
+    "Bay of Bengal",
+    "Arabian Sea",
+    "Caspian Sea",
+    "South China Sea"
+   ],
+   "answer": 1
+  },
+  {
+   "id": "m9-t7-q066",
+   "topic": "m9-t7",
+   "difficulty": "medium",
+   "type": "multi",
+   "question": "Which regions did Indian merchants trade with here? (Select all that apply)",
+   "explanation": "The session names Oman, Yemen, Bahrain and Persia.",
+   "options": [
+    "Bahrain",
+    "Japan",
+    "Burma",
+    "Yemen",
+    "Persia",
+    "Oman"
+   ],
+   "answer": [
+    0,
+    3,
+    4,
+    5
+   ]
+  },
+  {
+   "id": "m9-t7-q067",
+   "topic": "m9-t7",
+   "difficulty": "medium",
+   "type": "multi",
+   "question": "Which goods did India export to Arabia and West Asia? (Select all that apply)",
+   "explanation": "Exports included pepper, cardamom, cotton textiles, indigo, sandalwood, ivory, precious stones and sugar.",
+   "options": [
+    "Pepper",
+    "Dates",
+    "Sugar",
+    "Indigo",
+    "Cardamom",
+    "Horses"
+   ],
+   "answer": [
+    0,
+    2,
+    3,
+    4
+   ]
+  },
+  {
+   "id": "m9-t7-q068",
+   "topic": "m9-t7",
+   "difficulty": "medium",
+   "type": "multi",
+   "question": "Which goods did India import from Arabia? (Select all that apply)",
+   "explanation": "Imports included Arabian horses, dates, pearls, gold, silver and perfumes.",
+   "options": [
+    "Dates",
+    "Pearls",
+    "Indigo",
+    "Perfumes",
+    "Arabian horses",
+    "Pepper"
+   ],
+   "answer": [
+    0,
+    1,
+    3,
+    4
+   ]
+  },
+  {
+   "id": "m9-t7-q069",
+   "topic": "m9-t7",
+   "difficulty": "medium",
+   "type": "mcq",
+   "question": "Arab traders played a crucial role in linking India with:",
+   "explanation": "Arab traders linked India with the Mediterranean and Europe.",
+   "options": [
+    "Chinese ports only",
+    "Japanese ports only",
+    "Brazilian ports",
+    "Mediterranean and European markets"
+   ],
+   "answer": 3
+  },
+  {
+   "id": "m9-t7-q070",
+   "topic": "m9-t7",
+   "difficulty": "medium",
+   "type": "mcq",
+   "question": "Muslim merchants established trading communities on India's western coast, particularly in:",
+   "explanation": "The session names Gujarat, Kerala and the Konkan.",
+   "options": [
+    "Gujarat, Kerala and the Konkan",
+    "Bengal, Assam and Odisha",
+    "Punjab, Kashmir and Sindh",
+    "Tamil Nadu only"
+   ],
+   "answer": 0
+  },
+  {
+   "id": "m9-t7-q071",
+   "topic": "m9-t7",
+   "difficulty": "easy",
+   "type": "tf",
+   "question": "Arab sailors lacked the navigational knowledge to help Indian Ocean commerce.",
+   "explanation": "False. Arab sailors possessed advanced navigational knowledge and helped strengthen Indian Ocean commerce.",
+   "answer": false
+  },
+  {
+   "id": "m9-t7-q072",
+   "topic": "m9-t7",
+   "difficulty": "hard",
+   "type": "scenario",
+   "question": "Arab merchants carry Indian pepper across the Arabian Sea to markets in the Mediterranean. Which role from the session is this?",
+   "explanation": "This is the role of Arab traders.",
+   "options": [
+    "Barter exchange between neighbouring coastal villages",
+    "Securing the Bay of Bengal with the Chola navy",
+    "Linking India with Mediterranean and European markets",
+    "Building temples in the Southeast Asian kingdoms"
+   ],
+   "answer": 2
+  },
+  {
+   "id": "m9-t7-q073",
+   "topic": "m9-t7",
+   "difficulty": "medium",
+   "type": "not",
+   "question": "Which of these is NOT an Indian export to Arabia and West Asia?",
+   "explanation": "Arabian horses were imports.",
+   "options": [
+    "Pepper",
+    "Sugar",
+    "Arabian horses",
+    "Ivory"
+   ],
+   "answer": 2
+  },
+  {
+   "id": "m9-t7-q074",
+   "topic": "m9-t7",
+   "difficulty": "hard",
+   "type": "ar",
+   "question": "Assertion (A): Commercial interactions with Arabia had no effect on culture.\nReason (R): They influenced architecture, language, cuisine and scientific knowledge.",
+   "explanation": "A is false: the interactions encouraged cultural exchange. R is true.",
+   "options": [
+    "Both A and R are true, and R explains A",
+    "Both A and R are true, but R does not explain A",
+    "A is true but R is false",
+    "A is false but R is true"
+   ],
+   "answer": 3
+  },
+  {
+   "id": "m9-t8-q075",
+   "topic": "m9-t8",
+   "difficulty": "easy",
+   "type": "concept",
+   "question": "Which commodity is called the 'Black Gold' of ancient trade?",
+   "explanation": "The session names pepper as the Black Gold.",
+   "options": [
+    "Pepper",
+    "Cardamom",
+    "Indigo",
+    "Sandalwood"
+   ],
+   "answer": 0
+  },
+  {
+   "id": "m9-t8-q076",
+   "topic": "m9-t8",
+   "difficulty": "medium",
+   "type": "multi",
+   "question": "Which of these were Indian exports? (Select all that apply)",
+   "explanation": "Exports included cardamom, cinnamon, cloves, textiles, silk, indigo, sandalwood, ivory, pearls and gems.",
+   "options": [
+    "Wine",
+    "Indigo",
+    "Cardamom",
+    "Horses",
+    "Cinnamon",
+    "Cloves"
+   ],
+   "answer": [
+    1,
+    2,
+    4,
+    5
+   ]
+  },
+  {
+   "id": "m9-t8-q077",
+   "topic": "m9-t8",
+   "difficulty": "medium",
+   "type": "multi",
+   "question": "Which of these were imports? (Select all that apply)",
+   "explanation": "Imports included gold, silver, copper, tin, coral, horses, wine and glassware.",
+   "options": [
+    "Glassware",
+    "Gold",
+    "Tin",
+    "Ivory",
+    "Coral",
+    "Pepper"
+   ],
+   "answer": [
+    0,
+    1,
+    2,
+    4
+   ]
+  },
+  {
+   "id": "m9-t8-q078",
+   "topic": "m9-t8",
+   "difficulty": "easy",
+   "type": "tf",
+   "question": "Silk and porcelain from China became popular among Indian elites.",
+   "explanation": "True. The session says so.",
+   "answer": true
+  },
+  {
+   "id": "m9-t8-q079",
+   "topic": "m9-t8",
+   "difficulty": "easy",
+   "type": "fill",
+   "question": "Pepper was known as the '______ Gold' of ancient trade.",
+   "explanation": "Pepper is the Black Gold.",
+   "accept": [
+    "Black"
+   ]
+  },
+  {
+   "id": "m9-t8-q080",
+   "topic": "m9-t8",
+   "difficulty": "medium",
+   "type": "mcq",
+   "question": "What did the exchange of commodities generate, according to the session?",
+   "explanation": "The exchange generated wealth and employment.",
+   "options": [
+    "Poverty and isolation for the coastal cities",
+    "War and famine across the trading kingdoms",
+    "The decline of ports and the loss of employment",
+    "Wealth, employment and a stronger position as a global trading centre"
+   ],
+   "answer": 3
+  },
+  {
+   "id": "m9-t8-q081",
+   "topic": "m9-t8",
+   "difficulty": "hard",
+   "type": "compare",
+   "question": "Which pairing correctly separates an export from an import?",
+   "explanation": "Pepper was exported; horses were imported.",
+   "options": [
+    "Pepper: import; horses: export",
+    "Pepper: export; horses: import",
+    "Both: imports",
+    "Both: exports"
+   ],
+   "answer": 1
+  },
+  {
+   "id": "m9-t8-q082",
+   "topic": "m9-t8",
+   "difficulty": "medium",
+   "type": "not",
+   "question": "Which of these is NOT an import named in the session?",
+   "explanation": "Cinnamon is an Indian export.",
+   "options": [
+    "Gold",
+    "Cinnamon",
+    "Horses",
+    "Wine"
+   ],
+   "answer": 1
+  },
+  {
+   "id": "m9-t9-q083",
+   "topic": "m9-t9",
+   "difficulty": "medium",
+   "type": "multi",
+   "question": "Which port cities are named as thriving centres of commerce? (Select all that apply)",
+   "explanation": "The port cities named are Muziris, Bharuch and Kaveripattinam.",
+   "options": [
+    "Taxila",
+    "Kaveripattinam",
+    "Muziris",
+    "Pataliputra",
+    "Bharuch"
+   ],
+   "answer": [
+    1,
+    2,
+    4
+   ]
+  },
+  {
+   "id": "m9-t9-q084",
+   "topic": "m9-t9",
+   "difficulty": "medium",
+   "type": "multi",
+   "question": "Which groups found employment through maritime trade? (Select all that apply)",
+   "explanation": "Maritime trade created jobs for merchants, sailors, shipbuilders, artisans and labourers.",
+   "options": [
+    "Shipbuilders",
+    "Artisans",
+    "Sailors",
+    "Royal elephants",
+    "Merchants",
+    "Roman consuls"
+   ],
+   "answer": [
+    0,
+    1,
+    2,
+    4
+   ]
+  },
+  {
+   "id": "m9-t9-q085",
+   "topic": "m9-t9",
+   "difficulty": "medium",
+   "type": "mcq",
+   "question": "Customs revenue supported:",
+   "explanation": "Customs revenue supported administration and infrastructure.",
+   "options": [
+    "Foreign wars fought far from the coast",
+    "Temple closures in the port cities",
+    "Tribute paid to Rome by the Indian kingdoms",
+    "Public administration and infrastructure development"
+   ],
+   "answer": 3
+  },
+  {
+   "id": "m9-t9-q086",
+   "topic": "m9-t9",
+   "difficulty": "medium",
+   "type": "mcq",
+   "question": "Commercial wealth financed:",
+   "explanation": "Wealth funded temples, education and public buildings.",
+   "options": [
+    "Temples, educational institutions and public buildings",
+    "Armies for the defence of the northern frontier",
+    "Gifts to foreign rulers across the sea",
+    "Nothing, because wealth was never used for public purposes"
+   ],
+   "answer": 0
+  },
+  {
+   "id": "m9-t9-q087",
+   "topic": "m9-t9",
+   "difficulty": "medium",
+   "type": "multi",
+   "question": "Which religions spread to other regions through maritime trade? (Select all that apply)",
+   "explanation": "The session names Hinduism, Buddhism and Jainism.",
+   "options": [
+    "Hinduism",
+    "Shintoism",
+    "Zoroastrianism",
+    "Buddhism",
+    "Jainism"
+   ],
+   "answer": [
+    0,
+    3,
+    4
+   ]
+  },
+  {
+   "id": "m9-t9-q088",
+   "topic": "m9-t9",
+   "difficulty": "easy",
+   "type": "fill",
+   "question": "Foreign merchant communities increased cultural ______ in port cities.",
+   "explanation": "Settlement of foreign merchants increased diversity.",
+   "accept": [
+    "diversity",
+    "cultural diversity"
+   ]
+  },
+  {
+   "id": "m9-t9-q089",
+   "topic": "m9-t9",
+   "difficulty": "hard",
+   "type": "scenario",
+   "question": "A port city's temples and schools are built with wealth earned from overseas trade. Which point from the session does this show?",
+   "explanation": "Wealth funded temples and education.",
+   "options": [
+    "Customs duties were abolished at all ports by the rulers",
+    "Ports were closed to foreign ships and their cargoes",
+    "Commercial wealth financed temples and educational institutions",
+    "Trade ended and the cities turned to farming"
+   ],
+   "answer": 2
+  },
+  {
+   "id": "m9-t9-q090",
+   "topic": "m9-t9",
+   "difficulty": "hard",
+   "type": "compare",
+   "question": "How does the use of customs revenue differ from the use of commercial wealth, in the session?",
+   "explanation": "The two sources had different main uses.",
+   "options": [
+    "Customs revenue funded temples; commercial wealth funded the army",
+    "Both funded only the navy and the dockyards at the ports",
+    "Customs revenue: administration and infrastructure; commercial wealth: temples and education",
+    "Neither source was used for any public purpose"
+   ],
+   "answer": 2
+  },
+  {
+   "id": "m9-t9-q091",
+   "topic": "m9-t9",
+   "difficulty": "medium",
+   "type": "not",
+   "question": "Which of these is NOT an impact of maritime trade named in the session?",
+   "explanation": "The impact was urban growth.",
+   "options": [
+    "Decline of urban life",
+    "Growth of port cities",
+    "Employment for sailors",
+    "Spread of religions"
+   ],
+   "answer": 0
+  },
+  {
+   "id": "m9-t9-q092",
+   "topic": "m9-t9",
+   "difficulty": "hard",
+   "type": "ar",
+   "question": "Assertion (A): Muziris, Bharuch and Kaveripattinam developed into thriving centres of commerce and urban life.\nReason (R): Maritime trade contributed to the prosperity of Indian kingdoms.",
+   "explanation": "Both are true, but the second is a general effect rather than the explanation.",
+   "options": [
+    "Both A and R are true, and R explains A",
+    "Both A and R are true, but R does not explain A",
+    "A is true but R is false",
+    "A is false but R is true"
+   ],
+   "answer": 1
+  },
+  {
+   "id": "m9-t10-q093",
+   "topic": "m9-t10",
+   "difficulty": "easy",
+   "type": "fill",
+   "question": "Vasco da Gama reached Calicut in ______.",
+   "explanation": "The session calls his arrival at Calicut in 1498 a turning point.",
+   "accept": [
+    "1498"
+   ]
+  },
+  {
+   "id": "m9-t10-q094",
+   "topic": "m9-t10",
+   "difficulty": "medium",
+   "type": "multi",
+   "question": "Which trading centres did the Portuguese establish? (Select all that apply)",
+   "explanation": "The Portuguese set up trading centres at Goa, Cochin and Diu.",
+   "options": [
+    "Cochin",
+    "Goa",
+    "Muziris",
+    "Diu",
+    "Bharuch"
+   ],
+   "answer": [
+    0,
+    1,
+    3
+   ]
+  },
+  {
+   "id": "m9-t10-q095",
+   "topic": "m9-t10",
+   "difficulty": "medium",
+   "type": "multi",
+   "question": "Which European powers followed the Portuguese, according to the session? (Select all that apply)",
+   "explanation": "The Dutch, English and French followed.",
+   "options": [
+    "The Russians",
+    "The Spanish",
+    "The English",
+    "The Dutch",
+    "The French"
+   ],
+   "answer": [
+    2,
+    3,
+    4
+   ]
+  },
+  {
+   "id": "m9-t10-q096",
+   "topic": "m9-t10",
+   "difficulty": "medium",
+   "type": "concept",
+   "question": "What did the Portuguese seek?",
+   "explanation": "They sought direct access to the spice trade.",
+   "options": [
+    "Roman trade through the ports of the eastern coast",
+    "Chinese silk, which was found only in Tang markets",
+    "Buddhist texts held in the monasteries of Sri Lanka",
+    "Direct access to India's profitable spice trade"
+   ],
+   "answer": 3
+  },
+  {
+   "id": "m9-t10-q097",
+   "topic": "m9-t10",
+   "difficulty": "hard",
+   "type": "scenario",
+   "question": "A European company wins an exclusive right to buy a valuable commodity and forces rivals out by naval power. Which change from the session does this illustrate?",
+   "explanation": "Europeans established monopolies over valuable commodities.",
+   "options": [
+    "Free trade among the guilds without any interference",
+    "European companies introduced monopolies and naval conflicts",
+    "The Chola navy's rise in the Bay of Bengal",
+    "The Mauryan port system with its officials"
+   ],
+   "answer": 1
+  },
+  {
+   "id": "m9-t10-q098",
+   "topic": "m9-t10",
+   "difficulty": "medium",
+   "type": "mcq",
+   "question": "Maritime trade shifted from regional commercial networks to:",
+   "explanation": "Trade shifted to European control.",
+   "options": [
+    "Mauryan control through its officials at the ports",
+    "European-controlled international trade",
+    "Local barter in the coastal villages",
+    "Arab control over every route in the Indian Ocean"
+   ],
+   "answer": 1
+  },
+  {
+   "id": "m9-t10-q099",
+   "topic": "m9-t10",
+   "difficulty": "easy",
+   "type": "tf",
+   "question": "After the Europeans arrived, Indian ports stopped playing any role in global commerce.",
+   "explanation": "False. Despite the changes, Indian ports continued to play an important role in global commerce.",
+   "answer": false
+  },
+  {
+   "id": "m9-t10-q100",
+   "topic": "m9-t10",
+   "difficulty": "hard",
+   "type": "compare",
+   "question": "How does the earlier pattern of Indian maritime trade differ from that after the Europeans?",
+   "explanation": "The session describes the shift.",
+   "options": [
+    "Earlier: European control; later: regional networks of Indian merchants",
+    "Both periods were controlled entirely by European companies",
+    "Both periods were based only on barter between villages",
+    "Earlier: regional commercial networks; later: European-controlled international trade"
+   ],
+   "answer": 3
+  },
+  {
+   "id": "m9-t10-q101",
+   "topic": "m9-t10",
+   "difficulty": "medium",
+   "type": "not",
+   "question": "Which of these is NOT a change described after Europeans arrived?",
+   "explanation": "Indian merchants faced increasing competition.",
+   "options": [
+    "Indian merchants faced less competition",
+    "Monopolies over valuable commodities",
+    "Naval conflicts",
+    "Intense commercial competition"
+   ],
+   "answer": 0
+  },
+  {
+   "id": "m9-t10-q102",
+   "topic": "m9-t10",
+   "difficulty": "hard",
+   "type": "ar",
+   "question": "Assertion (A): The arrival of Europeans left traditional Indian merchants unaffected.\nReason (R): Traditional Indian merchants faced increasing competition from European trading companies.",
+   "explanation": "A is false: Indian merchants faced growing competition and trade shifted to European control. R is true.",
+   "options": [
+    "Both A and R are true, and R explains A",
+    "Both A and R are true, but R does not explain A",
+    "A is true but R is false",
+    "A is false but R is true"
+   ],
+   "answer": 3
+  },
+  {
+   "id": "m9-t11-q103",
+   "topic": "m9-t11",
+   "difficulty": "medium",
+   "type": "multi",
+   "question": "Which kinds of knowledge did ancient Indians possess, according to the session? (Select all that apply)",
+   "explanation": "The session names navigation, astronomy, ocean currents and monsoon winds.",
+   "options": [
+    "Monsoon winds",
+    "Printing",
+    "Gunpowder",
+    "Navigation",
+    "Ocean currents",
+    "Astronomy"
+   ],
+   "answer": [
+    0,
+    3,
+    4,
+    5
+   ]
+  },
+  {
+   "id": "m9-t11-q104",
+   "topic": "m9-t11",
+   "difficulty": "medium",
+   "type": "mcq",
+   "question": "How is India's maritime heritage celebrated, according to the session?",
+   "explanation": "The session says the heritage is celebrated through museums, research institutions and heritage conservation projects.",
+   "options": [
+    "Through new customs duties charged at the ports",
+    "Through the closure of historic harbours to visitors",
+    "Through museums, research institutions and heritage conservation projects",
+    "Through the sale of ancient coins to foreign buyers"
+   ],
+   "answer": 2
+  },
+  {
+   "id": "m9-t11-q105",
+   "topic": "m9-t11",
+   "difficulty": "medium",
+   "type": "multi",
+   "question": "What kinds of evidence support India's maritime heritage? (Select all that apply)",
+   "explanation": "Ports, inscriptions, coins, temples and archaeological discoveries provide evidence.",
+   "options": [
+    "Archaeological discoveries",
+    "Printed newspapers",
+    "Historic ports",
+    "Inscriptions",
+    "Coins",
+    "Satellite photographs"
+   ],
+   "answer": [
+    0,
+    2,
+    3,
+    4
+   ]
+  },
+  {
+   "id": "m9-t11-q106",
+   "topic": "m9-t11",
+   "difficulty": "easy",
+   "type": "tf",
+   "question": "The Government of India has undertaken initiatives to revive awareness of the country's maritime legacy.",
+   "explanation": "True. The session says so.",
+   "answer": true
+  },
+  {
+   "id": "m9-t11-q107",
+   "topic": "m9-t11",
+   "difficulty": "easy",
+   "type": "fill",
+   "question": "Stitched-plank construction is a traditional ______ technique.",
+   "explanation": "The session describes stitched-plank construction as a traditional shipbuilding technique.",
+   "accept": [
+    "shipbuilding"
+   ]
+  },
+  {
+   "id": "m9-t11-q108",
+   "topic": "m9-t11",
+   "difficulty": "hard",
+   "type": "scenario",
+   "question": "Coastal communities keep fishing, boat building and overseas trade alive across generations. Which point from the session does this show?",
+   "explanation": "Coastal communities preserved maritime traditions.",
+   "options": [
+    "Ports lost all trade and the traditions were forgotten",
+    "Heritage was forgotten once overseas trade ended",
+    "Coastal communities preserved maritime traditions",
+    "Boats were banned along the coast by the rulers"
+   ],
+   "answer": 2
+  },
+  {
+   "id": "m9-t11-q109",
+   "topic": "m9-t11",
+   "difficulty": "hard",
+   "type": "compare",
+   "question": "How does preserving maritime heritage help, according to the session?",
+   "explanation": "The session names national identity and contribution to civilization.",
+   "options": [
+    "It strengthens national identity and highlights India's contribution to global civilization",
+    "It ends international trade by turning attention inward",
+    "It replaces modern ports with museums and monuments",
+    "It removes the need for research into ancient navigation"
+   ],
+   "answer": 0
+  },
+  {
+   "id": "m9-t11-q110",
+   "topic": "m9-t11",
+   "difficulty": "medium",
+   "type": "not",
+   "question": "Which of these was NOT used in traditional Indian shipbuilding, according to the session?",
+   "explanation": "Traditional methods used natural materials.",
+   "options": [
+    "Locally available timber",
+    "Natural fibres",
+    "Stitched planks",
+    "Iron nails and steel hulls"
+   ],
+   "answer": 3
+  },
+  {
+   "id": "m9-t12-q111",
+   "topic": "m9-t12",
+   "difficulty": "medium",
+   "type": "concept",
+   "question": "INSV Kaundinya is:",
+   "explanation": "INSV Kaundinya reconstructs an ancient stitched-plank vessel.",
+   "options": [
+    "A Chola warship of the Bay of Bengal fleet",
+    "A modern reconstruction of an ancient stitched-plank sailing vessel",
+    "A Roman cargo ship of the Red Sea trade",
+    "A Portuguese galleon of the sixteenth century"
+   ],
+   "answer": 1
+  },
+  {
+   "id": "m9-t12-q112",
+   "topic": "m9-t12",
+   "difficulty": "medium",
+   "type": "multi",
+   "question": "What was INSV Kaundinya built with? (Select all that apply)",
+   "explanation": "It used coir rope stitching and wooden planks instead of metal fasteners.",
+   "options": [
+    "Wooden planks",
+    "Coir rope stitching",
+    "Natural materials",
+    "Steel plates",
+    "Metal fasteners"
+   ],
+   "answer": [
+    0,
+    1,
+    2
+   ]
+  },
+  {
+   "id": "m9-t12-q113",
+   "topic": "m9-t12",
+   "difficulty": "medium",
+   "type": "mcq",
+   "question": "Which route did INSV Kaundinya retrace?",
+   "explanation": "It retraced the historic route between India and Oman.",
+   "options": [
+    "The India-Rome route",
+    "The India-Oman route",
+    "The India-China route",
+    "The India-Brazil route"
+   ],
+   "answer": 1
+  },
+  {
+   "id": "m9-t12-q114",
+   "topic": "m9-t12",
+   "difficulty": "easy",
+   "type": "fill",
+   "question": "INSV Kaundinya was stitched with ______ rope instead of using metal fasteners.",
+   "explanation": "Coir rope stitching replaced metal fasteners.",
+   "accept": [
+    "coir"
+   ]
+  },
+  {
+   "id": "m9-t12-q115",
+   "topic": "m9-t12",
+   "difficulty": "medium",
+   "type": "multi",
+   "question": "What are the purposes of the INSV Kaundinya project? (Select all that apply)",
+   "explanation": "The project supports research, cultural diplomacy and heritage revival.",
+   "options": [
+    "Commercial cargo hire",
+    "Research on ancient navigation",
+    "Heritage revival",
+    "Military conquest",
+    "Cultural diplomacy"
+   ],
+   "answer": [
+    1,
+    2,
+    4
+   ]
+  },
+  {
+   "id": "m9-t12-q116",
+   "topic": "m9-t12",
+   "difficulty": "easy",
+   "type": "tf",
+   "question": "INSV Kaundinya was built using metal nails instead of coir rope.",
+   "explanation": "False. It was built with coir stitching and wooden planks, without metal fasteners.",
+   "answer": false
+  },
+  {
+   "id": "m9-t12-q117",
+   "topic": "m9-t12",
+   "difficulty": "hard",
+   "type": "scenario",
+   "question": "A modern crew sails a stitched-plank vessel from India to Oman to show that ancient voyages were feasible. Which project is this?",
+   "explanation": "INSV Kaundinya retraced the India-Oman route.",
+   "options": [
+    "INS Vikrant",
+    "A Portuguese expedition",
+    "A Roman fleet",
+    "INSV Kaundinya"
+   ],
+   "answer": 3
+  },
+  {
+   "id": "m9-t12-q118",
+   "topic": "m9-t12",
+   "difficulty": "hard",
+   "type": "compare",
+   "question": "How does INSV Kaundinya relate to ancient Indian shipbuilding?",
+   "explanation": "The vessel revives traditional stitched-plank construction.",
+   "options": [
+    "It reconstructs ancient techniques such as coir stitching of wooden planks",
+    "It replaces them with steel hulls and metal fasteners",
+    "It has no connection with ancient Indian shipbuilding",
+    "It copies the ships of the Portuguese and Dutch"
+   ],
+   "answer": 0
+  },
+  {
+   "id": "m9-t12-q119",
+   "topic": "m9-t12",
+   "difficulty": "medium",
+   "type": "not",
+   "question": "Which of these is NOT a purpose of the INSV Kaundinya project?",
+   "explanation": "The project is about research, diplomacy and heritage.",
+   "options": [
+    "Research on ancient navigation",
+    "Cultural diplomacy",
+    "Conquering coastal territory",
+    "Heritage revival"
+   ],
+   "answer": 2
+  },
+  {
+   "id": "m9-t12-q120",
+   "topic": "m9-t12",
+   "difficulty": "hard",
+   "type": "ar",
+   "question": "Assertion (A): INSV Kaundinya strengthens cultural diplomacy.\nReason (R): It reconnects modern nations through their shared maritime history.",
+   "explanation": "Both are true and the second explains the first.",
+   "options": [
+    "Both A and R are true, and R explains A",
+    "Both A and R are true, but R does not explain A",
+    "A is true but R is false",
+    "A is false but R is true"
+   ],
+   "answer": 0
+  }
+ ],
+ "cards": [
+  {
+   "id": "m9-c001",
+   "topic": "m9-t2",
+   "front": "State as driver of maritime trade",
+   "back": "Ports, harbours, warehouses, dockyards; customs duties; naval forces. Mauryas: port officials. Satavahanas: Roman trade via western ports. Cholas: navy in the Bay of Bengal. Vijayanagara: Arabia, Persia, Southeast Asia."
+  },
+  {
+   "id": "m9-c002",
+   "topic": "m9-t4",
+   "front": "Merchant guilds",
+   "back": "Ayyavole 500 (Ainnurruvar), Manigramam, Anjuvannam: overseas centres, financed voyages, managed risk, kept standards, negotiated privileges, built temples, rest houses and warehouses."
+  },
+  {
+   "id": "m9-c003",
+   "topic": "m9-t8",
+   "front": "Pepper",
+   "back": "The 'Black Gold' of ancient trade."
+  },
+  {
+   "id": "m9-c004",
+   "topic": "m9-t10",
+   "front": "Arrival of Europeans",
+   "back": "Vasco da Gama at Calicut in 1498; Portuguese at Goa, Cochin, Diu; then Dutch, English, French; monopolies and naval conflicts; foundation for colonial economic domination."
+  },
+  {
+   "id": "m9-c005",
+   "topic": "m9-t12",
+   "front": "INSV Kaundinya",
+   "back": "Modern reconstruction of an ancient stitched-plank vessel; coir stitching, wooden planks, no metal fasteners; retraced the India-Oman route."
+  }
+ ]
+}

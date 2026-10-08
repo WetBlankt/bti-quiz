@@ -1,0 +1,1683 @@
+{
+ "module": "m5",
+ "questions": [
+  {
+   "id": "m5-t1-q001",
+   "topic": "m5-t1",
+   "difficulty": "medium",
+   "type": "mcq",
+   "question": "How does the session describe the development of banking?",
+   "explanation": "Banking developed gradually as economic activity grew more complex.",
+   "options": [
+    "A sudden invention by a single king who ordered all merchants to deposit funds",
+    "A direct copy of the temple banks of Rome, brought by foreign traders",
+    "A gradual response to the growing complexity of economic activity",
+    "A consequence of the complete end of all trade in the kingdom"
+   ],
+   "answer": 2
+  },
+  {
+   "id": "m5-t1-q002",
+   "topic": "m5-t1",
+   "difficulty": "medium",
+   "type": "multi",
+   "question": "Which needs pushed merchants towards financial mechanisms? (Select all that apply)",
+   "explanation": "The session names safe custody of wealth, access to credit and financing of long-distance commerce.",
+   "options": [
+    "Abolition of all markets",
+    "Free distribution of land",
+    "Safe custody of wealth",
+    "Access to credit",
+    "Financing of long-distance commercial activities"
+   ],
+   "answer": [
+    2,
+    3,
+    4
+   ]
+  },
+  {
+   "id": "m5-t1-q003",
+   "topic": "m5-t1",
+   "difficulty": "easy",
+   "type": "tf",
+   "question": "Societies moved from surplus production and organised markets back towards simple barter arrangements.",
+   "explanation": "False. The session describes movement from simple barter towards surplus production, organised markets and expanding trade.",
+   "answer": false
+  },
+  {
+   "id": "m5-t1-q004",
+   "topic": "m5-t1",
+   "difficulty": "easy",
+   "type": "fill",
+   "question": "The need for safe custody of wealth, credit and trade financing created the foundation for financial ______.",
+   "explanation": "These requirements created the foundation for financial intermediation.",
+   "accept": [
+    "intermediation"
+   ]
+  },
+  {
+   "id": "m5-t1-q005",
+   "topic": "m5-t1",
+   "difficulty": "medium",
+   "type": "concept",
+   "question": "Which need is met when a merchant leaves valuables in a trusted institution for protection?",
+   "explanation": "Safe custody of wealth is the first need the session names.",
+   "options": [
+    "Safe custody of wealth",
+    "Access to credit",
+    "Long-distance financing",
+    "Dispute resolution"
+   ],
+   "answer": 0
+  },
+  {
+   "id": "m5-t1-q006",
+   "topic": "m5-t1",
+   "difficulty": "hard",
+   "type": "scenario",
+   "question": "A merchant plans a long voyage and needs funds for goods, labour and transport before any sale is made. Which need from the session is this?",
+   "explanation": "Long-distance trade needed capital in advance, which created demand for financing.",
+   "options": [
+    "Safe custody of wealth only",
+    "Barter between neighbours",
+    "Quality control of cloth",
+    "Financing of long-distance commercial activities"
+   ],
+   "answer": 3
+  },
+  {
+   "id": "m5-t1-q007",
+   "topic": "m5-t1",
+   "difficulty": "medium",
+   "type": "not",
+   "question": "Which of these is NOT listed as a requirement that led to financial intermediation?",
+   "explanation": "The requirements were safe custody, credit and financing for long-distance commerce.",
+   "options": [
+    "Safe custody of wealth",
+    "Free distribution of grain to all subjects",
+    "Access to credit",
+    "Financing of long-distance commerce"
+   ],
+   "answer": 1
+  },
+  {
+   "id": "m5-t1-q008",
+   "topic": "m5-t1",
+   "difficulty": "hard",
+   "type": "ar",
+   "question": "Assertion (A): Expanding trade created a demand for credit and financing.\nReason (R): Societies had moved from barter towards surplus production and organised markets.",
+   "explanation": "Both are true and the second explains the rise in demand.",
+   "options": [
+    "Both A and R are true, and R explains A",
+    "Both A and R are true, but R does not explain A",
+    "A is true but R is false",
+    "A is false but R is true"
+   ],
+   "answer": 0
+  },
+  {
+   "id": "m5-t2-q009",
+   "topic": "m5-t2",
+   "difficulty": "easy",
+   "type": "mcq",
+   "question": "Guilds (Shrenis) were organised associations of:",
+   "explanation": "The session describes guilds as associations of merchants and artisans.",
+   "options": [
+    "Soldiers and priests",
+    "Merchants and artisans",
+    "Farmers and fishermen only",
+    "Foreign ambassadors"
+   ],
+   "answer": 1
+  },
+  {
+   "id": "m5-t2-q010",
+   "topic": "m5-t2",
+   "difficulty": "easy",
+   "type": "tf",
+   "question": "Guilds functioned as self-governing institutions that were not recognised by the state.",
+   "explanation": "False. Guilds were self-governing and were recognised by the state.",
+   "answer": false
+  },
+  {
+   "id": "m5-t2-q011",
+   "topic": "m5-t2",
+   "difficulty": "medium",
+   "type": "multi",
+   "question": "Which responsibilities did guilds have beyond representing an occupation? (Select all that apply)",
+   "explanation": "Guilds handled trade regulation, quality control, finance and dispute resolution.",
+   "options": [
+    "Quality control",
+    "Finance",
+    "Dispute resolution",
+    "Minting royal coins",
+    "Trade regulation",
+    "Commanding the army"
+   ],
+   "answer": [
+    0,
+    1,
+    2,
+    4
+   ]
+  },
+  {
+   "id": "m5-t2-q012",
+   "topic": "m5-t2",
+   "difficulty": "medium",
+   "type": "mcq",
+   "question": "Which set lists the structure of a guild in the session?",
+   "explanation": "The structure included a guild head, treasurer, members and apprentices.",
+   "options": [
+    "King, queen, minister and priest",
+    "Captain, sailor, pilot and cook",
+    "Judge, clerk, guard and tax collector",
+    "Guild head, treasurer, members and apprentices"
+   ],
+   "answer": 3
+  },
+  {
+   "id": "m5-t2-q013",
+   "topic": "m5-t2",
+   "difficulty": "medium",
+   "type": "fill",
+   "question": "The guild structure included a guild head, a ______, members and apprentices.",
+   "explanation": "The treasurer managed the guild's funds.",
+   "accept": [
+    "treasurer"
+   ]
+  },
+  {
+   "id": "m5-t2-q014",
+   "topic": "m5-t2",
+   "difficulty": "hard",
+   "type": "scenario",
+   "question": "A guild checks the quality of its members' goods, settles a quarrel between two members and lends from its funds. Which set of guild responsibilities is shown?",
+   "explanation": "Quality control, dispute resolution and finance were all guild responsibilities.",
+   "options": [
+    "Quality control, dispute resolution and finance",
+    "Taxation, conquest and diplomacy",
+    "Only worship and festivals",
+    "Only price fixing by the king"
+   ],
+   "answer": 0
+  },
+  {
+   "id": "m5-t2-q015",
+   "topic": "m5-t2",
+   "difficulty": "medium",
+   "type": "not",
+   "question": "Which of these is NOT named as part of a guild's structure?",
+   "explanation": "The session names a guild head, treasurer, members and apprentices.",
+   "options": [
+    "Guild head",
+    "Treasurer",
+    "The Superintendent of Ships",
+    "Apprentices"
+   ],
+   "answer": 2
+  },
+  {
+   "id": "m5-t2-q016",
+   "topic": "m5-t2",
+   "difficulty": "hard",
+   "type": "compare",
+   "question": "How does a guild's role in finance differ from its role in quality control?",
+   "explanation": "Finance meant handling deposits and lending; quality control meant maintaining trade standards.",
+   "options": [
+    "Finance set weights for the king; quality control collected loans",
+    "They were the same function",
+    "Finance dealt with deposits and loans; quality control maintained standards of goods",
+    "Finance was for foreigners; quality control for the poor"
+   ],
+   "answer": 2
+  },
+  {
+   "id": "m5-t2-q017",
+   "topic": "m5-t2",
+   "difficulty": "hard",
+   "type": "ar",
+   "question": "Assertion (A): Guilds were recognised by the state as self-governing institutions.\nReason (R): Guilds' responsibilities extended beyond representing an occupation.",
+   "explanation": "Both are true, but the second does not explain the first.",
+   "options": [
+    "Both A and R are true, and R explains A",
+    "Both A and R are true, but R does not explain A",
+    "A is true but R is false",
+    "A is false but R is true"
+   ],
+   "answer": 1
+  },
+  {
+   "id": "m5-t3-q018",
+   "topic": "m5-t3",
+   "difficulty": "medium",
+   "type": "mcq",
+   "question": "Which sequence describes the basic financial mechanism of guild banking?",
+   "explanation": "The session gives Deposits, then Guild Treasury, then Loans, Trade and Repayment.",
+   "options": [
+    "Deposits, Guild Treasury, Loans, Trade, Repayment",
+    "Loans, Deposits, Trade, Treasury, Repayment",
+    "Trade, Loans, Deposits, Repayment, Treasury",
+    "Repayment, Treasury, Trade, Deposits, Loans"
+   ],
+   "answer": 0
+  },
+  {
+   "id": "m5-t3-q019",
+   "topic": "m5-t3",
+   "difficulty": "medium",
+   "type": "multi",
+   "question": "Which conditions let guilds undertake financial activities? (Select all that apply)",
+   "explanation": "The conditions were collective wealth, growing trade, public trust and demand for organised credit.",
+   "options": [
+    "Growing trade",
+    "Absence of any trade",
+    "Demand for organised credit",
+    "A royal ban on lending",
+    "Collective wealth",
+    "Public trust"
+   ],
+   "answer": [
+    0,
+    2,
+    4,
+    5
+   ]
+  },
+  {
+   "id": "m5-t3-q020",
+   "topic": "m5-t3",
+   "difficulty": "easy",
+   "type": "fill",
+   "question": "In the guild banking flow, deposits go into the guild ______.",
+   "explanation": "Deposits flowed into the guild treasury before being lent.",
+   "accept": [
+    "treasury"
+   ]
+  },
+  {
+   "id": "m5-t3-q021",
+   "topic": "m5-t3",
+   "difficulty": "medium",
+   "type": "mcq",
+   "question": "What happened to funds that might otherwise remain idle?",
+   "explanation": "Idle funds could be channelled to merchants who needed capital.",
+   "options": [
+    "They were buried permanently in the ground to keep them safe from thieves",
+    "They were burned as offerings during the religious festivals of the guild",
+    "They were returned to the king's treasury at the end of each year",
+    "They were channelled towards merchants needing capital"
+   ],
+   "answer": 3
+  },
+  {
+   "id": "m5-t3-q022",
+   "topic": "m5-t3",
+   "difficulty": "medium",
+   "type": "tf",
+   "question": "In the guild banking flow, loans come before deposits.",
+   "explanation": "False. Deposits come first, then the guild treasury, then loans.",
+   "answer": false
+  },
+  {
+   "id": "m5-t3-q023",
+   "topic": "m5-t3",
+   "difficulty": "medium",
+   "type": "concept",
+   "question": "In the guild banking chain, which step comes immediately after loans?",
+   "explanation": "Loans finance trade, and repayment follows.",
+   "options": [
+    "Deposits",
+    "Trade",
+    "Treasury",
+    "Repayment"
+   ],
+   "answer": 1
+  },
+  {
+   "id": "m5-t3-q024",
+   "topic": "m5-t3",
+   "difficulty": "hard",
+   "type": "scenario",
+   "question": "A weaver deposits savings with the guild, and later the guild lends part of the pooled funds to a merchant who repays after his voyage. Which mechanism is this?",
+   "explanation": "This follows the guild banking flow described in the session.",
+   "options": [
+    "A royal tax collected from every weaver by the officers of the king",
+    "Deposits, guild treasury, loans, trade and repayment",
+    "A barter exchange in which cloth is swapped directly for grain",
+    "A caravan escort arranged by the guild to protect the merchants' goods"
+   ],
+   "answer": 1
+  },
+  {
+   "id": "m5-t3-q025",
+   "topic": "m5-t3",
+   "difficulty": "medium",
+   "type": "match",
+   "question": "Match each step in the guild banking flow with its description.",
+   "explanation": "These describe the steps of the session's flow.",
+   "pairs": [
+    [
+     "Deposits",
+     "Funds placed by members or the public"
+    ],
+    [
+     "Guild Treasury",
+     "Pool of collected funds"
+    ],
+    [
+     "Loans",
+     "Capital lent to merchants"
+    ],
+    [
+     "Repayment",
+     "Merchants return the borrowed funds"
+    ]
+   ]
+  },
+  {
+   "id": "m5-t3-q026",
+   "topic": "m5-t3",
+   "difficulty": "medium",
+   "type": "not",
+   "question": "Which of these is NOT among the conditions for guild banking?",
+   "explanation": "The conditions listed were collective wealth, growing trade, public trust and demand for organised credit.",
+   "options": [
+    "Collective wealth",
+    "Public trust",
+    "Growing trade",
+    "A royal monopoly on all lending"
+   ],
+   "answer": 3
+  },
+  {
+   "id": "m5-t3-q027",
+   "topic": "m5-t3",
+   "difficulty": "hard",
+   "type": "compare",
+   "question": "How does depositing differ from borrowing in the guild banking flow?",
+   "explanation": "Deposits fed the guild treasury; loans moved funds from it to merchants.",
+   "options": [
+    "Depositing put funds into the treasury; borrowing took capital out as a loan for trade",
+    "Depositing meant taking a loan, and borrowing meant storing funds in the treasury",
+    "Both depositing and borrowing meant paying a tax to the officers of the king",
+    "They were the same step in the flow under two different names"
+   ],
+   "answer": 0
+  },
+  {
+   "id": "m5-t3-q028",
+   "topic": "m5-t3",
+   "difficulty": "hard",
+   "type": "ar",
+   "question": "Assertion (A): Guilds could undertake financial activities.\nReason (R): Guilds had no collective wealth, and traders had no demand for organised credit.",
+   "explanation": "A is true. R is false: collective wealth, growing trade, public trust and demand for organised credit created the conditions.",
+   "options": [
+    "Both A and R are true, and R explains A",
+    "Both A and R are true, but R does not explain A",
+    "A is true but R is false",
+    "A is false but R is true"
+   ],
+   "answer": 2
+  },
+  {
+   "id": "m5-t4-q029",
+   "topic": "m5-t4",
+   "difficulty": "easy",
+   "type": "concept",
+   "question": "Mobilising savings and lending them for productive activities is called:",
+   "explanation": "The session defines financial intermediation this way.",
+   "options": [
+    "Barter",
+    "Arbitration",
+    "Financial intermediation",
+    "Taxation"
+   ],
+   "answer": 2
+  },
+  {
+   "id": "m5-t4-q030",
+   "topic": "m5-t4",
+   "difficulty": "medium",
+   "type": "mcq",
+   "question": "What does a financial intermediary connect?",
+   "explanation": "It links savers with those who need capital.",
+   "options": [
+    "Kings and priests who wish to hold ceremonies together",
+    "Buyers and sailors who wish to share the cost of a voyage",
+    "Those with surplus funds and those requiring capital",
+    "Farmers and artisans who exchange goods through barter alone"
+   ],
+   "answer": 2
+  },
+  {
+   "id": "m5-t4-q031",
+   "topic": "m5-t4",
+   "difficulty": "medium",
+   "type": "multi",
+   "question": "Which outcomes can follow when savings are channelled into trade and production? (Select all that apply)",
+   "explanation": "Channelled savings can contribute to investment, employment and economic growth.",
+   "options": [
+    "Higher fines",
+    "Closure of markets",
+    "Employment",
+    "Economic growth",
+    "Investment"
+   ],
+   "answer": [
+    2,
+    3,
+    4
+   ]
+  },
+  {
+   "id": "m5-t4-q032",
+   "topic": "m5-t4",
+   "difficulty": "easy",
+   "type": "fill",
+   "question": "A financial intermediary connects savers with ______.",
+   "explanation": "The session's diagram shows saver, financial intermediary and firm.",
+   "accept": [
+    "firms"
+   ]
+  },
+  {
+   "id": "m5-t4-q033",
+   "topic": "m5-t4",
+   "difficulty": "medium",
+   "type": "tf",
+   "question": "In the indirect transfer diagram, funds pass from the saver to a financial intermediary and then to a firm.",
+   "explanation": "True. The intermediary stands between saver and firm.",
+   "answer": true
+  },
+  {
+   "id": "m5-t4-q034",
+   "topic": "m5-t4",
+   "difficulty": "hard",
+   "type": "scenario",
+   "question": "A villager keeps savings with a guild, which lends to a cloth exporter who hires more workers. Which outcome from the session does this illustrate?",
+   "explanation": "Channelling savings to productive uses supports investment, employment and growth.",
+   "options": [
+    "Savings channelled into trade create investment and employment",
+    "Savings destroyed by heavy taxation of the guild's members",
+    "Barter replacing coins in all of the village's transactions",
+    "Dispute resolution between the guild and the cloth exporter"
+   ],
+   "answer": 0
+  },
+  {
+   "id": "m5-t4-q035",
+   "topic": "m5-t4",
+   "difficulty": "hard",
+   "type": "compare",
+   "question": "How does a saver differ from a firm in the intermediation diagram?",
+   "explanation": "The intermediary connects surplus holders with capital seekers.",
+   "options": [
+    "The saver needs capital; the firm holds surplus funds",
+    "Both hold only surplus funds",
+    "Both are intermediaries",
+    "The saver holds surplus funds; the firm needs capital"
+   ],
+   "answer": 3
+  },
+  {
+   "id": "m5-t4-q036",
+   "topic": "m5-t4",
+   "difficulty": "medium",
+   "type": "not",
+   "question": "Which of these is NOT a stated result of channelling savings into trade?",
+   "explanation": "Investment, employment and growth are listed.",
+   "options": [
+    "Investment",
+    "Elimination of all lending",
+    "Employment",
+    "Economic growth"
+   ],
+   "answer": 1
+  },
+  {
+   "id": "m5-t4-q037",
+   "topic": "m5-t4",
+   "difficulty": "hard",
+   "type": "ar",
+   "question": "Assertion (A): A financial intermediary can support economic growth.\nReason (R): It channels savings from those with surplus funds to productive uses.",
+   "explanation": "Both are true and the second explains the first.",
+   "options": [
+    "Both A and R are true, and R explains A",
+    "Both A and R are true, but R does not explain A",
+    "A is true but R is false",
+    "A is false but R is true"
+   ],
+   "answer": 0
+  },
+  {
+   "id": "m5-t5-q038",
+   "topic": "m5-t5",
+   "difficulty": "easy",
+   "type": "mcq",
+   "question": "What is fundamental to any system involving deposits and lending?",
+   "explanation": "The session says trust is fundamental.",
+   "options": [
+    "Speed",
+    "Trust",
+    "Distance",
+    "Luxury"
+   ],
+   "answer": 1
+  },
+  {
+   "id": "m5-t5-q039",
+   "topic": "m5-t5",
+   "difficulty": "medium",
+   "type": "multi",
+   "question": "Which foundations supported financial activity, according to the session? (Select all that apply)",
+   "explanation": "The foundations are trust, ethical conduct or Dharma, transparency and collective responsibility.",
+   "options": [
+    "Ethical conduct or Dharma",
+    "Collective responsibility",
+    "Transparency",
+    "Trust",
+    "Secrecy",
+    "Royal monopoly"
+   ],
+   "answer": [
+    0,
+    1,
+    2,
+    3
+   ]
+  },
+  {
+   "id": "m5-t5-q040",
+   "topic": "m5-t5",
+   "difficulty": "easy",
+   "type": "fill",
+   "question": "Ethical conduct, in the session's words, is also called ______.",
+   "explanation": "The session names ethical conduct or Dharma.",
+   "accept": [
+    "Dharma"
+   ]
+  },
+  {
+   "id": "m5-t5-q041",
+   "topic": "m5-t5",
+   "difficulty": "medium",
+   "type": "mcq",
+   "question": "Which parties did governance involve in guild finance?",
+   "explanation": "Governance involved the guild head, treasurer, council and accountability of members.",
+   "options": [
+    "King, army, tax office and temple",
+    "Sailors, captains and ship builders",
+    "Foreign bankers only",
+    "Guild head, treasurer, council and accountable members"
+   ],
+   "answer": 3
+  },
+  {
+   "id": "m5-t5-q042",
+   "topic": "m5-t5",
+   "difficulty": "medium",
+   "type": "tf",
+   "question": "The session says these principles have little relevance to modern corporate governance and financial regulation.",
+   "explanation": "False. The session says they have clear relevance to modern corporate governance and financial regulation.",
+   "answer": false
+  },
+  {
+   "id": "m5-t5-q043",
+   "topic": "m5-t5",
+   "difficulty": "hard",
+   "type": "scenario",
+   "question": "A guild treasurer publishes where deposits were lent and answers to the council for any loss. Which principles from the session are shown?",
+   "explanation": "Transparency and accountability of members are part of the governance foundation.",
+   "options": [
+    "Transparency and accountability",
+    "Secrecy and monopoly",
+    "Barter and gift",
+    "Conquest and tribute"
+   ],
+   "answer": 0
+  },
+  {
+   "id": "m5-t5-q044",
+   "topic": "m5-t5",
+   "difficulty": "medium",
+   "type": "not",
+   "question": "Which of these is NOT a foundation named for financial activity?",
+   "explanation": "Transparency, not secrecy, is the stated foundation.",
+   "options": [
+    "Trust",
+    "Transparency",
+    "Secrecy",
+    "Collective responsibility"
+   ],
+   "answer": 2
+  },
+  {
+   "id": "m5-t5-q045",
+   "topic": "m5-t5",
+   "difficulty": "hard",
+   "type": "compare",
+   "question": "How does trust differ from governance in the session's account?",
+   "explanation": "Trust underlies the system; governance involves the officers and accountability that sustain it.",
+   "options": [
+    "Trust is the guild council; governance is the guild treasury",
+    "They are the same thing under two different names in the session",
+    "Trust is basic confidence in deposits and lending; governance is the head, treasurer, council and accountability",
+    "Trust is meant for kings alone; governance is meant for artisans alone"
+   ],
+   "answer": 2
+  },
+  {
+   "id": "m5-t5-q046",
+   "topic": "m5-t5",
+   "difficulty": "hard",
+   "type": "ar",
+   "question": "Assertion (A): Trust is fundamental to a system of deposits and lending.\nReason (R): Transparency and collective responsibility played no role in guild finance.",
+   "explanation": "A is true. R is false: trust, Dharma, transparency and collective responsibility were foundations of financial activity.",
+   "options": [
+    "Both A and R are true, and R explains A",
+    "Both A and R are true, but R does not explain A",
+    "A is true but R is false",
+    "A is false but R is true"
+   ],
+   "answer": 2
+  },
+  {
+   "id": "m5-t6-q047",
+   "topic": "m5-t6",
+   "difficulty": "medium",
+   "type": "multi",
+   "question": "Which characteristics do guild banking and modern banking share? (Select all that apply)",
+   "explanation": "They share deposits, loans, trade finance, financial records and support for economic development.",
+   "options": [
+    "Credit bureaus",
+    "Core banking software",
+    "Trade finance",
+    "Loans",
+    "Deposits",
+    "Financial records"
+   ],
+   "answer": [
+    2,
+    3,
+    4,
+    5
+   ]
+  },
+  {
+   "id": "m5-t6-q048",
+   "topic": "m5-t6",
+   "difficulty": "medium",
+   "type": "mcq",
+   "question": "How does modern banking differ from guild banking, according to the session?",
+   "explanation": "Modern banking is larger, technology-driven, regulated and offers a wide range of products.",
+   "options": [
+    "It operates on a larger scale with technology, formal regulation and many products",
+    "It has no deposits, because modern banks only make loans",
+    "It has no loans, because modern banks only take deposits",
+    "It does not keep records, because technology replaced all accounts"
+   ],
+   "answer": 0
+  },
+  {
+   "id": "m5-t6-q049",
+   "topic": "m5-t6",
+   "difficulty": "easy",
+   "type": "tf",
+   "question": "Guild banking and modern banking both involve deposits and loans.",
+   "explanation": "True. These are shared fundamental characteristics.",
+   "answer": true
+  },
+  {
+   "id": "m5-t6-q050",
+   "topic": "m5-t6",
+   "difficulty": "easy",
+   "type": "fill",
+   "question": "Modern banking uses sophisticated technology and formal ______.",
+   "explanation": "The session names technology, formal regulation and a wide range of products.",
+   "accept": [
+    "regulation"
+   ]
+  },
+  {
+   "id": "m5-t6-q051",
+   "topic": "m5-t6",
+   "difficulty": "hard",
+   "type": "scenario",
+   "question": "A student says a village guild and a national bank are completely different because only one lends money. How would the session respond?",
+   "explanation": "Guild and modern banking share core functions.",
+   "options": [
+    "The student is right, because guilds never lent money to anyone",
+    "Banks never take deposits, so the two cannot be compared",
+    "Guilds had formal regulation exactly like a modern central bank",
+    "Both take deposits and make loans; modern banks differ in scale, technology and regulation"
+   ],
+   "answer": 3
+  },
+  {
+   "id": "m5-t6-q052",
+   "topic": "m5-t6",
+   "difficulty": "hard",
+   "type": "compare",
+   "question": "Which is a difference between guild banking and modern banking?",
+   "explanation": "The session notes scale, technology, regulation and product range as differences.",
+   "options": [
+    "Modern banking has no deposits, while guild banking had many",
+    "Modern banking has formal regulation and a wide range of products",
+    "Guild banking had a wider range of products than modern banking",
+    "Guild banking used UPI, which modern banks no longer use"
+   ],
+   "answer": 1
+  },
+  {
+   "id": "m5-t6-q053",
+   "topic": "m5-t6",
+   "difficulty": "medium",
+   "type": "not",
+   "question": "Which of these is NOT a shared characteristic of guild and modern banking?",
+   "explanation": "Formal regulation belongs to modern banking.",
+   "options": [
+    "Deposits taken from members of the public",
+    "Formal regulation by a central bank",
+    "Loans made to merchants who need capital",
+    "Trade finance for long-distance commerce"
+   ],
+   "answer": 1
+  },
+  {
+   "id": "m5-t6-q054",
+   "topic": "m5-t6",
+   "difficulty": "hard",
+   "type": "ar",
+   "question": "Assertion (A): Modern banking operates on a much larger scale than guild banking.\nReason (R): Modern banking uses sophisticated technology and formal regulation.",
+   "explanation": "Both are true, but the second describes features rather than explaining the scale.",
+   "options": [
+    "Both A and R are true, and R explains A",
+    "Both A and R are true, but R does not explain A",
+    "A is true but R is false",
+    "A is false but R is true"
+   ],
+   "answer": 1
+  },
+  {
+   "id": "m5-t7-q055",
+   "topic": "m5-t7",
+   "difficulty": "medium",
+   "type": "multi",
+   "question": "Which principles remain relevant to contemporary finance? (Select all that apply)",
+   "explanation": "The session lists trust, productive lending, ethical governance and financial inclusion.",
+   "options": [
+    "Productive lending",
+    "Trust",
+    "Financial inclusion",
+    "Speculation",
+    "Secrecy",
+    "Ethical governance"
+   ],
+   "answer": [
+    0,
+    1,
+    2,
+    5
+   ]
+  },
+  {
+   "id": "m5-t7-q056",
+   "topic": "m5-t7",
+   "difficulty": "medium",
+   "type": "mcq",
+   "question": "Which modern applications does the session name?",
+   "explanation": "Modern applications include ESG, responsible lending, digital banking and UPI.",
+   "options": [
+    "Barter, hundis and coinage, which are all ancient practices",
+    "Presidency banks and nationalisation, which are older stages",
+    "Caravans and serais, which supported overland merchants",
+    "ESG, responsible lending, digital banking and UPI"
+   ],
+   "answer": 3
+  },
+  {
+   "id": "m5-t7-q057",
+   "topic": "m5-t7",
+   "difficulty": "easy",
+   "type": "tf",
+   "question": "Financial institutions are expected not only to generate returns but also to maintain responsible practices and public confidence.",
+   "explanation": "True. Returns alone are not enough.",
+   "answer": true
+  },
+  {
+   "id": "m5-t7-q058",
+   "topic": "m5-t7",
+   "difficulty": "easy",
+   "type": "fill",
+   "question": "Digital payments in India include ______, named as a modern application of these principles.",
+   "explanation": "UPI is named alongside ESG, responsible lending and digital banking.",
+   "accept": [
+    "UPI"
+   ]
+  },
+  {
+   "id": "m5-t7-q059",
+   "topic": "m5-t7",
+   "difficulty": "hard",
+   "type": "scenario",
+   "question": "A bank lends to small farmers for productive use and keeps clear, honest records. Which principles from the session does this reflect?",
+   "explanation": "Productive lending, ethical governance and inclusion are the principles named.",
+   "options": [
+    "Productive lending, ethical governance and financial inclusion",
+    "Speculation and secrecy, which the session does not endorse",
+    "Barter and tribute, which are older forms of exchange",
+    "Hoarding and monopoly, which the session does not endorse"
+   ],
+   "answer": 0
+  },
+  {
+   "id": "m5-t7-q060",
+   "topic": "m5-t7",
+   "difficulty": "medium",
+   "type": "concept",
+   "question": "In the session, ESG is named alongside responsible lending, digital banking and UPI as:",
+   "explanation": "The session lists ESG, responsible lending, digital banking and UPI as modern applications of the principles of trust, productive lending, ethical governance and financial inclusion.",
+   "options": [
+    "A form of ancient guild penalty applied to defaulting borrowers",
+    "An early name for the Hundi used by merchant guilds",
+    "A modern application of trust, ethical governance and financial inclusion",
+    "A stage in the evolution of banking that came before coins"
+   ],
+   "answer": 2
+  },
+  {
+   "id": "m5-t7-q061",
+   "topic": "m5-t7",
+   "difficulty": "hard",
+   "type": "compare",
+   "question": "How does 'generating returns' differ from 'maintaining public confidence' as expectations of institutions?",
+   "explanation": "Institutions are expected to do both.",
+   "options": [
+    "Returns are trust, and confidence is profit to the owners",
+    "They mean exactly the same thing in the session's account",
+    "Returns are profit to owners; public confidence is trust in responsible practice",
+    "Confidence applies only to kings and never to institutions"
+   ],
+   "answer": 2
+  },
+  {
+   "id": "m5-t7-q062",
+   "topic": "m5-t7",
+   "difficulty": "medium",
+   "type": "not",
+   "question": "Which of these is NOT a modern application named in the session?",
+   "explanation": "Hundis were an ancient instrument, not a modern application.",
+   "options": [
+    "Hundis",
+    "ESG",
+    "Responsible lending",
+    "UPI"
+   ],
+   "answer": 0
+  },
+  {
+   "id": "m5-t7-q063",
+   "topic": "m5-t7",
+   "difficulty": "hard",
+   "type": "ar",
+   "question": "Assertion (A): The principles of trust and productive lending remain relevant to contemporary finance.\nReason (R): Financial institutions are expected to maintain responsible practices and public confidence.",
+   "explanation": "Both are true and the second explains why the principles still matter.",
+   "options": [
+    "Both A and R are true, and R explains A",
+    "Both A and R are true, but R does not explain A",
+    "A is true but R is false",
+    "A is false but R is true"
+   ],
+   "answer": 0
+  },
+  {
+   "id": "m5-t8-q064",
+   "topic": "m5-t8",
+   "difficulty": "medium",
+   "type": "multi",
+   "question": "Which disputes could commercial transactions produce? (Select all that apply)",
+   "explanation": "The session names loan defaults, contract breaches, quality disputes and price disagreements.",
+   "options": [
+    "Disagreements over prices",
+    "Contract breaches",
+    "Calendar disputes",
+    "Quality disputes",
+    "Temple disputes",
+    "Loan defaults"
+   ],
+   "answer": [
+    0,
+    1,
+    3,
+    5
+   ]
+  },
+  {
+   "id": "m5-t8-q065",
+   "topic": "m5-t8",
+   "difficulty": "medium",
+   "type": "mcq",
+   "question": "Which sequence describes the structured dispute process?",
+   "explanation": "The process runs from complaint to hearing, evidence, decision and penalty or compensation.",
+   "options": [
+    "Decision, complaint, penalty, hearing, evidence",
+    "Penalty, hearing, complaint, decision, evidence",
+    "Evidence, penalty, complaint, hearing, decision",
+    "Complaint, hearing, evidence, decision, penalty or compensation"
+   ],
+   "answer": 3
+  },
+  {
+   "id": "m5-t8-q066",
+   "topic": "m5-t8",
+   "difficulty": "easy",
+   "type": "fill",
+   "question": "The structured process began with a ______ and ended with a penalty or compensation.",
+   "explanation": "The first step was a complaint.",
+   "accept": [
+    "complaint"
+   ]
+  },
+  {
+   "id": "m5-t8-q067",
+   "topic": "m5-t8",
+   "difficulty": "easy",
+   "type": "tf",
+   "question": "The session names the stock exchange as a comparable modern dispute-resolution mechanism.",
+   "explanation": "False. The comparable mechanisms named are arbitration, banking grievance mechanisms and consumer forums.",
+   "answer": false
+  },
+  {
+   "id": "m5-t8-q068",
+   "topic": "m5-t8",
+   "difficulty": "medium",
+   "type": "mcq",
+   "question": "Which modern mechanisms are comparable to ancient dispute resolution?",
+   "explanation": "These are the modern comparable mechanisms.",
+   "options": [
+    "Hundis, serais and caravans, which were ancient instruments",
+    "Arbitration, banking grievance mechanisms and consumer forums",
+    "Coinage and weights, which were standards of exchange",
+    "UPI and core banking only, which are payment technologies"
+   ],
+   "answer": 1
+  },
+  {
+   "id": "m5-t8-q069",
+   "topic": "m5-t8",
+   "difficulty": "hard",
+   "type": "scenario",
+   "question": "A borrower defaults on a guild loan. The lender complains, the guild hears both sides, examines the records, decides and orders compensation. Which stages from the session are these?",
+   "explanation": "This follows the session's structured dispute process.",
+   "options": [
+    "Deposit, loan and repayment only, with no hearing at all",
+    "Complaint, hearing, evidence, decision and compensation",
+    "Contact, curiosity and adoption, the stages of cultural spread",
+    "Barter, coins and hundis, the early stages in banking's evolution"
+   ],
+   "answer": 1
+  },
+  {
+   "id": "m5-t8-q070",
+   "topic": "m5-t8",
+   "difficulty": "hard",
+   "type": "compare",
+   "question": "How does 'evidence' differ from 'decision' in the dispute process?",
+   "explanation": "Evidence comes before the decision.",
+   "options": [
+    "Evidence is the penalty ordered; the decision is the complaint made",
+    "Evidence and decision are identical steps in the same hearing",
+    "Evidence is optional; the decision is another word for a hearing",
+    "Evidence is the material examined; the decision is the outcome reached from it"
+   ],
+   "answer": 3
+  },
+  {
+   "id": "m5-t8-q071",
+   "topic": "m5-t8",
+   "difficulty": "medium",
+   "type": "not",
+   "question": "Which of these is NOT listed as a step in the dispute process?",
+   "explanation": "Deposit belongs to the banking flow, not the dispute process.",
+   "options": [
+    "Deposit",
+    "Complaint",
+    "Hearing",
+    "Decision"
+   ],
+   "answer": 0
+  },
+  {
+   "id": "m5-t8-q072",
+   "topic": "m5-t8",
+   "difficulty": "medium",
+   "type": "concept",
+   "question": "A guild hears a complaint, weighs the evidence and orders compensation. Which commercial need does this serve, according to the session?",
+   "explanation": "The session says the structured process provided a mechanism for maintaining commercial discipline.",
+   "options": [
+    "Maintaining commercial discipline",
+    "Minting new coins",
+    "Issuing hundis",
+    "Recording deposits in the treasury"
+   ],
+   "answer": 0
+  },
+  {
+   "id": "m5-t8-q073",
+   "topic": "m5-t8",
+   "difficulty": "hard",
+   "type": "ar",
+   "question": "Assertion (A): The ancient dispute process ended with a hearing and had no penalty or compensation.\nReason (R): A structured process from complaint to penalty or compensation maintained commercial discipline.",
+   "explanation": "A is false: the process ended with penalty or compensation. R is true.",
+   "options": [
+    "Both A and R are true, and R explains A",
+    "Both A and R are true, but R does not explain A",
+    "A is true but R is false",
+    "A is false but R is true"
+   ],
+   "answer": 3
+  },
+  {
+   "id": "m5-t9-q074",
+   "topic": "m5-t9",
+   "difficulty": "medium",
+   "type": "multi",
+   "question": "Which financial practices does the session list? (Select all that apply)",
+   "explanation": "The practices are deposits, loans, interest and accounting records.",
+   "options": [
+    "Interest",
+    "Accounting records",
+    "Credit cards",
+    "Stock exchanges",
+    "Loans",
+    "Deposits"
+   ],
+   "answer": [
+    0,
+    1,
+    4,
+    5
+   ]
+  },
+  {
+   "id": "m5-t9-q075",
+   "topic": "m5-t9",
+   "difficulty": "medium",
+   "type": "mcq",
+   "question": "Which instrument represents an important stage in commercial finance?",
+   "explanation": "Hundis are named as an important stage in commercial finance.",
+   "options": [
+    "Karshapanas",
+    "Aureus",
+    "Hundis",
+    "Amphorae"
+   ],
+   "answer": 2
+  },
+  {
+   "id": "m5-t9-q076",
+   "topic": "m5-t9",
+   "difficulty": "medium",
+   "type": "multi",
+   "question": "Which sources give evidence about guild wealth, deposits and trade finance? (Select all that apply)",
+   "explanation": "Sources include the Arthashastra, Jataka Tales and inscriptions from Nasik, Sanchi and Mathura.",
+   "options": [
+    "Inscriptions from Mathura",
+    "The Periplus",
+    "Jataka Tales",
+    "The Indica",
+    "Inscriptions from Nasik",
+    "The Arthashastra"
+   ],
+   "answer": [
+    0,
+    2,
+    4,
+    5
+   ]
+  },
+  {
+   "id": "m5-t9-q077",
+   "topic": "m5-t9",
+   "difficulty": "easy",
+   "type": "fill",
+   "question": "Inscriptions from Nasik, Sanchi and ______ provide evidence of guild deposits.",
+   "explanation": "The inscriptions are from Nasik, Sanchi and Mathura.",
+   "accept": [
+    "Mathura"
+   ]
+  },
+  {
+   "id": "m5-t9-q078",
+   "topic": "m5-t9",
+   "difficulty": "medium",
+   "type": "tf",
+   "question": "Jataka Tales are among the sources for guild wealth and trade finance.",
+   "explanation": "True. The Jatakas are named as a source.",
+   "answer": true
+  },
+  {
+   "id": "m5-t9-q079",
+   "topic": "m5-t9",
+   "difficulty": "hard",
+   "type": "scenario",
+   "question": "A historian wants evidence that guilds held deposits. Which source types does the session suggest?",
+   "explanation": "Evidence comes from texts and inscriptions named in the session.",
+   "options": [
+    "Texts such as the Arthashastra and Jatakas, and inscriptions at Nasik, Sanchi and Mathura",
+    "Only Roman coins found in the ports of Tamil Nadu",
+    "Only Chinese travel diaries written by visiting monks",
+    "Only oral songs sung by sailors on the Arabian Sea"
+   ],
+   "answer": 0
+  },
+  {
+   "id": "m5-t9-q080",
+   "topic": "m5-t9",
+   "difficulty": "hard",
+   "type": "compare",
+   "question": "How do hundis differ from deposits and loans in the session's list?",
+   "explanation": "The session lists deposits, loans, interest and records as practices and hundis as an instrument.",
+   "options": [
+    "Hundis are practices, while deposits are instruments",
+    "Hundis are inscriptions, while deposits are texts",
+    "They are exactly the same thing under two different names",
+    "Hundis are an instrument of commercial finance; deposits and loans are financial practices"
+   ],
+   "answer": 3
+  },
+  {
+   "id": "m5-t9-q081",
+   "topic": "m5-t9",
+   "difficulty": "medium",
+   "type": "not",
+   "question": "Which of these is NOT named as a source of evidence?",
+   "explanation": "The Periplus is a sailing guide cited in other modules.",
+   "options": [
+    "Arthashastra",
+    "The Periplus of the Erythraean Sea",
+    "Jataka Tales",
+    "Inscriptions from Sanchi"
+   ],
+   "answer": 1
+  },
+  {
+   "id": "m5-t9-q082",
+   "topic": "m5-t9",
+   "difficulty": "medium",
+   "type": "concept",
+   "question": "An instrument of commercial finance that appears in the session's evolution of banking after guild banking is the:",
+   "explanation": "The evolution runs Barter, Coins, Guild Banking, Hundis, Presidency Banks and onwards.",
+   "options": [
+    "Presidency Bank",
+    "Hundi",
+    "UPI",
+    "Core banking"
+   ],
+   "answer": 1
+  },
+  {
+   "id": "m5-t9-q083",
+   "topic": "m5-t9",
+   "difficulty": "hard",
+   "type": "ar",
+   "question": "Assertion (A): Hundis represent an important stage in commercial finance.\nReason (R): They are named as an instrument that developed alongside deposits, loans, interest and records.",
+   "explanation": "Both are true, but the second does not explain the importance.",
+   "options": [
+    "Both A and R are true, and R explains A",
+    "Both A and R are true, but R does not explain A",
+    "A is true but R is false",
+    "A is false but R is true"
+   ],
+   "answer": 1
+  },
+  {
+   "id": "m5-t10-q084",
+   "topic": "m5-t10",
+   "difficulty": "medium",
+   "type": "multi",
+   "question": "Which principles have parallels in cooperative banking, SHGs and microfinance? (Select all that apply)",
+   "explanation": "The principles are collective savings, credit, peer monitoring and community development.",
+   "options": [
+    "Royal monopoly",
+    "Peer monitoring",
+    "Foreign tribute",
+    "Collective savings",
+    "Community development",
+    "Credit"
+   ],
+   "answer": [
+    1,
+    3,
+    4,
+    5
+   ]
+  },
+  {
+   "id": "m5-t10-q085",
+   "topic": "m5-t10",
+   "difficulty": "easy",
+   "type": "mcq",
+   "question": "What do these mechanisms contribute to?",
+   "explanation": "They contribute to financial inclusion.",
+   "options": [
+    "Higher customs",
+    "Barter",
+    "Closure of banks",
+    "Financial inclusion"
+   ],
+   "answer": 3
+  },
+  {
+   "id": "m5-t10-q086",
+   "topic": "m5-t10",
+   "difficulty": "easy",
+   "type": "tf",
+   "question": "SHG stands for Self-Help Group.",
+   "explanation": "True. The session refers to Self-Help Groups.",
+   "answer": true
+  },
+  {
+   "id": "m5-t10-q087",
+   "topic": "m5-t10",
+   "difficulty": "medium",
+   "type": "fill",
+   "question": "Self-Help Groups and microfinance can support women ______ and MSME financing.",
+   "explanation": "The session names women empowerment and MSME financing.",
+   "accept": [
+    "empowerment"
+   ]
+  },
+  {
+   "id": "m5-t10-q088",
+   "topic": "m5-t10",
+   "difficulty": "hard",
+   "type": "scenario",
+   "question": "A group of village women pool small savings, lend to each other and watch each other's repayments. Which principles from the session does this reflect?",
+   "explanation": "This follows collective savings, credit and peer monitoring.",
+   "options": [
+    "Collective savings, credit and peer monitoring",
+    "Royal tribute and conquest of neighbouring kingdoms",
+    "Barter and gifts exchanged between the village families",
+    "Customs and tolls collected on the roads near the village"
+   ],
+   "answer": 0
+  },
+  {
+   "id": "m5-t10-q089",
+   "topic": "m5-t10",
+   "difficulty": "hard",
+   "type": "compare",
+   "question": "How does peer monitoring differ from collective savings?",
+   "explanation": "Collective savings pool funds; peer monitoring supports repayment discipline.",
+   "options": [
+    "Peer monitoring is pooling funds; collective savings is the monitoring of repayment",
+    "They are identical, so the session draws no difference between them",
+    "Peer monitoring is members watching each other's repayment; collective savings is pooling funds",
+    "Peer monitoring is carried out by the king's officers, not the members"
+   ],
+   "answer": 2
+  },
+  {
+   "id": "m5-t10-q090",
+   "topic": "m5-t10",
+   "difficulty": "medium",
+   "type": "not",
+   "question": "Which of these is NOT a principle the session links to these mechanisms?",
+   "explanation": "Royal monopoly is not named.",
+   "options": [
+    "Collective savings",
+    "Peer monitoring",
+    "Royal monopoly",
+    "Community development"
+   ],
+   "answer": 2
+  },
+  {
+   "id": "m5-t10-q091",
+   "topic": "m5-t10",
+   "difficulty": "hard",
+   "type": "ar",
+   "question": "Assertion (A): Cooperative banking and SHGs have no connection with financial inclusion.\nReason (R): These mechanisms contribute to financial inclusion and can support women empowerment and MSME financing.",
+   "explanation": "A is false: they contribute to financial inclusion. R is true.",
+   "options": [
+    "Both A and R are true, and R explains A",
+    "Both A and R are true, but R does not explain A",
+    "A is true but R is false",
+    "A is false but R is true"
+   ],
+   "answer": 3
+  },
+  {
+   "id": "m5-t11-q092",
+   "topic": "m5-t11",
+   "difficulty": "easy",
+   "type": "mcq",
+   "question": "What does the Ujjain merchant in the case want to do?",
+   "explanation": "The merchant from Ujjain seeks finance to export goods to Alexandria.",
+   "options": [
+    "Obtain finance to export goods to Alexandria",
+    "Import horses from Arabia for the army of his king",
+    "Open a temple in the city with the funds he borrows",
+    "Buy land in Taxila to grow crops for local markets"
+   ],
+   "answer": 0
+  },
+  {
+   "id": "m5-t11-q093",
+   "topic": "m5-t11",
+   "difficulty": "medium",
+   "type": "multi",
+   "question": "For which costs does the merchant need capital? (Select all that apply)",
+   "explanation": "He needs capital for raw materials, labour, transportation and customs.",
+   "options": [
+    "Raw materials",
+    "Temple donations",
+    "Royal gifts",
+    "Labour",
+    "Customs",
+    "Transportation"
+   ],
+   "answer": [
+    0,
+    3,
+    4,
+    5
+   ]
+  },
+  {
+   "id": "m5-t11-q094",
+   "topic": "m5-t11",
+   "difficulty": "medium",
+   "type": "multi",
+   "question": "Which considerations does the financing decision involve? (Select all that apply)",
+   "explanation": "The decision considers the purpose of the loan, repayment ability and the risks of the trade.",
+   "options": [
+    "Repayment ability",
+    "The merchant's height",
+    "Risks associated with the proposed trade",
+    "The colour of his ship",
+    "Purpose of the loan"
+   ],
+   "answer": [
+    0,
+    2,
+    4
+   ]
+  },
+  {
+   "id": "m5-t11-q095",
+   "topic": "m5-t11",
+   "difficulty": "easy",
+   "type": "fill",
+   "question": "The case concerns a merchant from ______ seeking finance to export goods to Alexandria.",
+   "explanation": "The merchant is from Ujjain.",
+   "accept": [
+    "Ujjain"
+   ]
+  },
+  {
+   "id": "m5-t11-q096",
+   "topic": "m5-t11",
+   "difficulty": "medium",
+   "type": "tf",
+   "question": "The session says the lender should consider the risks of the proposed trade.",
+   "explanation": "True. Risk is one of the three considerations.",
+   "answer": true
+  },
+  {
+   "id": "m5-t11-q097",
+   "topic": "m5-t11",
+   "difficulty": "medium",
+   "type": "scenario",
+   "question": "A lender asks what the loan is for, how the merchant will repay it and what might go wrong on the voyage. Which process is this?",
+   "explanation": "The case is titled credit appraisal.",
+   "options": [
+    "Dispute resolution",
+    "Barter",
+    "Coinage",
+    "Credit appraisal"
+   ],
+   "answer": 3
+  },
+  {
+   "id": "m5-t11-q098",
+   "topic": "m5-t11",
+   "difficulty": "hard",
+   "type": "compare",
+   "question": "How does 'repayment ability' differ from 'purpose of the loan'?",
+   "explanation": "The decision considers both separately.",
+   "options": [
+    "Purpose is about repayment, while ability is about how the loan is used",
+    "Repayment ability is whether the borrower can repay; purpose is what the money will be used for",
+    "They are identical, so the lender needs to consider only one",
+    "Both concern only the customs duty paid at the port"
+   ],
+   "answer": 1
+  },
+  {
+   "id": "m5-t11-q099",
+   "topic": "m5-t11",
+   "difficulty": "medium",
+   "type": "not",
+   "question": "Which of these is NOT a consideration named for the lending decision?",
+   "explanation": "The three considerations are purpose, repayment ability and risks.",
+   "options": [
+    "Purpose of the loan",
+    "The merchant's religion",
+    "Repayment ability",
+    "Risks of the trade"
+   ],
+   "answer": 1
+  },
+  {
+   "id": "m5-t11-q100",
+   "topic": "m5-t11",
+   "difficulty": "medium",
+   "type": "concept",
+   "question": "Evaluating a borrower's purpose, repayment ability and trade risks before lending is called:",
+   "explanation": "The case is titled credit appraisal.",
+   "options": [
+    "Arbitration",
+    "Financial inclusion",
+    "Core banking",
+    "Credit appraisal"
+   ],
+   "answer": 3
+  },
+  {
+   "id": "m5-t12-q101",
+   "topic": "m5-t12",
+   "difficulty": "easy",
+   "type": "mcq",
+   "question": "Which sequence begins the session's evolution of banking?",
+   "explanation": "The chain begins Barter, Coins, Guild Banking, Hundis.",
+   "options": [
+    "Barter, Coins, Guild Banking, Hundis",
+    "Coins, Barter, Hundis, Guild Banking",
+    "Hundis, Guild Banking, Coins, Barter",
+    "Guild Banking, Barter, Coins, Hundis"
+   ],
+   "answer": 0
+  },
+  {
+   "id": "m5-t12-q102",
+   "topic": "m5-t12",
+   "difficulty": "medium",
+   "type": "match",
+   "question": "Match each stage in the evolution of banking with its position.",
+   "explanation": "The chain runs Barter, Coins, Guild Banking, Hundis, Presidency Banks, RBI, Nationalisation, Core Banking, Internet Banking, UPI, AI and Digital Banking.",
+   "pairs": [
+    [
+     "Barter",
+     "First"
+    ],
+    [
+     "Coins",
+     "Second"
+    ],
+    [
+     "Guild Banking",
+     "Third"
+    ],
+    [
+     "Hundis",
+     "Fourth"
+    ],
+    [
+     "Presidency Banks",
+     "Fifth"
+    ]
+   ]
+  },
+  {
+   "id": "m5-t12-q103",
+   "topic": "m5-t12",
+   "difficulty": "medium",
+   "type": "mcq",
+   "question": "Which stage comes immediately after Hundis?",
+   "explanation": "Hundis are followed by Presidency Banks.",
+   "options": [
+    "RBI",
+    "Guild Banking",
+    "Presidency Banks",
+    "Core Banking"
+   ],
+   "answer": 2
+  },
+  {
+   "id": "m5-t12-q104",
+   "topic": "m5-t12",
+   "difficulty": "medium",
+   "type": "mcq",
+   "question": "Which stage comes immediately before UPI?",
+   "explanation": "The chain runs Core Banking, Internet Banking, UPI.",
+   "options": [
+    "Core Banking",
+    "Nationalisation",
+    "Internet Banking",
+    "RBI"
+   ],
+   "answer": 2
+  },
+  {
+   "id": "m5-t12-q105",
+   "topic": "m5-t12",
+   "difficulty": "easy",
+   "type": "fill",
+   "question": "The final stage in the session's chain is AI and ______ Banking.",
+   "explanation": "The chain ends with AI and Digital Banking.",
+   "accept": [
+    "Digital"
+   ]
+  },
+  {
+   "id": "m5-t12-q106",
+   "topic": "m5-t12",
+   "difficulty": "medium",
+   "type": "multi",
+   "question": "Which functions remain central to banking despite changes? (Select all that apply)",
+   "explanation": "The fundamental functions of deposits, lending and trust remain central.",
+   "options": [
+    "Deposits",
+    "Trust",
+    "Lending",
+    "Barter",
+    "Coin minting"
+   ],
+   "answer": [
+    0,
+    1,
+    2
+   ]
+  },
+  {
+   "id": "m5-t12-q107",
+   "topic": "m5-t12",
+   "difficulty": "medium",
+   "type": "tf",
+   "question": "In the evolution chain, Nationalisation comes before the RBI.",
+   "explanation": "False. The chain runs Presidency Banks, RBI, Nationalisation, Core Banking.",
+   "answer": false
+  },
+  {
+   "id": "m5-t12-q108",
+   "topic": "m5-t12",
+   "difficulty": "hard",
+   "type": "scenario",
+   "question": "A shopper pays a shopkeeper using a phone app that moves money instantly between bank accounts. Which stage in the chain does this correspond to?",
+   "explanation": "UPI follows Internet Banking in the chain.",
+   "options": [
+    "UPI",
+    "Hundis",
+    "Guild Banking",
+    "Presidency Banks"
+   ],
+   "answer": 0
+  },
+  {
+   "id": "m5-t12-q109",
+   "topic": "m5-t12",
+   "difficulty": "hard",
+   "type": "compare",
+   "question": "How does Guild Banking differ from Hundis in the chain?",
+   "explanation": "The chain places Guild Banking third and Hundis fourth.",
+   "options": [
+    "Hundis come before coins, so Guild Banking is a later stage",
+    "Guild Banking comes after UPI and AI in the chain of stages",
+    "They are the same stage, known by two different names",
+    "Guild Banking comes earlier and Hundis follow it as an instrument stage"
+   ],
+   "answer": 3
+  },
+  {
+   "id": "m5-t12-q110",
+   "topic": "m5-t12",
+   "difficulty": "hard",
+   "type": "ar",
+   "question": "Assertion (A): Deposits, lending and trust remain central to banking.\nReason (R): The session says banking has not changed at all since guild banking.",
+   "explanation": "A is true. R is false: technology, institutions and regulatory systems have changed considerably.",
+   "options": [
+    "Both A and R are true, and R explains A",
+    "Both A and R are true, but R does not explain A",
+    "A is true but R is false",
+    "A is false but R is true"
+   ],
+   "answer": 2
+  }
+ ],
+ "cards": [
+  {
+   "id": "m5-c001",
+   "topic": "m5-t3",
+   "front": "Guild banking flow",
+   "back": "Deposits -> Guild Treasury -> Loans -> Trade -> Repayment."
+  },
+  {
+   "id": "m5-c002",
+   "topic": "m5-t8",
+   "front": "Dispute resolution process",
+   "back": "Complaint -> Hearing -> Evidence -> Decision -> Penalty or compensation. Modern: arbitration, banking grievance mechanisms, consumer forums."
+  },
+  {
+   "id": "m5-c003",
+   "topic": "m5-t12",
+   "front": "Evolution of banking",
+   "back": "Barter -> Coins -> Guild Banking -> Hundis -> Presidency Banks -> RBI -> Nationalisation -> Core Banking -> Internet Banking -> UPI -> AI & Digital Banking."
+  },
+  {
+   "id": "m5-c004",
+   "topic": "m5-t5",
+   "front": "Foundations of trust in finance",
+   "back": "Trust, ethical conduct (Dharma), transparency, collective responsibility."
+  },
+  {
+   "id": "m5-c005",
+   "topic": "m5-t11",
+   "front": "Credit appraisal checklist",
+   "back": "Purpose of the loan, repayment ability, risks of the proposed trade."
+  }
+ ]
+}

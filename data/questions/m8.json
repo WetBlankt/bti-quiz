@@ -1,0 +1,1685 @@
+{
+ "module": "m8",
+ "questions": [
+  {
+   "id": "m8-t1-q001",
+   "topic": "m8-t1",
+   "difficulty": "easy",
+   "type": "concept",
+   "question": "The session's phrase 'globalization before globalization' describes:",
+   "explanation": "The ancient world was economically and culturally interconnected long before modern shipping or digital transactions.",
+   "options": [
+    "The invention of container ships",
+    "The use of digital payments by ancient merchants",
+    "Economic and cultural interconnectedness in the ancient world",
+    "The end of all trade routes"
+   ],
+   "answer": 2
+  },
+  {
+   "id": "m8-t1-q002",
+   "topic": "m8-t1",
+   "difficulty": "easy",
+   "type": "tf",
+   "question": "The session says the ancient world achieved a remarkable economic and cultural interconnectedness long before container ships or digital transactions.",
+   "explanation": "True. This is the idea behind 'globalization before globalization'.",
+   "answer": true
+  },
+  {
+   "id": "m8-t1-q003",
+   "topic": "m8-t1",
+   "difficulty": "easy",
+   "type": "fill",
+   "question": "The ancient world achieved economic and cultural ______ long before container ships.",
+   "explanation": "The session calls it globalization before globalization.",
+   "accept": [
+    "interconnectedness",
+    "interconnection",
+    "connectedness"
+   ]
+  },
+  {
+   "id": "m8-t1-q004",
+   "topic": "m8-t1",
+   "difficulty": "medium",
+   "type": "scenario",
+   "question": "A student argues that world trade only began with modern container ships. How does the session's opening idea answer this?",
+   "explanation": "The session stresses ancient interconnectedness.",
+   "options": [
+    "The ancient world was already economically and culturally interconnected",
+    "Ancient trade was limited to local barter between nearby villages",
+    "Trade began only after the Roman Empire had ended its wars",
+    "Silk was never traded across regions until modern times"
+   ],
+   "answer": 0
+  },
+  {
+   "id": "m8-t1-q005",
+   "topic": "m8-t1",
+   "difficulty": "medium",
+   "type": "not",
+   "question": "Which of these is NOT part of the session's idea of ancient interconnectedness?",
+   "explanation": "Container ships and digital transactions are the modern contrast.",
+   "options": [
+    "Economic links across distant regions of the ancient world",
+    "Cultural exchange between merchants and local peoples",
+    "Long-distance trade routes crossing deserts and seas",
+    "Container ships carrying goods between continents"
+   ],
+   "answer": 3
+  },
+  {
+   "id": "m8-t1-q006",
+   "topic": "m8-t1",
+   "difficulty": "hard",
+   "type": "ar",
+   "question": "Assertion (A): The session speaks of globalization before globalization.\nReason (R): Ancient regions were economically and culturally interconnected without modern technology.",
+   "explanation": "Both are true and the second explains the phrase.",
+   "options": [
+    "Both A and R are true, and R explains A",
+    "Both A and R are true, but R does not explain A",
+    "A is true but R is false",
+    "A is false but R is true"
+   ],
+   "answer": 0
+  },
+  {
+   "id": "m8-t2-q007",
+   "topic": "m8-t2",
+   "difficulty": "medium",
+   "type": "mcq",
+   "question": "What followed the fragmentation of the Mauryan Empire, according to the session?",
+   "explanation": "The subcontinent witnessed successive waves of foreign movements.",
+   "options": [
+    "A single united empire that ruled the whole subcontinent",
+    "Successive waves of foreign movements into the subcontinent",
+    "The end of all foreign contact with Central Asia",
+    "A Roman conquest of the northern plains and Kashmir"
+   ],
+   "answer": 1
+  },
+  {
+   "id": "m8-t2-q008",
+   "topic": "m8-t2",
+   "difficulty": "medium",
+   "type": "mcq",
+   "question": "The Kushanas were originally a nomadic clan known as the:",
+   "explanation": "The Kushanas were originally the Yuezhi from Central Asia.",
+   "options": [
+    "Parthians from Persia",
+    "Yuezhi (Yue-chi) from Central Asia",
+    "Han from China",
+    "Satavahanas from the Deccan"
+   ],
+   "answer": 1
+  },
+  {
+   "id": "m8-t2-q009",
+   "topic": "m8-t2",
+   "difficulty": "easy",
+   "type": "tf",
+   "question": "The Kushanas were originally a settled farming kingdom of the Deccan.",
+   "explanation": "False. They were originally a nomadic clan, the Yuezhi, from Central Asia.",
+   "answer": false
+  },
+  {
+   "id": "m8-t2-q010",
+   "topic": "m8-t2",
+   "difficulty": "medium",
+   "type": "scenario",
+   "question": "A historian describes a nomadic Central Asian clan that rose to prominence after the Mauryan collapse. Which people does the session describe?",
+   "explanation": "The Kushanas were originally the Yuezhi.",
+   "options": [
+    "The Cholas",
+    "The Guptas",
+    "The Harappans",
+    "The Kushanas, originally the Yuezhi"
+   ],
+   "answer": 3
+  },
+  {
+   "id": "m8-t2-q011",
+   "topic": "m8-t2",
+   "difficulty": "hard",
+   "type": "compare",
+   "question": "How does the Kushana state differ in origin from the Mauryan state, according to the session?",
+   "explanation": "The Kushanas came from Central Asia as the Yuezhi.",
+   "options": [
+    "The Kushanas were originally a nomadic Central Asian clan; the Mauryans arose within the subcontinent",
+    "The Kushanas were Greeks; the Mauryans were Romans from the west",
+    "Both states were nomadic clans from the Central Asian steppe",
+    "The Kushanas were Mauryan governors who rebelled in Kalinga"
+   ],
+   "answer": 0
+  },
+  {
+   "id": "m8-t2-q012",
+   "topic": "m8-t2",
+   "difficulty": "hard",
+   "type": "ar",
+   "question": "Assertion (A): The Kushanas rose to prominence after the fragmentation of the Mauryan Empire.\nReason (R): The Kushanas were originally a nomadic clan known as the Yuezhi.",
+   "explanation": "Both statements are true, but the clan's nomadic origin does not explain the timing of its rise.",
+   "options": [
+    "Both A and R are true, and R explains A",
+    "Both A and R are true, but R does not explain A",
+    "A is true but R is false",
+    "A is false but R is true"
+   ],
+   "answer": 1
+  },
+  {
+   "id": "m8-t3-q013",
+   "topic": "m8-t3",
+   "difficulty": "medium",
+   "type": "multi",
+   "question": "Which rulers are named as unifying territories into a vast empire bridging Central Asia and northern India? (Select all that apply)",
+   "explanation": "The session names Kujula Kadphises, Vima Kadphises and, ultimately, Kanishka.",
+   "options": [
+    "Ashoka",
+    "Kanishka",
+    "Kujula Kadphises",
+    "Vima Kadphises",
+    "Bindusara"
+   ],
+   "answer": [
+    1,
+    2,
+    3
+   ]
+  },
+  {
+   "id": "m8-t3-q014",
+   "topic": "m8-t3",
+   "difficulty": "medium",
+   "type": "mcq",
+   "question": "The Kushanas controlled land routes stretching from the Oxus Valley (Bactria) down across the Indus to:",
+   "explanation": "The routes ran down to Mathura and Varanasi.",
+   "options": [
+    "Pataliputra and Tamralipti",
+    "Muziris and Calicut",
+    "Mathura and Varanasi",
+    "Barygaza and Kaveripattinam"
+   ],
+   "answer": 2
+  },
+  {
+   "id": "m8-t3-q015",
+   "topic": "m8-t3",
+   "difficulty": "medium",
+   "type": "mcq",
+   "question": "Which three powers did the Kushana Empire connect as a nexus?",
+   "explanation": "The session calls the empire a nexus connecting Rome, Han China and India.",
+   "options": [
+    "Egypt, Babylon and Persia, the powers of the ancient Near East",
+    "Rome, Japan and Arabia, the powers of the far east and west",
+    "The Roman Empire, Han China and the kingdoms of India",
+    "Greece, Sri Lanka and Java, the island powers of the south"
+   ],
+   "answer": 2
+  },
+  {
+   "id": "m8-t3-q016",
+   "topic": "m8-t3",
+   "difficulty": "easy",
+   "type": "concept",
+   "question": "The Kushana Empire's position at the ultimate global crossroads is called the:",
+   "explanation": "The session calls it the geographic bridge.",
+   "options": [
+    "Geographic bridge",
+    "Toll tax",
+    "Gold standard",
+    "Caravan law"
+   ],
+   "answer": 0
+  },
+  {
+   "id": "m8-t3-q017",
+   "topic": "m8-t3",
+   "difficulty": "medium",
+   "type": "scenario",
+   "question": "A merchant from Rome wants to reach Han China and notes that one empire sits between them, controlling routes from Bactria to Mathura. Which empire is this?",
+   "explanation": "The Kushanas controlled the land routes between Rome, Han China and India.",
+   "options": [
+    "The Mauryan Empire",
+    "The Chola kingdom",
+    "The Gupta Empire",
+    "The Kushana Empire"
+   ],
+   "answer": 3
+  },
+  {
+   "id": "m8-t3-q018",
+   "topic": "m8-t3",
+   "difficulty": "hard",
+   "type": "scenario",
+   "question": "Why was the Kushana Empire well placed to gain from trade, according to the session?",
+   "explanation": "Control of crossroads gave it advantage.",
+   "options": [
+    "It had no neighbours and therefore no need for any trade routes",
+    "It controlled land routes linking Central Asia, India, Rome and Han China",
+    "It avoided all caravans and used only river transport",
+    "It banned the Silk Road so that goods had to pass through it"
+   ],
+   "answer": 1
+  },
+  {
+   "id": "m8-t3-q019",
+   "topic": "m8-t3",
+   "difficulty": "easy",
+   "type": "tf",
+   "question": "The Kushanas' control stopped at the Indus and did not reach Mathura or Varanasi.",
+   "explanation": "False. The Kushanas controlled land routes from the Oxus Valley (Bactria) down across the Indus to Mathura and Varanasi.",
+   "answer": false
+  },
+  {
+   "id": "m8-t3-q020",
+   "topic": "m8-t3",
+   "difficulty": "medium",
+   "type": "not",
+   "question": "Which of these is NOT named among the powers connected by the Kushana nexus?",
+   "explanation": "The Cholas are not named in the nexus.",
+   "options": [
+    "The Roman Empire",
+    "The Chola kingdom",
+    "Han China",
+    "The kingdoms of India"
+   ],
+   "answer": 1
+  },
+  {
+   "id": "m8-t3-q021",
+   "topic": "m8-t3",
+   "difficulty": "hard",
+   "type": "ar",
+   "question": "Assertion (A): The Kushanas positioned themselves at the global crossroads.\nReason (R): They controlled only the sea routes of the Indian Ocean.",
+   "explanation": "A is true. R is false: they controlled land routes from the Oxus Valley down to Mathura and Varanasi.",
+   "options": [
+    "Both A and R are true, and R explains A",
+    "Both A and R are true, but R does not explain A",
+    "A is true but R is false",
+    "A is false but R is true"
+   ],
+   "answer": 2
+  },
+  {
+   "id": "m8-t4-q022",
+   "topic": "m8-t4",
+   "difficulty": "easy",
+   "type": "mcq",
+   "question": "What was Kanishka's primary capital?",
+   "explanation": "His primary capital was Purushapura, today's Peshawar.",
+   "options": [
+    "Mathura",
+    "Taxila",
+    "Pataliputra",
+    "Purushapura (Peshawar)"
+   ],
+   "answer": 3
+  },
+  {
+   "id": "m8-t4-q023",
+   "topic": "m8-t4",
+   "difficulty": "medium",
+   "type": "mcq",
+   "question": "Which city was a crucial secondary centre of Kanishka's empire?",
+   "explanation": "Mathura was the crucial secondary centre.",
+   "options": [
+    "Mathura",
+    "Peshawar",
+    "Barygaza",
+    "Tamralipti"
+   ],
+   "answer": 0
+  },
+  {
+   "id": "m8-t4-q024",
+   "topic": "m8-t4",
+   "difficulty": "medium",
+   "type": "multi",
+   "question": "Which oasis-cities along the Silk Route came under Kanishka's control? (Select all that apply)",
+   "explanation": "The session names Kashgar, Yarkand and Khotan.",
+   "options": [
+    "Alexandria",
+    "Yarkand",
+    "Kashgar",
+    "Antioch",
+    "Khotan"
+   ],
+   "answer": [
+    1,
+    2,
+    4
+   ]
+  },
+  {
+   "id": "m8-t4-q025",
+   "topic": "m8-t4",
+   "difficulty": "medium",
+   "type": "mcq",
+   "question": "Kanishka's empire stretched from Central Asian territories such as Tashkent and parts of Chinese Turkestan deep into:",
+   "explanation": "His borders reached deep into Northern India.",
+   "options": [
+    "Southern India",
+    "Egypt",
+    "Northern India",
+    "Japan"
+   ],
+   "answer": 2
+  },
+  {
+   "id": "m8-t4-q026",
+   "topic": "m8-t4",
+   "difficulty": "medium",
+   "type": "mcq",
+   "question": "What natural features did Kanishka's control over the Silk Route include, besides oasis-cities?",
+   "explanation": "The session names mountain passes over the Pamirs.",
+   "options": [
+    "The Nile delta",
+    "The Red Sea straits",
+    "Mountain passes over the Pamirs",
+    "The Alps"
+   ],
+   "answer": 2
+  },
+  {
+   "id": "m8-t4-q027",
+   "topic": "m8-t4",
+   "difficulty": "hard",
+   "type": "scenario",
+   "question": "A caravan from Han China stops at Kashgar, Yarkand and Khotan before climbing the Pamirs. Whose territory is it crossing?",
+   "explanation": "Kanishka had dominion over these hubs and passes.",
+   "options": [
+    "Kanishka's",
+    "Ashoka's",
+    "Chandragupta's",
+    "Bindusara's"
+   ],
+   "answer": 0
+  },
+  {
+   "id": "m8-t4-q028",
+   "topic": "m8-t4",
+   "difficulty": "hard",
+   "type": "compare",
+   "question": "How do Purushapura and Mathura differ in role, according to the session?",
+   "explanation": "The two cities had primary and secondary roles.",
+   "options": [
+    "Mathura was the primary capital; Purushapura the secondary centre",
+    "Both were Roman ports on the Red Sea coast of Egypt",
+    "Both were oasis-cities on the Silk Route in Chinese Turkestan",
+    "Purushapura was the primary capital; Mathura was a crucial secondary centre"
+   ],
+   "answer": 3
+  },
+  {
+   "id": "m8-t4-q029",
+   "topic": "m8-t4",
+   "difficulty": "hard",
+   "type": "ar",
+   "question": "Assertion (A): Kanishka's dominion excluded the Silk Route's oasis-cities.\nReason (R): His empire included oasis-cities such as Kashgar, Yarkand and Khotan and passes over the Pamirs.",
+   "explanation": "A is false: Kanishka had direct dominion over major Silk Route hubs. R is true.",
+   "options": [
+    "Both A and R are true, and R explains A",
+    "Both A and R are true, but R does not explain A",
+    "A is true but R is false",
+    "A is false but R is true"
+   ],
+   "answer": 3
+  },
+  {
+   "id": "m8-t5-q030",
+   "topic": "m8-t5",
+   "difficulty": "medium",
+   "type": "mcq",
+   "question": "What did the Kushana state do instead of obstructing trade?",
+   "explanation": "It secured routes and charged tolls.",
+   "options": [
+    "Banned luxury goods so that merchants could not use the routes",
+    "Secured caravan routes and levied systematic tolls",
+    "Closed the passes to every caravan crossing the mountains",
+    "Taxed only farmers and never the merchants of the oasis cities"
+   ],
+   "answer": 1
+  },
+  {
+   "id": "m8-t5-q031",
+   "topic": "m8-t5",
+   "difficulty": "medium",
+   "type": "multi",
+   "question": "How did the Kushana state secure caravan routes? (Select all that apply)",
+   "explanation": "It secured routes from raiders and perils with supply stations and fortified posts.",
+   "options": [
+    "Supply stations",
+    "Fortified posts",
+    "Banning caravans",
+    "Protection from nomadic raiders",
+    "Closing the passes"
+   ],
+   "answer": [
+    0,
+    1,
+    3
+   ]
+  },
+  {
+   "id": "m8-t5-q032",
+   "topic": "m8-t5",
+   "difficulty": "easy",
+   "type": "fill",
+   "question": "The Kushana state levied systematic ______ (sulka) and cesses on luxury transit goods.",
+   "explanation": "The session uses the term sulka for tolls.",
+   "accept": [
+    "tolls"
+   ]
+  },
+  {
+   "id": "m8-t5-q033",
+   "topic": "m8-t5",
+   "difficulty": "medium",
+   "type": "scenario",
+   "question": "A caravan carrying luxury goods pays a fee at a fortified post and receives water and rest at a supply station. Which Kushana policy is this?",
+   "explanation": "The state secured routes and levied tolls in return.",
+   "options": [
+    "Closing the routes",
+    "Security in return for tolls",
+    "Price fixing",
+    "Barter"
+   ],
+   "answer": 1
+  },
+  {
+   "id": "m8-t5-q034",
+   "topic": "m8-t5",
+   "difficulty": "hard",
+   "type": "scenario",
+   "question": "Why would merchants accept paying Kushana tolls, according to the session?",
+   "explanation": "Security and supply justified the tolls.",
+   "options": [
+    "Tolls were optional, so merchants could refuse to pay them",
+    "The state blocked all other routes, leaving merchants no choice",
+    "Tolls funded the Roman armies on the western frontier",
+    "In return the state secured caravan routes from raiders and geographical perils"
+   ],
+   "answer": 3
+  },
+  {
+   "id": "m8-t5-q035",
+   "topic": "m8-t5",
+   "difficulty": "medium",
+   "type": "not",
+   "question": "Which of these is NOT part of the Kushana policy described?",
+   "explanation": "The state did not obstruct trade.",
+   "options": [
+    "Obstructing trade along the routes",
+    "Securing routes from raiders",
+    "Setting up supply stations",
+    "Levying tolls"
+   ],
+   "answer": 0
+  },
+  {
+   "id": "m8-t6-q036",
+   "topic": "m8-t6",
+   "difficulty": "medium",
+   "type": "multi",
+   "question": "Which items moved from China through Kushan territories to Indian ports? (Select all that apply)",
+   "explanation": "China sent raw silk, silk yarn and fine silk cloths.",
+   "options": [
+    "Fine silk cloths",
+    "Roman glass",
+    "Silk yarn",
+    "Raw silk",
+    "Bullion"
+   ],
+   "answer": [
+    0,
+    2,
+    3
+   ]
+  },
+  {
+   "id": "m8-t6-q037",
+   "topic": "m8-t6",
+   "difficulty": "medium",
+   "type": "mcq",
+   "question": "Which Indian ports are named as the destinations of the silk?",
+   "explanation": "Silk reached Barygaza and Barbaricum.",
+   "options": [
+    "Calicut and Quilon",
+    "Tamralipti and Muziris",
+    "Barygaza (Broach) and Barbaricum",
+    "Kaveripattinam and Soppara"
+   ],
+   "answer": 2
+  },
+  {
+   "id": "m8-t6-q038",
+   "topic": "m8-t6",
+   "difficulty": "medium",
+   "type": "multi",
+   "question": "What did India add to the flow, according to the session? (Select all that apply)",
+   "explanation": "India contributed spices such as pepper, muslins, cotton textiles and ivory.",
+   "options": [
+    "Ivory",
+    "Fine muslins",
+    "Roman glass",
+    "Malabar pepper ('black gold')",
+    "Fine wines",
+    "Cotton textiles"
+   ],
+   "answer": [
+    0,
+    1,
+    3,
+    5
+   ]
+  },
+  {
+   "id": "m8-t6-q039",
+   "topic": "m8-t6",
+   "difficulty": "medium",
+   "type": "multi",
+   "question": "Which goods came from the West into the empire? (Select all that apply)",
+   "explanation": "Imports included Roman glass, fine wines, realgar, orpiment, antimony and bullion.",
+   "options": [
+    "Realgar",
+    "Muslin",
+    "Roman glass",
+    "Antimony",
+    "Fine wines",
+    "Raw silk"
+   ],
+   "answer": [
+    0,
+    2,
+    3,
+    4
+   ]
+  },
+  {
+   "id": "m8-t6-q040",
+   "topic": "m8-t6",
+   "difficulty": "easy",
+   "type": "fill",
+   "question": "Malabar pepper is called '______ gold' in the session.",
+   "explanation": "The session calls Malabar pepper black gold.",
+   "accept": [
+    "black"
+   ]
+  },
+  {
+   "id": "m8-t6-q041",
+   "topic": "m8-t6",
+   "difficulty": "medium",
+   "type": "mcq",
+   "question": "What came into the empire in massive amounts, in return for eastern goods?",
+   "explanation": "Massive amounts of bullion flowed in.",
+   "options": [
+    "Wool",
+    "Timber",
+    "Bullion",
+    "Salt"
+   ],
+   "answer": 2
+  },
+  {
+   "id": "m8-t6-q042",
+   "topic": "m8-t6",
+   "difficulty": "hard",
+   "type": "scenario",
+   "question": "A trader brings Roman glass and wine east and takes silk and spices west. Which pattern does the session describe?",
+   "explanation": "Goods moved in both directions along Kushan territories.",
+   "options": [
+    "The commodity flow along Kushan routes",
+    "A barter-only exchange",
+    "The Harappan coastal trade",
+    "Gift diplomacy"
+   ],
+   "answer": 0
+  },
+  {
+   "id": "m8-t6-q043",
+   "topic": "m8-t6",
+   "difficulty": "hard",
+   "type": "compare",
+   "question": "How do the goods sent from China differ from those added by India?",
+   "explanation": "The session lists the two sets of goods.",
+   "options": [
+    "China sent spices and ivory; India sent silk yarn and cloth",
+    "Both China and India sent only glass and wine westwards",
+    "India sent bullion to the West; China sent wine to the East",
+    "China sent raw silk, yarn and cloth; India added spices, muslins, cotton and ivory"
+   ],
+   "answer": 3
+  },
+  {
+   "id": "m8-t6-q044",
+   "topic": "m8-t6",
+   "difficulty": "medium",
+   "type": "not",
+   "question": "Which of these is NOT named among the goods from the West?",
+   "explanation": "Malabar pepper is an Indian product.",
+   "options": [
+    "Roman glass",
+    "Malabar pepper",
+    "Fine wines",
+    "Antimony"
+   ],
+   "answer": 1
+  },
+  {
+   "id": "m8-t6-q045",
+   "topic": "m8-t6",
+   "difficulty": "hard",
+   "type": "ar",
+   "question": "Assertion (A): Silk from China passed through Kushan territories to Indian ports.\nReason (R): The Kushanas controlled the routes between China and the Indian ports.",
+   "explanation": "Both are true and the second explains the first.",
+   "options": [
+    "Both A and R are true, and R explains A",
+    "Both A and R are true, but R does not explain A",
+    "A is true but R is false",
+    "A is false but R is true"
+   ],
+   "answer": 0
+  },
+  {
+   "id": "m8-t7-q046",
+   "topic": "m8-t7",
+   "difficulty": "easy",
+   "type": "mcq",
+   "question": "Which form of Buddhism did Kanishka patronise?",
+   "explanation": "Kanishka patronised Mahayana Buddhism.",
+   "options": [
+    "Theravada",
+    "Mahayana",
+    "Jainism",
+    "Zoroastrianism"
+   ],
+   "answer": 1
+  },
+  {
+   "id": "m8-t7-q047",
+   "topic": "m8-t7",
+   "difficulty": "easy",
+   "type": "mcq",
+   "question": "Where did Kanishka host the Fourth Buddhist Council?",
+   "explanation": "The Fourth Buddhist Council was held in Kashmir.",
+   "options": [
+    "Pataliputra",
+    "Taxila",
+    "Peshawar",
+    "Kashmir"
+   ],
+   "answer": 3
+  },
+  {
+   "id": "m8-t7-q048",
+   "topic": "m8-t7",
+   "difficulty": "medium",
+   "type": "multi",
+   "question": "Along trade routes Buddhism spread rapidly into which regions? (Select all that apply)",
+   "explanation": "Buddhism spread to China, Central Asia and Tibet.",
+   "options": [
+    "Tibet",
+    "China",
+    "Egypt",
+    "Central Asia",
+    "Rome"
+   ],
+   "answer": [
+    0,
+    1,
+    3
+   ]
+  },
+  {
+   "id": "m8-t7-q049",
+   "topic": "m8-t7",
+   "difficulty": "medium",
+   "type": "concept",
+   "question": "The school of art that blended Greco-Roman or Hellenistic aesthetics with Indian Buddhist themes is called:",
+   "explanation": "This is the Gandhara School of Art.",
+   "options": [
+    "The Gandhara School of Art",
+    "The Harappan School",
+    "The Mauryan pillar art",
+    "The Chola bronze school"
+   ],
+   "answer": 0
+  },
+  {
+   "id": "m8-t7-q050",
+   "topic": "m8-t7",
+   "difficulty": "easy",
+   "type": "fill",
+   "question": "Kanishka patronised ______ Buddhism.",
+   "explanation": "He patronised Mahayana Buddhism.",
+   "accept": [
+    "Mahayana"
+   ]
+  },
+  {
+   "id": "m8-t7-q051",
+   "topic": "m8-t7",
+   "difficulty": "easy",
+   "type": "tf",
+   "question": "Kanishka hosted the Fourth Buddhist Council in Kashmir.",
+   "explanation": "True. The council was held in Kashmir.",
+   "answer": true
+  },
+  {
+   "id": "m8-t7-q052",
+   "topic": "m8-t7",
+   "difficulty": "hard",
+   "type": "scenario",
+   "question": "A sculptor in the Kushana world carves a Buddha in a style that mixes Greco-Roman drapery with Indian Buddhist themes. Which school is this?",
+   "explanation": "Gandharan art blended Hellenistic and Indian Buddhist elements.",
+   "options": [
+    "Harappan",
+    "Mauryan pillar",
+    "Gandhara",
+    "Chola"
+   ],
+   "answer": 2
+  },
+  {
+   "id": "m8-t7-q053",
+   "topic": "m8-t7",
+   "difficulty": "hard",
+   "type": "compare",
+   "question": "How does the role of trade routes in the spread of Buddhism differ from the role of the Council?",
+   "explanation": "Routes channelled spread; the council was a specific event.",
+   "options": [
+    "Routes held the Council in Kashmir; the Council built the roads",
+    "Both were Roman institutions that arrived with the caravans",
+    "Routes carried the religion across regions; the Council was a gathering in Kashmir hosted by Kanishka",
+    "Neither the routes nor the Council had any link to Buddhism"
+   ],
+   "answer": 2
+  },
+  {
+   "id": "m8-t7-q054",
+   "topic": "m8-t7",
+   "difficulty": "medium",
+   "type": "not",
+   "question": "Which of these is NOT linked to Kushana cultural diffusion in the session?",
+   "explanation": "Jainism's spread to Rome is not mentioned.",
+   "options": [
+    "The spread of Jainism to Rome",
+    "Mahayana Buddhism patronage",
+    "The Fourth Buddhist Council",
+    "The Gandhara School of Art"
+   ],
+   "answer": 0
+  },
+  {
+   "id": "m8-t7-q055",
+   "topic": "m8-t7",
+   "difficulty": "hard",
+   "type": "ar",
+   "question": "Assertion (A): Buddhism spread rapidly from India into China, Central Asia and Tibet.\nReason (R): Trade routes played no role in its spread.",
+   "explanation": "A is true. R is false: trade routes acted as channels that allowed Buddhism to spread rapidly.",
+   "options": [
+    "Both A and R are true, and R explains A",
+    "Both A and R are true, but R does not explain A",
+    "A is true but R is false",
+    "A is false but R is true"
+   ],
+   "answer": 2
+  },
+  {
+   "id": "m8-t7-q056",
+   "topic": "m8-t7",
+   "difficulty": "medium",
+   "type": "mcq",
+   "question": "The trade integration facilitated, besides the movement of goods:",
+   "explanation": "The session says it facilitated a massive exchange of culture.",
+   "options": [
+    "A halt in religion",
+    "Isolation of regions",
+    "Closure of the passes",
+    "A massive exchange of culture"
+   ],
+   "answer": 3
+  },
+  {
+   "id": "m8-t8-q057",
+   "topic": "m8-t8",
+   "difficulty": "easy",
+   "type": "mcq",
+   "question": "Which metal did Kujula Kadphises mainly use for his coins?",
+   "explanation": "Kujula Kadphises minted primarily copper coins.",
+   "options": [
+    "Gold",
+    "Copper",
+    "Silver",
+    "Iron"
+   ],
+   "answer": 1
+  },
+  {
+   "id": "m8-t8-q058",
+   "topic": "m8-t8",
+   "difficulty": "medium",
+   "type": "mcq",
+   "question": "Kujula Kadphises' coins were influenced by:",
+   "explanation": "They were influenced by Hellenistic designs.",
+   "options": [
+    "Mauryan symbols",
+    "Hellenistic designs",
+    "Chinese designs",
+    "Roman aurei"
+   ],
+   "answer": 1
+  },
+  {
+   "id": "m8-t8-q059",
+   "topic": "m8-t8",
+   "difficulty": "medium",
+   "type": "mcq",
+   "question": "Who introduced an extensive gold coinage system, transforming the economy?",
+   "explanation": "Vima Kadphises and Kanishka introduced gold coinage.",
+   "options": [
+    "Kujula Kadphises alone",
+    "Bindusara and Ashoka",
+    "Seleucus and Antiochus",
+    "Vima Kadphises and Kanishka"
+   ],
+   "answer": 3
+  },
+  {
+   "id": "m8-t8-q060",
+   "topic": "m8-t8",
+   "difficulty": "easy",
+   "type": "fill",
+   "question": "Kujula Kadphises minted primarily ______ coins.",
+   "explanation": "His coins were primarily copper.",
+   "accept": [
+    "copper"
+   ]
+  },
+  {
+   "id": "m8-t8-q061",
+   "topic": "m8-t8",
+   "difficulty": "hard",
+   "type": "match",
+   "question": "Match each Kushana ruler with his coinage, according to the session.",
+   "explanation": "The session traces coinage from copper to gold.",
+   "pairs": [
+    [
+     "Kujula Kadphises",
+     "Primarily copper coins with Hellenistic designs"
+    ],
+    [
+     "Vima Kadphises",
+     "Introduced gold coinage"
+    ],
+    [
+     "Kanishka",
+     "Extensive gold coinage system"
+    ]
+   ]
+  },
+  {
+   "id": "m8-t8-q062",
+   "topic": "m8-t8",
+   "difficulty": "easy",
+   "type": "tf",
+   "question": "The first Kushana ruler named, Kujula Kadphises, minted primarily gold coins.",
+   "explanation": "False. He minted primarily copper coins; gold coinage came with Vima Kadphises and Kanishka.",
+   "answer": false
+  },
+  {
+   "id": "m8-t8-q063",
+   "topic": "m8-t8",
+   "difficulty": "medium",
+   "type": "mcq",
+   "question": "In the session's sequence, which comes first?",
+   "explanation": "The sequence runs copper, then gold, then an extensive gold system.",
+   "options": [
+    "Copper coinage under Kujula Kadphises",
+    "Gold coinage under Vima Kadphises",
+    "Extensive gold coinage under Kanishka",
+    "The Fourth Buddhist Council"
+   ],
+   "answer": 0
+  },
+  {
+   "id": "m8-t8-q064",
+   "topic": "m8-t8",
+   "difficulty": "hard",
+   "type": "compare",
+   "question": "How does the coinage of Vima Kadphises differ from that of Kujula Kadphises?",
+   "explanation": "Gold coinage began with Vima.",
+   "options": [
+    "Vima minted copper coins; Kujula introduced gold coinage",
+    "Both rulers minted only silver coins with Roman designs",
+    "Vima introduced gold coinage; Kujula minted mainly copper",
+    "Both rulers minted Roman aurei under Roman supervision"
+   ],
+   "answer": 2
+  },
+  {
+   "id": "m8-t8-q065",
+   "topic": "m8-t8",
+   "difficulty": "medium",
+   "type": "not",
+   "question": "Which of these is NOT stated about Kushana coinage?",
+   "explanation": "Gold coinage was introduced by Vima Kadphises.",
+   "options": [
+    "Kujula used copper",
+    "Vima introduced gold",
+    "Kujula Kadphises introduced gold coinage",
+    "Kanishka had an extensive gold system"
+   ],
+   "answer": 2
+  },
+  {
+   "id": "m8-t8-q066",
+   "topic": "m8-t8",
+   "difficulty": "hard",
+   "type": "scenario",
+   "question": "A coin hoard shows early copper pieces with Greek-style designs, then gold coins in great number. What sequence does this match in the session?",
+   "explanation": "The coinage evolved from copper to gold.",
+   "options": [
+    "Copper under Kujula, then gold under Vima and Kanishka",
+    "Gold first under Kanishka, then copper under Kujula and Vima",
+    "Silver coins only, with no copper or gold pieces at all",
+    "Only Roman coins, brought east by caravans of Roman merchants"
+   ],
+   "answer": 0
+  },
+  {
+   "id": "m8-t8-q067",
+   "topic": "m8-t8",
+   "difficulty": "hard",
+   "type": "ar",
+   "question": "Assertion (A): Gold coinage weakened trade and stability in the Kushana Empire.\nReason (R): Vima Kadphises and Kanishka introduced an extensive gold coinage system.",
+   "explanation": "A is false: gold coinage strengthened trade, wealth and stability. R is true.",
+   "options": [
+    "Both A and R are true, and R explains A",
+    "Both A and R are true, but R does not explain A",
+    "A is true but R is false",
+    "A is false but R is true"
+   ],
+   "answer": 3
+  },
+  {
+   "id": "m8-t9-q068",
+   "topic": "m8-t9",
+   "difficulty": "medium",
+   "type": "mcq",
+   "question": "What does the profusion of high-purity gold coins under Kanishka prove, according to the session?",
+   "explanation": "It is material proof of a wealthy economy and favourable trade balance.",
+   "options": [
+    "A food shortage that forced the empire to import grain",
+    "A war debt that had to be paid in gold coins",
+    "A closed economy that traded with no other empire",
+    "A very wealthy economy with a favourable balance of trade"
+   ],
+   "answer": 3
+  },
+  {
+   "id": "m8-t9-q069",
+   "topic": "m8-t9",
+   "difficulty": "medium",
+   "type": "multi",
+   "question": "How did the empire accumulate gold reserves? (Select all that apply)",
+   "explanation": "Reserves came from tolls and from exchanging in-demand eastern goods for Roman bullion.",
+   "options": [
+    "Exchanging eastern commodities for Roman gold bullion",
+    "Mining all of its gold",
+    "Tribute from Egypt",
+    "Trade tolls from the Silk Route"
+   ],
+   "answer": [
+    0,
+    3
+   ]
+  },
+  {
+   "id": "m8-t9-q070",
+   "topic": "m8-t9",
+   "difficulty": "medium",
+   "type": "mcq",
+   "question": "What flowed into the empire in exchange for high-demand eastern commodities?",
+   "explanation": "Roman gold bullion flowed in.",
+   "options": [
+    "Chinese silk",
+    "Roman gold bullion",
+    "Indian spices",
+    "Persian horses"
+   ],
+   "answer": 1
+  },
+  {
+   "id": "m8-t9-q071",
+   "topic": "m8-t9",
+   "difficulty": "easy",
+   "type": "fill",
+   "question": "A favourable ______ of trade is shown by the profusion of gold coins.",
+   "explanation": "The session speaks of a favourable balance of trade.",
+   "accept": [
+    "balance"
+   ]
+  },
+  {
+   "id": "m8-t9-q072",
+   "topic": "m8-t9",
+   "difficulty": "medium",
+   "type": "mcq",
+   "question": "Which of these are named as high-demand eastern commodities?",
+   "explanation": "The slide lists spices, silk, textiles and ivory.",
+   "options": [
+    "Wine, glass and olive oil",
+    "Spices, silk, textiles and ivory",
+    "Horses and gold",
+    "Timber and salt"
+   ],
+   "answer": 1
+  },
+  {
+   "id": "m8-t9-q073",
+   "topic": "m8-t9",
+   "difficulty": "hard",
+   "type": "scenario",
+   "question": "A treasury fills with gold because merchants sell many eastern goods to Rome and pay tolls on the way. Which concept from the session is this?",
+   "explanation": "More goods sold than bought brought in gold.",
+   "options": [
+    "Barter",
+    "Hoarding",
+    "Gift diplomacy",
+    "A favourable balance of trade"
+   ],
+   "answer": 3
+  },
+  {
+   "id": "m8-t9-q074",
+   "topic": "m8-t9",
+   "difficulty": "hard",
+   "type": "compare",
+   "question": "How do trade tolls differ from the exchange of eastern goods for Roman bullion as sources of gold?",
+   "explanation": "The two are separate sources of gold reserves.",
+   "options": [
+    "Tolls were charges on transit trade; exchange brought bullion in return for goods",
+    "Both were gifts from the Roman emperor to the Kushana kings",
+    "Tolls were taxes on farms; exchange of goods was tribute",
+    "They are the same source under two different names"
+   ],
+   "answer": 0
+  },
+  {
+   "id": "m8-t9-q075",
+   "topic": "m8-t9",
+   "difficulty": "hard",
+   "type": "ar",
+   "question": "Assertion (A): High-purity gold coins under Kanishka are material proof of a wealthy economy.\nReason (R): Kushan dinaras matched Roman standards of weight and purity.",
+   "explanation": "Both are true, but matching Roman standards is a separate point about monetary stability, not the reason the coins prove wealth.",
+   "options": [
+    "Both A and R are true, and R explains A",
+    "Both A and R are true, but R does not explain A",
+    "A is true but R is false",
+    "A is false but R is true"
+   ],
+   "answer": 1
+  },
+  {
+   "id": "m8-t10-q076",
+   "topic": "m8-t10",
+   "difficulty": "medium",
+   "type": "mcq",
+   "question": "Kushan gold coins (dinaras) were struck to match, or run closely parallel to, which standards?",
+   "explanation": "They followed Roman imperial standards.",
+   "options": [
+    "Chinese silk standards",
+    "Persian silver standards",
+    "Roman imperial weight and purity standards",
+    "Greek bronze standards"
+   ],
+   "answer": 2
+  },
+  {
+   "id": "m8-t10-q077",
+   "topic": "m8-t10",
+   "difficulty": "medium",
+   "type": "mcq",
+   "question": "What did this standardization provide across Eurasia?",
+   "explanation": "It provided monetary stability across Eurasia.",
+   "options": [
+    "Isolation",
+    "Barter",
+    "Exceptional monetary stability",
+    "Higher tolls"
+   ],
+   "answer": 2
+  },
+  {
+   "id": "m8-t10-q078",
+   "topic": "m8-t10",
+   "difficulty": "medium",
+   "type": "multi",
+   "question": "What effects did merchants' confidence in Kushan currency have? (Select all that apply)",
+   "explanation": "Confidence reduced risks and supported cross-border credit.",
+   "options": [
+    "Closed the routes",
+    "Facilitated cross-border long-distance credit",
+    "Reduced transaction risks",
+    "Banned Roman coins"
+   ],
+   "answer": [
+    1,
+    2
+   ]
+  },
+  {
+   "id": "m8-t10-q079",
+   "topic": "m8-t10",
+   "difficulty": "easy",
+   "type": "fill",
+   "question": "The Kushan gold coin is called the ______.",
+   "explanation": "The session names the Kushan dinara beside the Roman aureus.",
+   "accept": [
+    "dinara",
+    "dinar",
+    "dinaras"
+   ]
+  },
+  {
+   "id": "m8-t10-q080",
+   "topic": "m8-t10",
+   "difficulty": "medium",
+   "type": "mcq",
+   "question": "The Kushan dinara is paired with which Roman coin?",
+   "explanation": "The session pairs Kushan Dinara and Roman Aureus.",
+   "options": [
+    "The aureus",
+    "The denarius",
+    "The sestertius",
+    "The solidus"
+   ],
+   "answer": 0
+  },
+  {
+   "id": "m8-t10-q081",
+   "topic": "m8-t10",
+   "difficulty": "hard",
+   "type": "scenario",
+   "question": "A Roman merchant and a Chinese merchant both accept Kushan gold dinaras without fear of cheating. Which feature from the session explains this?",
+   "explanation": "Matching standards gave trust.",
+   "options": [
+    "Kushan coins were free of any value, so nobody feared cheating",
+    "Kushan coins were made of copper and traded by weight",
+    "Kushan coins were banned in all the empires except Rome",
+    "Kushan coins matched Roman weight and purity, so merchants trusted them"
+   ],
+   "answer": 3
+  },
+  {
+   "id": "m8-t10-q082",
+   "topic": "m8-t10",
+   "difficulty": "hard",
+   "type": "compare",
+   "question": "How does a Kushan dinara compare with a Roman aureus in the session?",
+   "explanation": "The coins ran parallel in standards.",
+   "options": [
+    "The dinara was far heavier than the aureus in every case",
+    "They matched or closely paralleled in weight and purity",
+    "The aureus was made of copper while the dinara was gold",
+    "They were unrelated coins with no common standard at all"
+   ],
+   "answer": 1
+  },
+  {
+   "id": "m8-t10-q083",
+   "topic": "m8-t10",
+   "difficulty": "medium",
+   "type": "not",
+   "question": "Which of these is NOT a result of Kushan monetary standardization in the session?",
+   "explanation": "Standardization reduced transaction risks.",
+   "options": [
+    "Monetary stability across Eurasia",
+    "Higher transaction risks for merchants",
+    "Reduced transaction risks",
+    "Cross-border credit"
+   ],
+   "answer": 1
+  },
+  {
+   "id": "m8-t10-q084",
+   "topic": "m8-t10",
+   "difficulty": "hard",
+   "type": "ar",
+   "question": "Assertion (A): Kushan currency was confidently accepted by merchants from different empires.\nReason (R): It matched Roman gold standards in weight and purity.",
+   "explanation": "Both are true and the second explains the first.",
+   "options": [
+    "Both A and R are true, and R explains A",
+    "Both A and R are true, but R does not explain A",
+    "A is true but R is false",
+    "A is false but R is true"
+   ],
+   "answer": 0
+  },
+  {
+   "id": "m8-t11-q085",
+   "topic": "m8-t11",
+   "difficulty": "medium",
+   "type": "mcq",
+   "question": "Monetary stability was reinforced by powerful trade and craft guilds called:",
+   "explanation": "The guilds were called Shrenis or Negamas.",
+   "options": [
+    "Mahajanapadas",
+    "Adhyakshas",
+    "Kumaras",
+    "Shrenis or Negamas"
+   ],
+   "answer": 3
+  },
+  {
+   "id": "m8-t11-q086",
+   "topic": "m8-t11",
+   "difficulty": "easy",
+   "type": "mcq",
+   "question": "The session says these guilds acted as:",
+   "explanation": "These corporate bodies acted as ancient banks.",
+   "options": [
+    "Ancient banks",
+    "Royal armies",
+    "Temple priests",
+    "Caravan escorts"
+   ],
+   "answer": 0
+  },
+  {
+   "id": "m8-t11-q087",
+   "topic": "m8-t11",
+   "difficulty": "medium",
+   "type": "multi",
+   "question": "Which guilds are named as receiving endowments? (Select all that apply)",
+   "explanation": "The examples are weavers, potters and oil-millers.",
+   "options": [
+    "Potters",
+    "Sailors",
+    "Oil-millers",
+    "Weavers",
+    "Priests"
+   ],
+   "answer": [
+    0,
+    2,
+    3
+   ]
+  },
+  {
+   "id": "m8-t11-q088",
+   "topic": "m8-t11",
+   "difficulty": "medium",
+   "type": "mcq",
+   "question": "Who deposited permanent endowments with the guilds?",
+   "explanation": "State and royal bodies deposited endowments.",
+   "options": [
+    "Only sailors",
+    "Only foreigners",
+    "State authorities and royal entities",
+    "Only priests"
+   ],
+   "answer": 2
+  },
+  {
+   "id": "m8-t11-q089",
+   "topic": "m8-t11",
+   "difficulty": "medium",
+   "type": "mcq",
+   "question": "What did the guilds pay out of the endowments?",
+   "explanation": "They paid fixed monthly interest.",
+   "options": [
+    "A yearly tax",
+    "A lump sum tribute",
+    "A fixed monthly interest",
+    "A tithe in grain"
+   ],
+   "answer": 2
+  },
+  {
+   "id": "m8-t11-q090",
+   "topic": "m8-t11",
+   "difficulty": "medium",
+   "type": "mcq",
+   "question": "What was the fixed monthly interest used to fund?",
+   "explanation": "It funded public works and religious activities.",
+   "options": [
+    "Public works and religious activities",
+    "The army that guarded the frontier of the empire",
+    "Foreign tribute paid to the Roman and Han emperors",
+    "Royal feasts held at the capital of the empire"
+   ],
+   "answer": 0
+  },
+  {
+   "id": "m8-t11-q091",
+   "topic": "m8-t11",
+   "difficulty": "hard",
+   "type": "match",
+   "question": "Match each step in the endowment flow with what happens.",
+   "explanation": "This is the flow on the session's slide.",
+   "pairs": [
+    [
+     "Deposit endowments",
+     "State and royal authorities place permanent funds with guilds"
+    ],
+    [
+     "Guilds (Shrenis/Negamas)",
+     "Hold the funds as ancient banks"
+    ],
+    [
+     "Fixed monthly interest",
+     "Paid out of the endowment"
+    ],
+    [
+     "Public works and religious activities",
+     "Funded by the interest"
+    ]
+   ]
+  },
+  {
+   "id": "m8-t11-q092",
+   "topic": "m8-t11",
+   "difficulty": "hard",
+   "type": "scenario",
+   "question": "A king deposits a permanent sum with a weavers' guild and the monthly interest pays for a temple's rituals. Which mechanism is this?",
+   "explanation": "Endowment, interest and public or religious funding match the slide.",
+   "options": [
+    "Gift diplomacy",
+    "Barter",
+    "Customs duties",
+    "The guild-banking endowment system"
+   ],
+   "answer": 3
+  },
+  {
+   "id": "m8-t11-q093",
+   "topic": "m8-t11",
+   "difficulty": "easy",
+   "type": "tf",
+   "question": "The session describes the endowment system as built on trust, discipline and collective prosperity.",
+   "explanation": "True. This is the slide's closing description.",
+   "answer": true
+  },
+  {
+   "id": "m8-t11-q094",
+   "topic": "m8-t11",
+   "difficulty": "hard",
+   "type": "ar",
+   "question": "Assertion (A): State and royal bodies deposited permanent endowments with guilds.\nReason (R): The guilds were called Shrenis or Negamas.",
+   "explanation": "Both are true, but the guilds' names do not explain why endowments were deposited with them.",
+   "options": [
+    "Both A and R are true, and R explains A",
+    "Both A and R are true, but R does not explain A",
+    "A is true but R is false",
+    "A is false but R is true"
+   ],
+   "answer": 1
+  },
+  {
+   "id": "m8-t12-q095",
+   "topic": "m8-t12",
+   "difficulty": "medium",
+   "type": "mcq",
+   "question": "The session describes the Kushana Empire as the 'toll gate' of:",
+   "explanation": "It was the toll gate of Eurasia.",
+   "options": [
+    "Africa",
+    "Eurasia",
+    "The Pacific",
+    "The Atlantic"
+   ],
+   "answer": 1
+  },
+  {
+   "id": "m8-t12-q096",
+   "topic": "m8-t12",
+   "difficulty": "medium",
+   "type": "mcq",
+   "question": "Which route is traced from Han China through Khotan, Yarkand and Kashgar to Bactria?",
+   "explanation": "This is the overland Silk Route.",
+   "options": [
+    "The Periplus sea route",
+    "The main overland Silk Route",
+    "The Harappan coastal route",
+    "The Dakshinapatha"
+   ],
+   "answer": 1
+  },
+  {
+   "id": "m8-t12-q097",
+   "topic": "m8-t12",
+   "difficulty": "medium",
+   "type": "mcq",
+   "question": "Which ports are at the ends of the southern branches, according to the mapping activity?",
+   "explanation": "The branches ran to Barbaricum and Barygaza.",
+   "options": [
+    "Muziris and Calicut on the Malabar coast of southern India",
+    "Tamralipti and Kalliena on the eastern and western coasts",
+    "Muscat and Aden on the Arabian shore of the sea",
+    "Barbaricum (mouth of the Indus) and Barygaza (Gujarat)"
+   ],
+   "answer": 3
+  },
+  {
+   "id": "m8-t12-q098",
+   "topic": "m8-t12",
+   "difficulty": "hard",
+   "type": "mcq",
+   "question": "Which sequence matches the wealth chain in the session?",
+   "explanation": "The chain moves from location to prosperity.",
+   "options": [
+    "Strategic location, control of trade routes, collection of tolls, favourable trade balance, gold reserves, prosperity",
+    "Tolls, location, prosperity, gold reserves, trade balance, control",
+    "Prosperity, gold reserves, tolls, control, location, trade balance",
+    "Gold reserves, prosperity, location, tolls, control, trade balance"
+   ],
+   "answer": 0
+  },
+  {
+   "id": "m8-t12-q099",
+   "topic": "m8-t12",
+   "difficulty": "easy",
+   "type": "tf",
+   "question": "The Kushanas' geography generated wealth because they sat across both overland and maritime networks.",
+   "explanation": "True. This is the toll-gate argument.",
+   "answer": true
+  },
+  {
+   "id": "m8-t12-q100",
+   "topic": "m8-t12",
+   "difficulty": "easy",
+   "type": "fill",
+   "question": "The southern branches ran down the ______ River to Barbaricum.",
+   "explanation": "They ran parallel to the Indus toward the coast.",
+   "accept": [
+    "Indus"
+   ]
+  },
+  {
+   "id": "m8-t12-q101",
+   "topic": "m8-t12",
+   "difficulty": "hard",
+   "type": "scenario",
+   "question": "A student claims the Kushanas became rich only by conquest. Which argument from the session answers this?",
+   "explanation": "The session credits location, tolls and trade balance.",
+   "options": [
+    "They produced all the silk that was traded to the Roman West",
+    "They owned all the gold mines that supplied the Roman mint",
+    "Their geography as a toll gate across land and sea networks generated wealth",
+    "They invented the Silk Road and kept it a secret from Rome"
+   ],
+   "answer": 2
+  },
+  {
+   "id": "m8-t12-q102",
+   "topic": "m8-t12",
+   "difficulty": "hard",
+   "type": "compare",
+   "question": "How does the overland route differ from the southern maritime branches?",
+   "explanation": "The two parts were joined into one system.",
+   "options": [
+    "The overland route ran by sea; the branches ran by land",
+    "Both ran only to Rome and nowhere else in the world",
+    "The overland route ran from Han China to Bactria; the branches went down the Indus to the sea",
+    "Both ran entirely inside China, from Chang'an to Kashgar"
+   ],
+   "answer": 2
+  },
+  {
+   "id": "m8-t12-q103",
+   "topic": "m8-t12",
+   "difficulty": "hard",
+   "type": "ar",
+   "question": "Assertion (A): The Kushana Empire sat like a toll gate across Eurasian networks.\nReason (R): It had no links to maritime ports and controlled only one overland trail.",
+   "explanation": "A is true. R is false: the empire combined overland routes with southern branches to ports such as Barbaricum and Barygaza.",
+   "options": [
+    "Both A and R are true, and R explains A",
+    "Both A and R are true, but R does not explain A",
+    "A is true but R is false",
+    "A is false but R is true"
+   ],
+   "answer": 2
+  },
+  {
+   "id": "m8-t12-q104",
+   "topic": "m8-t12",
+   "difficulty": "medium",
+   "type": "mcq",
+   "question": "Which four significances does the final reflection give for the Silk Route?",
+   "explanation": "These are the four significances.",
+   "options": [
+    "Beyond infrastructure and profit; monetary and technological trust; culture and art; philosophies",
+    "War, famine, plague and drought that struck the Silk Route",
+    "Only taxes and tolls collected by the Kushana state",
+    "Only gold, silver and bullion carried by the caravans"
+   ],
+   "answer": 0
+  },
+  {
+   "id": "m8-t12-q105",
+   "topic": "m8-t12",
+   "difficulty": "medium",
+   "type": "mcq",
+   "question": "Complete the closing line: 'The Silk Route did not just connect cities;'",
+   "explanation": "The closing line says it connected humanity.",
+   "options": [
+    "it ended trade",
+    "it created kings",
+    "it taxed pilgrims",
+    "it connected humanity"
+   ],
+   "answer": 3
+  },
+  {
+   "id": "m8-t12-q106",
+   "topic": "m8-t12",
+   "difficulty": "medium",
+   "type": "not",
+   "question": "Which of these is NOT among the Silk Route's significances in the final reflection?",
+   "explanation": "The four significances are: beyond infrastructure and profit, monetary and technological trust, transmitting culture and art, and a channel for philosophies.",
+   "options": [
+    "Culture and art",
+    "A permanent military alliance",
+    "Monetary and technological trust",
+    "A channel for philosophies"
+   ],
+   "answer": 1
+  },
+  {
+   "id": "m8-t12-q107",
+   "topic": "m8-t12",
+   "difficulty": "medium",
+   "type": "mcq",
+   "question": "According to the lesson wrap-up, how did the Kushana state integrate the economy systematically?",
+   "explanation": "The wrap-up says the state stabilised trade by enforcing unified market laws, providing safety to merchant caravans and collecting organised tolls (sulka).",
+   "options": [
+    "By closing the passes to foreign caravans and taxing only locals",
+    "By enforcing unified market laws, giving caravans safety and collecting organised tolls",
+    "By replacing all coins with barter in the oasis cities",
+    "By banning merchants from the cities of the Silk Route"
+   ],
+   "answer": 1
+  },
+  {
+   "id": "m8-t12-q108",
+   "topic": "m8-t12",
+   "difficulty": "hard",
+   "type": "mcq",
+   "question": "What did control of critical entry passes and the route to Barygaza allow the Kushanas to do?",
+   "explanation": "The wrap-up says they fused overland Silk Road corridors with the Indian Ocean maritime networks.",
+   "options": [
+    "Close the Silk Road to Rome and keep its goods inside the empire",
+    "Move the capital from Peshawar to the coast of Gujarat",
+    "Replace gold coins with copper to lower the cost of trade",
+    "Fuse land-based Silk Road corridors with maritime Indian Ocean networks"
+   ],
+   "answer": 3
+  },
+  {
+   "id": "m8-t9-q109",
+   "topic": "m8-t9",
+   "difficulty": "medium",
+   "type": "mcq",
+   "question": "According to the wealth chain, what were the massive gold reserves used for?",
+   "explanation": "The slide says the reserves were used to mint high-purity gold coins, supporting monetary stability and empire strength.",
+   "options": [
+    "Minting high-purity gold coins",
+    "Buying Chinese silk only",
+    "Paying the Roman army",
+    "Building the Silk Road"
+   ],
+   "answer": 0
+  },
+  {
+   "id": "m8-t8-q110",
+   "topic": "m8-t8",
+   "difficulty": "medium",
+   "type": "mcq",
+   "question": "What did Kanishka's extensive gold coinage system bring, according to the session?",
+   "explanation": "The slide links the extensive gold coinage system to economic prosperity, monetary stability and global trade.",
+   "options": [
+    "Isolation and decline for the empire's northern provinces",
+    "Barter and local markets in place of long-distance trade",
+    "Economic prosperity, monetary stability and global trade",
+    "A return to copper coins and to Hellenistic designs"
+   ],
+   "answer": 2
+  }
+ ],
+ "cards": [
+  {
+   "id": "m8-c001",
+   "topic": "m8-t3",
+   "front": "The Kushana nexus",
+   "back": "Connected the Roman Empire, Han China and the kingdoms of India, with routes from the Oxus Valley (Bactria) to Mathura and Varanasi."
+  },
+  {
+   "id": "m8-c002",
+   "topic": "m8-t8",
+   "front": "Kushana coinage sequence",
+   "back": "Kujula Kadphises: mainly copper with Hellenistic designs. Vima Kadphises: introduced gold coinage. Kanishka: extensive gold coinage system."
+  },
+  {
+   "id": "m8-c003",
+   "topic": "m8-t9",
+   "front": "Wealth chain",
+   "back": "Strategic location, control of trade routes, collection of tolls, favourable trade balance, massive gold reserves, economic prosperity."
+  },
+  {
+   "id": "m8-c004",
+   "topic": "m8-t11",
+   "front": "Guild banking endowments",
+   "back": "State and royal authorities deposit endowments with guilds (Shrenis/Negamas); fixed monthly interest funds public works and religious activities."
+  },
+  {
+   "id": "m8-c005",
+   "topic": "m8-t10",
+   "front": "Monetary stability",
+   "back": "Kushan dinaras matched Roman aureus weight and purity, reducing transaction risks and easing cross-border credit."
+  }
+ ]
+}
